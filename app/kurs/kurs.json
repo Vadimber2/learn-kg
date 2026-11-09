@@ -1,0 +1,491 @@
+{
+ "updated": "2026-10-30",
+ "labels": {
+  "ru": {
+   "teaches": "Кыргызский язык",
+   "programTitle": "Программа курса",
+   "colModule": "Модуль",
+   "colTopic": "Тема",
+   "colPhrases": "Фраз",
+   "chipExam": "экзаменационная неделя",
+   "chipRev": "повторение",
+   "totalsTpl": "{m} модулей · {p} фраз, каждая с озвучкой носителя · мини-тест в конце каждого модуля",
+   "afterTitle": "Что вы сможете после курса",
+   "faqTitle": "Частые вопросы",
+   "ctaDemo": "Попробовать демо",
+   "ctaWa": "Написать Алтынай",
+   "ctaLogin": "Войти в тренажёр",
+   "ctaNote": "Доступ открывает преподаватель — обычно в тот же день."
+  },
+  "en": {
+   "teaches": "Kyrgyz language",
+   "programTitle": "Course programme",
+   "colModule": "Module",
+   "colTopic": "Topic",
+   "colPhrases": "Phrases",
+   "chipExam": "exam week",
+   "chipRev": "revision",
+   "totalsTpl": "{m} modules · {p} phrases, each with native-speaker audio · a mini-test after every module",
+   "afterTitle": "What you will be able to do",
+   "faqTitle": "Frequently asked questions",
+   "ctaDemo": "Try the demo",
+   "ctaWa": "Message Altynai",
+   "ctaLogin": "Enter the trainer",
+   "ctaNote": "The teacher opens access — usually the same day."
+  },
+  "tr": {
+   "teaches": "Kırgız dili",
+   "programTitle": "Kurs programı",
+   "colModule": "Modül",
+   "colTopic": "Konu",
+   "colPhrases": "İfade",
+   "chipExam": "sınav haftası",
+   "chipRev": "tekrar",
+   "totalsTpl": "{m} modül · {p} ifade, her biri ana dili konuşurunun sesiyle · her modülün sonunda mini test",
+   "afterTitle": "Kurs sonunda neler yapabileceksiniz",
+   "faqTitle": "Sık sorulan sorular",
+   "ctaDemo": "Demoyu deneyin",
+   "ctaWa": "Altınay'a yazın",
+   "ctaLogin": "Sisteme girin",
+   "ctaNote": "Erişimi öğretmen açar — genellikle aynı gün."
+  }
+ },
+ "courses": {
+  "a1": {
+   "ui": {
+    "ru": {
+     "title": "Курс кыргызского языка A1 — с нуля, с озвучкой",
+     "desc": "Курс кыргызского языка уровня A1 с нуля: 12 модулей, 1073 фразы с озвучкой носителя, алфавит и фонетика, интервальные повторения и мини-тесты. Демо открыто.",
+     "h1": "Курс кыргызского языка A1",
+     "lead": "С нуля до первых уверенных диалогов: алфавит, фонетика и 1073 живые фразы — каждая с озвучкой носителя. 15–20 минут в день, интервальные повторения и мини-тест в конце каждого модуля. В конце курса — экзаменационная неделя: итоговая проверка курса по всем навыкам, включая письмо и устную речь. Пробный тест learn.kg уровня A1 можно пройти и сейчас: learn.kg/probny-test-a1/ru.",
+     "wa": "Саламатсызбы! Хочу учить кыргызский на learn.kg (курс A1).",
+     "after": [
+      "представиться, рассказать о себе, семье и работе",
+      "спросить дорогу, сделать покупки, заказать в кафе",
+      "назвать время, даты, числа и цены",
+      "объясниться в транспорте, больнице и службах",
+      "понимать медленную, чёткую речь на бытовые темы"
+     ],
+     "faq": [
+      {
+       "q": "Я никогда не учил кыргызский. Подойдёт ли курс?",
+       "a": "Да, курс начинается с алфавита и постановки звуков ң, ө, ү. Кыргызский вводится постепенно, готовыми фразами; объяснения — на русском, английском или турецком."
+      },
+      {
+       "q": "Сколько времени занимает уровень A1?",
+       "a": "При 15–20 минутах в день — несколько месяцев: тренажёр сам ведёт по плану повторений, темп вы выбираете сами. Регулярность важнее длительности занятий."
+      },
+      {
+       "q": "Как понять, что мне нужен именно A1?",
+       "a": "Пройдите бесплатный тест уровня из 15 вопросов на learn.kg — он покажет стартовую точку. Если сомневаетесь, Алтынай подскажет по результатам теста."
+      },
+      {
+       "q": "Как устроено государственное тестирование на A1 и где потренироваться?",
+       "a": "Формат, уровни и запись на тестирование — на официальном сайте: kyrgyztest.gov.kg. Потренироваться на материале курса можно в пробном тесте learn.kg: learn.kg/probny-test-a1/ru — 20 заданий за 15 минут. Задания составлены learn.kg по материалам курса и не связаны с заданиями официального тестирования."
+      },
+      {
+       "q": "Нужен ли A1 для вида на жительство в Кыргызстане?",
+       "a": "С августа 2025 года закон требует владения кыргызским для ВНЖ и статуса иммигранта, русский больше не принимается; Нацкомиссия по госязыку называет уровень A1. Курс A1 заканчивается экзаменационной неделей — итоговой проверкой курса. Подробный разбор закона: learn.kg/blog/kyrgyzskiy-dlya-vnzh/ru."
+      },
+      {
+       "q": "Как открыть доступ к курсу?",
+       "a": "Напишите Алтынай в WhatsApp — она заведёт вам логин и пароль, обычно в тот же день. Регистрации на сайте нет."
+      }
+     ]
+    },
+    "en": {
+     "title": "Kyrgyz Course A1 — from Scratch, with Audio",
+     "desc": "Kyrgyz course at level A1 from scratch: 12 modules, 1073 phrases with native audio, alphabet and phonetics, spaced repetition and mini-tests. Demo is open.",
+     "h1": "Kyrgyz language course A1",
+     "lead": "From zero to your first confident dialogues: the alphabet, phonetics and 1073 everyday phrases — each with native-speaker audio. 15–20 minutes a day, spaced repetition and a mini-test after every module. The course ends with an exam week: a final course check of every skill, including writing and speaking. You can take the learn.kg A1 practice test right now: learn.kg/probny-test-a1/en.",
+     "wa": "Hello! I'd like to learn Kyrgyz on learn.kg (course A1).",
+     "after": [
+      "introduce yourself, talk about your family and work",
+      "ask for directions, shop and order in a café",
+      "tell the time, dates, numbers and prices",
+      "manage in transport, at the doctor's and in services",
+      "understand slow, clear speech on everyday topics"
+     ],
+     "faq": [
+      {
+       "q": "I have never studied Kyrgyz. Is this course for me?",
+       "a": "Yes — it starts with the alphabet and the sounds ң, ө, ү. Kyrgyz is introduced step by step through ready-made phrases; explanations are in Russian, English or Turkish."
+      },
+      {
+       "q": "How long does level A1 take?",
+       "a": "At 15–20 minutes a day — a few months: the trainer runs the review plan for you, and you set the pace. Consistency matters more than session length."
+      },
+      {
+       "q": "How do I know A1 is the right level?",
+       "a": "Take the free 15-question level test on learn.kg — it shows your starting point. If in doubt, Altynai will advise based on your result."
+      },
+      {
+       "q": "How does the state test at A1 work, and where can I practise?",
+       "a": "Format, levels and registration — on the official testing website: kyrgyztest.gov.kg. You can practise on the course material with the learn.kg practice test: learn.kg/probny-test-a1/en — 20 tasks in 15 minutes. The tasks are written by learn.kg from the course materials and are not related to the tasks of the official test."
+      },
+      {
+       "q": "Do I need A1 for a residence permit in Kyrgyzstan?",
+       "a": "Since August 2025 the law requires Kyrgyz for a residence permit and immigrant status; Russian is no longer accepted, and the State Language Commission names level A1. The A1 course ends with an exam week — a final course check. Full breakdown of the law: learn.kg/blog/kyrgyzskiy-dlya-vnzh/en."
+      },
+      {
+       "q": "How do I get access?",
+       "a": "Message Altynai on WhatsApp — she will create your login and password, usually the same day. There is no sign-up form."
+      }
+     ]
+    },
+    "tr": {
+     "title": "Kırgızca A1 Kursu — Sıfırdan, Sesli",
+     "desc": "Sıfırdan A1 düzeyinde Kırgızca kursu: 12 modül, ana dili konuşurunun sesiyle 1073 ifade, alfabe ve fonetik, aralıklı tekrar ve mini testler. Demo açık.",
+     "h1": "Kırgızca dil kursu A1",
+     "lead": "Sıfırdan ilk rahat diyaloglara: alfabe, fonetik ve 1073 günlük ifade — her biri ana dili konuşurunun sesiyle. Günde 15–20 dakika, aralıklı tekrar ve her modülün sonunda mini test. Kursun sonunda sınav haftası var: yazma ve konuşma dâhil tüm becerilerde kursun bitirme kontrolü. learn.kg A1 deneme sınavını şimdi de çözebilirsiniz: learn.kg/probny-test-a1/tr.",
+     "wa": "Merhaba! learn.kg'de Kırgızca öğrenmek istiyorum (A1 kursu).",
+     "after": [
+      "kendinizi tanıtmak, aileniz ve işiniz hakkında konuşmak",
+      "yol sormak, alışveriş yapmak, kafede sipariş vermek",
+      "saati, tarihleri, sayıları ve fiyatları söylemek",
+      "ulaşımda, doktorda ve hizmetlerde derdinizi anlatmak",
+      "günlük konularda yavaş ve net konuşmayı anlamak"
+     ],
+     "faq": [
+      {
+       "q": "Hiç Kırgızca öğrenmedim. Bu kurs bana uygun mu?",
+       "a": "Evet — kurs alfabeyle ve ң, ө, ү seslerinin telaffuzuyla başlar. Kırgızca hazır ifadelerle adım adım verilir; açıklamalar Rusça, İngilizce veya Türkçe."
+      },
+      {
+       "q": "A1 düzeyi ne kadar sürer?",
+       "a": "Günde 15–20 dakikayla birkaç ay: tekrar planını sistem yürütür, tempoyu siz belirlersiniz. Düzenlilik ders süresinden önemlidir."
+      },
+      {
+       "q": "A1'in doğru düzey olduğunu nasıl anlarım?",
+       "a": "learn.kg'deki 15 soruluk ücretsiz seviye testini çözün — başlangıç noktanızı gösterir. Kararsızsanız Altınay sonuca göre yönlendirir."
+      },
+      {
+       "q": "A1 devlet sınavı nasıl işliyor, nerede pratik yapabilirim?",
+       "a": "Biçim, seviyeler ve kayıt — resmî sınav sitesinde: kyrgyztest.gov.kg. Kurs materyaliyle learn.kg deneme sınavında pratik yapabilirsiniz: learn.kg/probny-test-a1/tr — 15 dakikada 20 görev. Görevler learn.kg tarafından kurs materyallerinden hazırlanmıştır ve resmî sınavın görevleriyle bağlantılı değildir."
+      },
+      {
+       "q": "Kırgızistan'da oturma izni için A1 gerekli mi?",
+       "a": "Ağustos 2025'ten beri yasa oturma izni ve göçmen statüsü için Kırgızca istiyor; Rusça artık kabul edilmiyor ve Devlet Dili Komisyonu A1 düzeyini söylüyor. A1 kursu sınav haftasıyla — kursun bitirme kontrolüyle — bitiyor. Yasanın ayrıntılı dökümü: learn.kg/blog/kyrgyzskiy-dlya-vnzh/tr."
+      },
+      {
+       "q": "Erişimi nasıl alırım?",
+       "a": "Altınay'a WhatsApp'tan yazın — giriş bilgilerinizi genellikle aynı gün oluşturur. Sitede kayıt formu yoktur."
+      }
+     ]
+    }
+   }
+  },
+  "a2": {
+   "ui": {
+    "ru": {
+     "title": "Курс кыргызского языка A2: грамматика и живые темы",
+     "desc": "Курс кыргызского языка уровня A2: 12 модулей, 873 фразы с озвучкой носителя, системная грамматика — от прошедшего времени до падежей, мини-тесты и повторения.",
+     "h1": "Курс кыргызского языка A2",
+     "lead": "Продолжение после A1: прошедшее и будущее время, падежи и связная речь на живых темах — от здоровья и путешествий до традиций и истории Кыргызстана. 873 фразы, каждая с озвучкой носителя.",
+     "wa": "Саламатсызбы! Хочу продолжить кыргызский на learn.kg (курс A2).",
+     "after": [
+      "рассказывать о прошлом, планах и биографии",
+      "объясняться в поездке: транспорт, гостиница, банк",
+      "говорить о здоровье, погоде и образе жизни",
+      "поддержать разговор о праздниках и традициях",
+      "читать и пересказывать простые связные тексты"
+     ],
+     "faq": [
+      {
+       "q": "Можно ли начать сразу с A2?",
+       "a": "Да, если вы уже понимаете простые фразы и знаете основы. Пройдите тест уровня на learn.kg — он покажет, готовы ли вы; при сомнении Алтынай подберёт стартовую точку."
+      },
+      {
+       "q": "Чем A2 отличается от A1?",
+       "a": "A1 ставит звуки и даёт готовые фразы, A2 добавляет систему: времена, падежи, словообразование — и темы шире: от быта до истории и традиций Кыргызстана."
+      },
+      {
+       "q": "Что происходит после A2?",
+       "a": "Открыт курс B1: задания сформулированы по-кыргызски, новые слова вводятся кыргызскими определениями. Тропа продолжается без разрыва: слова из A1–A2 повторяются в новых темах."
+      },
+      {
+       "q": "Как открыть доступ к курсу?",
+       "a": "Напишите Алтынай в WhatsApp — она заведёт вам логин и пароль, обычно в тот же день."
+      }
+     ]
+    },
+    "en": {
+     "title": "Kyrgyz Course A2: Grammar and Real-Life Topics",
+     "desc": "Kyrgyz course at level A2: 12 modules, 873 phrases with native-speaker audio, systematic grammar from past tense to cases, mini-tests and spaced review.",
+     "h1": "Kyrgyz language course A2",
+     "lead": "The next step after A1: past and future tenses, cases and connected speech on real topics — from health and travel to the traditions and history of Kyrgyzstan. 873 phrases, each with native audio.",
+     "wa": "Hello! I'd like to continue Kyrgyz on learn.kg (course A2).",
+     "after": [
+      "talk about the past, your plans and biography",
+      "manage a trip: transport, hotel, bank",
+      "discuss health, weather and lifestyle",
+      "hold a conversation about holidays and traditions",
+      "read and retell simple connected texts"
+     ],
+     "faq": [
+      {
+       "q": "Can I start directly with A2?",
+       "a": "Yes, if you already understand simple phrases and know the basics. Take the level test on learn.kg — it shows whether you are ready; if in doubt, Altynai will pick your starting point."
+      },
+      {
+       "q": "How is A2 different from A1?",
+       "a": "A1 sets up the sounds and gives ready-made phrases; A2 adds the system: tenses, cases, word formation — and wider topics, from daily life to the history and traditions of Kyrgyzstan."
+      },
+      {
+       "q": "What comes after A2?",
+       "a": "The B1 course is open: tasks are worded in Kyrgyz and new words are introduced through Kyrgyz definitions. The path continues without a gap: words from A1–A2 keep returning in new topics."
+      },
+      {
+       "q": "How do I get access?",
+       "a": "Message Altynai on WhatsApp — she will create your login and password, usually the same day."
+      }
+     ]
+    },
+    "tr": {
+     "title": "Kırgızca A2 Kursu: Dil Bilgisi ve Günlük Konular",
+     "desc": "A2 düzeyinde Kırgızca kursu: 12 modül, sesli 873 ifade, geçmiş zamandan hâl eklerine sistemli dil bilgisi, mini testler ve aralıklı tekrar.",
+     "h1": "Kırgızca dil kursu A2",
+     "lead": "A1'den sonraki adım: geçmiş ve gelecek zaman, hâl ekleri ve gerçek konularda bağlantılı konuşma — sağlıktan yolculuğa, Kırgızistan'ın gelenek ve tarihine. 873 ifade, her biri ana dili sesiyle.",
+     "wa": "Merhaba! learn.kg'de Kırgızcaya devam etmek istiyorum (A2 kursu).",
+     "after": [
+      "geçmiş, planlar ve özgeçmiş hakkında konuşmak",
+      "yolculukta derdinizi anlatmak: ulaşım, otel, banka",
+      "sağlık, hava ve yaşam tarzı hakkında konuşmak",
+      "bayramlar ve gelenekler üzerine sohbeti sürdürmek",
+      "basit bağlantılı metinleri okuyup anlatmak"
+     ],
+     "faq": [
+      {
+       "q": "Doğrudan A2 ile başlayabilir miyim?",
+       "a": "Evet — basit ifadeleri anlıyor ve temelleri biliyorsanız. learn.kg'deki seviye testini çözün; kararsızsanız Altınay başlangıç noktanızı belirler."
+      },
+      {
+       "q": "A2, A1'den nasıl farklı?",
+       "a": "A1 sesleri oturtur ve hazır ifadeler verir; A2 sistemi ekler: zamanlar, hâl ekleri, kelime yapımı — ve konular genişler: günlük hayattan Kırgızistan tarihine ve geleneklerine."
+      },
+      {
+       "q": "A2'den sonra ne var?",
+       "a": "B1 kursu açık: görevler Kırgızca yazılmış, yeni kelimeler Kırgızca tanımlarla verilir. Yol kesintisiz sürer: A1–A2 kelimeleri yeni konularda tekrar döner."
+      },
+      {
+       "q": "Erişimi nasıl alırım?",
+       "a": "Altınay'a WhatsApp'tan yazın — giriş bilgilerinizi genellikle aynı gün oluşturur."
+      }
+     ]
+    }
+   }
+  },
+  "b1": {
+   "ui": {
+    "ru": {
+     "title": "Курс кыргызского языка B1: подготовка и пробный тест",
+     "desc": "Курс кыргызского языка B1: 12 модулей, задания и определения новых слов по-кыргызски, 860 фраз с озвучкой. Пробный тест B1 — 20 заданий с таймером.",
+     "h1": "Курс кыргызского языка B1",
+     "lead": "Средний уровень: задания сформулированы по-кыргызски, а новые слова вводятся кыргызскими определениями — язык учится внутри языка. В конце — модуль повторения и экзаменационная неделя.",
+     "wa": "Саламатсызбы! Хочу готовиться к B1 на learn.kg (курс B1).",
+     "after": [
+      "выражать и обосновывать мнение на кыргызском",
+      "понимать речь в естественном темпе",
+      "понимать формулировки заданий на кыргызском",
+      "пройти повторение и экзаменационную неделю"
+     ],
+     "faq": [
+      {
+       "q": "Готовит ли курс к тестированию по кыргызскому языку?",
+       "a": "Курс развивает навыки уровня B1: лексику и грамматику, чтение, аудирование в естественном темпе, письмо и устную речь; задания сформулированы по-кыргызски. Задания курса составлены learn.kg и не связаны с заданиями официального тестирования. Формат, уровни и запись на тестирование — на официальном сайте: kyrgyztest.gov.kg."
+      },
+      {
+       "q": "Почему задания сформулированы по-кыргызски?",
+       "a": "Так они выглядят на экзамене. Перевод формулировки всегда доступен по клику, а незнакомые слова в определениях разбираются по клику с переводом на ваш язык."
+      },
+      {
+       "q": "Что нужно, чтобы начать B1?",
+       "a": "Уверенный уровень A2: прошедшее и будущее время, падежи, базовая лексика. Тест уровня и Алтынай помогут понять, готовы ли вы."
+      },
+      {
+       "q": "Как открыть доступ к курсу?",
+       "a": "Напишите Алтынай в WhatsApp — она заведёт вам логин и пароль, обычно в тот же день."
+      }
+     ]
+    },
+    "en": {
+     "title": "Kyrgyz Course B1: Preparation and Practice Test",
+     "desc": "Kyrgyz course B1: 12 modules, tasks and new-word definitions worded in Kyrgyz, 860 phrases with audio. B1 practice test — 20 timed tasks.",
+     "h1": "Kyrgyz language course B1",
+     "lead": "The intermediate level: tasks are worded in Kyrgyz and new words are introduced through Kyrgyz definitions — you learn the language inside the language. It ends with a revision module and an exam week.",
+     "wa": "Hello! I'd like to prepare for B1 on learn.kg (course B1).",
+     "after": [
+      "express and justify an opinion in Kyrgyz",
+      "understand speech at natural speed",
+      "understand task wording in Kyrgyz",
+      "complete the revision module and the exam week"
+     ],
+     "faq": [
+      {
+       "q": "Does the course prepare for the state Kyrgyz language test?",
+       "a": "The course builds B1 skills: vocabulary and grammar, reading, listening at natural speed, writing and speaking; tasks are worded in Kyrgyz. The course tasks are written by learn.kg and are not related to the tasks of the official test. Format, levels and registration — on the official testing website: kyrgyztest.gov.kg."
+      },
+      {
+       "q": "Why are the tasks worded in Kyrgyz?",
+       "a": "Because that is how they appear in the exam. A translation of the wording is always one click away, and unfamiliar words in definitions can be opened with a translation into your language."
+      },
+      {
+       "q": "What do I need to start B1?",
+       "a": "A confident A2: past and future tenses, cases, core vocabulary. The level test and Altynai will help you judge whether you are ready."
+      },
+      {
+       "q": "How do I get access?",
+       "a": "Message Altynai on WhatsApp — she will create your login and password, usually the same day."
+      }
+     ]
+    },
+    "tr": {
+     "title": "Kırgızca B1 Kursu: Hazırlık ve Deneme Sınavı",
+     "desc": "Kırgızca B1 kursu: 12 modül, Kırgızca görevler ve yeni kelime tanımları, sesli 860 ifade. B1 deneme sınavı — süreli 20 soru.",
+     "h1": "Kırgızca dil kursu B1",
+     "lead": "Orta düzey: görevler Kırgızca yazılmıştır, yeni kelimeler Kırgızca tanımlarla verilir — dil, dilin içinde öğrenilir. Sonunda tekrar modülü ve sınav haftası vardır.",
+     "wa": "Merhaba! learn.kg'de B1'e hazırlanmak istiyorum (B1 kursu).",
+     "after": [
+      "Kırgızca görüş belirtmek ve gerekçelendirmek",
+      "doğal hızda konuşmayı anlamak",
+      "Kırgızca görev ifadelerini anlamak",
+      "tekrar modülünü ve sınav haftasını tamamlamak"
+     ],
+     "faq": [
+      {
+       "q": "Kurs devlet Kırgızca sınavına hazırlar mı?",
+       "a": "Kurs B1 becerilerini geliştirir: kelime ve dil bilgisi, okuma, doğal hızda dinleme, yazma ve konuşma; görevler Kırgızca yazılmıştır. Kursun görevleri learn.kg tarafından hazırlanmıştır ve resmî sınavın görevleriyle bağlantılı değildir. Biçim, seviyeler ve kayıt — resmî sınav sitesinde: kyrgyztest.gov.kg."
+      },
+      {
+       "q": "Görevler neden Kırgızca yazılmış?",
+       "a": "Sınavda böyle görünürler. İfadenin çevirisi her zaman bir tık uzaklıktadır; tanımlardaki bilinmeyen kelimeler de tıklamayla kendi dilinize çevrilir."
+      },
+      {
+       "q": "B1'e başlamak için ne gerekir?",
+       "a": "Sağlam bir A2: geçmiş ve gelecek zaman, hâl ekleri, temel kelime dağarcığı. Seviye testi ve Altınay hazır olup olmadığınızı anlamanıza yardım eder."
+      },
+      {
+       "q": "Erişimi nasıl alırım?",
+       "a": "Altınay'a WhatsApp'tan yazın — giriş bilgilerinizi genellikle aynı gün oluşturur."
+      }
+     ]
+    }
+   }
+  },
+  "b2": {
+   "ui": {
+    "ru": {
+     "title": "Курс кыргызского языка B2: подготовка и пробный тест",
+     "desc": "Курс кыргызского языка B2: 12 модулей — деловое письмо, аргументация, статья и публичная речь, задания на кыргызском, 920 фраз с озвучкой. Пробный тест B2.",
+     "h1": "Курс кыргызского языка B2",
+     "lead": "Уровень выше среднего: официальное письмо и обращение в госорган, биография, совещание и аргументы, оценка с обоснованием, статья и публичная речь. Задания сформулированы по-кыргызски, устойчивые обороты и пословицы — в словаре. В конце — модуль повторения и экзаменационная неделя.",
+     "wa": "Саламатсызбы! Хочу готовиться к B2 на learn.kg (курс B2).",
+     "after": [
+      "писать официальное письмо и обращение в государственный орган",
+      "аргументировать и обосновывать оценку — моральную, правовую, рациональную",
+      "вести и менять ход беседы, участвовать в совещании и дискуссии",
+      "понимать устойчивые обороты и речь в естественном темпе",
+      "писать статью-рассуждение и выступать с монологом на заданную тему",
+      "пройти повторение и экзаменационную неделю"
+     ],
+     "faq": [
+      {
+       "q": "Чем B2 отличается от B1?",
+       "a": "На B1 требуется выразить точку зрения, на B2 — аргумент и оценка с обоснованием, управление ходом беседы и официальный стиль: письмо в госорган, биография, статья."
+      },
+      {
+       "q": "Откуда взяты темы модулей?",
+       "a": "Темы подобраны под задачи уровня B2: деловая переписка, аргументация, обсуждение и публичная речь. Тексты и задания курса составлены learn.kg и не связаны с заданиями официального тестирования."
+      },
+      {
+       "q": "Что такое туруктуу сөз айкаштары и зачем они в словаре?",
+       "a": "Устойчивые обороты и пословицы: без них не понять живые диалоги и публицистику уровня B2, поэтому они вводятся как единицы словаря с озвучкой."
+      },
+      {
+       "q": "Что нужно, чтобы начать B2?",
+       "a": "Уверенный B1: понимание речи в естественном темпе, умение выразить мнение и разбирать задания на кыргызском. Пробный тест B1 и Алтынай помогут понять, готовы ли вы."
+      },
+      {
+       "q": "Как открыть доступ к курсу?",
+       "a": "Напишите Алтынай в WhatsApp — она заведёт вам логин и пароль, обычно в тот же день."
+      }
+     ]
+    },
+    "en": {
+     "title": "Kyrgyz Course B2: Preparation and Practice Test",
+     "desc": "Kyrgyz course B2: 12 modules — formal letters, argument, articles and public speaking, tasks worded in Kyrgyz, 920 phrases with audio. B2 practice test.",
+     "h1": "Kyrgyz language course B2",
+     "lead": "The upper-intermediate level: official letters and appeals to state bodies, biography, meetings and argument, evaluation with reasons, articles and public speaking. Tasks are worded in Kyrgyz, set phrases and proverbs are part of the vocabulary. It ends with a revision module and an exam week.",
+     "wa": "Hello! I'd like to prepare for B2 on learn.kg (course B2).",
+     "after": [
+      "write an official letter and an appeal to a state body",
+      "argue and justify an evaluation — moral, legal, rational",
+      "steer and change the course of a conversation, take part in meetings and debates",
+      "understand set phrases and speech at natural speed",
+      "write a reasoning article and give a monologue on a set topic",
+      "complete the revision module and the exam week"
+     ],
+     "faq": [
+      {
+       "q": "How does B2 differ from B1?",
+       "a": "B1 asks you to express a viewpoint; B2 asks for an argument and an evaluation with reasons, control of the conversation and official style: a letter to a state body, a biography, an article."
+      },
+      {
+       "q": "Where do the module topics come from?",
+       "a": "The topics are chosen for the tasks of level B2: formal correspondence, argument, discussion and public speaking. The course texts and tasks are written by learn.kg and are not related to the tasks of the official test."
+      },
+      {
+       "q": "What are set phrases and why are they in the vocabulary?",
+       "a": "Set expressions and proverbs: without them you cannot follow natural dialogues and B2-level journalism, so they are introduced as vocabulary units with audio."
+      },
+      {
+       "q": "What do I need to start B2?",
+       "a": "A confident B1: understanding speech at natural speed, expressing an opinion and parsing tasks in Kyrgyz. The B1 practice test and Altynai will help you judge whether you are ready."
+      },
+      {
+       "q": "How do I get access?",
+       "a": "Message Altynai on WhatsApp — she will create your login and password, usually the same day."
+      }
+     ]
+    },
+    "tr": {
+     "title": "Kırgızca B2 Kursu: Hazırlık ve Deneme Sınavı",
+     "desc": "Kırgızca B2 kursu: 12 modül — resmî mektup, argüman, makale ve topluluk önünde konuşma, Kırgızca görevler, sesli 920 ifade. B2 deneme sınavı.",
+     "h1": "Kırgızca dil kursu B2",
+     "lead": "Orta üstü düzey: resmî mektup ve devlet kurumuna başvuru, öz geçmiş, toplantı ve argüman, gerekçeli değerlendirme, makale ve topluluk önünde konuşma. Görevler Kırgızca yazılmıştır, kalıp ifadeler ve atasözleri sözlüğün parçasıdır. Sonunda tekrar modülü ve sınav haftası vardır.",
+     "wa": "Merhaba! learn.kg'de B2'ye hazırlanmak istiyorum (B2 kursu).",
+     "after": [
+      "resmî mektup ve devlet kurumuna başvuru yazmak",
+      "değerlendirmeyi gerekçelendirmek — ahlaki, hukuki, rasyonel",
+      "sohbetin akışını yönetmek ve değiştirmek, toplantı ve tartışmaya katılmak",
+      "kalıp ifadeleri ve doğal hızdaki konuşmayı anlamak",
+      "gerekçeli makale yazmak ve verilen bir konuda monolog yapmak",
+      "tekrar modülünü ve sınav haftasını tamamlamak"
+     ],
+     "faq": [
+      {
+       "q": "B2, B1'den nasıl farklı?",
+       "a": "B1'de görüş belirtmek istenir; B2'de gerekçeli argüman ve değerlendirme, sohbeti yönetme ve resmî üslup: devlet kurumuna mektup, öz geçmiş, makale."
+      },
+      {
+       "q": "Modül konuları nereden alındı?",
+       "a": "Konular B2 düzeyinin görevlerine göre seçilmiştir: resmî yazışma, argüman, tartışma ve topluluk önünde konuşma. Kursun metinleri ve görevleri learn.kg tarafından hazırlanmıştır ve resmî sınavın görevleriyle bağlantılı değildir."
+      },
+      {
+       "q": "Kalıp ifadeler nedir ve neden sözlükte?",
+       "a": "Kalıp ifadeler ve atasözleri: onlarsız B2 düzeyindeki doğal diyaloglar ve gazete yazıları anlaşılmaz, bu yüzden sesli sözlük birimleri olarak verilir."
+      },
+      {
+       "q": "B2'ye başlamak için ne gerekir?",
+       "a": "Sağlam bir B1: doğal hızdaki konuşmayı anlamak, görüş belirtmek ve Kırgızca görevleri çözümlemek. B1 deneme sınavı ve Altınay hazır olup olmadığınızı anlamanıza yardım eder."
+      },
+      {
+       "q": "Erişimi nasıl alırım?",
+       "a": "Altınay'a WhatsApp'tan yazın — giriş bilgilerinizi genellikle aynı gün oluşturur."
+      }
+     ]
+    }
+   }
+  }
+ }
+}

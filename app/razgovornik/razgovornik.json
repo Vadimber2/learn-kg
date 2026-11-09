@@ -1,0 +1,381 @@
+{
+  "updated": "2026-09-28",
+  "ui": {
+    "ru": {
+      "title": "Русско-кыргызский разговорник с озвучкой · learn.kg",
+      "desc": "Русско-кыргызский (киргизский) разговорник с озвучкой носителя: приветствия, знакомство, семья, числа, еда, транспорт, здоровье. Слушайте и повторяйте.",
+      "h1": "Русско-кыргызский разговорник",
+      "lead": "{n} живых фраз из курса learn.kg, сгруппированных по ситуациям — с переводом и озвучкой носителя языка. Нажимайте «Слушать» и повторяйте вслух.",
+      "play": "Слушать",
+      "faqTitle": "Частые вопросы",
+      "faq": [
+        {
+          "q": "Как правильно: кыргызский или киргизский разговорник?",
+          "a": "Это один язык: «кыргызский» — официальная форма от самоназвания, «киргизский» — привычное русское написание. Фразы и произношение одинаковы."
+        },
+        {
+          "q": "Чем разговорник отличается от курса?",
+          "a": "Разговорник — справочник: нашли фразу, послушали, повторили. Курс learn.kg учит говорить самостоятельно: карточки с интервальными повторениями, диалоги, мини-тесты. Начните с бесплатного демо."
+        },
+        {
+          "q": "Как произносятся ө, ү и ң?",
+          "a": "Три особых звука кыргызского: ө — «э» с округлёнными губами, ү — «и» с округлёнными губами, ң — носовое «н» как в английском sing. В курсе они ставятся в первом же модуле."
+        },
+        {
+          "q": "Как быстро найти нужную фразу?",
+          "a": "Наберите слово в строке поиска: ((русско-кыргызский переводчик|/perevodchik/ru)) ищет по всем фразам курса, а не только по темам разговорника. У самых частых слов есть свой разбор с озвучкой — например, ((спасибо по-кыргызски|/slovo/spasibo/ru)) или ((здравствуйте по-кыргызски|/slovo/zdravstvuyte/ru))."
+        },
+        {
+          "q": "Что значат «макул», «жакшы», «кандай» и «рахмат»?",
+          "a": "Это слова, которые вы услышите чаще всего. «Макул» — «хорошо, согласен(на)»; «Жакшы, рахмат» — «хорошо, спасибо» (ответ на «как дела?»); «Кандай?» — «как дела?» (кратко, неформально), вежливо — «Кандайсыз?»; «Рахмат!» — «спасибо!», «Чоң рахмат!» — «большое спасибо!». Все эти фразы — в разделах выше, с озвучкой."
+        },
+        {
+          "q": "На каком языке говорят в Кыргызстане?",
+          "a": "Государственный язык — кыргызский, русский имеет статус официального. Где вас поймут по-русски, а где пригодится кыргызский, — в статье ((какой язык в Кыргызстане|/blog/yazyk-v-kyrgyzstane/ru)) с цифрами переписи 2022 года."
+        }
+      ],
+      "ctaTitle": "Выучить, а не подглядывать",
+      "ctaText": "Каждая фраза этого разговорника — карточка курса с интервальными повторениями: тренажёр сам напомнит повторить её вовремя.",
+      "ctaDemo": "Попробовать бесплатно",
+      "ctaTest": "Узнать свой уровень"
+    },
+    "en": {
+      "title": "English–Kyrgyz Phrasebook with Audio · learn.kg",
+      "desc": "English–Kyrgyz phrasebook with native-speaker audio: greetings, introductions, family, numbers, food, transport, health. Listen to Kyrgyz phrases and repeat.",
+      "h1": "English–Kyrgyz Phrasebook",
+      "lead": "{n} real-life phrases from the learn.kg course, grouped by situation — with translation and native-speaker audio. Press “Listen” and repeat aloud.",
+      "play": "Listen",
+      "faqTitle": "FAQ",
+      "faq": [
+        {
+          "q": "Kyrgyz or Kirghiz — which is correct?",
+          "a": "The same language: “Kyrgyz” is the official form from the native name, “Kirghiz” an older transliteration. Phrases and pronunciation are identical."
+        },
+        {
+          "q": "How is the phrasebook different from the course?",
+          "a": "The phrasebook is a reference: find a phrase, listen, repeat. The learn.kg course teaches you to speak on your own — flashcards with spaced repetition, dialogues, quizzes. Start with the free demo."
+        },
+        {
+          "q": "How are ө, ү and ң pronounced?",
+          "a": "Three special Kyrgyz sounds: ө — “e” with rounded lips, ү — “ee” with rounded lips, ң — a nasal “n” as in English sing. The course teaches them in the very first module."
+        },
+        {
+          "q": "How do I find a phrase fast?",
+          "a": "Type the word into the ((English–Kyrgyz translator|/perevodchik/en)): it searches every phrase of the course, not just the topics collected here. The most common words have their own page with audio — for example ((thank you in Kyrgyz|/slovo/spasibo/en)) or ((hello in Kyrgyz|/slovo/zdravstvuyte/en))."
+        },
+        {
+          "q": "What do makul, jakshy, kanday and rahmat mean?",
+          "a": "These are words you will hear all the time. «Макул» (makul) — “okay, agreed”; «Жакшы, рахмат» (jakshy, rahmat) — “fine, thanks” (the reply to “how are you?”); «Кандай?» (kanday?) — “how are things?” (short, informal), politely «Кандайсыз?» (kandaysyz?); «Рахмат!» (rahmat!) — “thank you!”, «Чоң рахмат!» (chong rahmat!) — “thank you very much!”. All of them are in the sections above, with audio."
+        },
+        {
+          "q": "What language do they speak in Kyrgyzstan?",
+          "a": "Kyrgyz is the state language and Russian has official status. Where each language is spoken is covered, with 2022 census figures, in ((what language do they speak in Kyrgyzstan|/blog/yazyk-v-kyrgyzstane/en))."
+        }
+      ],
+      "ctaTitle": "Learn it, don't just look it up",
+      "ctaText": "Every phrase in this phrasebook is a flashcard of the course with spaced repetition: the trainer reminds you to review it at the right time.",
+      "ctaDemo": "Try it free",
+      "ctaTest": "Check your level"
+    },
+    "tr": {
+      "title": "Türkçe–Kırgızca Konuşma Kılavuzu (sesli) · learn.kg",
+      "desc": "Sesli Türkçe–Kırgızca konuşma kılavuzu: selamlaşma, tanışma, aile, sayılar, yemek, ulaşım, sağlık. Kırgız Türkçesi telaffuzuyla dinleyin ve tekrarlayın.",
+      "h1": "Türkçe–Kırgızca Konuşma Kılavuzu",
+      "lead": "learn.kg kursundan duruma göre gruplanmış {n} gerçek ifade — çevirisi ve ana dili konuşurunun sesiyle. «Dinle»ye basın ve yüksek sesle tekrarlayın.",
+      "play": "Dinle",
+      "faqTitle": "Sık sorulan sorular",
+      "faq": [
+        {
+          "q": "Kırgızca mı, Kırgız Türkçesi mi?",
+          "a": "Aynı dil: günlük adı «Kırgızca», akademik gelenekte «Kırgız Türkçesi» denir — Kıpçak grubundan bir Türk dilidir. İfadeler ve telaffuz aynıdır."
+        },
+        {
+          "q": "Konuşma kılavuzu kurstan nasıl farklı?",
+          "a": "Kılavuz bir başvuru kaynağıdır: ifadeyi bulun, dinleyin, tekrarlayın. learn.kg kursu ise konuşmayı öğretir — aralıklı tekrarlı kartlar, diyaloglar, mini testler. Ücretsiz demoyla başlayın."
+        },
+        {
+          "q": "ө, ү ve ң nasıl okunur?",
+          "a": "Kırgızcanın üç özel sesi: ө — Türkçedeki «ö»ye, ү — «ü»ye yakındır; ң — İngilizce sing sözcüğündeki genizden «n»dir. Kurs bu sesleri ilk modülde öğretir."
+        },
+        {
+          "q": "Aradığım ifadeyi nasıl hızlı bulurum?",
+          "a": "Kelimeyi arama kutusuna yazın: ((Türkçe–Kırgızca çeviri|/perevodchik/tr)) yalnızca buradaki konuları değil, kursun bütün ifadelerini tarar. En sık kullanılan kelimelerin sesli kendi sayfası var — örneğin ((Kırgızca teşekkürler|/slovo/spasibo/tr)) ya da ((Kırgızca merhaba|/slovo/zdravstvuyte/tr))."
+        },
+        {
+          "q": "«Макул», «жакшы», «кандай» ve «рахмат» ne demek?",
+          "a": "En sık duyacağınız kelimeler bunlar. «Макул» (makul) — «tamam, katılıyorum»; «Жакшы, рахмат» (cakşı, rahmat) — «iyiyim, teşekkürler» («nasılsın?» sorusuna cevap); «Кандай?» (kanday?) — «ne haber?» (kısa, samimi), kibarca «Кандайсыз?» (kandaysız?); «Рахмат!» (rahmat!) — «teşekkür ederim!», «Чоң рахмат!» (çoñ rahmat!) — «çok teşekkürler!». Hepsi yukarıdaki bölümlerde, sesli olarak var."
+        },
+        {
+          "q": "Kırgızistan'da hangi dil konuşulur?",
+          "a": "Devlet dili Kırgızca, Rusça resmî dil statüsünde. Hangi dilin nerede konuşulduğu, 2022 sayımının rakamlarıyla ((Kırgızistan'da hangi dil konuşulur|/blog/yazyk-v-kyrgyzstane/tr)) yazısında."
+        }
+      ],
+      "ctaTitle": "Bakmak değil, öğrenmek",
+      "ctaText": "Bu kılavuzdaki her ifade, kursun aralıklı tekrarlı bir kartıdır: sistem, tam zamanında tekrar etmenizi kendisi hatırlatır.",
+      "ctaDemo": "Ücretsiz deneyin",
+      "ctaTest": "Seviyenizi öğrenin"
+    }
+  },
+  "sections": [
+    {
+      "id": "salam",
+      "title": {
+        "ru": "Приветствие и прощание",
+        "en": "Greetings and farewells",
+        "tr": "Selamlaşma ve vedalaşma"
+      },
+      "pick": [
+        {
+          "mod": "m0",
+          "cat": "salam"
+        },
+        {
+          "mod": "m0",
+          "cat": "koshtoshuu"
+        }
+      ]
+    },
+    {
+      "id": "tanyshuu",
+      "title": {
+        "ru": "Знакомство",
+        "en": "Getting acquainted",
+        "tr": "Tanışma"
+      },
+      "pick": [
+        {
+          "mod": "m0",
+          "cat": "tanyshuu"
+        },
+        {
+          "mod": "m1",
+          "cat": "tanysh"
+        }
+      ]
+    },
+    {
+      "id": "syilyk",
+      "title": {
+        "ru": "Вежливость: спасибо, извинения, пожелания",
+        "en": "Politeness: thanks, apologies, wishes",
+        "tr": "Nezaket: teşekkür, özür, dilekler"
+      },
+      "pick": [
+        {
+          "mod": "m0",
+          "cat": "rahmat"
+        },
+        {
+          "mod": "m0",
+          "cat": "kechirim"
+        },
+        {
+          "mod": "m0",
+          "cat": "kaaloo"
+        }
+      ]
+    },
+    {
+      "id": "javap",
+      "title": {
+        "ru": "Да, нет, не понимаю: базовые ответы",
+        "en": "Yes, no, I don't understand: basic replies",
+        "tr": "Evet, hayır, anlamıyorum: temel cevaplar"
+      },
+      "pick": [
+        {
+          "mod": "m0",
+          "cat": "javap"
+        }
+      ]
+    },
+    {
+      "id": "ozum",
+      "title": {
+        "ru": "О себе: кто вы и откуда",
+        "en": "About yourself",
+        "tr": "Kendiniz hakkında"
+      },
+      "pick": [
+        {
+          "mod": "m1",
+          "cat": "suroo"
+        },
+        {
+          "mod": "m1",
+          "cat": "joop"
+        }
+      ]
+    },
+    {
+      "id": "uybulo",
+      "title": {
+        "ru": "Семья и родные",
+        "en": "Family and relatives",
+        "tr": "Aile ve akrabalar"
+      },
+      "pick": [
+        {
+          "mod": "m2",
+          "cat": "uybulo"
+        },
+        {
+          "mod": "m2",
+          "cat": "tuugan"
+        }
+      ]
+    },
+    {
+      "id": "san",
+      "title": {
+        "ru": "Числа, дни недели, время",
+        "en": "Numbers, weekdays, time",
+        "tr": "Sayılar, günler, saat"
+      },
+      "pick": [
+        {
+          "mod": "m5",
+          "cat": "san"
+        },
+        {
+          "mod": "m5",
+          "cat": "apta"
+        },
+        {
+          "mod": "m5",
+          "cat": "ubakyt"
+        }
+      ]
+    },
+    {
+      "id": "tamak",
+      "title": {
+        "ru": "Еда и кафе",
+        "en": "Food and café",
+        "tr": "Yemek ve kafe"
+      },
+      "pick": [
+        {
+          "mod": "m6",
+          "cat": "tamak"
+        },
+        {
+          "mod": "m6",
+          "cat": "cafe"
+        }
+      ]
+    },
+    {
+      "id": "bazar",
+      "title": {
+        "ru": "Покупки и деньги",
+        "en": "Shopping and money",
+        "tr": "Alışveriş ve para"
+      },
+      "pick": [
+        {
+          "mod": "m6",
+          "cat": "bazar"
+        },
+        {
+          "mod": "m17",
+          "cat": "akcha2"
+        }
+      ]
+    },
+    {
+      "id": "jol",
+      "title": {
+        "ru": "Транспорт и город",
+        "en": "Transport and city",
+        "tr": "Ulaşım ve şehir"
+      },
+      "pick": [
+        {
+          "mod": "m6",
+          "cat": "transport"
+        },
+        {
+          "mod": "m4",
+          "cat": "shaar_ayyl"
+        },
+        {
+          "mod": "m18",
+          "cat": "shaarda"
+        }
+      ]
+    },
+    {
+      "id": "meyman",
+      "title": {
+        "ru": "Гостиница",
+        "en": "Hotel",
+        "tr": "Otel"
+      },
+      "pick": [
+        {
+          "mod": "m7",
+          "cat": "meymankana"
+        },
+        {
+          "mod": "m19",
+          "cat": "bron"
+        }
+      ]
+    },
+    {
+      "id": "den",
+      "title": {
+        "ru": "Здоровье и экстренные службы",
+        "en": "Health and emergencies",
+        "tr": "Sağlık ve acil durumlar"
+      },
+      "pick": [
+        {
+          "mod": "m8",
+          "cat": "ooru"
+        },
+        {
+          "mod": "m8",
+          "cat": "med"
+        },
+        {
+          "mod": "m8",
+          "cat": "shashylysh"
+        }
+      ]
+    },
+    {
+      "id": "aba",
+      "title": {
+        "ru": "Погода",
+        "en": "Weather",
+        "tr": "Hava durumu"
+      },
+      "pick": [
+        {
+          "mod": "m9",
+          "cat": "aba"
+        }
+      ]
+    },
+    {
+      "id": "konok",
+      "title": {
+        "ru": "В гостях: гостеприимство и застолье",
+        "en": "Visiting: hospitality and the table",
+        "tr": "Misafirlikte: konukseverlik ve sofra"
+      },
+      "pick": [
+        {
+          "mod": "m0",
+          "cat": "konok"
+        },
+        {
+          "mod": "m20",
+          "cat": "dastorkon"
+        }
+      ]
+    }
+  ]
+}

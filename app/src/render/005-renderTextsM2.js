@@ -1,0 +1,23 @@
+/* ---------- М2: Тексты недели ---------- */
+function renderTextsM2(m){
+  const dlg=[["А: — Саламатсызбы! Сиз үй-бүлөлүүсүзбү?","А: — Здравствуйте! Вы женаты?","A: — Hello! Are you married?","A: — Merhaba! Evli misiniz?"],
+             ["Б: — Ооба, мен үй-бүлөлүүмүн.","Б: — Да, я женат.","B: — Yes, I am married.","B: — Evet, evliyim."],
+             ["А: — Үй-бүлөңүздө канча адам бар?","А: — Сколько человек в Вашей семье?","A: — How many people are in your family?","A: — Ailenizde kaç kişi var?"],
+             ["Б: — Үй-бүлөбүздө төрт адам бар: мен, аялым, уулум жана кызым.","Б: — В нашей семье четыре человека: я, жена, сын и дочь.","B: — There are four of us: me, my wife, my son and my daughter.","B: — Ailemizde dört kişi var: ben, eşim, oğlum ve kızım."],
+             ["А: — Уулуңуз канча жашта?","А: — Сколько лет Вашему сыну?","A: — How old is your son?","A: — Oğlunuz kaç yaşında?"],
+             ["Б: — Уулум он жашта, кызым беш жашта.","Б: — Сыну десять лет, дочери — пять.","B: — My son is ten, my daughter is five.","B: — Oğlum on yaşında, kızım beş yaşında."],
+             ["А: — Ата-энеңиз кайда жашайт?","А: — Где живут Ваши родители?","A: — Where do your parents live?","A: — Anne babanız nerede yaşıyor?"],
+             ["Б: — Атам жана апам Ошто жашайт.","Б: — Отец и мама живут в Оше.","B: — My father and mother live in Osh.","B: — Babam ve annem Oş'ta yaşıyor."],
+             ["А: — Бир туугандарыңыз барбы?","А: — У Вас есть братья или сёстры?","A: — Do you have siblings?","A: — Kardeşleriniz var mı?"],
+             ["Б: — Ооба, агам жана эжем бар. Агам Бишкекте иштейт.","Б: — Да, старший брат и старшая сестра. Брат работает в Бишкеке.","B: — Yes, an older brother and an older sister. My brother works in Bishkek.","B: — Evet, ağabeyim ve ablam var. Ağabeyim Bişkek'te çalışıyor."],
+             ["А: — Агаңыз ким болуп иштейт?","А: — Кем работает Ваш брат?","A: — What does your brother do?","A: — Ağabeyiniz ne iş yapıyor?"],
+             ["Б: — Ал дарыгер болуп иштейт. Аялы мугалим.","Б: — Он работает врачом. Его жена — учительница.","B: — He works as a doctor. His wife is a teacher.","B: — O doktor olarak çalışıyor. Eşi öğretmen."],
+             ["А: — Сизчи? Сиз кайда иштейсиз?","А: — А Вы? Где Вы работаете?","A: — And you? Where do you work?","A: — Ya siz? Nerede çalışıyorsunuz?"],
+             ["Б: — Мен университетте иштейм.","Б: — Я работаю в университете.","B: — I work at a university.","B: — Ben üniversitede çalışıyorum."],
+             ["А: — Абдан жакшы! Таанышканыма кубанычтамын.","А: — Очень хорошо! Рад знакомству.","A: — Very nice! Glad to meet you.","A: — Çok güzel! Tanıştığımıza memnun oldum."]];
+  const texts=weekDialog(m,"Диалог: «Үй-бүлөңүздө канча адам бар?»","Dialogue: «Үй-бүлөңүздө канча адам бар?»",dlg,
+    "Задание: 1) прочитай диалог дважды, меняясь ролями; 2) выпиши все слова с аффиксами принадлежности (аялым, уулуңуз, аялы…) и определи лицо; 3) найди вопросы с -бы/-би; 4) разыграй диалог про СВОЮ семью.","Tasks: 1) read the dialogue twice, swapping roles; 2) list every word with a possessive affix (аялым, уулуңуз, аялы…) and name the person; 3) find the -бы/-би questions; 4) act it out about YOUR OWN family.","Diyalog: «Үй-бүлөңүздө канча адам бар?»","Görev: 1) diyaloğu rolleri değiştirerek iki kez oku; 2) iyelik ekli bütün kelimeleri (аялым, уулуңуз, аялы…) yaz ve kişisini belirle; 3) -бы/-би ile kurulan soruları bul; 4) KENDİ ailen hakkında diyaloğu canlandır.");
+  texts.append(h("h3",{},L("Текст: «Менин үй-бүлөм»","Text: «Менин үй-бүлөм»","Metin: “Менин үй-бүлөм”")),
+    h("p",{},h("span",{class:"kgword"},"Менин атым Айбек. Мен Бишкекте жашайм. Үй-бүлөбүздө беш адам бар: атам, апам, эжем, иним жана мен. Атамдын аты — Болот. Ал айдоочу болуп иштейт. Апамдын аты — Гүлнара. Ал дарыгер. Эжем университетте окуйт. Иним окуучу. Ал мектепте окуйт. Биздин үй чоң. Биз бирге жашайбыз.")),
+    h("p",{class:"muted"},L("Разбор: үй-бүлөбүздө — «в нашей семье» (принадлежность + местный падеж из М1); атамдын аты — двойное оформление илик; иним — «мой младший брат». Прочитай текст вслух, затем напиши такой же о своей семье (5–8 предложений) — это письменное задание недели.","Notes: үй-бүлөбүздө — “in our family” (possessive + locative from M1); атамдын аты — genitive double marking; иним — “my younger brother”. Read the text aloud, then write the same about your own family (5–8 sentences) — this week’s writing task.","Çözümleme: үй-бүлөбүздө — “ailemizde” (iyelik + M1'deki bulunma hâli); атамдын аты — çift ilik işaretlemesi; иним — “küçük erkek kardeşim”. Metni yüksek sesle oku, sonra kendi ailen hakkında aynısını yaz (5–8 cümle) — bu, haftanın yazma ödevi.")));
+}

@@ -1,0 +1,326 @@
+{
+  "slug": "kyrgyzskiy-kazahskiy-turetskiy",
+  "published": "2026-08-07",
+  "updated": "2026-09-05",
+  "section": "lang",
+  "og": {"ru": "kyrgyzskiy-kazahskiy-turetskiy-ru.png", "en": "kyrgyzskiy-kazahskiy-turetskiy-en.png", "tr": "kyrgyzskiy-kazahskiy-turetskiy-tr.png"},
+  "figs": {
+    "0": "tree",
+    "3": "meter"
+  },
+  "figVars": {
+    "0": {
+      "langs": {
+        "ru": {
+          "a": "Тюркская семья",
+          "b": "Кыпчакская ветвь",
+          "c": "Огузская ветвь",
+          "d": "кыргызский",
+          "e": "казахский",
+          "f": "турецкий"
+        },
+        "en": {
+          "a": "Turkic family",
+          "b": "Kipchak branch",
+          "c": "Oghuz branch",
+          "d": "Kyrgyz",
+          "e": "Kazakh",
+          "f": "Turkish"
+        },
+        "tr": {
+          "a": "Türk dil ailesi",
+          "b": "Kıpçak kolu",
+          "c": "Oğuz kolu",
+          "d": "Kırgızca",
+          "e": "Kazakça",
+          "f": "Türkçe"
+        }
+      }
+    },
+    "3": {
+      "langs": {
+        "ru": {
+          "d": "кыргызский",
+          "e": "казахский",
+          "f": "турецкий"
+        },
+        "en": {
+          "d": "Kyrgyz",
+          "e": "Kazakh",
+          "f": "Turkish"
+        },
+        "tr": {
+          "d": "Kırgızca",
+          "e": "Kazakça",
+          "f": "Türkçe"
+        }
+      }
+    }
+  },
+  "related": [
+    "grammatika-kyrgyzskogo",
+    "slozhno-li-vyuchit-kyrgyzskiy"
+  ],
+  "langs": {
+    "ru": {
+      "title": "Кыргызский, казахский и турецкий: насколько похожи?",
+      "desc": "Три языка одной семьи, но разных ветвей: где кыргызский (киргизский) и казахский почти совпадают и почему турецкий «слышится знакомо, но не понимается».",
+      "lead": "«Салам», «сәлем», «selam» — три приветствия, один корень. Кыргызский, казахский и турецкий — родственники, но родство у них разной степени близости, и работает оно не так, как ждёт большинство. Разбираем без мифов: что общего, что различается и поймут ли вас.",
+      "blocks": [
+        {
+          "h": "Одна семья, разные ветви",
+          "p": [
+            "Все три языка принадлежат тюркской семье, но внутри неё расходятся: кыргызский и казахский относят к кыпчакской ветви (позиция кыргызского в классификациях дискуссионна — его сближают и с южносибирскими языками), турецкий — к огузской. Это как разница между близкими двоюродными братьями и дальним родственником: устройство семьи общее, а быт разный.",
+            "Общее у всех троих — сама механика языка: агглютинация, сингармонизм, порядок слов «кто — что — делает», отсутствие рода. Выучив одну тюркскую грамматику, вторую вы уже не учите с нуля."
+          ]
+        },
+        {
+          "h": "Кыргызский и казахский: почти соседи по комнате",
+          "p": [
+            "Пары слов говорят сами за себя: жол/жол (дорога), китеп/кітап (книга), балык/балық (рыба), сүт/сүт (молоко). Расхождения чаще фонетические и регулярные, их можно выучить как правила пересчёта.",
+            "Носители двух языков в бытовом разговоре понимают друг друга без переводчика, каждый говоря на своём, — взаимопонятность внутри кыпчакской ветви высокая. Для изучающего это бонус: кыргызский открывает дверь и в казахский."
+          ]
+        },
+        {
+          "h": "Турецкий: знакомая мелодия, другие слова",
+          "p": [
+            "С турецким картина обратная ожиданиям. Грамматика удивительно параллельна: «в моих книгах» — китептеримде и kitaplarımda собраны из одинаковых деталей в одинаковом порядке. Общих корней много: суу/su (вода), кел-/gel- (приходить), беш/beş (пять).",
+            "Но на слух турок и кыргыз с первого раза понимают друг друга плохо: за века накопились сдвиги в произношении, значениях и — главное — в заимствованиях. Там, где турецкий взял слова из арабского и персидского, кыргызский часто брал из русского. Родство здесь — про лёгкость изучения, а не про готовое понимание."
+          ]
+        },
+        {
+          "h": "Шкала взаимопонятности",
+          "p": [
+            "Если грубо свести к шкале: кыргызский с казахским понимают друг друга в разговоре; кыргызский с турецким — узнают отдельные слова и структуру, но связную речь на слух почти не разбирают; на письме понимание заметно выше, чем на слух, — так исследования близкородственных языков показывают повсеместно: у читателя есть время «расшифровать» знакомые корни.",
+            "Поэтому честная формула такая: тюркские языки — не один язык с диалектами, а семья, внутри которой знание одного даёт огромную фору в изучении другого, но не отменяет само изучение."
+          ]
+        },
+        {
+          "h": "Что это значит для изучающего кыргызский",
+          "p": [
+            "Если вы знаете турецкий — вы стартуете с середины: грамматику узнаете, алфавит выучите за вечер, основная работа уйдёт на лексику и звуки. Если знаете казахский — вы почти у цели, останется фонетика и местные слова.",
+            "А если не знаете ни одного тюркского — кыргызский станет ключом сразу к целой семье: следующий тюркский язык после него даётся в разы быстрее. Проверить, как это ощущается, можно за десять минут в демо — 37 живых фраз с озвучкой покажут и знакомое, и новое.",
+            "С чего начать практически: выучите ((кыргызский алфавит|/blog/kyrgyzskiy-alfavit/ru)) — на это уходит один вечер, посмотрите, как устроена ((грамматика кыргызского|/blog/grammatika-kyrgyzskogo/ru)) рядом с турецкой, и слушайте живые фразы в ((разговорнике с озвучкой|/razgovornik/ru#salam))."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz vs Kazakh vs Turkish: mutually intelligible?",
+      "desc": "Are Kazakh and Kyrgyz mutually intelligible, and can Kyrgyz speakers understand Turkish? Word pairs, parallel grammar and an honest intelligibility scale.",
+      "lead": "“Салам”, “сәлем”, “selam” — three greetings, one root. Kyrgyz, Kazakh and Turkish are relatives, but of different degrees of closeness — and the kinship works differently from what most people expect. No myths: what is shared, what differs, and whether you will be understood.",
+      "blocks": [
+        {
+          "h": "One family, different branches",
+          "p": [
+            "All three belong to the Turkic family but diverge inside it: Kyrgyz and Kazakh are placed in the Kipchak branch (the position of Kyrgyz is debated — it is also linked to the South Siberian group), Turkish in the Oghuz branch. Think close cousins versus a distant relative: the family structure is shared, the daily habits are not.",
+            "What all three share is the very machinery of the language: agglutination, vowel harmony, “who — what — does” word order, no grammatical gender. Having learned one Turkic grammar, you never again learn the next one from zero."
+          ]
+        },
+        {
+          "h": "Kyrgyz and Kazakh: practically roommates",
+          "p": [
+            "Word pairs speak for themselves: жол/жол (road), китеп/кітап (book), балык/балық (fish), сүт/сүт (milk). The differences are mostly phonetic and regular — learnable as conversion rules.",
+            "Speakers of the two languages understand each other in everyday conversation, each speaking their own — mutual intelligibility inside the Kipchak branch is high. For a learner this is a bonus: Kyrgyz opens the door to Kazakh as well."
+          ]
+        },
+        {
+          "h": "Turkish: a familiar melody, different words",
+          "p": [
+            "With Turkish the picture is the opposite of expectations. The grammar is strikingly parallel: “in my books” — китептеримде and kitaplarımda are assembled from the same parts in the same order. Shared roots abound: суу/su (water), кел-/gel- (to come), беш/beş (five).",
+            "Yet by ear, a Turk and a Kyrgyz understand each other poorly at first: centuries have accumulated shifts in pronunciation, meanings and — above all — loanwords. Where Turkish borrowed from Arabic and Persian, Kyrgyz often borrowed from Russian. The kinship here means ease of learning, not ready-made comprehension."
+          ]
+        },
+        {
+          "h": "The intelligibility scale",
+          "p": [
+            "Roughly on a scale: Kyrgyz and Kazakh understand each other in conversation; Kyrgyz and Turkish recognise individual words and the structure, but can barely follow connected speech by ear; in writing, comprehension is notably higher than by ear — a pattern studies of closely related languages show consistently: a reader has time to “decode” familiar roots.",
+            "So the honest formula is this: Turkic languages are not one language with dialects, but a family in which knowing one gives you an enormous head start in learning another — without cancelling the learning itself."
+          ]
+        },
+        {
+          "h": "What this means if you are learning Kyrgyz",
+          "p": [
+            "If you know Turkish, you start from the middle: the grammar will look familiar, the alphabet takes an evening, and the real work goes into vocabulary and sounds. If you know Kazakh, you are nearly there — what remains is phonetics and local words.",
+            "And if you know no Turkic language at all, Kyrgyz becomes your key to the whole family: the next Turkic language after it comes several times faster. You can feel all this in ten minutes in the demo — 37 real phrases with audio will show you both the familiar and the new.",
+            "Where to start in practice: learn the ((Kyrgyz alphabet|/blog/kyrgyzskiy-alfavit/en)) — one evening is enough, see how ((Kyrgyz grammar|/blog/grammatika-kyrgyzskogo/en)) lines up against Turkish, and listen to real phrases in the ((phrasebook with audio|/razgovornik/en#salam))."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızca, Kazakça, Türkçe: birbirine ne kadar benzer?",
+      "desc": "Aynı ailenin üç dili, farklı kollar: Kırgızca ile Kazakçanın örtüştüğü kelime çiftlerini ve Kırgızcanın neden tanıdık gelip anlaşılmadığını anlatıyoruz.",
+      "lead": "“Салам”, “сәлем”, “selam” — üç selam, tek kök. Kırgızca, Kazakça ve Türkçe akraba diller; ama akrabalığın derecesi farklı ve çoğu kişinin beklediğinden farklı işliyor. Efsanesiz anlatıyoruz: ortak olan ne, ayrışan ne — ve Kırgızcayı gerçekten anlayabilir misiniz?",
+      "blocks": [
+        {
+          "h": "Tek aile, farklı kollar",
+          "p": [
+            "Üç dil de Türk dil ailesindendir ama aile içinde yolları ayrılır: Kırgızca ve Kazakça Kıpçak koluna yerleştirilir (Kırgızcanın konumu tartışmalıdır — Güney Sibirya grubuna da yaklaştırılır), Türkçe ise Oğuz kolundadır. Yakın kuzenlerle uzak akraba farkı gibi: ailenin düzeni ortak, gündelik hayat farklı.",
+            "Üçünün ortak noktası dilin çekirdek mekaniği: eklemeli yapı, ünlü uyumu, “özne — nesne — yüklem” dizilişi, cinsiyetsizlik. Bir Türk dilinin gramerini bilen, ikincisine asla sıfırdan başlamaz — siz de başlamayacaksınız."
+          ]
+        },
+        {
+          "h": "Kırgızca ve Kazakça: neredeyse oda arkadaşı",
+          "p": [
+            "Kelime çiftleri kendisi konuşuyor: жол/жол (yol), китеп/кітап (kitap), балык/балық (balık), сүт/сүт (süt). Farklar çoğunlukla ses düzeyinde ve kurallıdır — dönüşüm kuralı gibi öğrenilebilir.",
+            "İki dilin konuşurları günlük sohbette herkes kendi dilinde konuşarak anlaşır — Kıpçak kolu içinde karşılıklı anlaşılırlık yüksektir. Öğrenen için bu bir bonus: Kırgızca, Kazakçanın da kapısını açar."
+          ]
+        },
+        {
+          "h": "Türkçeyle durum: tanıdık ezgi, başka sözler",
+          "p": [
+            "Beklentinin tersi bir tablo. Dil bilgisi şaşırtıcı ölçüde paralel: “kitaplarımda” — китептеримде, aynı parçalar aynı sırayla. Ortak kök çok: суу/su, кел-/gel-, беш/beş.",
+            "Ama kulaktan ilk karşılaşmada Türk ile Kırgız birbirini zor anlar: yüzyıllar içinde söyleyiş kaymış, anlamlar oynamış ve en önemlisi alıntı katmanları ayrışmıştır — Türkçe Arapça-Farsçadan aldığı yerde Kırgızca çoğu zaman Rusçadan almıştır. Buradaki akrabalık hazır anlama değil, öğrenme kolaylığı demektir."
+          ]
+        },
+        {
+          "h": "Anlaşılırlık cetveli",
+          "p": [
+            "Kabaca cetvele dökersek: Kırgız ile Kazak sohbette anlaşır; Türk, Kırgızcada tek tek kelimeleri ve yapıyı tanır ama akan konuşmayı kulaktan pek çözemez; yazıda ise anlama kulaktakinden belirgin biçimde yüksektir — yakın akraba diller üzerine araştırmaların tutarlıca gösterdiği gibi: okurun tanıdık kökleri “çözmeye” zamanı vardır.",
+            "Dürüst formül şu: Türk dilleri lehçeleriyle tek bir dil değil, birini bilmenin diğerini öğrenmede dev bir avantaj sağladığı bir ailedir — ama öğrenmeyi ortadan kaldırmaz."
+          ]
+        },
+        {
+          "h": "Kırgızca öğrenecek biri için anlamı",
+          "p": [
+            "Türkçe biliyorsanız yarı yoldan başlıyorsunuz: grameri tanıyacak, alfabeyi bir akşamda çıkaracaksınız; asıl emek söz varlığına ve seslere gidecek. “Nasılsa anlarım” tuzağına düşmeyin — anlama kulakta değil, çalışmayla gelir.",
+            "İşin tadına on dakikada bakabilirsiniz: demoda sesli 37 gerçek ifade var — hem tanıdığınızı hem yeniyi ilk oturuşta görürsünüz.",
+            "Pratikte nereden başlamalı: bir akşamda ((Kırgız alfabesini|/blog/kyrgyzskiy-alfavit/tr)) öğrenin, ((Kırgızca dilbilgisinin|/blog/grammatika-kyrgyzskogo/tr)) Türkçeyle nasıl örtüştüğüne bakın ve ((sesli konuşma kılavuzunda|/razgovornik/tr#salam)) gerçek cümleleri dinleyin."
+          ]
+        }
+      ]
+    }
+  },
+  "refs": [
+    {
+      "authors": "Hammarström H., Forkel R., Haspelmath M., Bank S.",
+      "year": 2025,
+      "title": "Kirghiz (kirg1245)",
+      "source": "Glottolog",
+      "url": "https://glottolog.org/resource/languoid/id/kirg1245"
+    },
+    {
+      "authors": "Hammarström H., Forkel R., Haspelmath M., Bank S.",
+      "year": 2025,
+      "title": "Oghuz (oghu1243)",
+      "source": "Glottolog",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "authors": "Abdıkulova R.",
+      "year": 2013,
+      "title": "Türkiye Türkçesi ile Kırgız Türkçesindeki Ortak Kelimeler Üzerine Genel Bir Değerlendirme",
+      "source": "Ulakbilge, 1(2), 41–48",
+      "url": "https://dergipark.org.tr/en/pub/ulakbilge/issue/13425/162282"
+    },
+    {
+      "authors": "Salehi M., Neysani A.",
+      "year": 2017,
+      "title": "Receptive Intelligibility of Turkish to Iranian-Azerbaijani Speakers",
+      "source": "Cogent Education, 4(1)",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/2331186X.2017.1326653"
+    },
+    {
+      "authors": "Gooskens C., van Heuven V.J., Golubović J., Schüppert A., Swarte F., Voigt S.",
+      "year": 2017,
+      "title": "Mutual intelligibility between closely related languages in Europe",
+      "source": "International Journal of Multilingualism, 15(2), 169–193",
+      "url": "https://www.let.rug.nl/gooskens/pdf/publ_ijm_2017.pdf"
+    },
+    {
+      "authors": "Alekseev A., Turatali T.",
+      "year": 2024,
+      "title": "KyrgyzNLP: Challenges, Progress, and Future",
+      "source": "arXiv:2411.05503",
+      "url": "https://arxiv.org/pdf/2411.05503"
+    },
+    {
+      "authors": "Surrey Morphology Group",
+      "year": 2019,
+      "title": "Morpho-syntax of mutual intelligibility in the Turkic languages of Central Asia",
+      "source": "British Academy project",
+      "url": "https://www.smg.surrey.ac.uk/projects/mutual-intelligibility/"
+    }
+  ],
+  "faq": {
+    "ru": [
+      {
+        "q": "Кыргызский и казахский — это один язык?",
+        "a": "Нет, это два разных языка одной кыпчакской ветви. В бытовом разговоре носители понимают друг друга без переводчика, каждый говоря на своём: расхождения чаще фонетические и регулярные — жол/жол, китеп/кітап, балык/балық."
+      },
+      {
+        "q": "Чем кыргызский отличается от казахского?",
+        "a": "Это два разных языка одной кыпчакской ветви, и большая часть различий — регулярные фонетические соответствия и написание: жол/жол (дорога), китеп/кітап (книга), балык/балық (рыба), сүт/сүт (молоко). Соответствия учатся как правила пересчёта, поэтому кыргызский открывает дверь и в казахский."
+      },
+      {
+        "q": "Поймёт ли кыргыз турецкую речь?",
+        "a": "На слух с первого раза — плохо. Грамматика почти параллельна (китептеримде и kitaplarımda собраны из одинаковых деталей), но за века накопились сдвиги в произношении и разошлись заимствования: турецкий брал из арабского и персидского, кыргызский — из русского. На письме понимание заметно выше, чем на слух."
+      },
+      {
+        "q": "Взаимопонятны ли кыргызский и турецкий?",
+        "a": "Не так, как кыргызский с казахским. Кыргызский относят к кыпчакской ветви, турецкий — к огузской, поэтому носители узнают отдельные слова и общую структуру (суу/su, кел-/gel-, беш/beş), но связную речь на слух почти не разбирают. На письме понимание заметно выше, чем на слух: у читателя есть время «расшифровать» знакомые корни."
+      },
+      {
+        "q": "Насколько кыргызский похож на турецкий?",
+        "a": "Это языки одной семьи, но разных ветвей: кыргызский относят к кыпчакской, турецкий — к огузской. Общего много в механике: агглютинация, сингармонизм, порядок слов «кто — что — делает», отсутствие рода, плюс общие корни суу/su, кел-/gel-, беш/beş. Знание турецкого даёт старт с середины пути."
+      },
+      {
+        "q": "Кыргызский — тюркский язык?",
+        "a": "Да. Кыргызский входит в тюркскую семью и обычно относится к кыпчакской ветви, хотя его позиция в классификациях дискуссионна — язык сближают и с южносибирскими тюркскими."
+      }
+    ],
+    "en": [
+      {
+        "q": "Are Kazakh and Kyrgyz mutually intelligible?",
+        "a": "In everyday conversation, largely yes. Both belong to the Kipchak branch, and speakers usually manage a conversation each using their own language; most differences are regular sound correspondences — жол/жол, китеп/кітап, балык/балық."
+      },
+      {
+        "q": "Kyrgyz vs Kazakh: what is the difference between the two languages?",
+        "a": "They are two separate languages of the same Kipchak branch. Most of the difference is regular sound correspondence and spelling: жол/жол (road), китеп/кітап (book), балык/балық (fish), сүт/сүт (milk). The correspondences are learnable as conversion rules, which is why Kyrgyz opens the door to Kazakh as well."
+      },
+      {
+        "q": "Can Kyrgyz speakers understand Turkish?",
+        "a": "Not on first hearing. The grammar is strikingly parallel (китептеримде and kitaplarımda are built from the same parts in the same order), but centuries of sound change and different loanwords — Arabic and Persian in Turkish, Russian in Kyrgyz — block listening comprehension. Written Turkish is easier to follow than spoken."
+      },
+      {
+        "q": "Are Kyrgyz and Turkish mutually intelligible?",
+        "a": "Not in the way Kyrgyz and Kazakh are. Kyrgyz sits in the Kipchak branch and Turkish in the Oghuz branch, so speakers recognise individual words and the shared structure (суу/su, кел-/gel-, беш/beş) but can barely follow connected speech by ear. In writing, comprehension is notably higher than by ear — a reader has time to decode familiar roots."
+      },
+      {
+        "q": "Is Kyrgyz similar to Turkish?",
+        "a": "Same family, different branches: Kyrgyz is usually placed in Kipchak, Turkish in Oghuz. They share the machinery — agglutination, vowel harmony, subject-object-verb order, no grammatical gender — and many roots (суу/su, кел-/gel-, беш/beş). Knowing Turkish means you start Kyrgyz halfway."
+      },
+      {
+        "q": "Is Kyrgyz a Turkic language?",
+        "a": "Yes. Kyrgyz is a Turkic language, normally classified in the Kipchak branch, though its exact position is debated — it is also linked to the South Siberian Turkic languages."
+      }
+    ],
+    "tr": [
+      {
+        "q": "Kırgızca ile Kazakça aynı dil mi?",
+        "a": "Hayır, aynı Kıpçak kolundan iki ayrı dil. Günlük konuşmada konuşurlar herkes kendi dilini kullanarak birbirini çevirmensiz anlar; farklar çoğunlukla düzenli ses denklikleridir: жол/жол, китеп/кітап, балык/балық."
+      },
+      {
+        "q": "Kırgızca ile Kazakça arasındaki fark nedir?",
+        "a": "Aynı Kıpçak kolundan iki ayrı dildir ve farkların çoğu düzenli ses denklikleri ile yazımdır: жол/жол (yol), китеп/кітап (kitap), балык/балық (balık), сүт/сүт (süt). Denklikler dönüşüm kuralı gibi öğrenilir; bu yüzden Kırgızca Kazakçanın da kapısını açar."
+      },
+      {
+        "q": "Bir Türk Kırgızcayı anlar mı?",
+        "a": "İlk duyuşta pek anlamaz. Dilbilgisi şaşırtıcı ölçüde paralel (китептеримде ile kitaplarımda aynı parçalardan aynı sırayla kurulur), ancak yüzyıllar içinde sesler kaydı ve alıntılar ayrıştı: Türkçe Arapça ve Farsçadan, Kırgızca Rusçadan aldı. Yazılı metni anlamak, konuşmayı anlamaktan belirgin biçimde kolaydır."
+      },
+      {
+        "q": "Kırgızca ile Türkçe karşılıklı anlaşılır mı?",
+        "a": "Kırgızca ile Kazakçadaki gibi değil. Kırgızca Kıpçak, Türkçe Oğuz kolundadır; konuşurlar tek tek kelimeleri ve ortak yapıyı tanır (суу/su, кел-/gel-, беш/beş) ama akan konuşmayı kulaktan pek çözemez. Yazıda anlama, kulaktakinden belirgin biçimde yüksektir: okurun tanıdık kökleri çözmeye zamanı vardır."
+      },
+      {
+        "q": "Kırgızca Türkçeye ne kadar benzer?",
+        "a": "Aynı ailenin farklı kolları: Kırgızca genellikle Kıpçak, Türkçe Oğuz koluna konur. Mekanizma ortaktır — eklemeli yapı, ünlü uyumu, özne-nesne-yüklem sırası, cinsiyet yokluğu — ve ortak kökler vardır: суу/su, кел-/gel-, беш/beş. Türkçe bilen Kırgızcaya yolun yarısından başlar."
+      },
+      {
+        "q": "Kırgızca bir Türk dili mi?",
+        "a": "Evet. Kırgızca Türk dilleri ailesindendir ve genellikle Kıpçak koluna yerleştirilir; sınıflandırmadaki yeri tartışmalıdır, dil Güney Sibirya Türk dilleriyle de ilişkilendirilir."
+      }
+    ]
+  }
+}

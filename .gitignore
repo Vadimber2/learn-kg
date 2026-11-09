@@ -1,0 +1,12 @@
+.DS_Store
+deploy/app-uuid
+# локальный конфиг MCP с API-ключами (Wordstat) — в репозиторий не коммитим
+.mcp.json
+pronunciation-out/
+pronunciation-manifest.json
+deploy/video-cache/
+deploy/out/
+.claude/skills/yandex-webmaster/cache/
+
+# учётки — только локально (образец: server/users.example.json)
+server/users.json

@@ -1,0 +1,125 @@
+{
+  "updated": "2026-10-08",
+  "ui": {
+    "ru": {
+      "title": "Русско-кыргызский переводчик онлайн · learn.kg",
+      "desc": "Русско-кыргызский переводчик онлайн: поиск по {n} фразам курса с озвучкой носителя. Перевод на кыргызский (киргизский) — проверенный, не машинный.",
+      "h1": "Русско-кыргызский переводчик онлайн",
+      "lead": "Введите слово или фразу по-русски или по-кыргызски — и получите перевод из {n} живых фраз курса learn.kg, у каждой есть озвучка носителя в разговорнике и тренажёре. Поиск работает в обе стороны: с русского на кыргызский и обратно.",
+      "placeholder": "Например: спасибо, семья, канча…",
+      "note": "Это не машинный перевод: поиск идёт по {n} фразам курса, вычитанным преподавателем и озвученным носителем. Свободный текст переведёт Яндекс Переводчик — а здесь вы найдёте формулировку, как её действительно говорят.",
+      "commonTitle": "Частые фразы с озвучкой",
+      "phrasebookTitle": "Фразы по темам — в разговорнике",
+      "faqTitle": "Частые вопросы",
+      "faq": [
+        {
+          "q": "Это переводчик с русского на кыргызский?",
+          "a": "Да, но не машинный: это поиск по проверенным фразам курса — перевод и произношение каждой вычитаны преподавателем. Машинный перевод (Google Переводчик) не различает вежливые формы и живую речь, здесь же вы получаете фразу, как её действительно говорят в Кыргызстане."
+        },
+        {
+          "q": "А кыргызско-русский переводчик здесь есть?",
+          "a": "Это одна и та же строка поиска: наберите кыргызское слово — увидите русский перевод. Работают и начало слова, и латиница (salam), и опечатка в одну букву."
+        },
+        {
+          "q": "Кыргызский или киргизский — есть разница?",
+          "a": "Это один язык: «кыргызский» — официальная форма от самоназвания, «киргизский» — привычное русское написание. Фразы и перевод одинаковы."
+        },
+        {
+          "q": "Как услышать произношение фразы?",
+          "a": "Откройте ((разговорник с озвучкой|/razgovornik/ru)) — там сотни фраз с голосом носителя, сгруппированные по темам; отдельный разбор частого слова — например, ((спасибо по-кыргызски|/slovo/spasibo/ru)). В курсе озвучена каждая из {n} фраз."
+        }
+      ],
+      "ctaTitle": "Говорить, а не переводить",
+      "ctaText": "Каждая фраза отсюда — карточка курса с интервальными повторениями: через пару месяцев вы будете говорить сами, без переводчика.",
+      "ctaDemo": "Попробовать бесплатно",
+      "ctaTest": "Узнать свой уровень",
+      "mtUrl": "https://translate.yandex.ru/?source_lang={from}&target_lang={to}&text={q}",
+      "mtBtn": "Открыть Яндекс Переводчик",
+      "missTitle": "Точного перевода нет в базе",
+      "missText": "Здесь только {n} фраз курса, проверенных преподавателем, — машинного перевода нет. Такие запросы мы учитываем: частые становятся новыми фразами курса.",
+      "missNear": "Похожие фразы курса",
+      "missMt": "Перевести этот текст в Яндекс Переводчике",
+      "missDemo": "Учить такие фразы с голосом носителя — бесплатное демо"
+    },
+    "en": {
+      "title": "English–Kyrgyz Translator Online · learn.kg",
+      "desc": "English–Kyrgyz translator online: search {n} real course phrases with native-speaker audio. Not machine translation — every phrase is teacher-proofread.",
+      "h1": "English–Kyrgyz Translator Online",
+      "lead": "Type a word or phrase in English or Kyrgyz — and get the translation from {n} real-life phrases of the learn.kg course, each voiced by a native speaker in the phrasebook and trainer. The search runs both ways: English to Kyrgyz and back.",
+      "placeholder": "Try: thank you, family, kancha…",
+      "note": "This is not machine translation: the search covers {n} course phrases, proofread by a teacher and voiced by a native speaker. Google Translate handles free-form text — here you get the wording people actually use.",
+      "commonTitle": "Common phrases with audio",
+      "phrasebookTitle": "Phrases by topic — in the phrasebook",
+      "faqTitle": "FAQ",
+      "faq": [
+        {
+          "q": "Is this an English to Kyrgyz translator?",
+          "a": "Yes, but not a machine one: it is a search across verified course phrases, every translation and pronunciation teacher-proofread. Machine translation (Google Translate) can't tell polite forms from street talk — here you get the phrase as people actually say it in Kyrgyzstan."
+        },
+        {
+          "q": "Does it translate from Kyrgyz to English too?",
+          "a": "It is the same search box: type a Kyrgyz word and you get the English gloss. Word beginnings work, so does Latin spelling (salam) and a one-letter typo."
+        },
+        {
+          "q": "Kyrgyz or Kirghiz — is there a difference?",
+          "a": "The same language: “Kyrgyz” is the official form from the native name, “Kirghiz” an older transliteration. Phrases and translations are identical."
+        },
+        {
+          "q": "How do I hear the pronunciation?",
+          "a": "Open the ((phrasebook with audio|/razgovornik/en)) — hundreds of phrases with native-speaker audio, grouped by topic; single words get their own page, for example ((thank you in Kyrgyz|/slovo/spasibo/en)). In the course, every one of the {n} phrases is voiced."
+        }
+      ],
+      "ctaTitle": "Speak, don't translate",
+      "ctaText": "Every phrase here is a course flashcard with spaced repetition: in a couple of months you will speak on your own, no translator needed.",
+      "ctaDemo": "Try it free",
+      "ctaTest": "Check your level",
+      "mtUrl": "https://translate.google.com/?sl={from}&tl={to}&text={q}&op=translate",
+      "mtBtn": "Open Google Translate",
+      "missTitle": "No exact translation in our base",
+      "missText": "This search covers only the {n} course phrases checked by a teacher — it is not machine translation. We count queries like this one: frequent ones become new course phrases.",
+      "missNear": "Similar course phrases",
+      "missMt": "Translate this text in Google Translate",
+      "missDemo": "Learn phrases like these with a native speaker's voice — free demo"
+    },
+    "tr": {
+      "title": "Türkçe–Kırgızca Çeviri (sesli) · learn.kg",
+      "desc": "Türkçe–Kırgızca çeviri: kursun {n} gerçek ifadesinde anında arama, ana dili sesiyle. Makine çevirisi değil — her ifade öğretmen denetiminden geçti.",
+      "h1": "Türkçe–Kırgızca Çeviri",
+      "lead": "Türkçe veya Kırgızca bir kelime ya da ifade yazın — learn.kg kursunun {n} gerçek ifadesinden çevirisini alın; her biri kılavuzda ve sistemde ana dili konuşurunun sesiyle. Arama iki yönlü çalışır: Türkçeden Kırgızcaya ve tersine.",
+      "placeholder": "Deneyin: teşekkür, aile, kança…",
+      "note": "Bu makine çevirisi değildir: arama, öğretmen denetiminden geçen ve ana dili konuşuru tarafından seslendirilen {n} kurs ifadesini kapsar. Serbest metni Google Çeviri halleder — burada insanların gerçekten kullandığı ifadeyi bulursunuz.",
+      "commonTitle": "Sesli sık kullanılan ifadeler",
+      "phrasebookTitle": "Konuya göre ifadeler — konuşma kılavuzunda",
+      "faqTitle": "Sık sorulan sorular",
+      "faq": [
+        {
+          "q": "Bu Türkçeden Kırgızcaya çeviri mi?",
+          "a": "Evet, ama makine çevirisi değil: doğrulanmış kurs ifadelerinde aramadır, her çeviri ve telaffuz öğretmen denetiminden geçmiştir. Makine çevirisi (Google Çeviri) nezaket biçimlerini ve yaşayan dili ayırt edemez — burada ifadeyi gerçekten söylendiği hâliyle bulursunuz."
+        },
+        {
+          "q": "Kırgızcadan Türkçeye de çeviriyor mu?",
+          "a": "Aynı arama kutusu iki yönlü çalışır: Kırgızca bir kelime yazın, Türkçe karşılığını görün. Kelimenin başı da, Latin harfli yazım da (salam), tek harflik yazım hatası da bulur."
+        },
+        {
+          "q": "Kırgızca mı, Kırgız Türkçesi mi?",
+          "a": "Aynı dil: günlük adı «Kırgızca», akademik gelenekte «Kırgız Türkçesi» denir. İfadeler ve çeviriler aynıdır."
+        },
+        {
+          "q": "Telaffuzu nasıl dinlerim?",
+          "a": "((Sesli konuşma kılavuzunu|/razgovornik/tr)) açın — konuya göre gruplanmış, ana dili konuşurunun sesiyle yüzlerce ifade; tek tek kelimelerin kendi sayfası var, örneğin ((Kırgızca teşekkürler|/slovo/spasibo/tr)). Kursta {n} ifadenin tamamı seslendirilmiştir."
+        }
+      ],
+      "ctaTitle": "Çevirme, konuş",
+      "ctaText": "Buradaki her ifade, aralıklı tekrarlı bir kurs kartıdır: birkaç ay içinde çevirmen olmadan kendiniz konuşursunuz.",
+      "ctaDemo": "Ücretsiz deneyin",
+      "ctaTest": "Seviyenizi öğrenin",
+      "mtUrl": "https://translate.google.com/?sl={from}&tl={to}&text={q}&op=translate",
+      "mtBtn": "Google Çeviri'yi aç",
+      "missTitle": "Veritabanında tam çeviri yok",
+      "missText": "Burada yalnızca öğretmenin kontrol ettiği {n} kurs ifadesi var — makine çevirisi değil. Bu tür sorguları sayıyoruz: sık arananlar yeni kurs ifadeleri olur.",
+      "missNear": "Benzer kurs ifadeleri",
+      "missMt": "Bu metni Google Çeviri'de çevir",
+      "missDemo": "Bu ifadeleri anadili konuşanın sesiyle öğrenin — ücretsiz demo"
+    }
+  }
+}

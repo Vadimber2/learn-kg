@@ -1,0 +1,146 @@
+{
+  "slug": "latinica-ili-kirillica",
+  "published": "2026-08-15",
+  "updated": "2026-10-30",
+  "section": "lang",
+  "og": {"ru": "latinica-ili-kirillica-ru.png", "en": "latinica-ili-kirillica-en.png", "tr": "latinica-ili-kirillica-tr.png"},
+  "figs": {
+    "0": "alphabet",
+    "3": "audio"
+  },
+  "related": [
+    "kyrgyzskiy-alfavit",
+    "kyrgyzskiy-ili-kirgizskiy",
+    "kyrgyzskiy-kazahskiy-turetskiy"
+  ],
+  "refs": [
+    {
+      "authors": "Ager S.",
+      "year": 2025,
+      "title": "Kyrgyz language and alphabets",
+      "source": "Omniglot",
+      "url": "https://www.omniglot.com/writing/kirghiz.htm"
+    },
+    {
+      "authors": "Kaktus.media",
+      "year": 2023,
+      "title": "Садыр Жапаров: говорить о переводе кыргызского языка на латиницу преждевременно",
+      "source": "kaktus.media",
+      "url": "https://kaktus.media/doc/479395_sadyr_japarov:_govorit_o_perevode_kyrgyzskogo_iazyka_na_latinicy_prejdevremenno.html"
+    },
+    {
+      "authors": "Satubaldina A.",
+      "year": 2021,
+      "title": "Kazakhstan Presents New Latin Alphabet, Plans Gradual Transition Through 2031",
+      "source": "The Astana Times",
+      "url": "https://astanatimes.com/2021/02/kazakhstan-presents-new-latin-alphabet-plans-gradual-transition-through-2031/"
+    }
+  ],
+  "langs": {
+    "ru": {
+      "title": "Латиница или кириллица: на чём пишет Кыргызстан",
+      "desc": "Кыргызский за век сменил три письменности: арабица, латиница, кириллица. Почему Кыргызстан не спешит за Казахстаном и что это значит для тех, кто учит язык.",
+      "lead": "Кыргызский успел за одно столетие пожить в трёх письменностях: арабской, латинской и кириллической. Сосед-Казахстан уже утвердил график перехода на латиницу, поэтому вопрос «а Кыргызстан когда?» звучит регулярно. Короткий ответ: официальная позиция — кириллица, и для того, кто учит язык, это хорошая новость. Разбираем почему.",
+      "blocks": [
+        {
+          "h": "Три письменности за одно столетие",
+          "p": [
+            "До конца 1920-х кыргызский записывали адаптированной арабской графикой. В 1928 году, на общесоюзной волне латинизации тюркских языков, её сменил «яналиф» — новый латинский алфавит. А в 1940-м, вместе с большинством языков СССР, кыргызский перевели на кириллицу — на ней он живёт до сих пор.",
+            "Сегодняшний алфавит — 33 знакомые русскоязычному читателю буквы плюс три собственные: ң, ө и ү. Как они читаются и почему кыргызская орфография честнее русской — мы разобрали в ((отдельной статье об алфавите|/blog/kyrgyzskiy-alfavit/ru)); как они звучат в живой речи — слышно в озвучке ((разговорника|/razgovornik/ru#salam))."
+          ]
+        },
+        {
+          "h": "Почему Кыргызстан не спешит переходить на латиницу",
+          "p": [
+            "Разговоры о латинизации в Бишкеке возникают каждые несколько лет — обычно вместе с новостями от соседей. Последний громкий эпизод случился в апреле 2023 года: после того как глава Национальной комиссии по государственному языку рассказал о подготовленных вариантах латинского алфавита президент Садыр Жапаров публично закрыл тему — «говорить о переходе кыргызского языка на латиницу преждевременно», развитие государственного языка продолжится на кириллице.",
+            "Аргументы практические: смена графики — это переиздание учебников, переучивание учителей и чиновников, перевод делопроизводства, разрыв с уже накопленным корпусом текстов. Пока не решены задачи самого языка — методики, словари, цифровые ресурсы, — власти считают смену алфавита роскошью. Так что все официальные тексты, вывески и документы — на кириллице."
+          ]
+        },
+        {
+          "h": "А что у соседей",
+          "p": [
+            "Казахстан идёт другой дорогой: указ о латинизации подписан в 2017-м, в 2021-м правительственная комиссия представила версию алфавита из 31 буквы, а сам переход растянут на 2023–2031 годы — первоначальный срок, 2025 год, оказался нереалистичным, и его отодвинули на шесть лет. Узбекистан начал переход ещё в 1993-м — и спустя три десятилетия кириллица там всё ещё в живом обороте.",
+            "Этот опыт — часть ответа на вопрос «почему Кыргызстан ждёт»: у соседей видно, что смена письменности занимает не годы, а поколения. Для языка с ограниченными ресурсами разумнее вкладываться в контент и обучение, чем в замену букв."
+          ]
+        },
+        {
+          "h": "Что это значит для изучающего",
+          "p": [
+            "Если вы учите кыргызский — учите кириллицу, других вариантов на практике нет: на ней всё, от дорожных указателей до художественной литературы. Для русскоязычного это подарок: читать вы начнёте в первый же день, освоить придётся только ң, ө и ү.",
+            "А латиница в жизни кыргызского всё же присутствует — как транслитерация для тех, кто кириллицу не читает: так кыргызские слова записывают в учебниках для иностранцев и в наших ((английском разговорнике|/razgovornik/en#salam)) и ((переводчике для англоязычных|/perevodchik/en)). Попробовать, как звучит записанное кириллицей, можно в ((бесплатном демо-уроке|/demo/ru)) — каждая фраза с озвучкой носителя."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz Latin alphabet: will Kyrgyzstan switch?",
+      "desc": "Kyrgyz has used three scripts in a century: Arabic, Latin, Cyrillic. Why Kyrgyzstan is not following Kazakhstan to Latin — and what it means for learners.",
+      "lead": "Kyrgyz lived through three writing systems in a single century: Arabic, Latin and Cyrillic. With neighbouring Kazakhstan already on a schedule to switch to Latin, the question “when will Kyrgyzstan follow?” comes up all the time. The short answer: the official line is Cyrillic — and for a learner that is actually good news. Here is why.",
+      "blocks": [
+        {
+          "h": "Three scripts in one century",
+          "p": [
+            "Until the late 1920s Kyrgyz was written in an adapted Arabic script. In 1928, during the Soviet-wide latinisation of Turkic languages, it switched to Yañalif — the “new Latin alphabet”. In 1940, along with most languages of the USSR, Kyrgyz moved to Cyrillic — and has been written in it ever since.",
+            "Today’s alphabet is 33 letters shared with Russian plus three of its own: ң, ө and ү. How they sound and why Kyrgyz spelling is more honest than English spelling is covered in our ((alphabet guide|/blog/kyrgyzskiy-alfavit/en)); you can hear them inside real phrases in the ((phrasebook|/razgovornik/en#salam))."
+          ]
+        },
+        {
+          "h": "Why Kyrgyzstan is in no hurry to go Latin",
+          "p": [
+            "Talk of latinisation resurfaces in Bishkek every few years, usually alongside news from the neighbours. The latest big episode came in April 2023: after the head of the National Language Commission said several draft Latin alphabets were ready and waiting for a political decision, President Sadyr Japarov publicly shut the initiative down — “it is premature to talk about moving Kyrgyz to the Latin script”; the state language will keep developing in Cyrillic.",
+            "The arguments are practical: a new script means reprinting textbooks, retraining schools and administration, and cutting readers off from the accumulated body of texts. Until the language itself has better teaching materials, dictionaries and digital resources, the authorities treat an alphabet swap as a luxury. So every official text, street sign and document stays in Cyrillic."
+          ]
+        },
+        {
+          "h": "What the neighbours are doing",
+          "p": [
+            "Kazakhstan took the other road: a latinisation decree in 2017, a 31-letter alphabet presented in 2021, and a phased transition running from 2023 to 2031 — the original 2025 deadline proved unrealistic and was pushed back by six years. Uzbekistan started its switch back in 1993 — and three decades later Cyrillic is still in everyday use there.",
+            "That experience is a large part of the answer to “why is Kyrgyzstan waiting”: the neighbours show that changing a script takes generations, not years. For a language with limited resources, investing in content and teaching beats swapping letters."
+          ]
+        },
+        {
+          "h": "What this means for learners",
+          "p": [
+            "If you are learning Kyrgyz, learn Cyrillic — in practice there is no alternative: everything from road signs to novels is written in it. The barrier is smaller than it looks: Cyrillic itself is a one-evening job, spelling is nearly phonetic, and only ң, ө and ү need real work.",
+            "Latin still has a role in Kyrgyz life — as transliteration for readers who do not know Cyrillic: that is how Kyrgyz words appear in textbooks for foreigners, and in our ((phrasebook|/razgovornik/en#salam)) and ((phrase translator|/perevodchik/en)) every phrase comes with a Latin transcription. To hear what written Kyrgyz actually sounds like, try the ((free demo lesson|/demo/en)) — native audio for every phrase."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızca Latin alfabesine geçecek mi?",
+      "desc": "Kırgızca bir yüzyılda üç alfabe kullandı: Arap, Latin, Kiril. Kırgızistan neden Kazakistan gibi Latin'e geçmiyor ve bu, öğrenen için ne anlama geliyor?",
+      "lead": "Kırgızca, tek bir yüzyıla üç yazı sistemi sığdırmış bir dil: Arap, Latin ve Kiril. Komşu Kazakistan Latin alfabesine geçiş takvimini çoktan onayladı; bu yüzden «Kırgızistan ne zaman?» sorusu sık sık gündeme geliyor. Kısa cevap: resmî tutum Kiril'den yana — ve öğrenen biri için bu aslında iyi haber. Nedenini anlatalım.",
+      "blocks": [
+        {
+          "h": "Bir yüzyılda üç alfabe",
+          "p": [
+            "1920'lerin sonuna kadar Kırgızca uyarlanmış Arap harfleriyle yazılıyordu. 1928'de, Sovyetler Birliği genelinde Türk dillerini Latinleştirme dalgası sırasında, yerini «Yañalif» — yeni Latin alfabesi — aldı. 1940'ta ise SSCB'deki çoğu dille birlikte Kırgızca Kiril alfabesine geçti ve bugüne dek onunla yazılıyor.",
+            "Bugünkü alfabe, Rusçayla ortak 33 harf ve dile özgü üç harften oluşuyor: ң, ө ve ү. Türkçe konuşan biri için iyi haber: ө ve ү zaten bildiğiniz ö ve ü; yeni olan tek ses ң — «denge» derken genizden çıkardığınız n. Bu seslerin gerçek ifadeler içinde nasıl çıktığını ((konuşma kılavuzunda|/razgovornik/tr#salam)) dinleyebilirsiniz. Alfabenin tamamı ((ayrı bir yazıda|/blog/kyrgyzskiy-alfavit/tr))."
+          ]
+        },
+        {
+          "h": "Kırgızistan Latin alfabesine geçmekte neden acele etmiyor?",
+          "p": [
+            "Latinleştirme tartışması Bişkek'te birkaç yılda bir, genellikle komşulardan gelen haberlerle alevlenir. Son büyük tartışma Nisan 2023'te yaşandı: Ulusal Dil Komisyonu başkanının birkaç Latin alfabesi taslağının hazır olduğunu söylemesinin ardından Cumhurbaşkanı Sadır Caparov girişimi açıkça durdurdu — «Kırgızcanın Latin alfabesine geçişini konuşmak için erken»; devlet dili Kiril'le gelişmeye devam edecek.",
+            "Gerekçeler pratik: alfabe değişimi ders kitaplarının yeniden basılması, öğretmenlerin ve memurların yeniden eğitilmesi, birikmiş metin külliyatıyla bağın kopması demek. Dilin kendi ihtiyaçları — yöntemler, sözlükler, dijital kaynaklar — karşılanmadan alfabe değişimi bir lüks sayılıyor. Bu yüzden bütün resmî metinler, tabelalar ve belgeler Kiril'de."
+          ]
+        },
+        {
+          "h": "Komşular ne yapıyor?",
+          "p": [
+            "Kazakistan öteki yolu seçti: Latinleştirme kararnamesi 2017'de imzalandı, 31 harflik alfabe 2021'de tanıtıldı, geçiş ise 2023–2031 yıllarına yayıldı — ilk hedef olan 2025 gerçekçi çıkmayınca takvim altı yıl ileri atıldı. Özbekistan geçişe 1993'te başladı — otuz yıl sonra Kiril orada hâlâ gündelik kullanımda.",
+            "Bu deneyim, «Kırgızistan neden bekliyor» sorusunun cevabının büyük kısmı: komşular, yazı değişiminin yıllar değil kuşaklar sürdüğünü gösteriyor. Kaynakları sınırlı bir dil için içeriğe ve öğretime yatırım yapmak, harf değiştirmekten daha akıllıca."
+          ]
+        },
+        {
+          "h": "Öğrenen için anlamı ne?",
+          "p": [
+            "Kırgızca öğreniyorsanız Kiril alfabesini öğrenin — pratikte başka yol yok: yol tabelasından romana kadar her şey Kiril'de. Engel göründüğü kadar büyük değil: kelimeler yazıldığı gibi okunur, ө ve ү zaten bildiğiniz ö ve ü, gerçek emek isteyen tek harf ң.",
+            "Latin harfleri ise Kırgızcanın hayatında çeviri yazı olarak yaşıyor: yabancılar için yazılmış ders kitaplarında Kırgızca kelimeler Latin harfleriyle de verilir, bizim ((konuşma kılavuzumuzda|/razgovornik/tr#salam)) ve ((ifade çevirimizde|/perevodchik/tr)) de her ifadenin yanında Latin harfli okunuş var. Kiril'le yazılmış Kırgızcanın kulağa nasıl geldiğini ((ücretsiz demo derste|/demo/tr)) dinleyebilirsiniz — her ifade ana dili konuşurunun sesiyle."
+          ]
+        }
+      ]
+    }
+  }
+}

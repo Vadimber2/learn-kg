@@ -1,0 +1,389 @@
+{
+  "slug": "kyrgyzskiy-alfavit",
+  "published": "2026-08-07",
+  "updated": "2026-08-17",
+  "section": "learn",
+  "og": {"ru": "kyrgyzskiy-alfavit-ru.png", "en": "kyrgyzskiy-alfavit-en.png", "tr": "kyrgyzskiy-alfavit-tr.png"},
+  "figs": {
+    "0": "alphabet",
+    "2": "audio",
+    "4": "harmony"
+  },
+  "related": [
+    "latinica-ili-kirillica",
+    "slozhno-li-vyuchit-kyrgyzskiy",
+    "kak-uchit-kyrgyzskiy"
+  ],
+  "langs": {
+    "ru": {
+      "title": "Кыргызский алфавит: 36 букв и три особых звука",
+      "desc": "Кыргызская (киргизская) кириллица — 33 знакомые буквы плюс ң, ө и ү: как читать по-кыргызски с первого дня и как поставить три особых звука.",
+      "lead": "Если вы читаете этот текст, вы уже умеете читать по-кыргызски примерно на девяносто процентов. Кыргызский пишется кириллицей, и почти все буквы вам знакомы. Новых — ровно три: ң, ө и ү. Разбираем алфавит целиком и показываем, как за один вечер начать читать настоящие кыргызские слова.",
+      "blocks": [
+        {
+          "h": "36 букв, из которых новые — три",
+          "p": [
+            "Кыргызский алфавит построен на кириллице: 33 буквы, знакомые каждому, кто читает по-русски, плюс три собственные — ң, ө и ү. Итого 36.",
+            "Это значит, что порог входа в чтение у кыргызского один из самых низких среди языков мира: не нужно учить новую письменность, как в арабском или корейском, — нужно освоить три буквы и несколько правил чтения.",
+            "Вот весь алфавит в официальном порядке: А Б В Г Д Е Ё Ж З И Й К Л М Н Ң О Ө П Р С Т У Ү Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я. Три собственные буквы стоят сразу после своих «родственников»: ң после н, ө после о, ү после у — по этому порядку строятся словари."
+          ]
+        },
+        {
+          "h": "Читается как пишется",
+          "p": [
+            "Кыргызская орфография близка к фонематической: буква почти всегда обозначает один и тот же звук, а слово читается так, как написано. Привычной русской редукции безударных гласных здесь нет: в слове «молоко» русский произносит три разных «о», кыргызское слово каждую свою гласную держит чистой.",
+            "Практическое следствие: в исконной лексике, научившись читать, вы сразу читаете правильно. Главное исключение — заимствования из русского: они сохраняют русское написание и читаются по-русски."
+          ]
+        },
+        {
+          "h": "Три особых буквы: ң, ө, ү",
+          "p": [
+            "Ң — носовой звук, как английское «ng» в слове «song»: задняя часть языка смыкается с мягким нёбом. Он не встречается в начале слова, зато обычен в середине и в конце: сиңди, миң, таң.",
+            "Ө и ү — гласные переднего ряда с округлением губ. Ближайшие ориентиры — немецкие ö и ü или турецкие ö и ü: скажите «э» и «и», не меняя языка, вытяните губы трубочкой — получатся ө и ү. Слушайте озвучку на замедленной скорости и повторяйте вслух: эти звуки ставятся ушами и ртом, а не глазами."
+          ],
+          "t": {
+            "head": [
+              "Буква",
+              "Как звучит",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "ң",
+                "носовой «нг», как в английском song; в начале слова не встречается",
+                "миң (тысяча), таң (рассвет), сиңди (младшая сестра)"
+              ],
+              [
+                "ө",
+                "«э» с округлёнными губами — как немецкое и турецкое ö",
+                "көл (озеро), көз (глаз)"
+              ],
+              [
+                "ү",
+                "«и» с округлёнными губами — как немецкое и турецкое ü",
+                "үй (дом), сүт (молоко), гүл (цветок)"
+              ],
+              [
+                "ж",
+                "ближе к «дж», чем к русскому «ж»",
+                "жол (дорога) — почти «джол», жаңы (новый)"
+              ],
+              [
+                "к, г",
+                "возле твёрдых гласных уходят глубже в горло",
+                "кол (рука) звучит жёстче русского «кол»"
+              ],
+              [
+                "в, ф, ц, щ, ъ, ь",
+                "живут почти только в заимствованиях из русского",
+                "в исконных кыргызских словах почти не встречаются"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "Чем кыргызские буквы отличаются от русских",
+          "p": [
+            "Несколько знакомых букв в кыргызском звучат иначе. К и г возле твёрдых гласных уходят глубже в горло: кол (рука) звучит жёстче русского «кол». Буква ж читается ближе к «дж»: жол (дорога) — почти «джол».",
+            "Буквы в, ф, ц, щ, ь и ъ живут в основном в заимствованиях из русского — в исконных кыргызских словах вы их почти не встретите. Так что реальный рабочий набор ещё меньше, чем 36."
+          ]
+        },
+        {
+          "h": "Гласные ходят парами — это пригодится сразу",
+          "p": [
+            "Восемь кыргызских гласных делятся на два ряда: твёрдые а, ы, о, у и мягкие е, и, ө, ү. Внутри слова гласные согласуются между собой — это сингармонизм, главное правило языка.",
+            "Учить его наизусть на этапе алфавита не нужно — достаточно заметить, что ряды существуют: когда начнёте добавлять к словам окончания, правило «какая гласная — такой и аффикс» окажется уже наполовину знакомым."
+          ]
+        },
+        {
+          "h": "План на один вечер",
+          "p": [
+            "Первые полчаса: пройдите алфавит с озвучкой, задерживаясь только на ң, ө, ү — остальное вы уже знаете. Вторые полчаса: читайте вслух простые слова с этими буквами — үй (дом), көл (озеро), тоң (мёрзни), сүт (молоко), — сверяясь с озвучкой на обычной и замедленной скорости.",
+            "К концу вечера вы будете читать любое кыргызское слово. Медленно — но правильно, и это честная точка старта для всего остального курса.",
+            "Дальше по порядку: разберите ((приветствия по-кыргызски|/blog/privetstviya-po-kyrgyzski/ru)) — там первые живые фразы с озвучкой, послушайте те же звуки в ((разговорнике с озвучкой носителя|/razgovornik/ru#salam)), а если вам интересен спор о письменности — есть отдельный разбор ((латиница или кириллица|/blog/latinica-ili-kirillica/ru))."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "The Kyrgyz alphabet: 36 letters, three special sounds",
+      "desc": "Kyrgyz Cyrillic is 33 familiar letters plus ң, ө and ү: how to start reading Kyrgyz from day one and master the three special sounds.",
+      "lead": "Kyrgyz is written in Cyrillic, and if you can read Russian you can already read about ninety percent of it; if you cannot, Cyrillic itself is a one-evening project — most letters have close Latin relatives. The genuinely new letters are exactly three: ң, ө and ү. Here is the whole alphabet, and a plan to start reading real Kyrgyz words in one evening.",
+      "blocks": [
+        {
+          "h": "36 letters, and only three are new",
+          "p": [
+            "The Kyrgyz alphabet is Cyrillic-based: the 33 letters of the Russian alphabet plus three of its own — ң, ө and ү. Thirty-six in total.",
+            "That makes the reading barrier one of the lowest among world languages: you are not learning a new script, as with Arabic or Korean — you are learning three letters and a few reading rules.",
+            "Here is the whole alphabet in its official order: А Б В Г Д Е Ё Ж З И Й К Л М Н Ң О Ө П Р С Т У Ү Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я. The three Kyrgyz-only letters follow their closest relatives — ң after н, ө after о, ү after у — and dictionaries are ordered that way."
+          ]
+        },
+        {
+          "h": "Read as written",
+          "p": [
+            "Kyrgyz spelling is close to phonemic: a letter almost always stands for the same sound, and a word is read the way it is written. There is no vowel reduction of the Russian kind, and nothing like English spelling chaos.",
+            "The practical consequence: in native vocabulary, once you can read, you read correctly. The main exception is Russian loanwords — they keep their Russian spelling and are read the Russian way."
+          ]
+        },
+        {
+          "h": "The three special letters: ң, ө, ү",
+          "p": [
+            "Ң is the nasal sound of English “ng” in “song”: the back of the tongue closes against the soft palate. It never starts a word, but it is common in the middle and at the end: сиңди, миң, таң.",
+            "Ө and ү are front rounded vowels — the same sounds as German ö and ü or Turkish ö and ü. Say “e” and “ee”, keep the tongue where it is, and round your lips — you get ө and ү. Listen to the audio at half speed and repeat aloud: these sounds are learned with ears and mouth, not with eyes."
+          ],
+          "t": {
+            "head": [
+              "Letter",
+              "How it sounds",
+              "Example"
+            ],
+            "rows": [
+              [
+                "ң",
+                "nasal “ng” as in song; never starts a word",
+                "миң (thousand), таң (dawn), сиңди (younger sister)"
+              ],
+              [
+                "ө",
+                "“e” with rounded lips — like German and Turkish ö",
+                "көл (lake), көз (eye)"
+              ],
+              [
+                "ү",
+                "“ee” with rounded lips — like German and Turkish ü",
+                "үй (house), сүт (milk), гүл (flower)"
+              ],
+              [
+                "ж",
+                "closer to “j” in jam than to Russian ж",
+                "жол (road) sounds almost like “jol”, жаңы (new)"
+              ],
+              [
+                "к, г",
+                "move deeper into the throat next to back vowels",
+                "кол (hand) is harder than the Russian кол"
+              ],
+              [
+                "в, ф, ц, щ, ъ, ь",
+                "appear almost only in Russian loanwords",
+                "virtually absent from native Kyrgyz words"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "Where Kyrgyz letters differ from Russian ones",
+          "p": [
+            "A few familiar letters sound different in Kyrgyz. К and г next to back vowels go deeper into the throat: кол (hand) is harder than its Russian look-alike. The letter ж reads close to “j”: жол (road) is almost “jol”.",
+            "The letters в, ф, ц, щ, ь and ъ live mostly in Russian loanwords — you will hardly meet them in native Kyrgyz words. The real working set is even smaller than 36."
+          ]
+        },
+        {
+          "h": "Vowels come in two rows — and this pays off immediately",
+          "p": [
+            "The eight Kyrgyz vowels split into two rows: back а, ы, о, у and front е, и, ө, ү. Inside a word the vowels agree with each other — that is vowel harmony, the central rule of the language.",
+            "You do not need to memorise it at the alphabet stage — just notice that the rows exist: when you start adding endings to words, the rule “the vowel decides the affix” will already feel half-familiar."
+          ]
+        },
+        {
+          "h": "The one-evening plan",
+          "p": [
+            "First half hour: go through the alphabet with audio, pausing only on ң, ө, ү — the rest you already know. Second half hour: read simple words with these letters aloud — үй (house), көл (lake), тоң (freeze), сүт (milk) — checking yourself against the audio at normal and half speed.",
+            "By the end of the evening you will read any Kyrgyz word. Slowly — but correctly, and that is an honest starting point for the rest of the course.",
+            "Where to go next: work through ((Kyrgyz greetings|/blog/privetstviya-po-kyrgyzski/en)) for your first real phrases, hear the same sounds in the ((phrasebook with native audio|/razgovornik/en#salam)), and if the script debate interests you, read ((Latin or Cyrillic|/blog/latinica-ili-kirillica/en))."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgız alfabesi: bir akşamda 36 harf ve üç özel ses",
+      "desc": "Kırgız Kiril alfabesi, tanıdık 33 harf artı ң, ө ve ү demek: ilk günden Kırgızca okumaya nasıl başlanır, üç özel ses nasıl oturtulur, anlatıyoruz.",
+      "lead": "Kırgızca Kiril alfabesiyle yazılır ve Türkçe konuşanlar için iyi haber şu: alfabe bir akşamlık iş, sesler ise zaten tanıdık — ö ve ü Türkçede var, gerçekten yeni olan tek ses ң. Alfabenin tamamını ve bir akşamda gerçek Kırgızca kelimeler okumaya başlama planını anlatıyoruz.",
+      "blocks": [
+        {
+          "h": "36 harf — ve yalnızca üçü yeni",
+          "p": [
+            "Kırgız alfabesi Kiril temellidir: Rus alfabesinin 33 harfi artı dilin kendi üç harfi — ң, ө ve ү. Toplam 36.",
+            "Bu, okuma eşiğini dünya dilleri arasında en düşüklerden biri yapar: Arapça ya da Korece gibi yeni bir yazı sistemi öğrenmiyorsunuz — birkaç okuma kuralı ve Kiril harflerini öğreniyorsunuz; harflerin çoğunun Latin karşılığı bire bir.",
+            "İşte alfabenin tamamı, resmî sırasıyla: А Б В Г Д Е Ё Ж З И Й К Л М Н Ң О Ө П Р С Т У Ү Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я. Kırgızcaya özgü üç harf en yakın akrabalarının ardından gelir: н'den sonra ң, о'dan sonra ө, у'dan sonra ү; sözlükler de bu sıraya göre dizilir."
+          ]
+        },
+        {
+          "h": "Yazıldığı gibi okunur",
+          "p": [
+            "Kırgız yazımı fonemik yazıma yakındır: bir harf hemen her zaman aynı sesi gösterir ve kelime yazıldığı gibi okunur — tıpkı Türkçede olduğu gibi. İngilizcedeki yazım kaosuna benzer bir şey yoktur.",
+            "Pratik sonuç: öz söz varlığında okumayı söktüğünüz anda doğru okursunuz. Başlıca istisna Rusça alıntılardır — bunlar Rusça yazımını korur ve Rusça okunur."
+          ]
+        },
+        {
+          "h": "Üç özel harf: ң, ө, ү",
+          "p": [
+            "Ң, İngilizce “song” kelimesindeki “ng” sesidir — Türkçede yazıda gösterilmez ama “denge, banka” derken genizden çıkan sese çok yakındır. Kelime başında bulunmaz; ortada ve sonda sık görülür: сиңди, миң, таң.",
+            "Ө ve ү Türkçe konuşanlar için hediye: bunlar bildiğiniz ö ve ü. Yani üç “yeni” harften ikisi yalnızca yeni birer işaret — ses zaten dilinizde. Yarım hızda dinleyip yüksek sesle tekrarlayın; iş birkaç dakikada biter."
+          ],
+          "t": {
+            "head": [
+              "Harf",
+              "Nasıl okunur",
+              "Örnek"
+            ],
+            "rows": [
+              [
+                "ң",
+                "İngilizce song'daki gibi genizden “ng”; kelime başında bulunmaz",
+                "миң (bin), таң (şafak), сиңди (küçük kız kardeş)"
+              ],
+              [
+                "ө",
+                "Türkçedeki ö ile aynı",
+                "көл (göl), көз (göz)"
+              ],
+              [
+                "ү",
+                "Türkçedeki ü ile aynı",
+                "үй (ev), сүт (süt), гүл (gül)"
+              ],
+              [
+                "ж",
+                "Rusçadaki ж'den çok, “c” sesine yakın",
+                "жол (yol) neredeyse “col”, жаңы (yeni)"
+              ],
+              [
+                "к, г",
+                "kalın ünlülerin yanında daha gırtlaktan çıkar",
+                "кол (el) Rusçadaki кол'dan daha tok duyulur"
+              ],
+              [
+                "в, ф, ц, щ, ъ, ь",
+                "hemen hemen yalnız Rusçadan alıntılarda görülür",
+                "özgün Kırgızca kelimelerde neredeyse yok"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "Kiril harflerinin Türkçe karşılıkları",
+          "p": [
+            "Birkaç eşleşme her şeyi kolaylaştırır: ж = c (жол → “col”, yol), ч = ç, ш = ş, ы = ı, й = y, э/е = e. К ve г kalın ünlülerin yanında gırtlağa iner — Türkçedeki kalın k/g gibi.",
+            "В, ф, ц, щ, ь ve ъ harfleri çoğunlukla Rusça alıntılarda yaşar — öz Kırgızca kelimelerde neredeyse hiç görülmez. Gerçek çalışma seti 36'dan bile küçüktür."
+          ]
+        },
+        {
+          "h": "Ünlüler iki sıra hâlinde — bu hemen işe yarar",
+          "p": [
+            "Sekiz Kırgız ünlüsü iki sıraya ayrılır: kalın а, ы, о, у ve ince е, и, ө, ү. Kelime içinde ünlüler birbiriyle uyumludur — bu, Türkçeden tanıdığınız ünlü uyumunun ta kendisi.",
+            "Alfabe aşamasında ezberlemek gerekmez — sıraların varlığını fark etmek yeter: kelimelere ek koymaya başladığınızda “ünlü neyse ek odur” kuralı size zaten yarı yarıya tanıdık gelecek."
+          ]
+        },
+        {
+          "h": "Bir akşamlık plan",
+          "p": [
+            "İlk yarım saat: alfabeyi sesli kayıtla geçin, yalnızca ң, ө, ү üzerinde durun — gerisi büyük ölçüde tanıdık. İkinci yarım saat: bu harfli basit kelimeleri yüksek sesle okuyun — үй (ev), көл (göl), тоң (don), сүт (süt) — normal ve yarım hızdaki kayıtla karşılaştırarak.",
+            "Akşamın sonunda her Kırgızca kelimeyi okuyabileceksiniz. Yavaş — ama doğru; kursun geri kalanı için dürüst bir başlangıç noktası budur.",
+            "Sırada ne var: ilk gerçek cümleler için ((Kırgızca selamlaşma|/blog/privetstviya-po-kyrgyzski/tr)) yazısını okuyun, aynı sesleri ((ana dili konuşurunun sesiyle konuşma kılavuzunda|/razgovornik/tr#salam)) dinleyin; alfabe tartışması ilginizi çekiyorsa ((Latin mi Kiril mi|/blog/latinica-ili-kirillica/tr)) yazısına bakın."
+          ]
+        }
+      ]
+    }
+  },
+  "refs": [
+    {
+      "authors": "Ager S.",
+      "year": 2025,
+      "title": "Kyrgyz language and alphabets",
+      "source": "Omniglot",
+      "url": "https://www.omniglot.com/writing/kirghiz.htm"
+    },
+    {
+      "authors": "Wikipedia contributors",
+      "year": 2026,
+      "title": "Kyrgyz alphabets",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_alphabets"
+    },
+    {
+      "authors": "Stern N.Z., Washington J.N.",
+      "year": 2019,
+      "title": "A Phonetic Study of Length and Duration in Kyrgyz Vowels",
+      "source": "Proc. of the Workshop on Turkic and Languages in Contact with Turkic, 4, 119–131",
+      "url": "https://works.swarthmore.edu/fac-linguistics/256/"
+    },
+    {
+      "authors": "Odagiri N.",
+      "year": 2013,
+      "title": "Debates Concerning Elements of Russian Origin in the Kyrgyz Language",
+      "source": "Slavic-Eurasian Research Center, Hokkaido University",
+      "url": "https://src-h.slav.hokudai.ac.jp/jcrees/2013Osaka/72NamiOdagiri.pdf"
+    },
+    {
+      "authors": "Washington J.N., Ipasov M., Tyers F.M.",
+      "year": 2012,
+      "title": "A finite-state morphological transducer for Kyrgyz",
+      "source": "Proceedings of LREC 2012, 934–940",
+      "url": "https://aclanthology.org/L12-1642/"
+    },
+    {
+      "authors": "Anderson-Hsieh J., Dauer R.M.",
+      "year": 1997,
+      "title": "Slowed-Down Speech: A Teaching Tool for Listening/Pronunciation",
+      "source": "TESOL '97, ERIC ED413774",
+      "url": "https://files.eric.ed.gov/fulltext/ED413774.pdf"
+    }
+  ],
+  "faq": {
+    "ru": [
+      {
+        "q": "Сколько букв в кыргызском алфавите?",
+        "a": "Тридцать шесть: 33 буквы кириллицы, знакомые каждому, кто читает по-русски, плюс три собственные — ң, ө и ү."
+      },
+      {
+        "q": "Какие буквы есть в кыргызском, но нет в русском?",
+        "a": "Ровно три: ң — носовой звук, как английское «ng» в song (сиңди, миң, таң); ө и ү — гласные переднего ряда с округлением губ (көл, үй)."
+      },
+      {
+        "q": "Как читаются ө и ү?",
+        "a": "Скажите «э» и «и», не меняя положения языка, и вытяните губы трубочкой — получатся ө и ү. Ближайшие ориентиры — немецкие и турецкие ö и ü."
+      },
+      {
+        "q": "Кыргызский язык пишется латиницей или кириллицей?",
+        "a": "Кириллицей — с 1940 года; до этого использовались арабское письмо (до 1928) и латиница (1928–1940). Разговоры о возврате к латинице власти Кыргызстана считают преждевременными."
+      }
+    ],
+    "en": [
+      {
+        "q": "How many letters are in the Kyrgyz alphabet?",
+        "a": "Thirty-six: the 33 Cyrillic letters familiar to any reader of Russian, plus three of its own — ң, ө and ү."
+      },
+      {
+        "q": "Which letters does Kyrgyz have that Russian does not?",
+        "a": "Exactly three: ң, a nasal sound like the “ng” in song (сиңди, миң, таң), and the rounded front vowels ө and ү (көл, үй)."
+      },
+      {
+        "q": "How do you pronounce ө and ү?",
+        "a": "Say “e” and “ee” without moving your tongue, then round your lips — that gives ө and ү. The closest reference points are German and Turkish ö and ü."
+      },
+      {
+        "q": "Does Kyrgyz use the Cyrillic or the Latin alphabet?",
+        "a": "Cyrillic, since 1940; before that Kyrgyz used the Arabic script (until 1928) and a Latin alphabet (1928–1940). Kyrgyz authorities consider a switch back to Latin premature."
+      }
+    ],
+    "tr": [
+      {
+        "q": "Kırgız alfabesinde kaç harf var?",
+        "a": "Otuz altı: Rusça okuyan herkesin bildiği 33 Kiril harfi ve Kırgızcaya özgü üç harf — ң, ө, ү."
+      },
+      {
+        "q": "Kırgızcada olup Rusçada olmayan harfler hangileri?",
+        "a": "Tam üç harf: ң, İngilizce song sözcüğündeki “ng” gibi genizden bir ses (сиңди, миң, таң) ve yuvarlak ön ünlüler ө ile ү (көл, үй)."
+      },
+      {
+        "q": "ө ve ү nasıl okunur?",
+        "a": "Dilinizi oynatmadan “e” ve “i” deyip dudaklarınızı yuvarlayın — ө ve ү çıkar. En yakın karşılıkları Türkçedeki ö ve ü'dür."
+      },
+      {
+        "q": "Kırgızca Latin mi Kiril alfabesiyle mi yazılır?",
+        "a": "1940'tan beri Kiril alfabesiyle; öncesinde Arap harfleri (1928'e kadar) ve Latin alfabesi (1928–1940) kullanıldı. Kırgızistan yönetimi Latin alfabesine geçişi şimdilik erken buluyor."
+      }
+    ]
+  }
+}

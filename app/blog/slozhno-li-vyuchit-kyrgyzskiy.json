@@ -1,0 +1,231 @@
+{
+  "slug": "slozhno-li-vyuchit-kyrgyzskiy",
+  "published": "2026-08-07",
+  "updated": "2026-08-15",
+  "section": "learn",
+  "og": {"ru": "slozhno-li-vyuchit-kyrgyzskiy-ru.png", "en": "slozhno-li-vyuchit-kyrgyzskiy-en.png", "tr": "slozhno-li-vyuchit-kyrgyzskiy-tr.png"},
+  "figs": {
+    "1": "morphemes",
+    "2": "harmony",
+    "4": "curve"
+  },
+  "related": [
+    "grammatika-kyrgyzskogo",
+    "kyrgyzskiy-alfavit",
+    "kyrgyzskiy-kazahskiy-turetskiy"
+  ],
+  "langs": {
+    "ru": {
+      "title": "Сложно ли выучить кыргызский? Честный разбор",
+      "desc": "Агглютинация, сингармонизм и порядок слов пугают на первой неделе, а потом оказываются самой регулярной частью кыргызского (киргизского) языка.",
+      "lead": "Короткий ответ: кыргызский устроен непривычно, но честно. В нём почти нет исключений, нет родов, нет непроизносимой орфографии — зато есть три-четыре механики, которых нет в русском. Разбираем по пунктам, что придётся осваивать всерьёз, а что окажется проще, чем вы думаете.",
+      "blocks": [
+        {
+          "h": "Что пугает на входе — и почему зря",
+          "p": [
+            "Первое впечатление от кыргызского текста обманчиво: длинные слова, незнакомые окончания, глагол в конце предложения. Кажется, что всё это придётся зазубривать.",
+            "На деле за каждой из этих странностей стоит одно простое правило, которое работает всегда. Кыргызский — язык регулярный: выучив механику один раз, вы применяете её ко всему словарю сразу. Сравните с русским, где «стол — столы», но «стул — стулья», а «человек» вообще «люди»."
+          ]
+        },
+        {
+          "h": "Агглютинация: слова собираются как конструктор",
+          "p": [
+            "Длинное кыргызское слово — это короткий корень плюс цепочка аффиксов, каждый со своим значением: китеп-тер-им-де — «книга + много + моя + в» = «в моих книгах». Ни один аффикс не меняет соседей до неузнаваемости, границы всегда видны.",
+            "Это отличается от русского, где окончание склеивает несколько смыслов сразу и меняется непредсказуемо. В кыргызском вы не запоминаете формы — вы собираете их. Через пару недель это начинает ощущаться не как трудность, а как игра в конструктор."
+          ]
+        },
+        {
+          "h": "Сингармонизм: одно правило вместо ста таблиц",
+          "p": [
+            "Гласные внутри слова согласуются: твёрдый ряд а, ы, о, у притягивает твёрдые варианты аффиксов, мягкий е, и, ө, ү — мягкие. Жумуш + та, но үй + дө.",
+            "Это правило нужно довести до автоматизма — на слух и до рефлекса, не по таблице. Зато оно одно обслуживает весь язык: падежи, множественное число, принадлежность, времена глагола. В тренажёре под него отведён отдельный дрилл, и обычно за неделю выбор варианта перестаёт требовать раздумий."
+          ]
+        },
+        {
+          "h": "Порядок слов: глагол в конце",
+          "p": [
+            "Кыргызское предложение строится по схеме «кто — что — делает»: Мен китеп окуйм — «Я книгу читаю». Глагол закрывает предложение, определение всегда стоит перед определяемым.",
+            "Русскому свободному порядку слов это противоречит, и первые недели мозг будет пытаться ставить глагол в середину. Лечится только практикой готовыми фразами: когда вы запоминаете не правило, а десятки живых предложений, порядок слов приходит сам."
+          ]
+        },
+        {
+          "h": "Что действительно требует времени",
+          "p": [
+            "Честный список трудностей короткий. Лексика: общих корней с русским мало, почти каждое слово — новое, и без системы повторений словарь просто не удержится. Три звука ң, ө, ү, которых нет в русском. И автоматизация сингармонизма — не понимание, а рефлекс.",
+            "Ни одна из этих задач не решается зубрёжкой за выходные — все три решаются короткой ежедневной практикой. Именно поэтому курс построен на интервальных повторениях и пятнадцати-двадцати минутах в день."
+          ]
+        },
+        {
+          "h": "Что окажется проще, чем в русском",
+          "p": [
+            "В кыргызском нет грамматического рода — не нужно запоминать, «стол» это он или она. Нет приставочных глаголов с непредсказуемыми значениями. Орфография в исконной лексике фонематическая: как слышится, так и пишется (заимствования из русского — по русским правилам). Ударение предсказуемо тяготеет к концу слова.",
+            "А главное — исключения в кыргызском можно пересчитать по пальцам. Усилия, которые в европейских языках уходят на заучивание списков неправильных форм, здесь возвращаются в виде скорости: правило выучил — применяешь везде."
+          ]
+        },
+        {
+          "h": "Вердикт",
+          "p": [
+            "Кыргызский — язык со средним порогом входа и низкой ценой продвижения: первые две-три недели непривычно, дальше регулярность языка начинает работать на вас.",
+            "Проверить это на себе можно за десять минут: в демо открыты карточки с озвучкой и тот самый дрилл на сингармонизм. Если после недели коротких занятий выбор аффикса станет автоматическим — значит, самое «страшное» в кыргызском вы уже прошли."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Is Kyrgyz hard to learn? An honest breakdown",
+      "desc": "Agglutination, vowel harmony and verb-final word order look scary in week one — and turn out to be the most regular part of Kyrgyz. What is genuinely hard?",
+      "lead": "The short answer: Kyrgyz is unfamiliar, but fair. It has almost no exceptions, no grammatical gender, no spelling chaos — and three or four mechanics that English does not have. Here is an honest list of what takes real work and what turns out easier than it looks.",
+      "blocks": [
+        {
+          "h": "What scares you at the start — and why it should not",
+          "p": [
+            "A first look at a Kyrgyz text is misleading: long words, unfamiliar endings, the verb at the very end of the sentence. It looks like a mountain of memorisation.",
+            "In reality, each of these oddities is driven by one simple rule that always applies. Kyrgyz is a regular language: learn a mechanism once and it works across the whole vocabulary. Compare that with English spelling, or with verb lists like “go — went — gone”."
+          ]
+        },
+        {
+          "h": "Agglutination: words assemble like building blocks",
+          "p": [
+            "A long Kyrgyz word is a short root plus a chain of affixes, each with its own meaning: китеп-тер-им-де — “book + plural + my + in” = “in my books”. No affix mangles its neighbours; the seams stay visible.",
+            "You do not memorise forms — you assemble them. After a couple of weeks this stops feeling like a difficulty and starts feeling like a construction set."
+          ]
+        },
+        {
+          "h": "Vowel harmony: one rule instead of a hundred tables",
+          "p": [
+            "Vowels inside a word agree with each other: the back row а, ы, о, у attracts back variants of affixes, the front row е, и, ө, ү attracts front ones. Жумуш + та, but үй + дө.",
+            "This rule has to become automatic — by ear, as a reflex, not as a table. In return, this single rule runs the entire language: cases, plurals, possession, verb tenses. The trainer has a dedicated drill for it, and the choice usually becomes automatic within a week."
+          ]
+        },
+        {
+          "h": "Word order: the verb comes last",
+          "p": [
+            "A Kyrgyz sentence follows “who — what — does”: Мен китеп окуйм — “I a-book read”. The verb closes the sentence; modifiers always precede what they modify.",
+            "If your native language is English, your brain will keep trying to put the verb in the middle for the first weeks. The cure is practice with ready-made phrases: when you absorb dozens of living sentences rather than a rule, the word order settles in by itself."
+          ]
+        },
+        {
+          "h": "What genuinely takes time",
+          "p": [
+            "The honest list of difficulties is short. Vocabulary: Kyrgyz shares few roots with English, almost every word is new, and without a repetition system it simply will not stick. Three sounds — ң, ө, ү — that English lacks. And automating vowel harmony — not understanding it, but making it a reflex.",
+            "None of these are solved by a weekend of cramming — all three are solved by short daily practice. That is exactly why the course is built on spaced repetition and fifteen to twenty minutes a day."
+          ]
+        },
+        {
+          "h": "What turns out easier than expected",
+          "p": [
+            "Kyrgyz has no grammatical gender — nothing to memorise about tables being masculine. No irregular verb lists. Spelling of native vocabulary is phonemic: words are written the way they sound (Russian loanwords follow Russian spelling). Stress predictably gravitates to the end of the word.",
+            "Above all, exceptions in Kyrgyz can be counted on one hand. The effort that European languages spend on memorising irregular forms comes back here as speed: learn a rule once, apply it everywhere."
+          ]
+        },
+        {
+          "h": "The verdict",
+          "p": [
+            "Kyrgyz is a language with a moderate entry threshold and a low cost of progress: the first two or three weeks feel unfamiliar, after which the regularity of the language starts working for you.",
+            "You can test this on yourself in ten minutes: the demo has flashcards with audio and that very vowel-harmony drill. If after a week of short sessions the affix choice becomes automatic — the scariest part of Kyrgyz is already behind you."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızca öğrenmek zor mu? Dürüst bir bakış",
+      "desc": "Eklemeli yapı, ünlü uyumu, özne–nesne–yüklem dizilişi: Türkçe konuşan birine zaten tanıdık. Kırgızcada gerçekten emek isteyen ne, kendiliğinden gelen ne?",
+      "lead": "Kısa cevap: Türkçe konuşan biri için Kırgızca, öğrenmesi en kolay dillerden biridir. Eklemeli yapı, ünlü uyumu ve cümle dizilişi Türkçeyle aynı mantıkta işler; gerçekten yeni olan şeylerin listesi kısadır. Neyin bedava geldiğini, neyin emek istediğini dürüstçe ayırıyoruz.",
+      "blocks": [
+        {
+          "h": "İlk bakışta korkutan — ama size değil",
+          "p": [
+            "Kırgızca metne ilk bakış çoğu öğrenciyi ürkütür: uzun kelimeler, ek zincirleri, yüklem sonda. Rusça ya da İngilizce konuşanlar için bunlar aylarca alışma demektir.",
+            "Sizin içinse bu manzara tanıdık: Kırgızca da Türkçe gibi eklemeli bir dildir ve cümle aynı “özne — nesne — yüklem” düzeniyle kurulur. Başkalarının en zor bulduğu kısım, sizin hazır getirdiğiniz kısımdır."
+          ]
+        },
+        {
+          "h": "Eklemeli yapı: kelimeler yapı taşları gibi birleşir",
+          "p": [
+            "Uzun bir Kırgızca kelime, kısa bir kök artı her biri kendi anlamını taşıyan ek zinciridir: китеп-тер-им-де — “kitap + lar + ım + da” = “kitaplarımda”. Türkçedeki “kitaplarımda” ile birebir aynı kuruluş.",
+            "Biçimleri ezberlemezsiniz — kurarsınız. Türkçeden bildiğiniz bu mantık Kırgızcada da aynen işler; değişen yalnızca eklerin ses biçimleri."
+          ]
+        },
+        {
+          "h": "Ünlü uyumu: tanıdık kural, biraz farklı ayarlar",
+          "p": [
+            "Kırgızcada da ünlüler uyum içinde: kalın а, ы, о, у kalın ek biçimlerini, ince е, и, ө, ү ince biçimleri çeker. Жумуш + та, ama үй + дө.",
+            "Türkçeden farkı ayrıntılarda: Kırgızcada dudak uyumu daha güçlüdür ve о/ө'den sonra ekler yuvarlaklaşır (көл → көлдө, Türkçede “gölde”). Kural tanıdık, ayarları yeni — sistemdeki alıştırma tam bu ayarları refleks hâline getirmek için var."
+          ]
+        },
+        {
+          "h": "Gerçekten yeni olan ne?",
+          "p": [
+            "Dürüst liste kısa. Söz varlığı: ortak kökler var ama anlamlar ve ses biçimleri kaymış — “tanıdık gibi duran ama farklı” kelimeler en çok yanıltan kısımdır. ң sesi ve Kiril alfabesi — ikisi de birkaç akşamlık iş. Bir de Rusçadan giren geniş alıntı katmanı: Türkçedeki Arapça-Farsça alıntıların yerini Kırgızcada çoğu zaman Rusça alıntılar tutar.",
+            "Bunların hiçbiri hafta sonu ezberiyle çözülmez — üçü de kısa günlük pratikle çözülür. Kursun aralıklı tekrara ve günde on beş–yirmi dakikaya dayalı olmasının nedeni bu."
+          ]
+        },
+        {
+          "h": "Zaman isteyen tek şey: kelimeleri taze tutmak",
+          "p": [
+            "Dil bilgisi size büyük ölçüde bedava gelse de kelime hazinesi kendi kendine yerleşmez: benzerlik yüzünden “nasılsa anlarım” tuzağına düşmek kolaydır, oysa dinlemede Kırgızca ilk başta şaşırtıcı derecede yabancı gelir.",
+            "Çözüm, düzenli aralıklı tekrar ve bol sesli dinleme: kelimeyi unutmak üzereyken karşınıza çıkaran sistem, “tanıdık ama oturmamış” kelimeleri kalıcı bilgiye çevirir."
+          ]
+        },
+        {
+          "h": "Türkçe konuşana kolay gelenler",
+          "p": [
+            "Cinsiyet yok — Türkçedeki gibi. İstisna listeleri yok denecek kadar az. Öz söz varlığında yazım fonemiktir: yazıldığı gibi okunur (Rusça alıntılar Rusça yazımı izler). Ekler tanıdık işlerin tanıdık araçları: çokluk, iyelik, hâl, zaman.",
+            "Avrupa dillerinde düzensiz biçim ezberine giden emek, burada hıza dönüşür: kuralı bir kez öğrenirsiniz, her yerde uygularsınız — ve kuralların yarısını zaten biliyorsunuz."
+          ]
+        },
+        {
+          "h": "Karar",
+          "p": [
+            "Türkçe konuşan biri için Kırgızca sıfırdan başlanan bir dil değildir: giriş eşiği düşük, ilerleme ucuz. İlk haftalarda kulak Kırgız ses düzenine alışır, sonrası bildiğiniz mantığın yeni sözlerle dolmasıdır.",
+            "On dakikada kendiniz görün: demoda sesli kartlar ve ünlü uyumu alıştırması açık. Bir hafta kısa çalışmadan sonra ek seçimi düşünmeden geliyorsa — en “korkutucu” kısım çoktan geride kalmış demektir."
+          ]
+        }
+      ]
+    }
+  },
+  "refs": [
+    {
+      "authors": "Alekseev A., Turatali T.",
+      "year": 2024,
+      "title": "KyrgyzNLP: Challenges, Progress, and Future",
+      "source": "arXiv:2411.05503",
+      "url": "https://arxiv.org/pdf/2411.05503"
+    },
+    {
+      "authors": "Center for Languages of the Central Asian Region",
+      "year": 2025,
+      "title": "Kyrgyz: Language Portal",
+      "source": "Indiana University Bloomington (CeLCAR)",
+      "url": "https://celcar.indiana.edu/materials/language-portal/kyrgyz.html"
+    },
+    {
+      "authors": "Washington J.N., Ipasov M., Tyers F.M.",
+      "year": 2012,
+      "title": "A finite-state morphological transducer for Kyrgyz",
+      "source": "Proceedings of LREC 2012, 934–940",
+      "url": "https://aclanthology.org/L12-1642/"
+    },
+    {
+      "authors": "Odagiri N.",
+      "year": 2013,
+      "title": "Debates Concerning Elements of Russian Origin in the Kyrgyz Language",
+      "source": "Slavic-Eurasian Research Center, Hokkaido University",
+      "url": "https://src-h.slav.hokudai.ac.jp/jcrees/2013Osaka/72NamiOdagiri.pdf"
+    },
+    {
+      "authors": "Cepeda N.J., Pashler H., Vul E., Wixted J.T., Rohrer D.",
+      "year": 2006,
+      "title": "Distributed practice in verbal recall tasks: A review and quantitative synthesis",
+      "source": "Psychological Bulletin 132(3), 354–380",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16719566/"
+    },
+    {
+      "authors": "Stern N.Z., Washington J.N.",
+      "year": 2019,
+      "title": "A Phonetic Study of Length and Duration in Kyrgyz Vowels",
+      "source": "Proc. of the Workshop on Turkic and Languages in Contact with Turkic, 4, 119–131",
+      "url": "https://works.swarthmore.edu/fac-linguistics/256/"
+    }
+  ]
+}

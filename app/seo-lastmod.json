@@ -1,0 +1,50 @@
+{
+ "landing.html": {
+  "date": "2026-10-30",
+  "sha": "15d95bbe"
+ },
+ "privacy.html": {
+  "date": "2026-10-11",
+  "sha": "b77aeff4"
+ },
+ "terms.html": {
+  "date": "2026-08-21",
+  "sha": "6cc4b942"
+ },
+ "install.html": {
+  "date": "2026-08-18",
+  "sha": "0f195344"
+ },
+ "test/level-test.json": {
+  "date": "2026-10-30",
+  "sha": "aece3f15"
+ },
+ "razgovornik/razgovornik.json": {
+  "date": "2026-09-28",
+  "sha": "41561701"
+ },
+ "perevodchik/perevodchik.json": {
+  "date": "2026-10-08",
+  "sha": "db4372d4"
+ },
+ "kurs/kurs.json": {
+  "date": "2026-10-30",
+  "sha": "daafc4d2"
+ },
+ "help/help.json": {
+  "date": "2026-10-30",
+  "sha": "0b29f832"
+ },
+ "probny-b1/probny-b1.json": {
+  "date": "2026-10-30",
+  "sha": "7f52523c"
+ },
+ "probny-a1/probny-a1.json": {
+  "date": "2026-10-30",
+  "sha": "6e85d6b2"
+ },
+ "probny-b2/probny-b2.json": {
+  "date": "2026-10-30",
+  "sha": "1a9060ae"
+ }
+}

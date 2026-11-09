@@ -1,0 +1,395 @@
+{
+  "updated": "2026-10-30",
+  "answersVerifiedByTeacher": false,
+  "questions": [
+    {
+      "id": "t01",
+      "level": "a0",
+      "ky": "Кайсы сөз — учурашуу?",
+      "options": [
+        "Саламатсызбы",
+        "Жакшы калыңыз",
+        "Рахмат",
+        "Кечиресиз"
+      ],
+      "correct": 0,
+      "note": "«Саламатсызбы» — приветствие («здравствуйте»). «Жакшы калыңыз» — прощание, «Рахмат» — спасибо, «Кечиресиз» — извините. Материал М0 (этикет)."
+    },
+    {
+      "id": "t02",
+      "level": "a0",
+      "ky": "«Он» деген канча?",
+      "options": [
+        "5",
+        "8",
+        "10",
+        "100"
+      ],
+      "correct": 2,
+      "note": "он = 10 (числительные М0): беш = 5, сегиз = 8, жүз = 100."
+    },
+    {
+      "id": "t03",
+      "level": "a0",
+      "ky": "Кайсы сөз — коштошуу?",
+      "options": [
+        "Рахмат",
+        "Ооба",
+        "Жакшы калыңыз",
+        "Саламатсызбы"
+      ],
+      "correct": 2,
+      "note": "«Жакшы калыңыз» — «до свидания» (говорит уходящий). «Рахмат» — спасибо, «Ооба» — да, «Саламатсызбы» — здравствуйте. Материал М0."
+    },
+    {
+      "id": "t04",
+      "level": "a0",
+      "ky": "«Дүкөн» деген эмне?",
+      "options": [
+        "оорукана",
+        "мектеп",
+        "магазин",
+        "университет"
+      ],
+      "correct": 2,
+      "note": "дүкөн = магазин; оорукана — больница, мектеп — школа. Вопрос из формы Алтынай (последний, №11)."
+    },
+    {
+      "id": "t05",
+      "level": "a1",
+      "ky": "Мен чай _____.",
+      "options": [
+        "ичем",
+        "ичесиң",
+        "ичет",
+        "ичебиз"
+      ],
+      "correct": 0,
+      "note": "Настоящее время, 1-е лицо ед. ч.: мен ичем — «я пью». ичесиң — ты, ичет — он/она, ичебиз — мы."
+    },
+    {
+      "id": "t06",
+      "level": "a1",
+      "ky": "Кечээ мен мектепке _____",
+      "options": [
+        "барам",
+        "бардым",
+        "барып жатат",
+        "барасың"
+      ],
+      "correct": 1,
+      "note": "«Кечээ» (вчера) требует прошедшего времени 1-го лица: бардым — «я сходил». Вопрос формы."
+    },
+    {
+      "id": "t07",
+      "level": "a1",
+      "ky": "Биз кыргыз тилин _____ жатабыз.",
+      "options": [
+        "үйрөнүп",
+        "үйрөндү",
+        "үйрөнөсүң",
+        "үйрөнгөн"
+      ],
+      "correct": 0,
+      "note": "Настоящее продолженное: деепричастие на -ып + жатабыз → үйрөнүп жатабыз — «мы учим (сейчас)». Вопрос формы."
+    },
+    {
+      "id": "t08",
+      "level": "a1",
+      "ky": "«Ал келиши мүмкүн» сүйлөмүндө кандай маани бар?",
+      "options": [
+        "так ишеним",
+        "буйрук",
+        "божомол",
+        "өкүнүү"
+      ],
+      "correct": 2,
+      "note": "«мүмкүн» выражает возможность/предположение → божомол. Вопрос формы."
+    },
+    {
+      "id": "t09",
+      "level": "a1",
+      "ky": "«Артыкчылык» сөзүнүн мааниси:",
+      "options": [
+        "тоскоолдук",
+        "кемчилик",
+        "пайда же жакшы мүмкүнчүлүк",
+        "милдет"
+      ],
+      "correct": 2,
+      "note": "артыкчылык — «преимущество», то есть польза или хорошая возможность. Вопрос формы (лексика к тексту об эне тили)."
+    },
+    {
+      "id": "t10",
+      "level": "a1",
+      "ky": "Кайсы сүйлөмдө себеп-натыйжа байланышы бар?",
+      "options": [
+        "Мен келдим жана кеттим",
+        "Жамгыр жаагандыктан жолдор суу болду",
+        "Ал китеп окуп жатат",
+        "Биз кино көрдүк"
+      ],
+      "correct": 1,
+      "note": "Аффикс -гандыктан («из-за того, что») задаёт причину и следствие: «Из-за дождя дороги стали мокрыми». Вопрос формы."
+    },
+    {
+      "id": "t11",
+      "level": "a1",
+      "ky": "Текстти окуп, негизги идеяны тандаңыз:\n«Азыркы учурда чет тилдерин билүү чоң артыкчылык болуп эсептелет. Бирок ошол эле учурда ар бир адам өз эне тилин терең билиши керек. Тил — улуттун маданиятын, тарыхын жана дүйнө таанымын сактап турган негизги каражат. Эне тилге болгон кайдыгер мамиле улуттук баалуулуктардын жоголушуна алып келиши мүмкүн.»",
+      "options": [
+        "Чет тилди билүү керек",
+        "Эне тилди сактоо маанилүү",
+        "Бардык тилдер бирдей эмес",
+        "Чет тили менен эне тилдин айырмасы"
+      ],
+      "correct": 1,
+      "note": "Главная мысль текста — важно беречь родной язык («ар бир адам өз эне тилин терең билиши керек»). Вопрос формы, текст приведён целиком."
+    },
+    {
+      "id": "t12",
+      "level": "a1plus",
+      "ky": "«Туруктуу өнүгүү» деген түшүнүк эмнени билдирет?",
+      "options": [
+        "тез өзгөрүү",
+        "узак мөөнөттүү тең салмактуу өнүгүү",
+        "экономиканын токтошу",
+        "саясий өзгөрүү"
+      ],
+      "correct": 1,
+      "note": "«Устойчивое развитие» = долгосрочное сбалансированное развитие. Вопрос формы; лексика выше бытовой — потолочный блок."
+    },
+    {
+      "id": "t13",
+      "level": "a1plus",
+      "ky": "«Көрсө» сөзү кайсы мааниде колдонулат?",
+      "options": [
+        "күмөн саноо",
+        "таң калуу же кийин билүү",
+        "буйрук берүү",
+        "убакыт көрсөтүү"
+      ],
+      "correct": 1,
+      "note": "«көрсө» — «оказывается»: удивление или позднее узнавание. Вопрос формы."
+    },
+    {
+      "id": "t14",
+      "level": "a1plus",
+      "ky": "«Карабастан» сөзү туура колдонулган сүйлөм:",
+      "options": [
+        "Ал ооруп жатканына карабастан жумушка келди",
+        "Ал карабастан китеп окуду",
+        "Мен карабастан барам",
+        "Алар карабастан сүйлөштү"
+      ],
+      "correct": 0,
+      "note": "«карабастан» («несмотря на») требует оборота на -ганына: «несмотря на то, что болел, пришёл на работу». Вопрос формы."
+    },
+    {
+      "id": "t15",
+      "level": "a1plus",
+      "ky": "Туура вариантты тандаңыз: «Эгерде ал эртерээк келгенде, биз жолугушууну _____»",
+      "options": [
+        "баштайбыз",
+        "баштамакпыз",
+        "баштадык",
+        "баштап жатабыз"
+      ],
+      "correct": 1,
+      "note": "Ирреальное условие («эгерде … келгенде») требует формы на -мак: баштамакпыз — «мы начали бы». Уровень выше A1 — сознательно потолочный. Вопрос №1 формы."
+    }
+  ],
+  "ui": {
+    "ru": {
+      "title": "Тест уровня кыргызского языка онлайн — бесплатно · learn.kg",
+      "desc": "Бесплатный онлайн-тест уровня кыргызского (киргизского) языка: 15 вопросов от азов до A1+. Мгновенный результат и рекомендация, с чего начать.",
+      "h1": "Тест уровня кыргызского языка",
+      "lead": "15 вопросов — от самых первых слов до грамматики уровня A1+. Отвечайте не подглядывая: результат появится сразу, без регистрации и email.",
+      "qLabel": "Вопрос {n}/{t}",
+      "startBtn": "Начать тест",
+      "restart": "Пройти ещё раз",
+      "resultTitle": "Ваш результат",
+      "verdicts": [
+        {
+          "max": 5,
+          "short": "с нуля",
+          "h": "Начните с нуля",
+          "p": "Пока уверенно решаются только самые первые вопросы — это нормальный старт. Алфавит, приветствия и первые фразы быстрее всего закрепляются в тренажёре с озвучкой."
+        },
+        {
+          "max": 11,
+          "short": "~A1",
+          "h": "A1 в процессе — курс закрепит",
+          "p": "База есть: простые времена и бытовая лексика уже узнаются. Чтобы дойти до уверенного A1, не хватает системного повторения — именно это делает тренажёр."
+        },
+        {
+          "max": 15,
+          "short": "A1+",
+          "h": "A1 уверенно — дальше с преподавателем",
+          "p": "Отличный результат: грамматика уровня A1 решается почти без ошибок. Следующий шаг — живая речь и уровень A2: обсудите программу с Алтынай."
+        }
+      ],
+      "ctaDemo": "Попробовать тренажёр",
+      "ctaWa": "Отправить результат Алтынай",
+      "waMsg": "Прошёл тест уровня на learn.kg: {s}/{t}, {lvl} — хочу на курс.",
+      "faqTitle": "Частые вопросы о тесте",
+      "faq": [
+        {
+          "q": "Это официальное тестирование?",
+          "a": "Нет. Это бесплатный ознакомительный тест уровня кыргызского языка от learn.kg: он показывает, с чего начинать. Задания составлены learn.kg и не связаны с заданиями государственного тестирования по кыргызскому языку."
+        },
+        {
+          "q": "Сколько вопросов и сколько времени это займёт?",
+          "a": "15 вопросов с выбором ответа — от первых слов до грамматики A1+. Обычно хватает 5–7 минут; результат виден сразу, регистрации и email не нужно."
+        },
+        {
+          "q": "Что означает результат?",
+          "a": "Тест — самооценка, а не сертификат: он подсказывает стартовую точку. За точной оценкой и программой напишите преподавателю — Алтынай разберёт ваши ответы и подберёт формат занятий."
+        },
+        {
+          "q": "Можно ли готовиться к тестированию по кыргызскому языку на этом сайте?",
+          "a": "Курс learn.kg развивает навыки по уровням A1–B2: лексику, грамматику, аудирование и устную речь. Начните с демо, а результат подскажет, с какого модуля стартовать. Формат, уровни и запись на тестирование — на официальном сайте, ссылка на него — под заданиями."
+        },
+        {
+          "q": "Как правильно: кыргызский или киргизский язык?",
+          "a": "Это один и тот же язык. В Кыргызстане правильным считается «кыргызский» (от самоназвания «кыргыз тили»), в России привычнее написание «киргизский». Тест уровня и тренажёр подходят при любом написании."
+        },
+        {
+          "q": "Чем этот тест отличается от пробных тестов learn.kg?",
+          "a": "Этот показывает уровень за пять минут: 15 вопросов от азов до A1+. Пробные тесты learn.kg — отдельные, по уровням, на материале курсов: ((пробный A1|/probny-test-a1/ru)), ((пробный B1|/probny-test-b1/ru)) и ((пробный B2|/probny-test-b2/ru))."
+        },
+        {
+          "q": "Результат этого теста — это результат тестирования?",
+          "a": "Нет. Здесь вы сразу видите свой ориентировочный уровень и рекомендацию; официальный результат и сертификат выдаёт только организатор государственного тестирования."
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz level test online — free · learn.kg",
+      "desc": "Free online Kyrgyz language level test: 15 questions from the very basics to A1+. Instant result and advice on where to start.",
+      "h1": "Kyrgyz level test",
+      "lead": "15 questions — from your very first words to A1+ grammar. Answer without peeking: the result appears instantly, no sign-up or email.",
+      "qLabel": "Question {n}/{t}",
+      "startBtn": "Start the test",
+      "restart": "Try again",
+      "resultTitle": "Your result",
+      "verdicts": [
+        {
+          "max": 5,
+          "short": "from zero",
+          "h": "Start from zero",
+          "p": "For now only the very first questions come easily — a normal starting point. The alphabet, greetings and first phrases stick fastest in the trainer with audio."
+        },
+        {
+          "max": 11,
+          "short": "~A1",
+          "h": "A1 in progress — the course will cement it",
+          "p": "The base is there: simple tenses and everyday words look familiar. What's missing for a confident A1 is systematic review — exactly what the trainer does."
+        },
+        {
+          "max": 15,
+          "short": "A1+",
+          "h": "Confident A1 — continue with a teacher",
+          "p": "An excellent result: A1 grammar is nearly flawless. The next step is real speech and level A2 — discuss the programme with Altynai."
+        }
+      ],
+      "ctaDemo": "Try the trainer",
+      "ctaWa": "Send the result to Altynai",
+      "waMsg": "I took the level test at learn.kg: {s}/{t}, {lvl} — I want to join the course.",
+      "faqTitle": "Questions about the test",
+      "faq": [
+        {
+          "q": "Is this the official test?",
+          "a": "No. It is a free introductory Kyrgyz level test by learn.kg that shows where to start. The tasks are written by learn.kg and are not related to the tasks of the state Kyrgyz language test."
+        },
+        {
+          "q": "How many questions are there and how long does it take?",
+          "a": "15 multiple-choice questions, from first words to A1+ grammar. It usually takes 5–7 minutes; the result is instant, with no sign-up or email."
+        },
+        {
+          "q": "What does the result mean?",
+          "a": "The test is a self-assessment, not a certificate: it suggests your starting point. For a precise assessment message the teacher — Altynai will review your answers and suggest a study format."
+        },
+        {
+          "q": "Can I prepare for the state Kyrgyz language test on this site?",
+          "a": "The learn.kg course builds skills level by level from A1 to B2: vocabulary, grammar, listening and speaking. Start with the demo, and your result will tell you which module to begin from. Format, levels and registration — on the official testing website, linked below the tasks."
+        },
+        {
+          "q": "Kyrgyz, Kirghiz or Kirgiz — which is correct?",
+          "a": "They are the same language. Kyrgyz is the spelling used in Kyrgyzstan and in most modern sources; Kirghiz and Kirgiz are older transliterations you may still meet in books and dictionaries."
+        },
+        {
+          "q": "How is this different from the learn.kg practice tests?",
+          "a": "This one gauges your level in five minutes: 15 questions from the very basics to A1+. The learn.kg practice tests are separate, by level and built on the course materials: ((A1 practice test|/probny-test-a1/en)), ((B1 practice test|/probny-test-b1/en)) and ((B2 practice test|/probny-test-b2/en))."
+        },
+        {
+          "q": "Is this result an official test result?",
+          "a": "No. Here you instantly get an indicative level and a recommendation; the official result and certificate are issued only by the organiser of the state test."
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızca seviye testi — ücretsiz çevrim içi · learn.kg",
+      "desc": "Ücretsiz çevrim içi Kırgızca seviye testi: en baştan A1+ dilbilgisine 15 soru. Anında sonuç ve nereden başlayacağınıza dair öneri.",
+      "h1": "Kırgızca seviye testi",
+      "lead": "15 soru — ilk kelimelerden A1+ dilbilgisine. Bakmadan yanıtlayın: sonuç anında görünür, üyelik ve e-posta gerekmez.",
+      "qLabel": "Soru {n}/{t}",
+      "startBtn": "Teste başla",
+      "restart": "Tekrar dene",
+      "resultTitle": "Sonucunuz",
+      "verdicts": [
+        {
+          "max": 5,
+          "short": "sıfırdan",
+          "h": "Sıfırdan başlayın",
+          "p": "Şimdilik yalnızca ilk sorular kolay geliyor — bu normal bir başlangıç. Alfabe, selamlaşmalar ve ilk ifadeler, sesli antrenörde en hızlı yerleşir."
+        },
+        {
+          "max": 11,
+          "short": "~A1",
+          "h": "A1 yolda — kurs pekiştirir",
+          "p": "Temel var: basit zamanlar ve günlük kelimeler tanıdık geliyor. Emin bir A1 için eksik olan sistemli tekrar — antrenörün yaptığı tam da bu."
+        },
+        {
+          "max": 15,
+          "short": "A1+",
+          "h": "A1 sağlam — devamı öğretmenle",
+          "p": "Harika sonuç: A1 dilbilgisi neredeyse hatasız. Sıradaki adım canlı konuşma ve A2 — programı Altınay ile görüşün."
+        }
+      ],
+      "ctaDemo": "Antrenörü deneyin",
+      "ctaWa": "Sonucu Altınay'a gönder",
+      "waMsg": "learn.kg'de seviye testini çözdüm: {s}/{t}, {lvl} — kursa katılmak istiyorum.",
+      "faqTitle": "Test hakkında sorular",
+      "faq": [
+        {
+          "q": "Bu resmî sınav mı?",
+          "a": "Hayır. Bu, learn.kg'nin ücretsiz tanıtım amaçlı Kırgızca seviye testidir: nereden başlayacağınızı gösterir. Görevler learn.kg tarafından hazırlanmıştır ve devlet Kırgızca dil sınavının görevleriyle bağlantılı değildir."
+        },
+        {
+          "q": "Kaç soru var, ne kadar sürer?",
+          "a": "Çoktan seçmeli 15 soru — ilk kelimelerden A1+ dilbilgisine. Genellikle 5–7 dakika sürer; sonuç anında görünür, üyelik ve e-posta gerekmez."
+        },
+        {
+          "q": "Sonuç ne anlama geliyor?",
+          "a": "Test bir öz değerlendirmedir, sertifika değil: başlangıç noktanızı önerir. Kesin değerlendirme için öğretmene yazın — Altınay yanıtlarınızı inceler ve çalışma biçimi önerir."
+        },
+        {
+          "q": "Bu sitede devlet Kırgızca sınavına hazırlanabilir miyim?",
+          "a": "learn.kg kursu A1'den B2'ye düzey düzey beceri kazandırır: kelime, dil bilgisi, dinleme ve konuşma. Demoyla başlayın, sonucunuz hangi modülden başlayacağınızı söyler. Biçim, seviyeler ve kayıt — resmî sınav sitesinde; bağlantısı görevlerin altında."
+        },
+        {
+          "q": "Kırgızca mı, Kırgız Türkçesi mi?",
+          "a": "İkisi de aynı dili anlatır: Kırgızistan'da dil «кыргыз тили» (Kırgızca) diye adlandırılır, Türkiye'deki kaynaklarda «Kırgız Türkçesi» adı da kullanılır. Test her iki adlandırma için de geçerlidir."
+        },
+        {
+          "q": "Bu test, learn.kg deneme sınavlarından nasıl ayrılır?",
+          "a": "Bu test düzeyinizi beş dakikada ölçer: en baştan A1+ düzeyine 15 soru. learn.kg deneme sınavları ayrıdır, düzeye göre ve kurs materyalleri üzerine kuruludur: ((A1 deneme sınavı|/probny-test-a1/tr)), ((B1 deneme sınavı|/probny-test-b1/tr)) ve ((B2 deneme sınavı|/probny-test-b2/tr))."
+        },
+        {
+          "q": "Buradaki sonuç resmî sınav sonucu mu?",
+          "a": "Hayır. Burada anında yaklaşık bir düzey ve öneri alırsınız; resmî sonucu ve sertifikayı yalnızca devlet sınavını düzenleyen kurum verir."
+        }
+      ]
+    }
+  }
+}

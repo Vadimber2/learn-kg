@@ -1,0 +1,717 @@
+{
+  "slug": "yazyk-v-kyrgyzstane",
+  "published": "2026-09-28",
+  "updated": "2026-09-28",
+  "section": "lang",
+  "og": {
+    "ru": "yazyk-v-kyrgyzstane-ru.png",
+    "en": "yazyk-v-kyrgyzstane-en.png",
+    "tr": "yazyk-v-kyrgyzstane-tr.png"
+  },
+  "related": [
+    "frazy-dlya-poezdki",
+    "kyrgyzskiy-kazahskiy-turetskiy",
+    "kyrgyzskiy-ili-kirgizskiy"
+  ],
+  "refs": [
+    {
+      "authors": "Кыргызская Республика",
+      "year": 2021,
+      "title": "Конституция Кыргызской Республики",
+      "source": "Централизованный банк данных правовой информации, Министерство юстиции КР",
+      "url": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru"
+    },
+    {
+      "authors": "Национальный статистический комитет Кыргызской Республики",
+      "year": 2023,
+      "title": "Перепись населения и жилищного фонда Кыргызской Республики 2022 года. Книга II (часть первая): Население Кыргызстана, табл. 3.8, 3.9, 3.11, 3.12",
+      "source": "stat.gov.kg",
+      "url": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf"
+    }
+  ],
+  "faq": {
+    "ru": [
+      {
+        "q": "Какой официальный язык в Кыргызстане?",
+        "a": "По статье 13 Конституции государственный язык Кыргызстана — кыргызский, а русский используется в качестве официального."
+      },
+      {
+        "q": "Говорят ли в Кыргызстане по-русски?",
+        "a": "Да, но неравномерно. По переписи 2022 года свободно по-русски говорят 37,9% жителей от 7 лет: в Бишкеке — 81,8%, в Нарынской и Ошской областях — 17,2% и 14,1%."
+      },
+      {
+        "q": "Говорят ли в Кыргызстане по-английски?",
+        "a": "По переписи 2022 года английский вторым языком назвали 38 166 человек — 0,55% жителей; сколько людей знает его третьим языком, перепись не показывает."
+      },
+      {
+        "q": "Кыргызский и киргизский — разные языки?",
+        "a": "Нет, это один язык. «Кыргызский» — форма от самоназвания народа, принятая в Кыргызстане; «киргизский» — старое русское написание."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the official language of Kyrgyzstan?",
+        "a": "Under Article 13 of the Constitution, Kyrgyz is the state language of Kyrgyzstan, and Russian is used as an official language."
+      },
+      {
+        "q": "Do people speak English in Kyrgyzstan?",
+        "a": "In the 2022 census, 38,166 people named English as their second language — 0.55% of residents; how many speak it as a third language, the census does not show."
+      },
+      {
+        "q": "Do people speak Russian in Kyrgyzstan?",
+        "a": "Yes, unevenly. According to the 2022 census, 37.9% of residents aged 7 and over speak Russian fluently: 81.8% in Bishkek, but 17.2% in the Naryn Region and 14.1% in the Osh Region."
+      },
+      {
+        "q": "Is Kyrgyz the same as Kirghiz?",
+        "a": "Yes, it is one language. “Kyrgyz” follows the native name and is the official form; “Kirghiz” and “Kirgiz” are older spellings that came into English via Russian."
+      }
+    ],
+    "tr": [
+      {
+        "q": "Kırgızistan'ın resmî dili nedir?",
+        "a": "Anayasa'nın 13. maddesine göre Kırgızistan'ın devlet dili Kırgızcadır; Rusça resmî dil olarak kullanılır."
+      },
+      {
+        "q": "Kırgızistan'da Türkçe anlaşılır mı?",
+        "a": "Kulaktan pek değil. Kırgızca Türkçeyle akrabadır, dilbilgisi ve pek çok kök tanıdıktır, ama akan konuşmayı ilk duyuşta çözmek zordur; yazıda anlamak daha kolaydır."
+      },
+      {
+        "q": "Kırgızistan'da Rusça konuşuluyor mu?",
+        "a": "Evet, ama eşit değil. 2022 sayımına göre 7 yaş ve üstü nüfusun %37,9'u Rusçayı akıcı konuşuyor: Bişkek'te %81,8, Narın bölgesinde %17,2, Oş bölgesinde %14,1."
+      },
+      {
+        "q": "Kırgızistan'da İngilizce konuşuluyor mu?",
+        "a": "2022 sayımında İngilizceyi ikinci dil olarak 38.166 kişi belirtti — nüfusun %0,55'i; üçüncü dil olarak kaç kişinin bildiğini sayım göstermiyor."
+      }
+    ]
+  },
+  "langs": {
+    "ru": {
+      "title": "Какой язык в Кыргызстане и поймут ли вас по-русски",
+      "desc": "Государственный язык Кыргызстана — кыргызский, русский — официальный. Кто на каком языке говорит по переписи 2022 года и где вас поймут по-русски.",
+      "lead": "Короткий ответ: государственный язык Кыргызстана — кыргызский, русский имеет статус официального. Кыргызский родной для 5,5 миллиона жителей, и свободно на нём говорят три четверти жителей от 7 лет; по-русски свободно — больше трети жителей от 7 лет, в основном в Бишкеке и Чуйской области. Ниже — цифры переписи 2022 года и что они значат для поездки.",
+      "blocks": [
+        {
+          "h": "Государственный и официальный: что говорит Конституция",
+          "p": [
+            "Статус языков закреплён в статье 13 Конституции Кыргызской Республики. Кыргызский — государственный язык, порядок его применения определяет отдельный конституционный закон. Русский используется в качестве официального. Статусы разные: «государственный» и «официальный».",
+            "Что государственный язык значит на практике — какой уровень нужен госслужащим, учителям и врачам, — разобрано в статье ((кыргызский для госслужащих, учителей и врачей|/blog/kyrgyzskiy-dlya-gossluzhashchih/ru)); требования к иностранцам — в статье ((ВНЖ в Кыргызстане и кыргызский язык|/blog/kyrgyzskiy-dlya-vnzh/ru))."
+          ],
+          "proof": [
+            {
+              "quote": "1. Кыргызский язык - государственный язык Кыргызской Республики. Порядок применения государственного языка определяется конституционным законом. 2. В Кыргызской Республике в качестве официального используется русский язык.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "Конституция КР, ст. 13 ч. 1–2, русский текст (ЦБД Минюста)",
+              "lang": "ru"
+            },
+            {
+              "quote": "1. Кыргыз тили - Кыргыз Республикасынын мамлекеттик тили. Мамлекеттик тилди колдонуу тартиби конституциялык мыйзам менен аныкталат. 2. Кыргыз Республикасында расмий тил катары орус тили колдонулат.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/kg",
+              "label": "Конституция КР, ст. 13 ч. 1–2, кыргызский текст (ЦБД Минюста)",
+              "lang": "ky"
+            }
+          ]
+        },
+        {
+          "h": "Родной язык: что показала перепись",
+          "p": [
+            "Перепись населения 2022 года спрашивала о родном языке и впервые — о том, насколько человек владеет кыргызским и русским. По родному языку картина такая: кыргызский родной для четырёх жителей из пяти.",
+            "Числа в таблице — сумма двух колонок переписи: людей, для которых это язык их национальности, и людей других национальностей, назвавших его родным. Так, кыргызский родным назвали 5 360 056 кыргызов и ещё 167 112 человек других национальностей."
+          ],
+          "t": {
+            "head": [
+              "Родной язык",
+              "Человек",
+              "Доля жителей"
+            ],
+            "rows": [
+              [
+                "кыргызский",
+                "5 527 168",
+                "79,7%"
+              ],
+              [
+                "узбекский",
+                "884 830",
+                "12,8%"
+              ],
+              [
+                "русский",
+                "304 630",
+                "4,4%"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Впервые в переписи населения 2022 года задавались вопросы о степени владения кыргызским (государственным) и русским (официальным) языками.",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "Нацстатком КР, перепись 2022, книга II (часть первая), раздел об этническом составе и языках",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 6 936 156 6 700 250 167 112 39 170 16 100 13 524 … кыргызы 5 379 020 5 360 056 - 9 332 5 002 4 630",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "Перепись 2022, табл. 3.8 «по владению родным языком»: все население / язык своей этнической группы / кыргызский / русский / узбекский / другие",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Кто как владеет кыргызским и русским",
+          "p": [
+            "Для жителей от 7 лет перепись дала шкалу владения языком — от «свободно» до «не владею». Кыргызским свободно владеют 75,7%, русским — 37,9%; ещё 24,9% владеют русским хорошо.",
+            "Вторым языком русский назвали 3 049 226 человек, кыргызский — 482 466, английский — 38 166."
+          ],
+          "t": {
+            "head": [
+              "Владеют языком",
+              "Кыргызский",
+              "Русский"
+            ],
+            "rows": [
+              [
+                "свободно",
+                "75,7%",
+                "37,9%"
+              ],
+              [
+                "хорошо",
+                "11,0%",
+                "24,9%"
+              ],
+              [
+                "достаточно",
+                "5,2%",
+                "19,2%"
+              ],
+              [
+                "плохо",
+                "3,8%",
+                "9,1%"
+              ],
+              [
+                "не владеют",
+                "4,4%",
+                "8,9%"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Кыргызская Республика 5 807 488 4 393 470 637 685 300 387 222 020 253 926",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "Перепись 2022, табл. 3.11, население 7 лет и старше, знание кыргызского: все / свободно / хорошо / достаточно / плохо / не владею",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 5 807 488 2 202 455 1 448 956 1 112 431 526 169 517 477",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "Перепись 2022, табл. 3.12, население 7 лет и старше, знание русского: все / свободно / хорошо / достаточно / плохо / не владею",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 3 920 816 56 535 482 466 3 049 226 224 490 38 166 12 045 57 888",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "Перепись 2022, табл. 3.9 «по владению вторым языком»: владеющие вторым языком / языком своей группы / кыргызским / русским / узбекским / английским / немецким / другими",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Где вас поймут по-русски",
+          "p": [
+            "Для поездки важнее всего география. В Бишкеке по-русски свободно говорят 81,8% жителей от 7 лет, в Чуйской области — 58,7%. В Нарынской, Ошской, Баткенской и Джалал-Абадской областях — от 14,1 до 19,3%, а по-кыргызски там свободно говорят от 67,1 до 95,3%.",
+            "Практический вывод: в столице вы объяснитесь по-русски, а в Нарынской, Ошской, Баткенской и Джалал-Абадской областях по-русски свободно говорит лишь от каждого пятого до каждого седьмого — там пригодится кыргызский. Приветствие, «спасибо» и пара вопросов по-кыргызски в регионах — и вежливость, и реальная помощь в разговоре."
+          ],
+          "t": {
+            "head": [
+              "Где",
+              "Свободно по-кыргызски",
+              "Свободно по-русски"
+            ],
+            "rows": [
+              [
+                "г. Бишкек",
+                "83,3%",
+                "81,8%"
+              ],
+              [
+                "Чуйская обл.",
+                "70,5%",
+                "58,7%"
+              ],
+              [
+                "Иссык-Кульская обл.",
+                "87,2%",
+                "41,6%"
+              ],
+              [
+                "г. Ош",
+                "65,4%",
+                "36,9%"
+              ],
+              [
+                "Таласская обл.",
+                "87,1%",
+                "22,5%"
+              ],
+              [
+                "Джалал-Абадская обл.",
+                "73,4%",
+                "19,3%"
+              ],
+              [
+                "Баткенская обл.",
+                "74,5%",
+                "19,2%"
+              ],
+              [
+                "Нарынская обл.",
+                "95,3%",
+                "17,2%"
+              ],
+              [
+                "Ошская обл.",
+                "67,1%",
+                "14,1%"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "А по-английски и по-турецки?",
+          "p": [
+            "Английский вторым языком назвали 38 166 человек — 0,55% жителей. Оговорка: перепись учитывала один второй язык на человека, и у 78% назвавших второй язык это русский, так что сколько людей знает английский третьим языком, перепись не показывает.",
+            "Среди вторых языков перепись турецкий отдельно не выделяет. Кыргызский ему родственен, но на слух с первого раза турок и кыргыз понимают друг друга плохо — подробнее в статье ((кыргызский, казахский и турецкий|/blog/kyrgyzskiy-kazahskiy-turetskiy/ru))."
+          ]
+        },
+        {
+          "h": "С чего начать перед поездкой",
+          "p": [
+            "Хватит двух десятков фраз: приветствие, «спасибо», «да», «нет», «я не понял(а)». Все они — в ((разговорнике с озвучкой носителя|/razgovornik/ru)), а подборка для дороги — в статье ((кыргызские фразы для поездки|/blog/frazy-dlya-poezdki/ru)).",
+            "Если хочется большего, начните с ((кыргызского алфавита|/blog/kyrgyzskiy-alfavit/ru)) и ((приветствий|/blog/privetstviya-po-kyrgyzski/ru)): в алфавите 36 букв, и особые среди них только три — ң, ө и ү."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "What language do they speak in Kyrgyzstan?",
+      "desc": "Kyrgyz is the state language of Kyrgyzstan and Russian is official. Who speaks what, according to the 2022 census, and whether English will get you by.",
+      "lead": "Short answer: the state language of Kyrgyzstan is Kyrgyz, and Russian has official status. Kyrgyz is the native language of 5.5 million people, and three in four residents aged 7 and over speak it fluently; only 0.55% named English as their second language. Below are the 2022 census figures and what they mean for your trip.",
+      "blocks": [
+        {
+          "h": "State language and official language: the Constitution",
+          "p": [
+            "The status of languages is set by Article 13 of the Constitution of the Kyrgyz Republic. Kyrgyz is the state language, and a separate constitutional law regulates how it is used. Russian is used as an official language. These are two different statuses, not two equal state languages.",
+            "What the state language means in practice for foreigners is covered in ((Kyrgyzstan residence permit: Kyrgyz language and A1|/blog/kyrgyzskiy-dlya-vnzh/en)); the requirements for civil servants, teachers and doctors are in ((Kyrgyz for civil servants, teachers and doctors|/blog/kyrgyzskiy-dlya-gossluzhashchih/en))."
+          ],
+          "proof": [
+            {
+              "quote": "1. Кыргызский язык - государственный язык Кыргызской Республики. Порядок применения государственного языка определяется конституционным законом. 2. В Кыргызской Республике в качестве официального используется русский язык.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "Constitution of the KR, Art. 13 parts 1–2, Russian text (Ministry of Justice database)",
+              "lang": "ru"
+            },
+            {
+              "quote": "1. Кыргыз тили - Кыргыз Республикасынын мамлекеттик тили. Мамлекеттик тилди колдонуу тартиби конституциялык мыйзам менен аныкталат. 2. Кыргыз Республикасында расмий тил катары орус тили колдонулат.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/kg",
+              "label": "Constitution of the KR, Art. 13 parts 1–2, Kyrgyz text (Ministry of Justice database)",
+              "lang": "ky"
+            }
+          ]
+        },
+        {
+          "h": "Native language: what the census shows",
+          "p": [
+            "The 2022 census asked about people's native language and, for the first time, how well they speak Kyrgyz and Russian. By native language, Kyrgyz is the mother tongue of four residents in five.",
+            "The table adds up two census columns: people for whom this is the language of their own ethnic group, and people of other ethnic groups who named it as their native language. Kyrgyz, for example, was named by 5,360,056 ethnic Kyrgyz and by 167,112 people of other ethnic groups."
+          ],
+          "t": {
+            "head": [
+              "Native language",
+              "People",
+              "Share of residents"
+            ],
+            "rows": [
+              [
+                "Kyrgyz",
+                "5,527,168",
+                "79.7%"
+              ],
+              [
+                "Uzbek",
+                "884,830",
+                "12.8%"
+              ],
+              [
+                "Russian",
+                "304,630",
+                "4.4%"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Впервые в переписи населения 2022 года задавались вопросы о степени владения кыргызским (государственным) и русским (официальным) языками.",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "National Statistical Committee of the KR, 2022 census, Book II (part one), section on ethnicity and languages (in Russian)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 6 936 156 6 700 250 167 112 39 170 16 100 13 524 … кыргызы 5 379 020 5 360 056 - 9 332 5 002 4 630",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "2022 census, table 3.8 “native language”: total / language of own ethnic group / Kyrgyz / Russian / Uzbek / other (in Russian)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "How well people speak Kyrgyz and Russian",
+          "p": [
+            "For residents aged 7 and over, the census recorded a scale from “fluently” to “not at all”. 75.7% speak Kyrgyz fluently and 37.9% speak Russian fluently; another 24.9% speak Russian well.",
+            "As a second language, 3,049,226 people named Russian, 482,466 named Kyrgyz and 38,166 named English."
+          ],
+          "t": {
+            "head": [
+              "Speak the language",
+              "Kyrgyz",
+              "Russian"
+            ],
+            "rows": [
+              [
+                "fluently",
+                "75.7%",
+                "37.9%"
+              ],
+              [
+                "well",
+                "11.0%",
+                "24.9%"
+              ],
+              [
+                "adequately",
+                "5.2%",
+                "19.2%"
+              ],
+              [
+                "poorly",
+                "3.8%",
+                "9.1%"
+              ],
+              [
+                "not at all",
+                "4.4%",
+                "8.9%"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Кыргызская Республика 5 807 488 4 393 470 637 685 300 387 222 020 253 926",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "2022 census, table 3.11, population aged 7+, Kyrgyz: total / fluently / well / adequately / poorly / not at all (in Russian)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 5 807 488 2 202 455 1 448 956 1 112 431 526 169 517 477",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "2022 census, table 3.12, population aged 7+, Russian: total / fluently / well / adequately / poorly / not at all (in Russian)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 3 920 816 56 535 482 466 3 049 226 224 490 38 166 12 045 57 888",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "2022 census, table 3.9 “second language”: speakers of a second language / own group's language / Kyrgyz / Russian / Uzbek / English / German / other (in Russian)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Where you will hear which language",
+          "p": [
+            "For a traveller, geography matters most. In Bishkek, 81.8% of residents aged 7 and over speak Russian fluently, and 58.7% in the Chuy Region. In the Naryn, Osh, Batken and Jalal-Abad regions the figure is 14.1–19.3%, while 67.1–95.3% there speak Kyrgyz fluently.",
+            "In practice: in the capital you can get by in Russian, while in the Naryn, Osh, Batken and Jalal-Abad regions only one person in five to seven speaks it fluently — there, Kyrgyz is what helps. A greeting, “thank you” and a couple of questions in Kyrgyz go a long way in the regions — both as courtesy and as real help in a conversation."
+          ],
+          "t": {
+            "head": [
+              "Where",
+              "Fluent in Kyrgyz",
+              "Fluent in Russian"
+            ],
+            "rows": [
+              [
+                "Bishkek (city)",
+                "83.3%",
+                "81.8%"
+              ],
+              [
+                "Chuy Region",
+                "70.5%",
+                "58.7%"
+              ],
+              [
+                "Issyk-Kul Region",
+                "87.2%",
+                "41.6%"
+              ],
+              [
+                "Osh (city)",
+                "65.4%",
+                "36.9%"
+              ],
+              [
+                "Talas Region",
+                "87.1%",
+                "22.5%"
+              ],
+              [
+                "Jalal-Abad Region",
+                "73.4%",
+                "19.3%"
+              ],
+              [
+                "Batken Region",
+                "74.5%",
+                "19.2%"
+              ],
+              [
+                "Naryn Region",
+                "95.3%",
+                "17.2%"
+              ],
+              [
+                "Osh Region",
+                "67.1%",
+                "14.1%"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "What about English?",
+          "p": [
+            "38,166 people named English as their second language — 0.55% of residents. A fair caveat: the census recorded one second language per person, and for 78% of those who named one it was Russian, so how many speak English as a third language the census does not show.",
+            "If you speak Turkish, Kyrgyz will feel familiar, though not instantly understandable — see ((Kyrgyz vs Kazakh vs Turkish|/blog/kyrgyzskiy-kazahskiy-turetskiy/en))."
+          ]
+        },
+        {
+          "h": "Where to start before your trip",
+          "p": [
+            "Twenty phrases are enough to begin: hello, thank you, yes, no, “I didn’t understand”. You will find them all, with native-speaker audio, in the ((English–Kyrgyz phrasebook|/razgovornik/en)), and a travel selection in ((Kyrgyz phrases for travel|/blog/frazy-dlya-poezdki/en)).",
+            "If you want more, start with the ((Kyrgyz alphabet|/blog/kyrgyzskiy-alfavit/en)) and ((greetings|/blog/privetstviya-po-kyrgyzski/en)): the alphabet has 36 letters, and only three of them — ң, ө and ү — are special."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızistan'da hangi dil konuşulur? Türkçe yeter mi?",
+      "desc": "Kırgızistan'ın devlet dili Kırgızca, resmî dili Rusça. 2022 nüfus sayımına göre kim hangi dili konuşuyor ve Türkçeyle ne kadar anlaşabilirsiniz?",
+      "lead": "Kısa cevap: Kırgızistan'ın devlet dili Kırgızca, Rusça ise resmî dil statüsünde. Kırgızca 5,5 milyon kişinin ana dili ve 7 yaş ve üstü nüfusun dörtte üçü onu akıcı konuşuyor. Sayım ikinci diller arasında Türkçeyi ayrıca göstermiyor — ama Kırgızca size tanıdık gelecek. Aşağıda 2022 sayımının rakamları ve seyahatiniz için anlamı.",
+      "blocks": [
+        {
+          "h": "Devlet dili ve resmî dil: Anayasa ne diyor?",
+          "p": [
+            "Dillerin statüsü Kırgız Cumhuriyeti Anayasası'nın 13. maddesinde belirlenir. Kırgızca devlet dilidir ve kullanımını ayrı bir anayasal kanun düzenler. Rusça resmî dil olarak kullanılır. Bunlar iki farklı statüdür, eşit iki devlet dili değil.",
+            "Devlet dilinin yabancılar için pratikte ne anlama geldiği ((Kırgızistan oturma izni: Kırgızca şartı ve A1 sınavı|/blog/kyrgyzskiy-dlya-vnzh/tr)) yazısında, memurlar, öğretmenler ve doktorlar için şartlar ise ((Memurlar, öğretmenler ve doktorlar için Kırgızca|/blog/kyrgyzskiy-dlya-gossluzhashchih/tr)) yazısında."
+          ],
+          "proof": [
+            {
+              "quote": "1. Кыргызский язык - государственный язык Кыргызской Республики. Порядок применения государственного языка определяется конституционным законом. 2. В Кыргызской Республике в качестве официального используется русский язык.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "KC Anayasası, md. 13 f. 1–2, Rusça metin (Adalet Bakanlığı veri tabanı)",
+              "lang": "ru"
+            },
+            {
+              "quote": "1. Кыргыз тили - Кыргыз Республикасынын мамлекеттик тили. Мамлекеттик тилди колдонуу тартиби конституциялык мыйзам менен аныкталат. 2. Кыргыз Республикасында расмий тил катары орус тили колдонулат.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/kg",
+              "label": "KC Anayasası, md. 13 f. 1–2, Kırgızca metin (Adalet Bakanlığı veri tabanı)",
+              "lang": "ky"
+            }
+          ]
+        },
+        {
+          "h": "Ana dil: sayım ne gösteriyor?",
+          "p": [
+            "2022 nüfus sayımı ana dili ve ilk kez Kırgızca ile Rusçayı ne düzeyde konuştuğunu sordu. Ana dile göre tablo açık: her beş kişiden dördünün ana dili Kırgızca.",
+            "Tablodaki sayılar sayımın iki sütununun toplamıdır: dili kendi etnik grubunun dili olanlar ve onu ana dili olarak belirten başka etnik gruplardan kişiler. Örneğin Kırgızcayı 5.360.056 Kırgız ve başka etnik gruplardan 167.112 kişi ana dili olarak belirtti."
+          ],
+          "t": {
+            "head": [
+              "Ana dil",
+              "Kişi",
+              "Nüfus payı"
+            ],
+            "rows": [
+              [
+                "Kırgızca",
+                "5.527.168",
+                "%79,7"
+              ],
+              [
+                "Özbekçe",
+                "884.830",
+                "%12,8"
+              ],
+              [
+                "Rusça",
+                "304.630",
+                "%4,4"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Впервые в переписи населения 2022 года задавались вопросы о степени владения кыргызским (государственным) и русским (официальным) языками.",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "KC Ulusal İstatistik Komitesi, 2022 nüfus sayımı, II. kitap (birinci kısım), etnik yapı ve diller bölümü (Rusça)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 6 936 156 6 700 250 167 112 39 170 16 100 13 524 … кыргызы 5 379 020 5 360 056 - 9 332 5 002 4 630",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "2022 sayımı, tablo 3.8 «ana dil»: toplam / kendi etnik grubunun dili / Kırgızca / Rusça / Özbekçe / diğer (Rusça)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Kırgızca ve Rusça ne düzeyde konuşuluyor?",
+          "p": [
+            "Sayım 7 yaş ve üstü için «akıcı»dan «hiç»e bir ölçek kaydetti. Nüfusun %75,7'si Kırgızcayı, %37,9'u Rusçayı akıcı konuşuyor; %24,9'u da Rusçayı iyi konuşuyor.",
+            "İkinci dil olarak Rusçayı 3.049.226, Kırgızcayı 482.466, İngilizceyi 38.166 kişi belirtti."
+          ],
+          "t": {
+            "head": [
+              "Dili konuşma düzeyi",
+              "Kırgızca",
+              "Rusça"
+            ],
+            "rows": [
+              [
+                "akıcı",
+                "%75,7",
+                "%37,9"
+              ],
+              [
+                "iyi",
+                "%11,0",
+                "%24,9"
+              ],
+              [
+                "yeterli",
+                "%5,2",
+                "%19,2"
+              ],
+              [
+                "zayıf",
+                "%3,8",
+                "%9,1"
+              ],
+              [
+                "hiç",
+                "%4,4",
+                "%8,9"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Кыргызская Республика 5 807 488 4 393 470 637 685 300 387 222 020 253 926",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "2022 sayımı, tablo 3.11, 7 yaş ve üstü, Kırgızca: toplam / akıcı / iyi / yeterli / zayıf / hiç (Rusça)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 5 807 488 2 202 455 1 448 956 1 112 431 526 169 517 477",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "2022 sayımı, tablo 3.12, 7 yaş ve üstü, Rusça: toplam / akıcı / iyi / yeterli / zayıf / hiç (Rusça)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргызская Республика 3 920 816 56 535 482 466 3 049 226 224 490 38 166 12 045 57 888",
+              "src": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf",
+              "label": "2022 sayımı, tablo 3.9 «ikinci dil»: ikinci dil bilen / kendi grubunun dili / Kırgızca / Rusça / Özbekçe / İngilizce / Almanca / diğer (Rusça)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Nerede hangi dili duyacaksınız?",
+          "p": [
+            "Seyahat için asıl önemli olan coğrafya. Bişkek'te 7 yaş ve üstü nüfusun %81,8'i, Çüy bölgesinde %58,7'si Rusçayı akıcı konuşuyor. Narın, Oş, Batken ve Celalabad bölgelerinde bu oran %14,1–19,3; buralarda Kırgızcayı akıcı konuşanlar ise %67,1–95,3.",
+            "Pratikte: başkentte Rusçayla anlaşabilirsiniz; Narın, Oş, Batken ve Celalabad bölgelerinde ise Rusçayı akıcı konuşan her beş-yedi kişiden yalnızca biri — orada işinize Kırgızca yarar. Bölgelerde Kırgızca bir selam, «teşekkürler» ve birkaç soru hem nezaket hem de konuşmada gerçek bir yardımdır."
+          ],
+          "t": {
+            "head": [
+              "Nerede",
+              "Akıcı Kırgızca",
+              "Akıcı Rusça"
+            ],
+            "rows": [
+              [
+                "Bişkek (şehir)",
+                "%83,3",
+                "%81,8"
+              ],
+              [
+                "Çüy bölgesi",
+                "%70,5",
+                "%58,7"
+              ],
+              [
+                "Issık-Göl bölgesi",
+                "%87,2",
+                "%41,6"
+              ],
+              [
+                "Oş (şehir)",
+                "%65,4",
+                "%36,9"
+              ],
+              [
+                "Talas bölgesi",
+                "%87,1",
+                "%22,5"
+              ],
+              [
+                "Celalabad bölgesi",
+                "%73,4",
+                "%19,3"
+              ],
+              [
+                "Batken bölgesi",
+                "%74,5",
+                "%19,2"
+              ],
+              [
+                "Narın bölgesi",
+                "%95,3",
+                "%17,2"
+              ],
+              [
+                "Oş bölgesi",
+                "%67,1",
+                "%14,1"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "Türkçe ve İngilizce",
+          "p": [
+            "Sayım ikinci diller arasında Türkçeyi ayrıca göstermiyor. Kırgızca Türkçeyle akrabadır: dilbilgisi ve pek çok kök tanıdık gelir, ama akan konuşmayı ilk duyuşta pek çözemezsiniz — ayrıntılar için ((Kırgızca, Kazakça, Türkçe|/blog/kyrgyzskiy-kazahskiy-turetskiy/tr)) yazısına bakın.",
+            "İngilizceyi ikinci dil olarak 38.166 kişi belirtti — nüfusun %0,55'i. Sayım kişi başına tek bir ikinci dil kaydetti ve ikinci dil belirtenlerin %78'inde bu Rusça; İngilizceyi üçüncü dil olarak kaç kişinin bildiğini sayım göstermiyor."
+          ]
+        },
+        {
+          "h": "Yolculuktan önce nereden başlamalı?",
+          "p": [
+            "Başlamak için yirmi ifade yeter: selam, teşekkür, «evet», «hayır», «anlamadım». Hepsi ana dili konuşurunun sesiyle ((Türkçe–Kırgızca konuşma kılavuzunda|/razgovornik/tr)), yol için bir seçki de ((Kırgızca seyahat ifadeleri|/blog/frazy-dlya-poezdki/tr)) yazısında.",
+            "Daha fazlasını isterseniz ((Kırgız alfabesiyle|/blog/kyrgyzskiy-alfavit/tr)) ve ((selamlaşmayla|/blog/privetstviya-po-kyrgyzski/tr)) başlayın: Türkçe konuşan biri için ö ve ü zaten tanıdık, asıl emek söz varlığına ve seslere gider."
+          ]
+        }
+      ]
+    }
+  }
+}

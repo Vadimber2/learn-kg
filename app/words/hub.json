@@ -1,0 +1,27 @@
+{
+  "_readme": "Хаб страниц-ответов «X по-кыргызски» (/slovo/ru|en|tr). {n} в тексте — число слов реестра (в русском не используется: числительное требует согласования падежа, а состав реестра растёт). Здесь живут только тексты самой страницы-списка: карточки собираются из app/words/words.json (титул слова + первая фраза его lead), поэтому новое слово попадает на хаб без правки этого файла. updated — дата текстов хаба; в sitemap едет более поздняя из неё и updated реестра слов.",
+  "updated": "2026-09-05",
+  "ui": {
+    "ru": {
+      "title": "Слова по-кыргызски: ответы с озвучкой",
+      "desc": "Как сказать по-кыргызски спасибо, здравствуйте, как дела, числа и другие частые слова: страница-ответ на каждый вопрос, с произношением и озвучкой носителя.",
+      "h1": "Слова и фразы по-кыргызски",
+      "lead": "Каждая страница отвечает на один вопрос — как это будет по-кыргызски. Внутри: само слово, варианты, что отвечают в ответ и озвучка носителя.",
+      "allWords": "Все слова с озвучкой"
+    },
+    "en": {
+      "title": "Kyrgyz words: {n} topics with native audio",
+      "desc": "How to say thank you, hello, how are you, numbers and other everyday words in Kyrgyz: {n} pages with the answer, pronunciation and native-speaker audio.",
+      "h1": "Kyrgyz words and phrases",
+      "lead": "Each page answers one question — how do you say it in Kyrgyz. Inside: the word itself, its variants, what people reply and native-speaker audio.",
+      "allWords": "All words with audio"
+    },
+    "tr": {
+      "title": "Kırgızca kelimeler: {n} konu, sesli",
+      "desc": "Kırgızca teşekkürler, merhaba, nasılsın, sayılar ve diğer günlük kelimeler nasıl söylenir: {n} sayfa — cevap, telaffuz ve ana dili konuşuru sesi.",
+      "h1": "Kırgızca kelimeler ve kalıplar",
+      "lead": "Her sayfa tek bir soruyu yanıtlar: bu Kırgızca nasıl söylenir. İçinde kelimenin kendisi, çeşitleri, verilen cevaplar ve ana dili konuşurunun sesi var.",
+      "allWords": "Sesli tüm kelimeler"
+    }
+  }
+}

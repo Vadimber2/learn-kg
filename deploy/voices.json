@@ -1,0 +1,113 @@
+{
+ "policy": "Возраст персонажа — правда из сюжета; озвучивается ближайшим разрешённым голосом: child → голос 18 лет (детские голоса ElevenLabs запрещены политикой), young → 25, adult → 40 (клоны живых нейтив-спикеров), elder → 65. Роль = <пол>_<возраст>; у персонажа может быть индивидуальный голос (ключ voice — имя роли в voices), чтобы участники одной сцены звучали различимо.",
+ "voices": {
+  "male_child": "EsHuWq1OrQIblqxNYoKk",
+  "female_child": "I22WQRXzvL5uT8HIqFjR",
+  "mixed_child": "I22WQRXzvL5uT8HIqFjR",
+  "male_young": "EK3QZwtdOz5hk7vgJ7Tm",
+  "female_young": "Exp1eZm6H7scZFDpEguL",
+  "male_adult": "iF4693NxQPt9DAKzyzt1",
+  "female_adult": "hsrInc5IKbNptQ4rWWyb",
+  "male_elder": "XYB6exUG4hNKsUajfZMY",
+  "boy_a": "EsHuWq1OrQIblqxNYoKk",
+  "boy_b": "CSUR2lsEBkFy7yVsB5SP",
+  "boy_c": "WEeomM2m1ytp4TNb3D9z",
+  "female_elder": "vuwetAmWimE46jGoRKbQ"
+ },
+ "voiceNames": {
+  "male_child": "KG Boy A — звонкий (по умолчанию для школьников)",
+  "female_child": "KG Young Female (девушка, озвучка 18)",
+  "mixed_child": "KG Young Female (класс хором — светлый голос)",
+  "male_young": "KG Male 25 Bright (Жон) — звонкий тенор",
+  "female_young": "KG Female 25 (Voice Design)",
+  "male_adult": "KG Voice (мужской) — клон нейтив-спикера",
+  "female_adult": "KG Voice Female (женский) — клон нейтив-спикера",
+  "male_elder": "KG Elder Male (пожилой, Voice Design)",
+  "boy_a": "KG Boy A (Асан) — звонкий",
+  "boy_b": "KG Boy B (Айдар) — звонкий",
+  "boy_c": "KG Boy C (Айбек) — звонкий",
+  "female_elder": "KG Elder Female (бабушка, Voice Design)"
+ },
+ "default": "male_adult",
+ "characters": {
+  "Асан": {
+   "gender": "male",
+   "age": "child",
+   "note": "школьник, новый ученик в классе Нурия эже",
+   "voice": "boy_a"
+  },
+  "Айдар": {
+   "gender": "male",
+   "age": "child",
+   "note": "школьник, сын Ата и Эне",
+   "voice": "boy_b"
+  },
+  "Айбек": {
+   "gender": "male",
+   "age": "child",
+   "note": "«Мен он жаштамын» — 10 лет",
+   "voice": "boy_c"
+  },
+  "Айпери": {
+   "gender": "female",
+   "age": "child",
+   "note": "«Мен кыз баламын» — школьница"
+  },
+  "Балдар": {
+   "gender": "mixed",
+   "age": "child",
+   "note": "класс хором"
+  },
+  "Асан жана Айдар": {
+   "gender": "male",
+   "age": "child",
+   "note": "два школьника вместе",
+   "voice": "boy_b"
+  },
+  "Жон": {
+   "gender": "male",
+   "age": "young",
+   "note": "студент университета, иностранец"
+  },
+  "Нургүл": {
+   "gender": "female",
+   "age": "young",
+   "note": "студентка университета"
+  },
+  "Ата": {
+   "gender": "male",
+   "age": "adult",
+   "note": "отец школьника, работает в аптеке; Асан зовёт его «байке»"
+  },
+  "Эне": {
+   "gender": "female",
+   "age": "adult",
+   "note": "мать школьника"
+  },
+  "Айгүл эже": {
+   "gender": "female",
+   "age": "adult",
+   "note": "учительница"
+  },
+  "Нурия эже": {
+   "gender": "female",
+   "age": "adult",
+   "note": "учительница"
+  },
+  "Нургүл эже": {
+   "gender": "female",
+   "age": "adult",
+   "note": "учительница"
+  },
+  "Бакыт мырза": {
+   "gender": "male",
+   "age": "adult",
+   "note": "мекеменин жетекчиси в диалогах М24 («Кутман күн, урматтуу кесиптештер»)"
+  },
+  "Чоң ата": {
+   "gender": "male",
+   "age": "elder",
+   "note": "дедушка Айдара и Айпери, живёт в айыле — диалоги М30"
+  }
+ }
+}

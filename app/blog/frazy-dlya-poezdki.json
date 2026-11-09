@@ -1,0 +1,139 @@
+{
+  "slug": "frazy-dlya-poezdki",
+  "published": "2026-08-15",
+  "updated": "2026-09-05",
+  "section": "vocab",
+  "og": {"ru": "frazy-dlya-poezdki-ru.png", "en": "frazy-dlya-poezdki-en.png", "tr": "frazy-dlya-poezdki-tr.png"},
+  "figs": {
+    "0": "audio",
+    "3": "quiz"
+  },
+  "related": [
+    "privetstviya-po-kyrgyzski",
+    "chisla-na-kyrgyzskom",
+    "yazyk-v-kyrgyzstane"
+  ],
+  "refs": [
+    {
+      "authors": "Ager S.",
+      "year": 2025,
+      "title": "Useful Kyrgyz phrases",
+      "source": "Omniglot",
+      "url": "https://www.omniglot.com/language/phrases/kyrgyz.php"
+    },
+    {
+      "authors": "Center for Languages of the Central Asian Region",
+      "year": 2025,
+      "title": "Kyrgyz: Language Portal",
+      "source": "Indiana University Bloomington (CeLCAR)",
+      "url": "https://celcar.indiana.edu/materials/language-portal/kyrgyz.html"
+    }
+  ],
+  "langs": {
+    "ru": {
+      "title": "Кыргызские фразы для поездки: от приветствия до базара",
+      "desc": "40 живых фраз для поездки в Кыргызстан: приветствия, знакомство, транспорт, базар, кафе и гостеприимство — каждая с озвучкой носителя в разговорнике.",
+      "lead": "В Бишкеке вас поймут и по-русски — но одно «саламатсызбы» меняет разговор целиком: с вами начинают говорить как с гостем, а не как с туристом. Собрали фразы, которых реально хватает на день поездки, — по сценам, от первого «здравствуйте» до дастархана. Каждую можно послушать в озвучке носителя.",
+      "blocks": [
+        {
+          "h": "Пять фраз, которые открывают все двери",
+          "p": [
+            "Салам! — «привет» между ровесниками, Саламатсызбы! — вежливое «здравствуйте» незнакомому человеку. Рахмат! — ((спасибо по-кыргызски|/slovo/spasibo/ru)), а усиленное Чоң рахмат! — «большое спасибо». Ооба и Жок — «да» и «нет». Кечиресиз — «извините», открывающее любой вопрос к прохожему. Этот короткий набор покрывает половину дорожных ситуаций.",
+            "Все приветствия с ответами — в разделе ((«Приветствие и прощание»|/razgovornik/ru#salam)) разговорника, вежливые формулы — в разделе ((«Вежливость»|/razgovornik/ru#syilyk)): нажмите ▶ и повторите за носителем — ударение в кыргызском почти всегда на последний слог."
+          ]
+        },
+        {
+          "h": "Знакомство и спасательный круг «не понимаю»",
+          "p": [
+            "Знакомство начинается с Таанышалы! — «давайте познакомимся». Дальше по шаблону: Менин атым … — «меня зовут …», и Мен Бишкектенмин — «я из Бишкека» (подставьте свой город: Мен Москваданмын). Услышали в ответ Тааныш болгонума кубанычтамын — вам сказали «рад знакомству».",
+            "Спасательный круг для любого разговора: Түшүнгөн жокмун — «я не понял(а)», Кайталап коюңузчу — «повторите, пожалуйста», Билбейм — «не знаю». Эти три фразы из раздела ((«Базовые ответы»|/razgovornik/ru#javap)) честно выигрывают время — а перевод забытого слова мгновенно найдётся в ((русско-кыргызском переводчике|/perevodchik/ru))."
+          ]
+        },
+        {
+          "h": "Город, маршрутка и базар",
+          "p": [
+            "Транспортный минимум: аялдама — «остановка», маршрутка и такси звучат как по-русски, жол кире — «плата за проезд». Числа пригодятся везде: бир, эки, үч, төрт, беш — от одного до пяти; полный счёт до тысячи — в разделе ((«Числа и время»|/razgovornik/ru#san)).",
+            "Главный вопрос поездки — Бул канча турат? — «сколько это стоит?» (эта и любая другая фраза курса ищется в ((переводчике с русского на кыргызский|/perevodchik/ru))). Дальше — связка из раздела ((«Покупки и деньги»|/razgovornik/ru#bazar)): нарк — «цена», кымбат — «дорого», арзан — «дёшево», майда акча — «мелочь», кайтарым — «сдача». Назовите число сомов по-кыргызски — и торг сразу пойдёт теплее: продавцы Ошского базара (он в Бишкеке) ценят усилие больше произношения."
+          ]
+        },
+        {
+          "h": "Кафе, гостиница и дастархан",
+          "p": [
+            "В кафе выручают нан — «хлеб», чай, суу — «вода», эт — «мясо» и названия блюд, которые не нуждаются в переводе: бешбармак, кымыз, боорсок. В гостинице — мейманкана — пригодятся бош бөлмө — «свободный номер», бир кишилик бөлмө и эки кишилик бөлмө — одно- и двухместный (раздел ((«Гостиница»|/razgovornik/ru#meyman))).",
+            "Если позвали в гости — вы услышите Кириңиз! («входите»), Отуруңуз! («садитесь») и Чай ичиңиз («выпейте чаю»). Ответьте Чоң рахмат! — и не забудьте Аш болсун! — пожелание «приятного аппетита» из раздела ((«В гостях»|/razgovornik/ru#konok)). Проверить, что фразы закрепились, можно в ((бесплатном демо-уроке|/demo/ru)) — карточки с озвучкой и мини-тест."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz phrases for travel: from hello to the bazaar",
+      "desc": "40 essential Kyrgyz phrases for your trip: greetings, introductions, transport, the bazaar, cafés and hospitality — each with native-speaker audio.",
+      "lead": "In Bishkek you can get by with Russian — but one salamatsyzby changes the whole conversation: you are suddenly a guest, not a tourist. Here are the phrases that actually cover a day of travel, scene by scene, from the first hello to the guest table. Every one of them comes with native-speaker audio.",
+      "blocks": [
+        {
+          "h": "Five phrases that open every door",
+          "p": [
+            "Салам! (salam) is the casual “hi”; Саламатсызбы! (salamatsyzby) is the polite “hello” to a stranger. Рахмат! (rahmat) means ((“thank you” in Kyrgyz|/slovo/spasibo/en)), and Чоң рахмат! (chong rahmat) — “thank you very much”. Ооба (ooba) and Жок (jok) are “yes” and “no”. Кечиресиз (kechiresiz) — “excuse me” — opens any question to a passer-by. This short set covers half of all travel situations.",
+            "All greetings with their replies live in the ((Greetings section|/razgovornik/en#salam)) of our phrasebook, politeness formulas in ((Thanks and apologies|/razgovornik/en#syilyk)): press ▶ and repeat after the native speaker — Kyrgyz stress almost always falls on the last syllable."
+          ]
+        },
+        {
+          "h": "Introducing yourself — and the “I don’t understand” lifeline",
+          "p": [
+            "Start with Таанышалы! (taanyshaly) — “let’s get acquainted”. Then follow the template: Менин атым … (menin atym …) — “my name is …”, and Мен Бишкектенмин (men Bishkektenmin) — “I am from Bishkek” (swap in your city: Мен Лондондонмун). If you hear Тааныш болгонума кубанычтамын back, you have just been told “pleased to meet you”.",
+            "The lifeline for any conversation: Түшүнгөн жокмун (tüshüngön jokmun) — “I didn’t understand”, Кайталап коюңузчу (kaytalap koyunguzchu) — “please repeat”, Билбейм (bilbeym) — “I don’t know”. All three live in ((Basic replies|/razgovornik/en#javap)), and any forgotten word is one search away in the ((English–Kyrgyz translator|/perevodchik/en))."
+          ]
+        },
+        {
+          "h": "The city, the marshrutka and the bazaar",
+          "p": [
+            "Transport minimum: аялдама (ayaldama) — “bus stop”, такси sounds familiar, маршрутка (marshrutka) is the shared minibus, жол кире (jol kire) — “the fare”. Numbers help everywhere: бир, эки, үч, төрт, беш (bir, eki, üch, tört, besh) — one to five; the full count to a thousand is in the ((Numbers section|/razgovornik/en#san)).",
+            "The single most useful question of the trip is Бул канча турат? (bul kancha turat) — “how much is this?” (this and every other course phrase is searchable in the ((English–Kyrgyz translator|/perevodchik/en))). Then comes the working set from ((Shopping and money|/razgovornik/en#bazar)): нарк (nark) — “price”, кымбат (kymbat) — “expensive”, арзан (arzan) — “cheap”, майда акча (mayda akcha) — “small change”, кайтарым (kaytarym) — “change (money back)”. Say the number of soms in Kyrgyz and the bargaining instantly warms up: sellers at Osh Bazaar value the effort more than the accent."
+          ]
+        },
+        {
+          "h": "Cafés, hotels and the guest table",
+          "p": [
+            "In a café you will get far with нан (nan) — “bread”, чай (chay) — “tea”, суу (suu) — “water”, эт (et) — “meat”, plus dishes that need no translation: beshbarmak, kymyz (kumis), boorsok. In a hotel — мейманкана (meymankana) — ask for бош бөлмө (bosh bölmö) — “a free room”, бир кишилик бөлмө or эки кишилик бөлмө — single or double (see ((Hotel|/razgovornik/en#meyman))).",
+            "Invited to someone’s home, you will hear Кириңиз! (“come in”), Отуруңуз! (“sit down”) and Чай ичиңиз (“have some tea”). Answer Чоң рахмат! — and don’t forget Аш болсун! (ash bolsun) — “bon appétit”, from the ((Hospitality section|/razgovornik/en#konok)). To make the phrases stick, run them through the ((free demo lesson|/demo/en)) — audio flashcards and a mini-quiz."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızca seyahat ifadeleri: selamdan pazarlığa",
+      "desc": "Kırgızistan seyahati için 40 temel Kırgızca ifade: selamlaşma, tanışma, ulaşım, pazar, kafe ve konukseverlik — her biri ana dili konuşurunun sesiyle.",
+      "lead": "Bişkek'te Rusçayla da anlaşabilirsiniz — ama tek bir salamatsızbı bütün sohbeti değiştirir: artık turist değil, konuksunuz. İşte bir günlük seyahati gerçekten karşılayan ifadeler — ilk merhabadan dastorkona (konuk sofrası) kadar sahne sahne. Türkçe konuşan biri için sürpriz: çoğu kelime zaten yarı tanıdık. Hepsi ana dili konuşurunun sesiyle dinlenebilir.",
+      "blocks": [
+        {
+          "h": "Bütün kapıları açan beş ifade",
+          "p": [
+            "Салам! (salam) — samimi «selam»; Саламатсызбы! (salamatsızbı) — yabancıya söylenen kibar «merhaba». Рахмат! (rahmat) — ((Kırgızca «teşekkürler»|/slovo/spasibo/tr)), Чоң рахмат! (çoñ rahmat) — «çok teşekkürler». Ооба (ooba) ve Жок (cok) — «evet» ve «hayır». Кечиресиз (keçiresiz) — «affedersiniz», yoldan geçen birine soru sormanın anahtarı. Bu kısa küme, yoldaki durumların yarısını karşılar.",
+            "Bütün selamlaşmalar ve cevapları konuşma kılavuzunun ((Selamlaşma bölümünde|/razgovornik/tr#salam)), nezaket kalıpları ((Teşekkür ve özür bölümünde|/razgovornik/tr#syilyk)): ▶ tuşuna basıp ana dili konuşurundan sonra tekrarlayın — Kırgızcada vurgu neredeyse her zaman son hecededir, büyük ölçüde Türkçedeki gibi."
+          ]
+        },
+        {
+          "h": "Tanışma ve «anlamadım» can simidi",
+          "p": [
+            "Tanışma Таанышалы! (taanışalı) ile başlar — «tanışalım». Sonrası şablon: Менин атым … (menin atım…) — «adım …», Мен Бишкектенмин (men Bişkektenmin) — «Bişkek'tenim» (şehrinizi koyun: Мен Стамбулданмын). Cevapta Тааныш болгонума кубанычтамын duyarsanız size «tanıştığımıza memnun oldum» denmiştir — Türkçedeki kalıbın birebir kardeşi.",
+            "Her sohbetin can simidi: Түшүнгөн жокмун (tüşüngön cokmun) — «anlamadım», Кайталап коюңузчу (kaytalap koyuñuzçu) — «tekrar eder misiniz», Билбейм (bilbeym) — «bilmiyorum». Üçü de ((Temel cevaplar bölümünde|/razgovornik/tr#javap)); unuttuğunuz kelime ise ((Türkçe–Kırgızca çeviride|/perevodchik/tr)) bir aramayla bulunur."
+          ]
+        },
+        {
+          "h": "Şehir, marşrutka ve pazar",
+          "p": [
+            "Ulaşım asgarisi: аялдама (ayaldama) — «durak», такси tanıdık gelir, маршрутка (marşrutka) ise dolmuş demek, жол кире (col kire) — «yol ücreti». Sayılar her yerde lazım: бир, эки, үч, төрт, беш (bir, eki, üç, tört, beş) — Türkçeyle neredeyse aynı; bine kadar tam sayım ((Sayılar bölümünde|/razgovornik/tr#san)).",
+            "Seyahatin en işlevsel sorusu: Бул канча турат? (bul kança turat) — «bu ne kadar?» (bu ve diğer bütün kurs ifadeleri ((Türkçe–Kırgızca çeviride|/perevodchik/tr)) aranabilir). Sonrası ((Alışveriş ve para bölümünden|/razgovornik/tr#bazar)): нарк (nark) — «fiyat», кымбат (kımbat) — «pahalı», арзан (arzan) — «ucuz», майда акча (mayda akça) — «bozuk para», кайтарым (kaytarım) — «para üstü». Som sayısını Kırgızca söyleyin — pazarlığın havası hemen yumuşar: Oş Pazarı esnafı çabaya aksandan çok değer verir."
+          ]
+        },
+        {
+          "h": "Kafe, otel ve dastorkon",
+          "p": [
+            "Kafede нан (nan) — «ekmek», чай (çay), суу (suu) — «su», эт (et) — «et» yeter de artar; beşbarmak, kımız, boorsok ise çeviri istemez. Otelde — мейманкана (meymankana) — işinize yarayacaklar: бош бөлмө (boş bölmö) — «boş oda», бир кишилик бөлмө ve эки кишилик бөлмө — tek ve çift kişilik oda (((Otel bölümü|/razgovornik/tr#meyman))).",
+            "Eve davet edilirseniz duyacaklarınız: Кириңиз! («girin»), Отуруңуз! («oturun»), Чай ичиңиз («çay için»). Cevabınız Чоң рахмат! olsun — ve ((Konukseverlik bölümündeki|/razgovornik/tr#konok)) «afiyet olsun» karşılığını, yani Аш болсун! (aş bolsun) demeyi unutmayın. Kalıpları oturtmak için ((ücretsiz demo derste|/demo/tr)) sesli kartlar ve mini sınav sizi bekliyor."
+          ]
+        }
+      ]
+    }
+  }
+}

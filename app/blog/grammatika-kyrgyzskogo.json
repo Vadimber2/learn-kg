@@ -1,0 +1,159 @@
+{
+  "slug": "grammatika-kyrgyzskogo",
+  "published": "2026-08-15",
+  "updated": "2026-08-15",
+  "section": "lang",
+  "og": {"ru": "grammatika-kyrgyzskogo-ru.png", "en": "grammatika-kyrgyzskogo-en.png", "tr": "grammatika-kyrgyzskogo-tr.png"},
+  "figs": {
+    "0": "morphemes",
+    "1": "harmony"
+  },
+  "related": [
+    "slozhno-li-vyuchit-kyrgyzskiy",
+    "kyrgyzskiy-kazahskiy-turetskiy"
+  ],
+  "refs": [
+    {
+      "authors": "Kasapoğlu Çengel H.",
+      "year": 2005,
+      "title": "Kırgız Türkçesi Grameri: Ses ve Şekil Bilgisi",
+      "source": "Akçağ Yayınları, Ankara (переизд. TDK 2017)",
+      "url": "https://searchworks.stanford.edu/view/6719464"
+    },
+    {
+      "authors": "Abdıkulova R.",
+      "year": 2013,
+      "title": "Türkiye Türkçesi ile Kırgız Türkçesindeki Ortak Kelimeler Üzerine Genel Bir Değerlendirme",
+      "source": "Ulakbilge, 1(2), 41–48",
+      "url": "https://dergipark.org.tr/en/pub/ulakbilge/issue/13425/162282"
+    },
+    {
+      "authors": "Center for Languages of the Central Asian Region",
+      "year": 2025,
+      "title": "Kyrgyz: Language Portal",
+      "source": "Indiana University Bloomington (CeLCAR)",
+      "url": "https://celcar.indiana.edu/materials/language-portal/kyrgyz.html"
+    },
+    {
+      "authors": "Hammarström H., Forkel R., Haspelmath M., Bank S.",
+      "year": 2025,
+      "title": "Kirghiz (kirg1245)",
+      "source": "Glottolog",
+      "url": "https://glottolog.org/resource/languoid/id/kirg1245"
+    },
+    {
+      "authors": "Wikibooks contributors",
+      "year": 2025,
+      "title": "A Handbook of Kyrgyz Grammar: Nouns",
+      "source": "Wikibooks",
+      "url": "https://en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Nouns"
+    }
+  ],
+  "langs": {
+    "ru": {
+      "title": "Грамматика кыргызского языка: как она устроена",
+      "desc": "Грамматика кыргызского в одном обзоре: шесть падежей, сингармонизм, времена глагола и порядок слов. Почему всё это регулярнее, чем кажется, — на живых фразах.",
+      "lead": "У кыргызской грамматики репутация «сложной» — и она незаслуженная. Здесь нет родов, нет неправильных глаголов, а исключения можно пересчитать по пальцам: язык собирается из аффиксов, как конструктор, и почти всегда по правилам. Разбираем каркас — падежи, сингармонизм, глагол — на фразах, которые вы потом услышите в озвучке.",
+      "blocks": [
+        {
+          "h": "Каркас: аффиксы, порядок слов и шесть падежей",
+          "p": [
+            "Кыргызский — агглютинативный язык: грамматика приклеивается к слову цепочкой аффиксов, у каждого — ровно одно значение. Порядок слов — «подлежащее, дополнение, сказуемое»: глагол ждёт вас в конце фразы. Родов нет вовсе — ни у существительных, ни у местоимений: «ал» — это и «он», и «она».",
+            "Падежей шесть: именительный, родительный, дательный, винительный, местный и исходный — тот же набор, что в турецком. С русскими они совпадают лишь отчасти: местный и исходный в русском отдельными падежами не выражаются («в Бишкеке», «из Бишкека» требуют предлога), а творительному соответствия нет — его роль играет послелог менен. Мен Бишкектенмин — «я ИЗ Бишкека» (исходный падеж, аффикс -тен), Бишкекте — «В Бишкеке» (местный, -те). Сравните с ((разделом «Знакомство»|/razgovornik/ru#tanyshuu)) разговорника — «Мен Бишкектенмин» стоит там целой фразой."
+          ]
+        },
+        {
+          "h": "Сингармонизм: один аффикс — двенадцать обличий",
+          "p": [
+            "Главный «спецэффект» кыргызского — гармония гласных, причём двойная: аффикс подстраивается и под ряд (передний/задний), и под огубленность предыдущего слога. Поэтому множественное число — это один аффикс -ЛАр, который на письме встречается в двенадцати формах: кыздар — «девушки», иттер — «собаки», колдор — «руки».",
+            "Звучит страшно, работает само: выбор формы не запоминают списком, его диктует предыдущий слог, и через неделю тренировок рука сама пишет правильный вариант. В нашем демо под это есть отдельный дрилл — сингармонизм ставится быстрее, чем любой список неправильных глаголов."
+          ]
+        },
+        {
+          "h": "Глагол: времена, «заглазное» прошедшее и вопрос",
+          "p": [
+            "Просто прошедшее — аффикс -ды: келди — «пришёл». Рядом живёт форма -ыптыр — «прошедшее заглазное»: келиптир значит «пришёл, как выяснилось / говорят» — говорящий сам этого не видел. Лингвисты зовут это эвиденциальностью: -ды — нейтральное прошедшее, без пометки об источнике, а -ыптыр — отдельная форма для того, чего говорящий не видел сам. Русскому здесь нужны слова «оказывается», «говорят» — кыргызскому хватает аффикса.",
+            "Сказуемое согласуется с лицом личными аффиксами: Мен мугалиммин — «я учитель», буквально «я учитель-я». Вопрос делается аффиксом -бы, приклеенным к слову: Түшүндүңбү? — «понял?». Все эти формы удобно проверять на себе: наберите любую фразу в ((переводчике|/perevodchik/ru)) — и увидите её в живом употреблении."
+          ]
+        },
+        {
+          "h": "Что в итоге учить",
+          "p": [
+            "Каркас грамматики — падежи, гармония, личные аффиксы — осваивается за первые недели, потому что правила без исключений быстро автоматизируются. Настоящая работа в кыргызском — не грамматика, а словарный запас и три особых звука (ң, ө, ү).",
+            "Проверить, как каркас ощущается на практике, можно за один вечер: ((бесплатный демо-урок|/demo/ru)) даёт карточки с озвучкой и дриллы, а ((разговорник|/razgovornik/ru#salam)) — 337 живых фраз, в которых вся эта грамматика уже разложена по местам."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz grammar: cases, suffixes and word order",
+      "desc": "Kyrgyz grammar in one overview: six cases, vowel harmony, verb tenses and word order. Why it is far more regular than it looks — shown on real phrases.",
+      "lead": "Kyrgyz grammar has a scary reputation — an undeserved one. There are no genders, no irregular verbs, and the exceptions fit on one hand: the language snaps together from suffixes like a construction kit, almost always by rule. Here is the skeleton — cases, vowel harmony, the verb — shown on phrases you can later hear with native audio.",
+      "blocks": [
+        {
+          "h": "The skeleton: suffixes, word order and six cases",
+          "p": [
+            "Kyrgyz is an agglutinative language: grammar attaches to the word as a chain of suffixes, each carrying exactly one meaning. Word order is subject–object–verb: the verb waits for you at the end of the sentence. There are no genders at all — ал means both “he” and “she”.",
+            "There are six cases: nominative, genitive, dative, accusative, locative and ablative — the same set as in Turkish. Мен Бишкектенмин — “I am FROM Bishkek” (ablative -тен), Бишкекте — “IN Bishkek” (locative -те). See the ((Getting acquainted section|/razgovornik/en#tanyshuu)) of the phrasebook — “Мен Бишкектенмин” is there as a whole phrase."
+          ]
+        },
+        {
+          "h": "Vowel harmony: one suffix, twelve guises",
+          "p": [
+            "The signature feature of Kyrgyz is vowel harmony, and a double one: a suffix adjusts both to frontness and to the roundedness of the previous syllable. So the plural is a single suffix, -LAr, that surfaces in twelve written forms: кыздар — “girls”, иттер — “dogs”, колдор — “hands”. Turkish, for comparison, makes do with two: -lar and -ler.",
+            "It sounds intimidating and works automatically: you never memorise the forms as a list — the previous syllable dictates the choice, and after a week of drills your hand writes the right variant on its own. Our demo has a dedicated drill for exactly this."
+          ]
+        },
+        {
+          "h": "The verb: tenses, hearsay past and questions",
+          "p": [
+            "The plain past is -ды: келди — “came”. Next to it lives -ыптыр, the “hearsay past”: келиптир means “came, as it turns out / as they say” — the speaker did not witness it. Linguists call this evidentiality: -ды is the plain, source-neutral past, while -ыптыр is a dedicated form for what the speaker did not witness. English needs a word for it (“apparently”, “they say”); Kyrgyz needs a suffix.",
+            "The predicate agrees with the person through personal suffixes: Мен мугалиммин — “I am a teacher”, literally “I teacher-I”. Questions are made with the suffix -бы glued to the word: Түшүндүңбү? — “understood?”. The easiest way to see all this in action is to look any phrase up in the ((phrase translator|/perevodchik/en))."
+          ]
+        },
+        {
+          "h": "What actually needs learning",
+          "p": [
+            "The grammatical skeleton — cases, harmony, personal suffixes — settles in within the first weeks, because rules without exceptions automate fast. The real work in Kyrgyz is vocabulary and the three special sounds (ң, ө, ү), not grammar.",
+            "You can feel the skeleton in practice in one evening: the ((free demo lesson|/demo/en)) gives you audio flashcards and drills, and the ((phrasebook|/razgovornik/en#salam)) holds 337 real phrases with all of this grammar already in place."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgız Türkçesi grameri: Türkçeyle yan yana",
+      "desc": "Kırgız Türkçesi grameri Türkçeyle karşılaştırmalı: altı hâl, ünlü uyumu, fiil zamanları ve söz dizimi. Türkçe bilene neyin bedava geldiği, neyin emek istediği.",
+      "lead": "Türkçe bilen biri için Kırgız Türkçesi grameri yabancı bir ülke değil, komşu mahalle: aynı eklemeli yapı, aynı özne–nesne–yüklem dizilişi, aynı altı hâl. Fark ayrıntılarda — ve tam da bu ayrıntılar öğrenmeyi ilginç kılıyor. İşte iki dilin grameri yan yana, kursun gerçek ifadeleriyle.",
+      "blocks": [
+        {
+          "h": "Aynı iskelet: ekler, söz dizimi, altı hâl",
+          "p": [
+            "Kırgızca da Türkçe gibi eklemeli bir dil: gramer, her biri tek anlam taşıyan eklerle kelimeye zincir gibi eklenir. Söz dizimi aynı: yüklem sonda. Türkçedeki gibi cinsiyet de yok: ал tek başına hem «o (erkek)» hem «o (kadın)».",
+            "Hâl sayısı da aynı: altı — yalın, ilgi, yönelme, belirtme, bulunma, ayrılma. Ekler bile akraba: Мен Бишкектенмин — «Ben Bişkek'tenim» (ayrılma hâli -тен = -ten), Бишкекте — «Bişkek'te» (bulunma -те = -te). Fark ayrıntıda: Kırgızca «Атыңыз ким?» der — kelimesi kelimesine «Adınız kim?», Türkçedeki «Adınız ne?» yerine. ((Tanışma bölümünde|/razgovornik/tr#tanyshuu)) bu formlar canlı ifadelerin içinde."
+          ]
+        },
+        {
+          "h": "Ünlü uyumu: Türkçedekinden bir adım ötesi",
+          "p": [
+            "Türkçedeki büyük ve küçük ünlü uyumunu biliyorsunuz; Kırgızcada yuvarlaklık uyumu bir adım daha ileri gider ve geniş ünlüleri de kapsar. Türkçede çoğul eki yuvarlaklaşmaz, iki biçimdir (-lar/-ler); Kırgızcada aynı ek yazıda on iki biçimde karşınıza çıkar: кыздар — «kızlar», иттер — «itler» (köpekler), колдор — «eller, kollar» (кол Kırgızcada hem el hem koldur).",
+            "Göz korkutur ama kendi kendine işler: biçimi liste hâlinde ezberlemezsiniz, önceki hece seçimi dikte eder. Demodaki alıştırma tam bunun için — bir haftada el alışır."
+          ]
+        },
+        {
+          "h": "Fiil: -ды = -dı, -ыптыр = -mış",
+          "p": [
+            "Görülen geçmiş zaman birebir örtüşür: келди — «geldi» (-ды = -dı). Duyulan geçmiş de tanıdık: келиптир — «gelmiş» (-ыптыр, Türkçedeki -mış gibi tanıklık dışılığı işaretler). Kişi ekleri de akraba: Мен мугалиммин — «Ben öğretmenim» (-мин = -im).",
+            "Soru eki de aynı mantık: Түшүндүңбү? — «Anladın mı?». Tek yazım farkı: Kırgızca -бы ekini kelimeye bitişik yazar, Türkçe mı'yı ayrı. Herhangi bir ifadeyi ((ifade çevirisinde|/perevodchik/tr)) aratın — bu biçimleri gerçek kullanımda görürsünüz."
+          ]
+        },
+        {
+          "h": "Türkçe bilene ne bedava, ne emek ister?",
+          "p": [
+            "Bedava gelenler: iskeletin tamamı — eklemeli yapı, söz dizimi, hâller, kişi ekleri, ünlü uyumunun mantığı. Emek isteyenler: söz varlığı (Arapça-Farsça ortak katman Kırgızcada da duruyor — мугалим, китеп, дүйнө; üstüne Türkçede karşılığı olmayan geniş bir Rusça alıntı katmanı biniyor), ң sesi ve Kiril alfabesi — o da bir akşamlık iş.",
+            "İskeletin pratikte nasıl durduğunu görmek için ((ücretsiz demo dersi|/demo/tr)) deneyin: sesli kartlar ve alıştırmalar. ((Konuşma kılavuzunda|/razgovornik/tr#salam)) ise bu gramerin yerli yerinde durduğu 337 gerçek ifade var — hepsi ana dili konuşurunun sesiyle."
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,899 @@
+{
+  "updated": "2026-10-08",
+  "ui": {
+    "ru": {
+      "h1suffix": "",
+      "listen": "Слушать",
+      "howto": "Как произносится",
+      "variants": "Варианты",
+      "replies": "Что отвечают",
+      "examples": "В живой речи",
+      "crumbLabel": "Слова и фразы",
+      "moreTitle": "Где послушать больше",
+      "moreText": "Все фразы этой темы — с озвучкой носителя, бесплатно и без регистрации.",
+      "rzBtn": "Открыть разговорник",
+      "pvBtn": "Найти фразу",
+      "faqTitle": "Частые вопросы",
+      "artBtn": "Читать статью о приветствиях",
+      "otherWords": "Другие слова по-кыргызски"
+    },
+    "en": {
+      "h1suffix": "",
+      "listen": "Listen",
+      "howto": "How to pronounce it",
+      "variants": "Variants",
+      "replies": "What people reply",
+      "examples": "In real speech",
+      "crumbLabel": "Words and phrases",
+      "moreTitle": "Where to hear more",
+      "moreText": "Every phrase on this topic comes with native-speaker audio, free and without signup.",
+      "rzBtn": "Open the phrasebook",
+      "pvBtn": "Find a phrase",
+      "faqTitle": "Frequently asked questions",
+      "artBtn": "Read the article on greetings",
+      "otherWords": "More words in Kyrgyz"
+    },
+    "tr": {
+      "h1suffix": "",
+      "listen": "Dinle",
+      "howto": "Nasıl telaffuz edilir",
+      "variants": "Çeşitleri",
+      "replies": "Ne cevap verilir",
+      "examples": "Günlük konuşmada",
+      "crumbLabel": "Kelimeler ve kalıplar",
+      "moreTitle": "Daha fazlasını nerede duyabilirsiniz",
+      "moreText": "Bu konudaki tüm kalıplar ana dili konuşurunun sesiyle, ücretsiz ve kayıt gerektirmeden.",
+      "rzBtn": "Konuşma kılavuzunu aç",
+      "pvBtn": "Kalıp ara",
+      "faqTitle": "Sık sorulan sorular",
+      "artBtn": "Selamlaşma yazısını oku",
+      "otherWords": "Kırgızca diğer kelimeler"
+    }
+  },
+  "words": [
+    {
+      "slug": "spasibo",
+      "main": "m0_18",
+      "variants": [
+        "m0_19",
+        "m0_20"
+      ],
+      "replies": [
+        "m0_21"
+      ],
+      "examples": [
+        "m0_11"
+      ],
+      "rzAnchor": "syilyk",
+      "related": "privetstviya-po-kyrgyzski",
+      "titles": {
+        "ru": "Спасибо по-кыргызски: рахмат, чоң рахмат и ответ",
+        "en": "Thank you in Kyrgyz: rahmat",
+        "tr": "Kırgızca teşekkürler: rahmat"
+      },
+      "descs": {
+        "ru": "Спасибо по-кыргызски: как усилить благодарность, что принято отвечать в ответ и как всё это звучит голосом носителя — послушайте и повторите.",
+        "en": "Thank you in Kyrgyz: how to make it stronger, what people say back, and how all of it sounds in a native speaker's voice — listen and repeat.",
+        "tr": "Kırgızca teşekkürler: nasıl pekiştirilir, karşılığında ne denir ve hepsi ana dili konuşurunun sesiyle nasıl duyulur — dinleyin ve tekrarlayın."
+      },
+      "leads": {
+        "ru": "«Спасибо» по-кыргызски — рахмат. Если благодарите сильнее, скажите чоң рахмат — «большое спасибо» (чоң значит «большой»). Если вы искали, как сказать спасибо по-киргизски, — это то же слово: кыргызский и киргизский язык — одно и то же.",
+        "en": "“Thank you” in Kyrgyz is рахмат — rahmat. For a stronger thanks say чоң рахмат, “thank you very much” (чоң means “big”). The language is also called Kirghiz or Kirgiz in older sources — the word is the same.",
+        "tr": "Kırgızcada “teşekkürler” рахмат (rahmat) demektir. Daha güçlü bir teşekkür için чоң рахмат denir — “çok teşekkürler” (чоң “büyük” anlamına gelir)."
+      },
+      "notes": {
+        "ru": "Ударение на последний слог: рах-МАТ. «Р» твёрдое, как в русском «рама», «х» — мягкое горловое, а не русское «к». Слово арабского происхождения, поэтому знакомо и в турецком (rahmet), но в кыргызском именно оно означает обычное бытовое «спасибо».",
+        "en": "Stress falls on the last syllable: rah-MAT. The “r” is a hard tap, the “h” is a soft throat sound rather than a hard “k”. The word is of Arabic origin, familiar from Turkish rahmet, but in Kyrgyz it is the everyday word for thanks.",
+        "tr": "Vurgu son hecede: rah-MAT. “r” sert, “h” ise gırtlaktan yumuşak çıkar. Kelime Arapça kökenlidir ve Türkçedeki rahmet ile aynı köktendir; Kırgızcada gündelik “teşekkürler” anlamında kullanılır."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Как ответить на рахмат?",
+            "a": "Эчтеке эмес — «не за что, пустяки». Так отвечают и на бытовую благодарность, и на официальную."
+          },
+          {
+            "q": "Как сказать «спасибо Вам» по-кыргызски?",
+            "a": "Сизге рахмат! — буквально «Вам спасибо», вежливая форма с местоимением сиз («Вы»)."
+          },
+          {
+            "q": "Спасибо по-киргизски и по-кыргызски — это разные слова?",
+            "a": "Нет, это один язык и одно слово — рахмат. «Киргизский» — прежнее русское название языка, «кыргызский» — современное."
+          }
+        ],
+        "en": [
+          {
+            "q": "What do you reply to rahmat?",
+            "a": "Эчтеке эмес (echteke emes) — “it's nothing, you're welcome”. It works in both casual and formal situations."
+          },
+          {
+            "q": "How do you say “thank you very much” in Kyrgyz?",
+            "a": "Чоң рахмат! (chong rahmat) — literally “big thanks”. Сизге рахмат! means “thank you” addressed politely to you."
+          },
+          {
+            "q": "Is Kyrgyz “thank you” the same as Kazakh?",
+            "a": "They are close but not identical: Kazakh uses рақмет (raqmet), Kyrgyz uses рахмат. Speakers of either understand both."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Rahmat'a ne cevap verilir?",
+            "a": "Эчтеке эмес (echteke emes) — “bir şey değil”. Hem samimi hem resmî durumlarda kullanılır."
+          },
+          {
+            "q": "“Çok teşekkürler” nasıl denir?",
+            "a": "Чоң рахмат! (çoñ rahmat) — kelimesi kelimesine “büyük teşekkür”. Сизге рахмат! ise kibarca “size teşekkürler”."
+          },
+          {
+            "q": "Kırgızca teşekkür Kazakçadakiyle aynı mı?",
+            "a": "Yakın ama aynı değil: Kazakça рақмет (raqmet), Kırgızca рахмат. İki dilin konuşurları ikisini de anlar."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "zdravstvuyte",
+      "main": "m0_02",
+      "variants": [
+        "m0_01",
+        "m0_04"
+      ],
+      "replies": [
+        "m0_04"
+      ],
+      "examples": [
+        "m0_05",
+        "m0_11"
+      ],
+      "rzAnchor": "salam",
+      "related": "privetstviya-po-kyrgyzski",
+      "titles": {
+        "ru": "Здравствуйте по-кыргызски: саламатсызбы и что ответить",
+        "en": "Hello in Kyrgyz: salamatsyzby",
+        "tr": "Kırgızca merhaba: salamatsızbı"
+      },
+      "descs": {
+        "ru": "Здравствуйте по-кыргызски: где уместна вежливая форма, а где дружеская, что говорят в ответ и как обе звучат голосом носителя.",
+        "en": "Hello in Kyrgyz: when the polite form fits and when the casual one does, what people reply, and how both sound in a native speaker's voice.",
+        "tr": "Kırgızca merhaba: resmî biçim nerede, samimi biçim nerede kullanılır, selama ne karşılık verilir ve ikisi ana dili konuşurunun sesiyle nasıl duyulur."
+      },
+      "leads": {
+        "ru": "«Здравствуйте» по-кыргызски — саламатсызбы! Это вежливая форма: для старших, незнакомых и любых официальных ситуаций. Дружеское «привет» — салам!, а промежуточное «здравствуй» к одному человеку на «ты» — саламатсыңбы!",
+        "en": "“Hello” in Kyrgyz is саламатсызбы! — the polite form used with elders, strangers and in any formal setting. The casual “hi” is салам!, and саламатсыңбы! is “hello” to one person you are on familiar terms with.",
+        "tr": "Kırgızcada “merhaba” саламатсызбы! — büyüklere, tanımadığınız kişilere ve resmî ortamlara uygun kibar biçim. Samimi “selam” салам!, bir kişiye samimi “merhaba” ise саламатсыңбы!"
+      },
+      "notes": {
+        "ru": "Саламатсызбы разбирается на части: салам (мир, привет) + -сыз (вежливое «Вы») + -бы (вопросительная частица). Отсюда и логика языка: -сыз всегда означает «Вы», -сың — «ты». Ударение — на последний слог.",
+        "en": "Саламатсызбы breaks into parts: салам (peace, greeting) + -сыз (the polite “you”) + -бы (a question particle). That is the logic of the language: -сыз always marks the polite “you”, -сың the familiar one. Stress on the last syllable.",
+        "tr": "Саламатсызбы parçalara ayrılır: салам (selam) + -сыз (kibar “siz”) + -бы (soru eki). Dilin mantığı budur: -сыз her zaman “siz”, -сың “sen” demektir. Vurgu son hecede."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Что отвечают на саламатсызбы?",
+            "a": "Саламатчылык! — «и вам здравствовать». Можно ответить и тем же приветствием, а затем спросить кандайсыз? («как Вы?»)."
+          },
+          {
+            "q": "Салам или саламатсызбы — что выбрать?",
+            "a": "Сомневаетесь — говорите саламатсызбы: вежливая форма уместна всегда. Перейти на салам собеседник предложит сам, и это добрый знак."
+          },
+          {
+            "q": "Как поздороваться утром и вечером?",
+            "a": "Кайырлуу таң! — доброе утро, кайырлуу күн! — добрый день, кайырлуу кеч! — добрый вечер."
+          }
+        ],
+        "en": [
+          {
+            "q": "What is the reply to salamatsyzby?",
+            "a": "Саламатчылык! — roughly “and good health to you”. You can also return the same greeting and then ask кандайсыз? (“how are you?”)."
+          },
+          {
+            "q": "Salam or salamatsyzby — which should I use?",
+            "a": "When in doubt use саламатсызбы: the polite form is never wrong. Your counterpart will offer салам when it fits, and that is a good sign."
+          },
+          {
+            "q": "How do I say good morning and good evening?",
+            "a": "Кайырлуу таң! is good morning, кайырлуу күн! good afternoon, кайырлуу кеч! good evening."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Salamatsızbı'ya ne cevap verilir?",
+            "a": "Саламатчылык! — “size de esenlik”. Aynı selamı iade edip ardından кандайсыз? (“nasılsınız?”) diye sorabilirsiniz."
+          },
+          {
+            "q": "Salam mı salamatsızbı mı?",
+            "a": "Tereddüt ederseniz саламатсызбы deyin: kibar biçim her zaman uygundur. Karşınızdaki uygun gördüğünde салам demeyi teklif eder."
+          },
+          {
+            "q": "Günaydın ve iyi akşamlar nasıl denir?",
+            "a": "Кайырлуу таң! günaydın, кайырлуу күн! iyi günler, кайырлуу кеч! iyi akşamlar."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "kak-dela",
+      "main": "m0_05",
+      "variants": [
+        "m0_06",
+        "m0_07"
+      ],
+      "replies": [
+        "m0_11",
+        "m0_64"
+      ],
+      "examples": [
+        "m0_02"
+      ],
+      "rzAnchor": "salam",
+      "related": "privetstviya-po-kyrgyzski",
+      "titles": {
+        "ru": "Как дела по-кыргызски: кандайсыз, кандайсың и ответ",
+        "en": "How are you in Kyrgyz: kandaysyz",
+        "tr": "Kırgızca nasılsın: kandaysız"
+      },
+      "descs": {
+        "ru": "Как дела по-кыргызски: вежливая и дружеская формы вопроса, чем на него отвечают в двух словах и как всё это звучит голосом носителя.",
+        "en": "How are you in Kyrgyz: the polite and the casual way to ask, the short answer people actually give, and how it all sounds from a native speaker.",
+        "tr": "Kırgızca nasılsın: sorunun resmî ve samimi biçimi, günlük hayatta verilen kısa cevap ve hepsinin ana dili konuşurunun sesiyle okunuşu."
+      },
+      "leads": {
+        "ru": "«Как дела?» по-кыргызски — кандайсыз? Это вежливая форма на «Вы»; по-дружески говорят кандайсың? Ещё один частый вариант — жакшысызбы?, буквально «хорошо ли Вы?». Отвечают коротко: жакшы, рахмат — «хорошо, спасибо».",
+        "en": "“How are you?” in Kyrgyz is кандайсыз? — the polite form; among friends people say кандайсың? Another common option is жакшысызбы?, literally “are you well?”. The reply is short: жакшы, рахмат — “fine, thanks”.",
+        "tr": "Kırgızcada “nasılsınız?” кандайсыз?; samimi biçimi кандайсың?. Sık kullanılan bir başka seçenek жакшысызбы?, kelimesi kelimesine “iyi misiniz?”. Cevap kısadır: жакшы, рахмат — “iyiyim, teşekkürler”."
+      },
+      "notes": {
+        "ru": "Корень кандай значит «какой, каков», и -сыз/-сың — те же окончания вежливости, что в приветствии. Услышали -сыз — с вами на «Вы». После ответа принято вернуть вопрос: өзүңүзчү? — «а Вы?».",
+        "en": "The root кандай means “how, what kind”, and -сыз/-сың are the same politeness endings as in the greeting. If you hear -сыз, you are being addressed politely. After answering it is normal to return the question: өзүңүзчү? — “and you?”.",
+        "tr": "Kök кандай “nasıl” demek; -сыз/-сың ise selamlaşmadaki aynı nezaket ekleri. -сыз duyduysanız size “siz” diye hitap ediliyor. Cevaptan sonra soruyu iade etmek olağandır: өзүңүзчү? — “siz nasılsınız?”."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Что ответить на кандайсыз?",
+            "a": "Жакшы, рахмат! — «хорошо, спасибо». Разговорный вариант — сонун! («отлично!»). После ответа верните вопрос: өзүңүзчү?"
+          },
+          {
+            "q": "Чем кандайсыз отличается от кандайсың?",
+            "a": "Окончанием вежливости: -сыз — обращение на «Вы» (к старшим, незнакомым, в официальной ситуации), -сың — на «ты»."
+          },
+          {
+            "q": "Как спросить «как поживаете» иначе?",
+            "a": "Жакшысызбы? — буквально «хорошо ли Вы?». Это столь же вежливый и очень частый вариант."
+          }
+        ],
+        "en": [
+          {
+            "q": "What do I answer to kandaysyz?",
+            "a": "Жакшы, рахмат! — “fine, thanks”. A colloquial option is сонун! (“great!”). Then return the question: өзүңүзчү?"
+          },
+          {
+            "q": "What is the difference between kandaysyz and kandaysyng?",
+            "a": "The politeness ending: -сыз is the polite “you” (elders, strangers, formal settings), -сың is familiar."
+          },
+          {
+            "q": "Is there another way to ask how someone is?",
+            "a": "Жакшысызбы? — literally “are you well?”. Equally polite and very common."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Kandaysız'a ne cevap verilir?",
+            "a": "Жакшы, рахмат! — “iyiyim, teşekkürler”. Günlük dilde сонун! (“harika!”) de denir. Ardından soruyu iade edin: өзүңүзчү?"
+          },
+          {
+            "q": "Kandaysız ile kandaysıñ arasındaki fark ne?",
+            "a": "Nezaket eki: -сыз kibar “siz” (büyükler, tanımadıklarınız, resmî ortam), -сың ise samimi “sen”."
+          },
+          {
+            "q": "Hal hatır sormanın başka yolu var mı?",
+            "a": "Жакшысызбы? — kelimesi kelimesine “iyi misiniz?”. Aynı ölçüde kibar ve çok yaygın."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "izvinite",
+      "main": "m0_22",
+      "variants": [
+        "m0_23"
+      ],
+      "replies": [
+        "m0_21"
+      ],
+      "examples": [
+        "m0_33"
+      ],
+      "rzAnchor": "syilyk",
+      "related": "privetstviya-po-kyrgyzski",
+      "titles": {
+        "ru": "Извините по-кыргызски: кечиресиз или кечирим сурайм",
+        "en": "Excuse me in Kyrgyz: kechiresiz",
+        "tr": "Kırgızca affedersiniz: kechiresiz"
+      },
+      "descs": {
+        "ru": "Извините по-кыргызски: чем лёгкое извинение отличается от настоящего, как тем же словом окликнуть человека и как это звучит голосом носителя.",
+        "en": "Excuse me in Kyrgyz: how a light apology differs from a real one, how the same word gets someone's attention, and how it sounds from a native speaker.",
+        "tr": "Kırgızca affedersiniz: hafif bir özür ile gerçek özrün farkı, aynı sözle birine nasıl seslenilir ve ana dili konuşurunun sesiyle okunuşu."
+      },
+      "leads": {
+        "ru": "«Извините» по-кыргызски — кечиресиз. Это слово работает и как извинение, и как способ вежливо привлечь внимание: кечиресиз, суроо берсем болобу? — «извините, можно задать вопрос?». Более сильная форма — кечирим сурайм, «прошу прощения».",
+        "en": "“Excuse me” in Kyrgyz is кечиресиз. It works both as an apology and as a polite way to get attention: кечиресиз, суроо берсем болобу? — “excuse me, may I ask a question?”. A stronger form is кечирим сурайм, “I apologise”.",
+        "tr": "Kırgızcada “affedersiniz” кечиресиз. Hem özür hem de kibarca dikkat çekmek için kullanılır: кечиресиз, суроо берсем болобу? — “affedersiniz, bir soru sorabilir miyim?”. Daha güçlü biçim кечирим сурайм, “özür dilerim”."
+      },
+      "notes": {
+        "ru": "Корень кечир- значит «прощать»; -есиз — вежливое окончание на «Вы». К одному человеку на «ты» — кечир. Звук «ч» такой же, как в русском, а «и» в первом слоге не редуцируется: ке-чи-ре-СИЗ.",
+        "en": "The root кечир- means “to forgive”; -есиз is the polite ending. To one person you know well it is кечир. The “ch” is as in “chair”, and the vowels are not reduced: ke-chi-re-SIZ.",
+        "tr": "Kök кечир- “affetmek” demek; -есиз kibar ek. Samimi biçimi кечир. “ç” Türkçedeki gibi, ünlüler daralmaz: ke-çi-re-SİZ."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Как сказать «извини» на «ты»?",
+            "a": "Кечир — короткая форма к одному человеку, с которым вы на «ты». Вежливая форма — кечиресиз."
+          },
+          {
+            "q": "Как вежливо обратиться к незнакомому человеку?",
+            "a": "Начните с кечиресиз — как русское «извините, …». Например: кечиресиз, суроо берсем болобу? — «извините, можно задать вопрос?»."
+          },
+          {
+            "q": "Чем кечиресиз отличается от кечирим сурайм?",
+            "a": "Кечиресиз — обычное «извините», кечирим сурайм — «прошу прощения», более серьёзная формула, когда действительно виноваты."
+          }
+        ],
+        "en": [
+          {
+            "q": "How do I say sorry informally?",
+            "a": "Кечир — the short form for someone you are on familiar terms with. The polite form is кечиресиз."
+          },
+          {
+            "q": "How do I politely approach a stranger?",
+            "a": "Start with кечиресиз, exactly like “excuse me…”. For example: кечиресиз, суроо берсем болобу? — “excuse me, may I ask a question?”."
+          },
+          {
+            "q": "What is the difference from kechirim surayn?",
+            "a": "Кечиресиз is the everyday “excuse me”; кечирим сурайм is “I apologise”, a more serious formula when you are genuinely at fault."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Samimi biçimde “özür dilerim” nasıl denir?",
+            "a": "Кечир — samimi olduğunuz kişiye söylenen kısa biçim. Kibar biçim кечиресиз."
+          },
+          {
+            "q": "Tanımadığım birine nasıl kibarca seslenirim?",
+            "a": "Кечиресиз ile başlayın, “affedersiniz…” gibi. Örnek: кечиресиз, суроо берсем болобу? — “affedersiniz, bir soru sorabilir miyim?”."
+          },
+          {
+            "q": "Kechiresiz ile kechirim suraym farkı ne?",
+            "a": "Кечиресиз gündelik “affedersiniz”; кечирим сурайм ise gerçekten kusurlu olduğunuzda kullanılan “özür dilerim”."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "do-svidaniya",
+      "main": "m0_47",
+      "variants": [
+        "m0_44",
+        "m0_45"
+      ],
+      "replies": [
+        "m0_47"
+      ],
+      "examples": [
+        "m0_02"
+      ],
+      "rzAnchor": "salam",
+      "related": "privetstviya-po-kyrgyzski",
+      "titles": {
+        "ru": "До свидания по-кыргызски: көрүшкөнчө и другие прощания",
+        "en": "Goodbye in Kyrgyz: körüshköncho",
+        "tr": "Kırgızca hoşça kal: körüşkönçö"
+      },
+      "descs": {
+        "ru": "До свидания по-кыргызски: почему уходящий и остающийся прощаются разными словами, какое из них ваше и как все три звучат голосом носителя.",
+        "en": "Goodbye in Kyrgyz: why the one leaving and the one staying say different words, which one is yours, and how all three sound from a native speaker.",
+        "tr": "Kırgızca hoşça kal: giden ile kalan neden farklı sözlerle vedalaşır, hangisi sizin ve üçü de ana dili konuşurunun sesiyle nasıl duyulur."
+      },
+      "leads": {
+        "ru": "Универсальное «до свидания» по-кыргызски — көрүшкөнчө, буквально «до встречи». Но в кыргызском прощание делится по роли: уходящий желает остающимся жакшы калыңыз — «счастливо оставаться», а остающийся уходящему — жакшы барыңыз, «счастливого пути».",
+        "en": "The all-purpose “goodbye” in Kyrgyz is көрүшкөнчө, literally “until we meet”. But Kyrgyz splits farewells by role: the person leaving wishes those staying жакшы калыңыз — “stay well”, and those staying answer жакшы барыңыз — “go well”.",
+        "tr": "Kırgızcada genel “hoşça kal” көрүшкөнчө, kelimesi kelimesine “görüşene kadar”. Ama Kırgızca vedayı role göre ayırır: giden kalanlara жакшы калыңыз — “iyi kalın”, kalanlar gidene жакшы барыңыз — “iyi yolculuklar” der."
+      },
+      "notes": {
+        "ru": "Пара глаголов видна прямо в словах: калыңыз от кал- «оставаться», барыңыз от бар- «идти». В көрүшкөнчө четыре гласных переднего ряда подряд (ө, ү, ө, ө) — хорошая тренировка на округление губ.",
+        "en": "The verb pair is visible in the words themselves: калыңыз from кал- “to stay”, барыңыз from бар- “to go”. Көрүшкөнчө packs four rounded front vowels in a row (ө, ү, ө, ө) — good practice for lip rounding.",
+        "tr": "Fiil çifti kelimelerde görünür: калыңыз, кал- “kalmak”; барыңыз, бар- “gitmek”. Көрүшкөнчө dört yuvarlak ön ünlü barındırır (ө, ү, ө, ө) — dudak yuvarlama için iyi alıştırma."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Что сказать, если уходишь ты?",
+            "a": "Жакшы калыңыз! — «счастливо оставаться». Остающиеся ответят жакшы барыңыз! — «счастливого пути»."
+          },
+          {
+            "q": "Есть ли нейтральное «до свидания»?",
+            "a": "Да, көрүшкөнчө — «до встречи», подходит и в официальной, и в дружеской ситуации."
+          },
+          {
+            "q": "Как попрощаться по телефону?",
+            "a": "Көрүшкөнчө или жакшы калыңыз — обе формы уместны; после можно добавить рахмат («спасибо»)."
+          }
+        ],
+        "en": [
+          {
+            "q": "What do I say if I am the one leaving?",
+            "a": "Жакшы калыңыз! — “stay well”. Those staying will answer жакшы барыңыз! — “go well”."
+          },
+          {
+            "q": "Is there a neutral “goodbye”?",
+            "a": "Yes — көрүшкөнчө, “until we meet”, fits both formal and friendly situations."
+          },
+          {
+            "q": "How do I end a phone call?",
+            "a": "Көрүшкөнчө or жакшы калыңыз both work; you can add рахмат (“thank you”) before them."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Giden bensem ne derim?",
+            "a": "Жакшы калыңыз! — “iyi kalın”. Kalanlar жакшы барыңыз! — “iyi yolculuklar” diye cevap verir."
+          },
+          {
+            "q": "Nötr bir “hoşça kal” var mı?",
+            "a": "Var: көрүшкөнчө — “görüşene kadar”, hem resmî hem samimi ortama uyar."
+          },
+          {
+            "q": "Telefonu nasıl kapatırım?",
+            "a": "Көрүшкөнчө ya da жакшы калыңыз; öncesine рахмат (“teşekkürler”) eklenebilir."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "da-net",
+      "main": "m0_26",
+      "variants": [
+        "m0_27",
+        "m0_33"
+      ],
+      "replies": [
+        "m0_26",
+        "m0_27"
+      ],
+      "examples": [
+        "m1_106",
+        "m1_107"
+      ],
+      "rzAnchor": "javap",
+      "related": "privetstviya-po-kyrgyzski",
+      "titles": {
+        "ru": "Да и нет по-кыргызски: ооба, жок и полный ответ",
+        "en": "Yes and no in Kyrgyz: ooba and jok",
+        "tr": "Kırgızca evet ve hayır: ooba, jok"
+      },
+      "descs": {
+        "ru": "Да и нет по-кыргызски: как из двух коротких слов собирают полный ответ на вопрос, где без них не обойтись и как они звучат голосом носителя.",
+        "en": "Yes and no in Kyrgyz: how two short words turn into a full answer, where you cannot do without them, and how they sound from a native speaker.",
+        "tr": "Kırgızca evet ve hayır: iki kısa sözden tam cevap nasıl kurulur, nerede vazgeçilmezdir ve ana dili konuşurunun sesiyle nasıl duyulur."
+      },
+      "leads": {
+        "ru": "«Да» по-кыргызски — ооба, «нет» — жок. Слово жок работает шире русского «нет»: оно же значит «нету, отсутствует» — китеп жок значит «книги нет». А вежливое «пожалуйста» в значении просьбы — сураныч.",
+        "en": "“Yes” in Kyrgyz is ооба, “no” is жок. Жок does more work than English “no”: it also means “there is none” — китеп жок means “there is no book”. The polite “please” when asking for something is сураныч.",
+        "tr": "Kırgızcada “evet” ооба, “hayır” жок. Жок Türkçedeki “hayır”dan geniştir: “yok” anlamına da gelir — китеп жок “kitap yok” demek. Rica ederken kullanılan “lütfen” ise сураныч."
+      },
+      "notes": {
+        "ru": "В ооба два «о» подряд — это долгий звук, и долгота здесь важна: в кыргызском долгие гласные различают слова (сат «продай» — саат «час»). Жок читается с «дж» в начале: почти «джок».",
+        "en": "Ооба has a double “o” — a long vowel, and length matters in Kyrgyz: сат “sell” versus саат “hour”. Жок starts with a “j” sound, close to “jok”.",
+        "tr": "Ооба çift “o” taşır — uzun ünlü; Kırgızcada uzunluk anlam ayırır: сат “sat” ile саат “saat”. Жок baştaki ses “c” gibidir, neredeyse “cok”."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Как ответить полно, а не только «да»?",
+            "a": "Повторите сказуемое с окончанием: ооба, мен мугалиммин — «да, я учитель»; жок, мен окуучумун — «нет, я ученик»."
+          },
+          {
+            "q": "Как сказать «пожалуйста»?",
+            "a": "Зависит от смысла: при просьбе — сураныч, а в ответ на благодарность — эчтеке эмес («не за что»)."
+          },
+          {
+            "q": "Жок — это только «нет»?",
+            "a": "Нет, ещё «отсутствует»: акча жок — «денег нет». Это одно из самых частых слов языка."
+          }
+        ],
+        "en": [
+          {
+            "q": "How do I answer in full, not just “yes”?",
+            "a": "Repeat the predicate with its ending: ооба, мен мугалиммин — “yes, I am a teacher”; жок, мен окуучумун — “no, I am a student”."
+          },
+          {
+            "q": "How do I say “please”?",
+            "a": "It depends on the sense: сураныч when requesting, эчтеке эмес (“you're welcome”) in reply to thanks."
+          },
+          {
+            "q": "Does jok only mean “no”?",
+            "a": "No — it also means “there is none”: акча жок means “there is no money”. It is one of the most frequent words in the language."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Sadece “evet” değil, tam cevap nasıl verilir?",
+            "a": "Yüklemi ekiyle tekrar edin: ооба, мен мугалиммин — “evet, öğretmenim”; жок, мен окуучумун — “hayır, öğrenciyim”."
+          },
+          {
+            "q": "“Lütfen” nasıl denir?",
+            "a": "Anlama bağlı: rica ederken сураныч, teşekküre cevap olarak эчтеке эмес (“bir şey değil”)."
+          },
+          {
+            "q": "Jok yalnızca “hayır” mı?",
+            "a": "Hayır, “yok” anlamı da var: акча жок “para yok”. Dilin en sık kelimelerinden biri."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "chisla",
+      "main": "m5_01",
+      "variants": [
+        "m5_02",
+        "m5_03",
+        "m5_04",
+        "m5_05"
+      ],
+      "replies": [
+        "m5_06",
+        "m5_07",
+        "m5_08",
+        "m5_09",
+        "m5_10"
+      ],
+      "examples": [
+        "m5_22",
+        "m5_11",
+        "m5_23",
+        "m5_12",
+        "m5_13",
+        "m5_14",
+        "m5_15",
+        "m5_16",
+        "m5_17",
+        "m5_18",
+        "m5_19",
+        "m5_20"
+      ],
+      "heads": {
+        "ru": {
+          "variants": "Числа 2–5",
+          "replies": "Числа 6–10",
+          "examples": "Счёт дальше: 15, 20, 30… 100"
+        },
+        "en": {
+          "variants": "Numbers 2–5",
+          "replies": "Numbers 6–10",
+          "examples": "Counting on: 15, 20, 30… 100"
+        },
+        "tr": {
+          "variants": "Sayılar 2–5",
+          "replies": "Sayılar 6–10",
+          "examples": "Saymaya devam: 15, 20, 30… 100"
+        }
+      },
+      "rzAnchor": "san",
+      "related": "chisla-na-kyrgyzskom",
+      "titles": {
+        "ru": "Числа по-кыргызски от 1 до 10 и дальше до ста",
+        "en": "Numbers in Kyrgyz from 1 to 10",
+        "tr": "Kırgızca sayılar 1'den 10'a: okunuşu ve sesli"
+      },
+      "descs": {
+        "ru": "Числа по-кыргызски: счёт от 1 до 10 и дальше до ста, каждое число с озвучкой носителя, плюс как складываются десятки и как их читать вслух.",
+        "en": "Numbers in Kyrgyz: counting from 1 to 10 and on to a hundred, every number with native-speaker audio, plus how the tens are built and read aloud.",
+        "tr": "Kırgızca sayılar: 1'den 10'a ve 100'e kadar sayma, her sayı ana dili konuşurunun sesiyle, onluklar nasıl kurulur ve okunuşu nasıldır — hepsi burada."
+      },
+      "leads": {
+        "ru": "Числа по-кыргызски от 1 до 10: бир (1), эки (2), үч (3), төрт (4), беш (5), алты (6), жети (7), сегиз (8), тогуз (9), он (10). Дальше счёт складывается без исключений: он бир — одиннадцать, жыйырма — двадцать, жүз — сто, миң — тысяча. Все десятки до ста — ниже, с озвучкой носителя.",
+        "en": "Kyrgyz numbers 1 to 10: бир (1), эки (2), үч (3), төрт (4), беш (5), алты (6), жети (7), сегиз (8), тогуз (9), он (10). Counting continues without exceptions: он бир is eleven, жыйырма twenty, жүз a hundred, миң a thousand. Every ten up to a hundred is below, with audio.",
+        "tr": "Kırgızcada 1'den 10'a sayılar ve okunuşu: бир (bir) 1, эки (eki) 2, үч (üç) 3, төрт (tört) 4, беш (beş) 5, алты (altı) 6, жети (ceti) 7, сегиз (segiz) 8, тогуз (toguz) 9, он (on) 10. Sayma istisnasız sürer: он бир on bir, жыйырма yirmi, жүз yüz, миң bin — 100'e kadar hepsi aşağıda, sesli."
+      },
+      "notes": {
+        "ru": "Обратите внимание на үч и төрт: в них те самые звуки ү и ө — губы вытянуты трубочкой. Долгие гласные тоже важны: в жүз («сто») звук один, а не два. Счёт по-кыргызски полностью регулярен — выучив десять слов, вы говорите любое число.",
+        "en": "Note үч and төрт: they contain the rounded vowels ү and ө — lips pushed forward. Vowel length matters too: жүз (“hundred”) has a single vowel. Kyrgyz counting is fully regular — learn ten words and you can say any number.",
+        "tr": "үч ve төрт'e dikkat: içlerinde yuvarlak ünlüler ү ve ө var — dudaklar öne uzatılır. Ünlü uzunluğu da önemli: жүз (“yüz”) tek ünlü taşır. Kırgızca sayma tamamen düzenlidir; on kelimeyle her sayıyı söyleyebilirsiniz."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Как сказать по-кыргызски одиннадцать и двадцать?",
+            "a": "Он бир — одиннадцать (буквально «десять один»), жыйырма — двадцать. Дальше так же: жыйырма бир — двадцать один."
+          },
+          {
+            "q": "Как будет сто и тысяча?",
+            "a": "Жүз — сто, миң — тысяча. Тысяча девятьсот — миң тогуз жүз."
+          },
+          {
+            "q": "Числа в кыргызском меняются по падежам?",
+            "a": "Само число не меняется, но существительное после числа остаётся в единственном числе: эки китеп — «две книги» (буквально «два книга»)."
+          }
+        ],
+        "en": [
+          {
+            "q": "How do you say eleven and twenty in Kyrgyz?",
+            "a": "Он бир is eleven (literally “ten one”), жыйырма is twenty. It continues the same way: жыйырма бир is twenty-one."
+          },
+          {
+            "q": "What about a hundred and a thousand?",
+            "a": "Жүз is a hundred, миң is a thousand. Nineteen hundred is миң тогуз жүз."
+          },
+          {
+            "q": "Do Kyrgyz numbers change form?",
+            "a": "The numeral itself does not, but the noun after it stays singular: эки китеп means “two books” (literally “two book”)."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Kırgızcada on bir ve yirmi nasıl denir?",
+            "a": "Он бир on bir (kelimesi kelimesine “on bir”), жыйырма yirmi. Aynı şekilde sürer: жыйырма бир yirmi bir."
+          },
+          {
+            "q": "Yüz ve bin nasıl?",
+            "a": "Жүз yüz, миң bin. Bin dokuz yüz: миң тогуз жүз."
+          },
+          {
+            "q": "Kırgızca sayılar çekimlenir mi?",
+            "a": "Sayının kendisi değişmez, ardından gelen isim tekil kalır: эки китеп “iki kitap”."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "mama-papa",
+      "main": "m2_03",
+      "variants": [
+        "m2_02",
+        "m2_04",
+        "m2_05"
+      ],
+      "replies": [
+        "m2_01"
+      ],
+      "examples": [
+        "m2_06",
+        "m2_07",
+        "m2_08"
+      ],
+      "rzAnchor": "uybulo",
+      "related": "kak-uchit-kyrgyzskiy",
+      "titles": {
+        "ru": "Мама и папа по-кыргызски: апа, ата и эне — разница",
+        "en": "Mum and dad in Kyrgyz: apa and ata",
+        "tr": "Kırgızca anne ve baba: apa, ata"
+      },
+      "descs": {
+        "ru": "Мама и папа по-кыргызски: какое слово в семье слышно чаще, чем различаются два слова для матери и как всё это звучит голосом носителя.",
+        "en": "Mum and dad in Kyrgyz: which word families actually use, how the two words for mother differ, and how all of it sounds from a native speaker.",
+        "tr": "Kırgızca anne ve baba: ailede hangi söz daha sık duyulur, anne için iki söz nasıl ayrılır ve hepsi ana dili konuşurunun sesiyle nasıl duyulur."
+      },
+      "leads": {
+        "ru": "«Мама» по-кыргызски — апа, «папа» — ата. Родители вместе — ата-эне, а слово эне значит «мать» в книжном, торжественном смысле. Семья целиком — үй-бүлө, буквально «дом-семья».",
+        "en": "“Mum” in Kyrgyz is апа and “dad” is ата. Parents together are ата-эне, while эне means “mother” in a more literary, formal sense. The family as a whole is үй-бүлө, literally “house-family”.",
+        "tr": "Kırgızcada “anne” апа, “baba” ата. Birlikte “ebeveyn” ата-эне; эне ise daha edebî, resmî anlamda “ana” demek. Aile bütün olarak үй-бүлө, kelimesi kelimesine “ev-aile”."
+      },
+      "notes": {
+        "ru": "Апа и ата — короткие слова с открытым «а», ударение на последний слог: а-ПА, а-ТА. Притяжательная форма добавляет -м: апам — «моя мама», атам — «мой папа». Так же работает и с остальными словами родства.",
+        "en": "Апа and ата are short words with an open “a” and stress on the last syllable: a-PA, a-TA. The possessive adds -м: апам is “my mum”, атам “my dad”. The same pattern works across kinship words.",
+        "tr": "Апа ve ата kısa kelimelerdir, açık “a” ile ve vurgu son hecede: a-PA, a-TA. İyelik eki -м gelir: апам “annem”, атам “babam”. Aynı kalıp diğer akrabalık kelimelerinde de geçerli."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Как сказать «моя мама» и «мой папа»?",
+            "a": "Апам — «моя мама», атам — «мой папа»: к слову добавляется притяжательное -м."
+          },
+          {
+            "q": "Чем эне отличается от апа?",
+            "a": "Апа — обычное, повседневное «мама». Эне — «мать» в книжном и торжественном смысле; в паре ата-эне означает «родители»."
+          },
+          {
+            "q": "Как по-кыргызски «семья»?",
+            "a": "Үй-бүлө — буквально «дом-семья». Слово составное, как многие бытовые понятия в кыргызском."
+          }
+        ],
+        "en": [
+          {
+            "q": "How do I say “my mum” and “my dad”?",
+            "a": "Апам is “my mum”, атам is “my dad” — the possessive -м is added to the word."
+          },
+          {
+            "q": "How does эне differ from апа?",
+            "a": "Апа is the everyday “mum”. Эне is “mother” in a literary or formal register; in the pair ата-эне it means “parents”."
+          },
+          {
+            "q": "What is “family” in Kyrgyz?",
+            "a": "Үй-бүлө — literally “house-family”, a compound word like many everyday concepts in Kyrgyz."
+          }
+        ],
+        "tr": [
+          {
+            "q": "“Annem” ve “babam” nasıl denir?",
+            "a": "Апам “annem”, атам “babam” — kelimeye iyelik eki -м eklenir."
+          },
+          {
+            "q": "эне ile апа farkı ne?",
+            "a": "Апа gündelik “anne”. Эне edebî ya da resmî anlamda “ana”; ата-эне ikilisinde “ebeveyn” demek."
+          },
+          {
+            "q": "Kırgızcada “aile” nasıl denir?",
+            "a": "Үй-бүлө — kelimesi kelimesine “ev-aile”. Kırgızcada birçok gündelik kavram gibi birleşik bir kelime."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "brat-sestra",
+      "main": "m2_14",
+      "variants": [
+        "m2_15",
+        "m2_16",
+        "m2_17"
+      ],
+      "replies": [
+        "m2_13",
+        "m2_12"
+      ],
+      "examples": [
+        "m2_18",
+        "m2_19"
+      ],
+      "rzAnchor": "uybulo",
+      "related": "kak-uchit-kyrgyzskiy",
+      "titles": {
+        "ru": "Брат и сестра по-кыргызски: старший ага, младший ини",
+        "en": "Brother and sister in Kyrgyz: aga, ini",
+        "tr": "Kırgızca abi ve kardeş: aga, ini"
+      },
+      "descs": {
+        "ru": "Брат и сестра по-кыргызски: почему одного слова не хватает, как выбрать нужное по возрасту и по полу говорящего, и всё это голосом носителя.",
+        "en": "Brother and sister in Kyrgyz: why one word is not enough, how to pick the right one by age and by the speaker's gender, with native-speaker audio.",
+        "tr": "Kırgızca abi ve kardeş: neden tek söz yetmez, yaşa ve konuşanın cinsiyetine göre doğru söz nasıl seçilir — hepsi ana dili konuşurunun sesiyle."
+      },
+      "leads": {
+        "ru": "В кыргызском нет общего слова «брат»: ага — старший брат, ини — младший. С сёстрами тоньше: карындаш — младшая сестра, если говорит брат, а сиңди — если говорит сестра. Родной брат или сестра вообще — бир тууган, буквально «одного рода».",
+        "en": "Kyrgyz has no umbrella word for “brother”: ага is an older brother, ини a younger one. Sisters are subtler: карындаш is a younger sister when a brother speaks, сиңди when a sister speaks. A sibling in general is бир тууган, literally “of one birth”.",
+        "tr": "Kırgızcada genel bir “erkek kardeş” kelimesi yok: ага ağabey, ини küçük erkek kardeş. Kız kardeşte ayrım daha ince: карындаш erkek konuşuyorsa, сиңди kız konuşuyorsa küçük kız kardeş. Genel olarak kardeş ise бир тууган, “bir doğumdan”."
+      },
+      "notes": {
+        "ru": "Эта система — не сложность, а информация: назвав человека, вы сразу сообщаете и его старшинство, и своё родство к нему. Похожая логика есть в турецком (abi, abla), но набор слов другой. Слова короткие, ударение на последний слог: а-ГА, и-НИ, ка-рын-ДАШ, сиң-ДИ.",
+        "en": "This system is information, not difficulty: naming a person also states their seniority and your relation to them. Turkish has similar logic (abi, abla) but a different set of words. The words are short, stressed on the last syllable: a-GA, i-NI, ka-ryn-DASH, sing-DI.",
+        "tr": "Bu sistem zorluk değil, bilgidir: kişiyi adlandırırken hem yaş sırasını hem de ona olan yakınlığınızı söylersiniz. Türkçede benzer mantık var (abi, abla) ama kelimeler farklı. Kelimeler kısadır, vurgu son hecede: a-GA, i-Nİ, ka-rın-DAŞ, siñ-Dİ."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Как сказать просто «брат», не уточняя возраст?",
+            "a": "Бир тууган — «родной брат или сестра», без указания старшинства. В живой речи чаще всё же говорят ага или ини."
+          },
+          {
+            "q": "Почему у младшей сестры два названия?",
+            "a": "Выбор зависит от того, кто говорит: брат скажет карындаш, сестра — сиңди. Само слово сообщает пол говорящего."
+          },
+          {
+            "q": "Как назвать бабушку и дедушку?",
+            "a": "По отцу — чоң ата и чоң апа (буквально «большой отец», «большая мать»), по матери — таята и таэне."
+          }
+        ],
+        "en": [
+          {
+            "q": "How do I just say “sibling” without specifying age?",
+            "a": "Бир тууган — “brother or sister”, with no seniority marked. In everyday speech people still usually say ага or ини."
+          },
+          {
+            "q": "Why does “younger sister” have two words?",
+            "a": "The choice depends on who is speaking: a brother says карындаш, a sister says сиңди. The word itself reveals the speaker's gender."
+          },
+          {
+            "q": "What about grandparents?",
+            "a": "On the father's side чоң ата and чоң апа (literally “big father”, “big mother”); on the mother's side таята and таэне."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Yaş belirtmeden “kardeş” nasıl denir?",
+            "a": "Бир тууган — “erkek ya da kız kardeş”, yaş sırası belirtmez. Günlük konuşmada yine de ага ya da ини denir."
+          },
+          {
+            "q": "Küçük kız kardeş için neden iki kelime var?",
+            "a": "Seçim konuşana bağlı: erkek карындаш, kız сиңди der. Kelime konuşanın cinsiyetini de bildirir."
+          },
+          {
+            "q": "Dede ve nine nasıl denir?",
+            "a": "Baba tarafı чоң ата ve чоң апа (“büyük baba”, “büyük anne”), anne tarafı таята ve таэне."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "dobroe-utro",
+      "main": "m0_08",
+      "variants": [
+        "m0_09",
+        "m0_10"
+      ],
+      "replies": [
+        "m0_04"
+      ],
+      "examples": [
+        "m0_05",
+        "m0_11"
+      ],
+      "rzAnchor": "salam",
+      "related": "privetstviya-po-kyrgyzski",
+      "titles": {
+        "ru": "Доброе утро по-кыргызски: кайырлуу таң и что ответить",
+        "en": "Good morning in Kyrgyz: kayyrluu tang",
+        "tr": "Kırgızca günaydın: kayırluu tañ"
+      },
+      "descs": {
+        "ru": "Доброе утро по-кыргызски: как пожелание меняется днём и вечером, что отвечают на него и как все формы звучат голосом носителя.",
+        "en": "Good morning in Kyrgyz: how the greeting changes by day and by evening, what people reply, and how every form sounds from a native speaker.",
+        "tr": "Kırgızca günaydın: dilek gündüz ve akşam nasıl değişir, karşılığında ne denir ve bütün biçimler ana dili konuşurunun sesiyle nasıl duyulur."
+      },
+      "leads": {
+        "ru": "«Доброе утро» по-кыргызски — кайырлуу таң! Слово кайырлуу значит «благой, добрый», таң — «рассвет, утро». По той же схеме собираются кайырлуу күн! (добрый день) и кайырлуу кеч! (добрый вечер).",
+        "en": "“Good morning” in Kyrgyz is кайырлуу таң! Кайырлуу means “blessed, good” and таң is “dawn, morning”. The same pattern gives кайырлуу күн! (good afternoon) and кайырлуу кеч! (good evening).",
+        "tr": "Kırgızcada “günaydın” кайырлуу таң! Кайырлуу “hayırlı, iyi”, таң ise “tan, sabah” demek. Aynı kalıpla кайырлуу күн! (iyi günler) ve кайырлуу кеч! (iyi akşamlar) kurulur."
+      },
+      "notes": {
+        "ru": "В таң на конце тот самый носовой ң — язык смыкается с мягким нёбом, как в английском song. Кайырлуу читается с долгим «уу» в конце: кайыр-ЛУУ. Пожелания уместны и с незнакомыми: это вежливая форма без возрастных ограничений.",
+        "en": "Таң ends in the nasal ң — the back of the tongue meets the soft palate, as in English “song”. Кайырлуу ends in a long “uu”: kayyr-LOO. These greetings work with strangers too: they are polite and age-neutral.",
+        "tr": "Таң sonundaki ses genizden gelen ң — dilin arkası yumuşak damağa değer, İngilizce “song” gibi. Кайырлуу sonda uzun “uu” taşır: kayır-LUU. Bu selamlar tanımadığınız kişilere de uygundur; kibar ve yaş ayrımı gözetmez."
+      },
+      "faq": {
+        "ru": [
+          {
+            "q": "Что ответить на кайырлуу таң?",
+            "a": "Тем же пожеланием — кайырлуу таң! — или словом саламатчылык. Дальше обычно спрашивают кандайсыз? («как Вы?»)."
+          },
+          {
+            "q": "Как пожелать доброй ночи?",
+            "a": "Вечернее приветствие — кайырлуу кеч. Пожелание перед сном — жакшы жатыңыз, «спокойной ночи» (буквально «хорошо лежите»)."
+          },
+          {
+            "q": "Кайырлуу таң — это вежливо или по-дружески?",
+            "a": "Подходит и там, и там: форма вежливая, но не официальная, поэтому уместна и с близкими, и с незнакомыми."
+          }
+        ],
+        "en": [
+          {
+            "q": "What do I reply to kayyrluu tang?",
+            "a": "The same greeting — кайырлуу таң! — or саламатчылык. People usually follow with кандайсыз? (“how are you?”)."
+          },
+          {
+            "q": "How do I wish someone good night?",
+            "a": "The evening greeting is кайырлуу кеч. Before sleep say жакшы жатыңыз, “good night” (literally “lie well”)."
+          },
+          {
+            "q": "Is kayyrluu tang formal or casual?",
+            "a": "It works for both: polite but not officious, so it fits family and strangers alike."
+          }
+        ],
+        "tr": [
+          {
+            "q": "Kayırluu tañ'a ne cevap verilir?",
+            "a": "Aynı selam — кайырлуу таң! — ya da саламатчылык. Ardından genellikle кандайсыз? (“nasılsınız?”) sorulur."
+          },
+          {
+            "q": "İyi geceler nasıl denir?",
+            "a": "Akşam selamı кайырлуу кеч. Yatmadan önce жакшы жатыңыз denir, “iyi geceler” (kelimesi kelimesine “iyi yatın”)."
+          },
+          {
+            "q": "Kayırluu tañ resmî mi samimi mi?",
+            "a": "İkisine de uyar: kibar ama resmî değil, bu yüzden hem yakınlara hem tanımadıklarınıza söylenebilir."
+          }
+        ]
+      }
+    }
+  ]
+}

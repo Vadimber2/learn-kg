@@ -1,0 +1,194 @@
+{
+  "slug": "den-kyrgyzskogo-yazyka",
+  "published": "2026-08-15",
+  "updated": "2026-10-30",
+  "section": "lang",
+  "og": {"ru": "den-kyrgyzskogo-yazyka-ru.png", "en": "den-kyrgyzskogo-yazyka-en.png", "tr": "den-kyrgyzskogo-yazyka-tr.png"},
+  "figs": {
+    "0": "levels",
+    "3": "streak"
+  },
+  "related": [
+    "kyrgyzskiy-dlya-gossluzhashchih",
+    "kyrgyzskiy-ili-kirgizskiy"
+  ],
+  "refs": [
+    {
+      "authors": "Kaktus.media",
+      "year": 2025,
+      "title": "Учителя и медики к 2026 году должны подтвердить знание госязыка на уровне В1",
+      "source": "kaktus.media",
+      "url": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html"
+    },
+    {
+      "authors": "Вечерний Бишкек",
+      "year": 2025,
+      "title": "Закон о госязыке. Кыргызстан может остаться без квалифицированных учителей",
+      "source": "vb.kg",
+      "url": "https://www.vb.kg/doc/445275_zakon_o_gosiazyke._kyrgyzstan_mojet_ostatsia_bez_kvalificirovannyh_ychiteley.html"
+    }
+  ],
+  "faq": {
+    "ru": [
+      {
+        "q": "Какого числа отмечают День кыргызского языка?",
+        "a": "Каждый год 23 сентября. Это День государственного языка Кыргызской Республики, дата закреплена за событием 1989 года."
+      },
+      {
+        "q": "Почему именно 23 сентября?",
+        "a": "В этот день в сентябре 1989 года Верховный Совет Киргизской ССР принял закон «О государственном языке», и кыргызский впервые в новейшей истории получил статус государственного."
+      },
+      {
+        "q": "Как поздравить с праздником по-кыргызски?",
+        "a": "Короче всего — Майрамыңыз менен! («С праздником!»). Ещё несколько уместных фраз с озвучкой носителя есть в ((разговорнике|/razgovornik/ru))."
+      },
+      {
+        "q": "Что происходит в стране в этот день?",
+        "a": "Общереспубликанский диктант, конкурсы чтецов и айтыши, открытые уроки и недели кыргызского языка в школах и университетах. События открытые, и от гостя не ждут безупречной речи."
+      }
+    ],
+    "en": [
+      {
+        "q": "When is Kyrgyz Language Day?",
+        "a": "Every year on 23 September. It is State Language Day in the Kyrgyz Republic, and the date marks an event of 1989."
+      },
+      {
+        "q": "Why 23 September?",
+        "a": "On that day in September 1989 the Supreme Soviet of the Kirghiz SSR passed the Law on the State Language, and Kyrgyz became the state language for the first time in its modern history."
+      },
+      {
+        "q": "How do you say happy holiday in Kyrgyz?",
+        "a": "The short version is Майрамыңыз менен! (“Happy holiday!”). A few more phrases that fit the day, with native-speaker audio, are in the ((phrasebook|/razgovornik/en))."
+      },
+      {
+        "q": "What actually happens on the day?",
+        "a": "A nationwide dictation, recital contests and aityshes, open lessons and Kyrgyz language weeks at schools and universities. The events are open to anyone, and no visitor is expected to speak flawlessly."
+      }
+    ],
+    "tr": [
+      {
+        "q": "Kırgız Dili Günü ne zaman?",
+        "a": "Her yıl 23 Eylül'de. Kırgız Cumhuriyeti'nin Devlet Dili Günü'dür ve tarih 1989'daki bir olaya dayanır."
+      },
+      {
+        "q": "Neden 23 Eylül?",
+        "a": "Eylül 1989'un o gününde Kırgız SSC Yüksek Sovyeti «Devlet Dili Yasası»nı kabul etti ve Kırgızca modern tarihinde ilk kez devlet dili statüsü kazandı."
+      },
+      {
+        "q": "Kırgızca bayram tebriği nasıl edilir?",
+        "a": "En kısası Майрамыңыз менен! («Bayramınız kutlu olsun!»). Güne yakışan birkaç ifade daha, ana dili konuşurunun sesiyle, ((konuşma kılavuzunda|/razgovornik/tr)) var."
+      },
+      {
+        "q": "O gün ülkede neler oluyor?",
+        "a": "Ülke çapında dikte sınavı, okuma yarışmaları ve aytışlar, açık dersler, okul ve üniversitelerde Kırgızca haftaları. Etkinlikler herkese açıktır ve kimseden kusursuz konuşma beklenmez."
+      }
+    ]
+  },
+  "langs": {
+    "ru": {
+      "title": "День кыргызского языка: история 23 сентября",
+      "desc": "Государственный язык Кыргызстана: что приняли в 1989 году, как проходит праздничная неделя в стране и семь способов отметить день, если вы учите кыргызский.",
+      "lead": "Каждый год 23 сентября Кыргызстан отмечает День государственного языка. Дата не случайна: в этот день в 1989 году кыргызский впервые получил статус государственного. Рассказываем, что стоит за праздником, как он проходит — и как отметить его самым честным способом: выучив что-то новое.",
+      "blocks": [
+        {
+          "h": "Что случилось 23 сентября 1989 года",
+          "p": [
+            "В сентябре 1989 года Верховный Совет Киргизской ССР принял закон «О государственном языке» — кыргызский язык впервые в новейшей истории был закреплён как государственный. Для языка, который десятилетиями уступал публичное пространство русскому, это был поворотный момент: он вернулся в делопроизводство, образование и официальную жизнь.",
+            "С тех пор 23 сентября — День государственного языка. Статус закреплён и в Конституции: кыргызский — государственный язык Кыргызской Республики, русский имеет статус официального."
+          ]
+        },
+        {
+          "h": "Что изменилось за эти десятилетия",
+          "p": [
+            "Путь не был прямым: в 1990-е и 2000-е о «возрождении языка» больше говорили, чем делали. Настоящее движение началось позже — с государственным тестированием по кыргызскому языку, требованиями к госслужащим, а с недавних пор и к учителям и медикам, которым нужно подтверждать владение языком на уровне B1.",
+            "Параллельно вырос и живой интерес: кыргызскоязычный контент, музыка, блоги, дубляж. Язык перестал быть «домашним» и все увереннее звучит в городе — а значит, учить его стало и полезнее, и проще: среда наконец помогает."
+          ]
+        },
+        {
+          "h": "Как отмечают в стране",
+          "p": [
+            "К 23 сентября приурочивают общереспубликанский диктант, конкурсы чтецов и айтыши (поэтические состязания акынов), открытые уроки и акции в школах и университетах. СМИ выпускают материалы о языке, а учреждения проводят недели кыргызского языка.",
+            "Для изучающего это лучшая неделя в году, чтобы попасть в языковую среду: событий много, они открытые, и никто не ждёт от вас совершенства — наоборот, любые попытки говорить встречают тепло."
+          ]
+        },
+        {
+          "h": "Семь способов отметить, если вы учите язык",
+          "p": [
+            "Первое: выучите десять новых фраз с озвучкой — в ((разговорнике|/razgovornik/ru)) они разобраны по ситуациям. Второе: пройдите ((тест уровня|/test/ru)) и зафиксируйте точку отсчёта. Третье: напишите поздравление коллеге или соседу — Майрамыңыз менен! («С праздником!»). Четвёртое: посмотрите один ролик на кыргызском с субтитрами.",
+            "Пятое: попробуйте день подписывать бытовые предметы стикерами с кыргызскими словами — нужные слова подскажет ((переводчик частых фраз|/perevodchik/ru)). Шестое: найдите носителя и скажите ему три фразы вслух — 23 сентября это особенно уместно. Седьмое: начните заниматься регулярно — ((демо-урок|/demo/ru)) открыт без регистрации, а 15–20 минут в день делают больше, чем любой марафон раз в год."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz Language Day: the story behind 23 September",
+      "desc": "State Language Day in Kyrgyzstan: what the 1989 law actually changed, how the country marks the week — and seven ways for a learner to join in.",
+      "lead": "Every year on 23 September Kyrgyzstan celebrates State Language Day. The date is no accident: on that day in 1989 Kyrgyz was first declared the state language. Here is the story behind the holiday, how it is celebrated — and the most honest way for a learner to join: by learning something new.",
+      "blocks": [
+        {
+          "h": "What happened on 23 September 1989",
+          "p": [
+            "In September 1989 the Supreme Soviet of the Kirghiz SSR passed the Law on the State Language, making Kyrgyz the state language for the first time in its modern history. For a language that had been ceding public space to Russian for decades, it was a turning point: Kyrgyz returned to administration, education and official life.",
+            "Since then 23 September has been State Language Day. The status is anchored in the Constitution: Kyrgyz is the state language of the Kyrgyz Republic, while Russian holds official-language status."
+          ]
+        },
+        {
+          "h": "What has changed since",
+          "p": [
+            "The road was not straight: through the 1990s and 2000s the “language revival” was discussed more than practised. Real movement came later — with the state Kyrgyz language test, language requirements for civil servants, and more recently for teachers and medics, who must certify B1-level proficiency.",
+            "In parallel, organic interest has grown: Kyrgyz-language content, music, blogs and film dubbing. The language has stopped being “domestic” and sounds ever more confident in the cities — which makes learning it both more useful and easier: the environment finally helps."
+          ]
+        },
+        {
+          "h": "How the day is celebrated",
+          "p": [
+            "Around 23 September the country holds a nationwide dictation, recital contests and aityshes (improvised poetic duels of akyns), open lessons and school and university events. Media run features about the language, institutions hold Kyrgyz language weeks.",
+            "For a learner it is the best week of the year to step into the language environment: there are many events, they are open to everyone, and nobody expects perfection — on the contrary, any attempt to speak is met warmly."
+          ]
+        },
+        {
+          "h": "Seven ways to join in as a learner",
+          "p": [
+            "One: learn ten new phrases with audio — the ((phrasebook|/razgovornik/en)) groups them by situation. Two: take the ((level test|/test/en)) and fix your starting point. Three: congratulate a colleague or neighbour — Майрамыңыз менен! (“Happy holiday!”). Four: watch one video in Kyrgyz with subtitles.",
+            "Five: spend a day labelling household objects with Kyrgyz words — the ((phrase translator|/perevodchik/en)) will supply them. Six: find a native speaker and say three phrases aloud — on 23 September it is especially fitting. Seven: start practising regularly — the ((demo lesson|/demo/en)) is open without sign-up, and 15–20 minutes a day beat any once-a-year marathon."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgız Dili Günü: 23 Eylül'ün hikâyesi",
+      "desc": "Kırgızistan'da Devlet Dili Günü: 1989 yasası neyi değiştirdi, ülke bu haftayı nasıl kutluyor ve öğrenen biri olarak katılmanın yedi yolu nedir.",
+      "lead": "Kırgızistan her yıl 23 Eylül'de Devlet Dili Günü'nü kutlar. Tarih tesadüf değil: 1989'un o gününde Kırgızca ilk kez devlet dili ilan edildi. İşte bayramın arkasındaki hikâye, kutlama biçimleri — ve öğrenen biri için katılmanın en dürüst yolu: yeni bir şey öğrenmek.",
+      "blocks": [
+        {
+          "h": "23 Eylül 1989'da ne oldu?",
+          "p": [
+            "Eylül 1989'da Kırgız SSC Yüksek Sovyeti «Devlet Dili Yasası»nı kabul etti — Kırgızca, modern tarihinde ilk kez devlet dili statüsü kazandı. Onlarca yıl kamusal alanı Rusçaya bırakmış bir dil için bu bir dönüm noktasıydı: Kırgızca yazışmalara, eğitime ve resmî hayata geri döndü.",
+            "O günden beri 23 Eylül, Devlet Dili Günü'dür. Statü anayasada da yer alır: Kırgızca Kırgız Cumhuriyeti'nin devlet dili, Rusça ise resmî dildir."
+          ]
+        },
+        {
+          "h": "O günden bu yana ne değişti?",
+          "p": [
+            "Yol düz olmadı: 1990'lar ve 2000'lerde «dilin dirilişi» yapılmaktan çok konuşuldu. Gerçek hareket sonra geldi — devlet Kırgızca dil sınavı, memurlara ve son dönemde B1 düzeyini belgelemesi gereken öğretmen ve sağlıkçılara yönelik dil şartlarıyla.",
+            "Buna paralel canlı bir ilgi de büyüdü: Kırgızca içerik, müzik, bloglar, dublaj. Dil «ev dili» olmaktan çıktı ve şehirde giderek daha özgüvenli duyuluyor — bu da öğrenmeyi hem daha faydalı hem daha kolay kılıyor: çevre nihayet yardım ediyor."
+          ]
+        },
+        {
+          "h": "Ülkede nasıl kutlanır?",
+          "p": [
+            "23 Eylül civarında ülke çapında dikte sınavı, okuma yarışmaları ve akınların irticalen atıştığı aytışlar, açık dersler, okul ve üniversite etkinlikleri düzenlenir. Medya dil üzerine yayınlar yapar, kurumlar Kırgızca haftaları düzenler.",
+            "Öğrenen biri için yılın en iyi haftasıdır: etkinlik boldur, kapılar açıktır ve kimse kusursuzluk beklemez — tersine, konuşma yönündeki her deneme sıcak karşılanır."
+          ]
+        },
+        {
+          "h": "Öğrenen biri olarak katılmanın yedi yolu",
+          "p": [
+            "Bir: sesli on yeni ifade öğrenin — ((konuşma kılavuzu|/razgovornik/tr)) bunları durumlara göre gruplar. İki: ((seviye testine|/test/tr)) girin ve başlangıç noktanızı kaydedin. Üç: bir meslektaşınızı kutlayın — Майрамыңыз менен! («Bayramınız kutlu olsun!»). Dört: altyazılı bir Kırgızca video izleyin.",
+            "Beş: bir günlüğüne ev eşyalarını Kırgızca etiketleyin — kelimeleri ((ifade çevirisi|/perevodchik/tr)) söyler. Altı: bir ana dili konuşuru bulun ve üç ifadeyi yüksek sesle söyleyin — 23 Eylül'de bu özellikle yakışır. Yedi: düzenli çalışmaya başlayın — ((demo ders|/demo/tr)) kayıtsız açık; günde 15–20 dakika, yılda bir maratondan fazlasını yapar."
+          ]
+        }
+      ]
+    }
+  }
+}

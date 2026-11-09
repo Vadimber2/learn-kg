@@ -1,0 +1,258 @@
+{
+ "slug": "pochemu-regulyarno",
+ "published": "2026-08-07",
+ "updated": "2026-08-19",
+ "section": "learn",
+ "og": {"ru": "pochemu-regulyarno-ru.png", "en": "pochemu-regulyarno-en.png", "tr": "pochemu-regulyarno-tr.png"},
+ "figs": {
+  "0": "curve",
+  "1": "streak",
+  "2": "week",
+  "4": "intervals"
+ },
+ "langs": {
+  "ru": {
+   "title": "Почему кыргызский нужно учить регулярно",
+   "desc": "15 минут кыргызского (киргизского) каждый день работают лучше трёх часов в воскресенье: кривая забывания, эффект интервала и недельный микроцикл.",
+   "lead": "Самый частый вопрос новичка звучит так: «Можно я буду заниматься по выходным, зато подолгу?» Ответ — можно, но язык так почти не выучивается. Дело не в дисциплине и не в силе воли, а в том, как устроена память. Разбираем, почему методика курса построена вокруг коротких ежедневных занятий.",
+   "blocks": [
+    {
+     "h": "Забывание — это норма, а не ваша слабость",
+     "p": [
+      "Новая фраза уходит из памяти не потому, что вы невнимательны, а потому, что мозг постоянно решает, что оставить. Всё, к чему вы не возвращались, помечается как ненужное — и стирается. Быстрее всего это происходит в первые дни после знакомства с материалом.",
+      "Каждый повтор в нужный момент делает кривую забывания более пологой: после первого возврата фраза держится дольше, после второго — ещё дольше. Именно поэтому в тренажёре карточка возвращается через день, потом через три, потом через неделю, а не «когда дойдут руки»."
+     ]
+    },
+    {
+     "h": "Пятнадцать минут каждый день против трёх часов в воскресенье",
+     "p": [
+      "Три часа подряд и пятнадцать минут семь дней — это примерно одно и то же время. Но в первом случае вы делаете один подход к каждой фразе, а во втором — семь, распределённых по дням.",
+      "Эффект распределённого повторения хорошо изучен: одинаковое суммарное время, разложенное на несколько дней, даёт заметно более прочный результат, чем то же время одним куском. У долгих сессий есть и второй минус: при однообразной работе внимание начинает снижаться уже через двадцать–тридцать минут, и хвост длинной сессии проходит вполсилы.",
+      "Есть и человеческая сторона. Пятнадцать минут можно найти в любой день — в транспорте, в очереди, перед сном. Три часа приходится «планировать», а запланированное занятие легко переносится на следующие выходные, потом ещё на одни."
+     ]
+    },
+    {
+     "h": "Как устроена учебная неделя",
+     "p": [
+      "Неделя модуля собрана не из одинаковых дней. В первые три дня вводятся новые темы — порциями, чтобы не перегружать память. Четвёртый день отдан активному воспроизведению: вы не узнаёте фразу, а сами её строите.",
+      "Пятый день — перемешанное повторение и мини-тест недели. Шестой — ролевой диалог: язык проверяется в разговоре, а не в упражнении. Седьмой день разгрузочный: только карточки, никакого нового материала.",
+      "Такой микроцикл решает две задачи сразу: новое поступает равномерно, а старое не выпадает из поля зрения. Тренажёр сам показывает, что сегодня по плану, — решать, чем заняться, не нужно."
+     ]
+    },
+    {
+     "h": "Перемешивание вместо блоков",
+     "p": [
+      "Заманчиво отработать одну тему до автоматизма, потом взяться за следующую. На тренировке это выглядит убедительно: ошибок мало, чувство прогресса есть. Проблема в том, что подсказкой служит сам блок — вы знаете, что все ответы сейчас про еду.",
+      "В реальном разговоре подсказки нет. Поэтому в повторение попадают фразы из разных тем сразу: вы каждый раз выбираете форму заново, как и в жизни. На тренировке это ощущается сложнее и медленнее — а через неделю разница оказывается в вашу пользу."
+     ]
+    },
+    {
+     "h": "Почему пропуск недели стоит дороже пропуска часа",
+     "p": [
+      "Пропущенный день почти ничего не меняет: система просто вернёт просроченные карточки завтра. Пропущенная неделя — другое дело: к возвращению накапливается очередь из фраз, которые давно пора было повторить, и первое занятие после паузы выходит тяжёлым.",
+      "Именно поэтому в тренажёре есть серия дней подряд, а у преподавателя в панели успеваемости — сигналы: кто не заходил четыре дня и больше, кто дважды подряд не сдал тест. Это не контроль ради контроля, а способ заметить проблему на второй день, а не через месяц."
+     ]
+    },
+    {
+     "h": "Если всё-таки сорвались",
+     "p": [
+      "Главное правило: не начинать курс заново. Выученное никуда не делось, оно просто «просело» — и восстанавливается в разы быстрее, чем учится с нуля.",
+      "Вернитесь к обычным пятнадцати минутам и разберите очередь за несколько дней, не пытаясь закрыть её за один вечер. Если очередь пугает, начните с одной темы — тренажёр сам поднимет остальное, когда придёт срок.",
+      "И не переносите старт на понедельник. Первый день новой серии — это сегодня, даже если сегодня четверг и на часах почти полночь. Продолжить можно там же, где остановились: ((учить кыргызский язык онлайн|/ru)) — очередь повторений уже ждёт."
+     ]
+    },
+    {
+     "h": "Рабочий режим на ближайшую неделю",
+     "p": [
+      "Выберите постоянное время и привяжите его к тому, что и так делаете каждый день: кофе, дорога, вечерняя чистка зубов. Привычка держится на якоре, а не на мотивации.",
+      "Занимайтесь вслух: даже в наушниках повторяйте фразу голосом — произношение ставится только так. Замедленное воспроизведение включайте на всём, где есть ң, ө, ү.",
+      "И не гонитесь за объёмом. Пятнадцать минут, семь дней подряд, честно вслух — это и есть максимальная скорость на этом этапе."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Why Kyrgyz has to be learned regularly",
+   "desc": "Why 15 minutes a day beats three hours on Sunday: the forgetting curve, the spacing effect, the weekly microcycle and what to do after a break.",
+   "lead": "The most common beginner question sounds like this: “Can I study on weekends instead, but for longer?” You can — but a language is almost never learned that way. It is not about discipline or willpower, it is about how memory works. Here is why the course is built around short daily sessions.",
+   "blocks": [
+    {
+     "h": "Forgetting is normal, not your weakness",
+     "p": [
+      "A new phrase leaves your memory not because you were careless, but because the brain constantly decides what to keep. Anything you never came back to is marked as unnecessary and cleared away — and that happens fastest in the first days after you meet the material.",
+      "Every repetition at the right moment flattens the forgetting curve: after the first return the phrase holds longer, after the second longer still. This is why a card comes back after a day, then three, then a week — rather than whenever you happen to get to it."
+     ]
+    },
+    {
+     "h": "Fifteen minutes a day beats three hours on Sunday",
+     "p": [
+      "Three hours in a row and fifteen minutes for seven days is roughly the same amount of time. But in the first case you make one pass over each phrase; in the second, seven passes spread across days.",
+      "The spacing effect is well documented: the same total time split across several days gives a noticeably more durable result than the same time in one block. Long sessions have a second drawback too — on monotonous work attention starts to drop after twenty to thirty minutes, and the tail of a long session runs at half strength.",
+      "There is a human side as well. Fifteen minutes can be found on any day — on a bus, in a queue, before bed. Three hours have to be “planned”, and a planned session is easily moved to next weekend, and then to the one after that."
+     ]
+    },
+    {
+     "h": "How a study week is arranged",
+     "p": [
+      "A module week is not made of identical days. New topics are introduced over the first three days, in portions, so memory is not overloaded. The fourth day is for production: you no longer recognise a phrase, you build it yourself.",
+      "The fifth day brings interleaved review and the mini-quiz of the week. The sixth is a role-play dialogue: the language is tested in conversation, not in an exercise. The seventh day is light — flashcards only, no new material.",
+      "This microcycle solves two problems at once: new material arrives evenly, and old material never drops out of sight. The trainer shows what is due today, so you do not have to decide what to work on."
+     ]
+    },
+    {
+     "h": "Interleaving instead of blocks",
+     "p": [
+      "It is tempting to drill one topic to perfection and only then move on. During practice it looks convincing: few mistakes, a clear sense of progress. The catch is that the block itself is the hint — you know every answer right now is about food.",
+      "In a real conversation there is no such hint. So review mixes phrases from different topics: you choose the form from scratch every time, exactly as in life. It feels harder and slower during practice — and a week later the difference is in your favour."
+     ]
+    },
+    {
+     "h": "Why a missed week costs more than a missed hour",
+     "p": [
+      "A missed day changes almost nothing: the system simply returns the overdue cards tomorrow. A missed week is different — a queue of phrases that were long due piles up, and the first session after the break feels heavy.",
+      "That is why the trainer tracks a streak of consecutive days, and the teacher's dashboard raises signals: who has been away for four days or more, who failed the quiz twice in a row. This is not control for its own sake, it is a way to notice a problem on day two instead of a month later."
+     ]
+    },
+    {
+     "h": "If you do fall off",
+     "p": [
+      "The main rule: do not restart the course. What you learned has not disappeared, it has only faded — and it comes back many times faster than it was learned from scratch.",
+      "Return to the usual fifteen minutes and work through the queue over several days instead of trying to clear it in one evening. If the queue looks frightening, start with a single topic — the trainer will bring the rest back when it is due.",
+      "And do not move the restart to Monday. Day one of the new streak is today, even if today is Thursday and it is nearly midnight. Pick up right where you left off — ((study Kyrgyz online|/en)): your review queue is already waiting."
+     ]
+    },
+    {
+     "h": "A working routine for the coming week",
+     "p": [
+      "Pick a fixed time and anchor it to something you already do every day: coffee, the commute, brushing your teeth at night. A habit holds on an anchor, not on motivation.",
+      "Study out loud: even with headphones on, say the phrase with your voice — there is no other way to build pronunciation. Use half-speed playback on everything containing ң, ө, ү.",
+      "And do not chase volume. Fifteen minutes, seven days in a row, honestly out loud — that is the maximum speed at this stage."
+     ]
+    }
+   ]
+  },
+  "tr": {
+   "title": "Kırgızca neden düzenli çalışılmalı?",
+   "desc": "Günde 15 dakika neden pazar günü üç saatten iyidir: unutma eğrisi, aralık etkisi, haftalık mikro döngü ve araya mola girdiğinde ne yapmalı.",
+   "lead": "Yeni başlayanların en sık sorusu şu: “Hafta sonları, ama daha uzun çalışsam olmaz mı?” Olur — ama dil bu şekilde neredeyse hiç öğrenilmiyor. Mesele disiplin ya da irade değil, belleğin nasıl çalıştığı. Kursun yönteminin neden kısa günlük seanslar üzerine kurulduğunu anlatalım.",
+   "blocks": [
+    {
+     "h": "Unutmak normaldir, sizin zayıflığınız değil",
+     "p": [
+      "Yeni bir ifade, dikkatsiz olduğunuz için değil, beyin sürekli neyi tutacağına karar verdiği için bellekten çıkar. Geri dönmediğiniz her şey gereksiz diye işaretlenip silinir — ve bu en hızlı, malzemeyle tanıştıktan sonraki ilk günlerde olur.",
+      "Doğru anda yapılan her tekrar unutma eğrisini düzleştirir: ilk dönüşten sonra ifade daha uzun kalır, ikinciden sonra daha da uzun. Bu yüzden kart bir gün sonra, ardından üç, sonra bir hafta sonra döner — “eliniz değdiğinde” değil."
+     ]
+    },
+    {
+     "h": "Her gün on beş dakika, pazar günü üç saate karşı",
+     "p": [
+      "Arka arkaya üç saat ile yedi gün boyunca on beşer dakika kabaca aynı süredir. Ama ilkinde her ifadeye bir kez uğrarsınız, ikincisinde günlere yayılmış yedi kez.",
+      "Aralıklı tekrarın etkisi iyi bilinir: aynı toplam süre birkaç güne bölündüğünde, tek parça hâline göre belirgin biçimde daha kalıcı sonuç verir. Uzun seansların ikinci bir sakıncası da var: tekdüze çalışmada dikkat yirmi–otuz dakika sonra düşmeye başlar ve uzun seansın son kısmı yarım güçle geçer.",
+      "İnsani tarafı da var. On beş dakika her gün bulunur — otobüste, sırada, yatmadan önce. Üç saat ise “planlanmak” zorundadır; planlanmış bir seans kolayca gelecek hafta sonuna, oradan bir sonrakine ertelenir."
+     ]
+    },
+    {
+     "h": "Bir çalışma haftası nasıl kurulur",
+     "p": [
+      "Modül haftası birbirinin aynı günlerden oluşmaz. Yeni konular ilk üç günde, belleği yormayacak porsiyonlarla verilir. Dördüncü gün üretime ayrılmıştır: ifadeyi tanımakla kalmaz, kendiniz kurarsınız.",
+      "Beşinci gün karışık tekrar ve haftanın mini sınavı gelir. Altıncı gün rol yapma diyaloğudur: dil alıştırmada değil, konuşmada sınanır. Yedinci gün hafiftir — yalnızca kartlar, yeni malzeme yok.",
+      "Bu mikro döngü iki sorunu birden çözer: yeni malzeme dengeli gelir, eski malzeme gözden kaybolmaz. Bugün sırada ne olduğunu antrenör gösterir; neyle uğraşacağınıza karar vermeniz gerekmez."
+     ]
+    },
+    {
+     "h": "Bloklar yerine karıştırma",
+     "p": [
+      "Bir konuyu kusursuz hâle gelene kadar çalışıp sonra diğerine geçmek çekicidir. Alıştırma sırasında ikna edici görünür: az hata, net bir ilerleme duygusu. Sorun şu ki ipucu bloğun kendisidir — şu anda bütün cevapların yemekle ilgili olduğunu bilirsiniz.",
+      "Gerçek konuşmada böyle bir ipucu yok. Bu yüzden tekrar, farklı konulardan ifadeleri karıştırır: her seferinde biçimi sıfırdan seçersiniz, tıpkı hayatta olduğu gibi. Alıştırmada daha zor ve yavaş hissettirir — bir hafta sonra fark sizin lehinizedir."
+     ]
+    },
+    {
+     "h": "Kaçırılan bir hafta neden kaçırılan bir saatten pahalıdır",
+     "p": [
+      "Kaçırılan bir gün neredeyse hiçbir şeyi değiştirmez: sistem gecikmiş kartları yarın geri getirir. Kaçırılan bir hafta ise başka: çoktan tekrar edilmesi gereken ifadelerden bir kuyruk birikir ve moladan sonraki ilk seans ağır gelir.",
+      "Bu yüzden antrenörde arka arkaya gün serisi tutulur, öğretmenin panosunda ise sinyaller belirir: dört gün ve üzeri girmeyen kim, üst üste iki kez sınavı geçemeyen kim. Bu, denetim olsun diye değil, sorunu bir ay sonra değil ikinci günde fark etmek için."
+     ]
+    },
+    {
+     "h": "Yine de ara verdiyseniz",
+     "p": [
+      "Temel kural: kursa baştan başlamayın. Öğrendikleriniz kaybolmadı, yalnızca soldu — ve sıfırdan öğrenmekten kat kat hızlı geri gelir.",
+      "Alışıldık on beş dakikaya dönün ve kuyruğu tek akşamda kapatmaya çalışmadan birkaç güne yayarak çalışın. Kuyruk gözünüzü korkutuyorsa tek bir konuyla başlayın — gerisini vakti geldiğinde antrenör kendisi getirir.",
+      "Ve yeniden başlamayı pazartesiye ertelemeyin. Yeni serinin birinci günü bugündür; bugün perşembe olsa ve saat gece yarısına yaklaşsa bile. Kaldığınız yerden devam edin — ((online Kırgızca çalışın|/tr)): tekrar kuyruğunuz sizi bekliyor."
+     ]
+    },
+    {
+     "h": "Önümüzdeki hafta için işleyen bir düzen",
+     "p": [
+      "Sabit bir saat seçin ve onu zaten her gün yaptığınız bir şeye bağlayın: kahve, yol, akşam diş fırçalama. Alışkanlık motivasyona değil, çıpaya tutunur.",
+      "Yüksek sesle çalışın: kulaklık takılıyken bile ifadeyi sesinizle tekrarlayın — telaffuz başka türlü oturmuyor. ң, ө, ү geçen her şeyde yarım hız seçeneğini kullanın.",
+      "Ve hacim peşinde koşmayın. On beş dakika, arka arkaya yedi gün, dürüstçe yüksek sesle — bu aşamada azami hız budur."
+     ]
+    }
+   ]
+  }
+ },
+ "refs": [
+  {
+   "authors": "Ebbinghaus H. (пер. Ruger & Bussenius)",
+   "year": 1913,
+   "title": "Memory: A Contribution to Experimental Psychology",
+   "source": "Classics in the History of Psychology, York University",
+   "url": "http://psychclassics.yorku.ca/Ebbinghaus/index.htm"
+  },
+  {
+   "authors": "Murre J.M.J., Dros J.",
+   "year": 2015,
+   "title": "Replication and Analysis of Ebbinghaus' Forgetting Curve",
+   "source": "PLOS ONE 10(7)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644"
+  },
+  {
+   "authors": "Cepeda N.J., Pashler H., Vul E., Wixted J.T., Rohrer D.",
+   "year": 2006,
+   "title": "Distributed practice in verbal recall tasks: A review and quantitative synthesis",
+   "source": "Psychological Bulletin 132(3), 354–380",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16719566/"
+  },
+  {
+   "authors": "Dunlosky J., Rawson K.A., Marsh E.J., Nathan M.J., Willingham D.T.",
+   "year": 2013,
+   "title": "Improving Students' Learning With Effective Learning Techniques",
+   "source": "Psychological Science in the Public Interest 14(1), 4–58",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26173288/"
+  },
+  {
+   "authors": "Roediger H.L., Karpicke J.D.",
+   "year": 2006,
+   "title": "Test-enhanced learning: Taking memory tests improves long-term retention",
+   "source": "Psychological Science 17(3), 249–255",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/"
+  },
+  {
+   "authors": "Rohrer D., Taylor K.",
+   "year": 2007,
+   "title": "The shuffling of mathematics problems improves learning",
+   "source": "Instructional Science 35(6), 481–498",
+   "url": "https://digitalcommons.usf.edu/psy_facpub/1767/"
+  },
+  {
+   "authors": "Warm J.S., Parasuraman R., Matthews G.",
+   "year": 2008,
+   "title": "Vigilance requires hard mental work and is stressful",
+   "source": "Human Factors 50(3), 433–441",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18689050/"
+  },
+  {
+   "authors": "Gollwitzer P.M.",
+   "year": 1999,
+   "title": "Implementation intentions: Strong effects of simple plans",
+   "source": "American Psychologist 54(7), 493–503",
+   "url": "https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf"
+  }
+ ],
+ "related": [
+  "kak-ustroen-trenazher",
+  "skolko-vremeni-uchit-kyrgyzskiy",
+  "kak-uchit-kyrgyzskiy"
+ ]
+}

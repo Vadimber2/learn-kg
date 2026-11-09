@@ -1,0 +1,509 @@
+{
+ "updated": "2026-10-30",
+ "answersVerifiedByTeacher": true,
+ "questions": [
+  {
+   "id": "m24_01",
+   "mod": "m24",
+   "sub": "lexgram",
+   "ky": "«Отчётту бүтүрүү зарыл» = Отчётту бүтүр… керек.",
+   "options": [
+    "-үшүм",
+    "-үшүңүз",
+    "-үшүбүз",
+    "-гөнүм"
+   ],
+   "correct": 0,
+   "note": "зарылчылык: основа + -ыш + притяжание + керек",
+   "noteEn": "-үш + -үм",
+   "noteTr": "-үш + -үм"
+  },
+  {
+   "id": "m24_07",
+   "mod": "m24",
+   "sub": "lexgram",
+   "ky": "«Зарыл» деген эмне?",
+   "options": [
+    "мүмкүн",
+    "тыюу",
+    "сөзсүз керек",
+    "пайдалуу"
+   ],
+   "correct": 2,
+   "note": "зарыл = сөзсүз керек",
+   "noteEn": "necessary",
+   "noteTr": "gerekli"
+  },
+  {
+   "id": "m24_13",
+   "mod": "m24",
+   "sub": "lexgram",
+   "ky": "«-са болот» эмнени билдирет?",
+   "options": [
+    "зарылчылык",
+    "уруксат",
+    "өткөн чак",
+    "тыюу"
+   ],
+   "correct": 1,
+   "note": "уруксат/мүмкүндүк; болбойт — тыюу",
+   "noteEn": "permission",
+   "noteTr": "izin"
+  },
+  {
+   "id": "m24_19",
+   "mod": "m24",
+   "sub": "lexgram",
+   "ky": "«Ишти бүтүр… кийин үйгө кетебиз».",
+   "options": [
+    "-гөндөн",
+    "-гөнгө",
+    "-сө",
+    "-үп"
+   ],
+   "correct": 0,
+   "note": "бүтүргөндөн кийин (ү-ряд: -гөн)",
+   "noteEn": "-гөндөн",
+   "noteTr": "-гөндөн"
+  },
+  {
+   "id": "m25_01",
+   "mod": "m25",
+   "sub": "lexgram",
+   "ky": "Өз пикиримди кантип баштайм? «… оюмча, бул туура».",
+   "options": [
+    "Менин",
+    "Сенин",
+    "Анын",
+    "Биздин"
+   ],
+   "correct": 0,
+   "note": "Менин оюмча… / Менимче… (М9)",
+   "noteEn": "Менин",
+   "noteTr": "Менин"
+  },
+  {
+   "id": "m25_06",
+   "mod": "m25",
+   "sub": "lexgram",
+   "ky": "Күмөн саноо: «…, сиз туура айтып жаткандырсыз».",
+   "options": [
+    "Сөзсүз",
+    "Балким",
+    "Такыр",
+    "Дайыма"
+   ],
+   "correct": 1,
+   "note": "балким — возможно (күмөн саноо, талап B1)",
+   "noteEn": "Балким",
+   "noteTr": "Балким"
+  },
+  {
+   "id": "m25_11",
+   "mod": "m25",
+   "sub": "lexgram",
+   "ky": "«-а алуу» эмнени билдирет?",
+   "options": [
+    "тыюуну",
+    "өткөн чакты",
+    "жөндөмдү",
+    "зарылчылыкты"
+   ],
+   "correct": 2,
+   "note": "способность/возможность; тыюу — болбойт (М24)",
+   "noteEn": "ability",
+   "noteTr": "yetenek"
+  },
+  {
+   "id": "m25_16",
+   "mod": "m25",
+   "sub": "lexgram",
+   "ky": "Шашпаган, күтө билген адам — кандай адам?",
+   "options": [
+    "ачуулуу",
+    "шалаакы",
+    "текебер",
+    "сабырдуу"
+   ],
+   "correct": 3,
+   "note": "сабырдуу — терпеливый",
+   "noteEn": "сабырдуу",
+   "noteTr": "сабырдуу"
+  },
+  {
+   "id": "m26_02",
+   "mod": "m26",
+   "sub": "lexgram",
+   "ky": "«Биз айылга бар…быз» (ниет).",
+   "options": [
+    "-ганы",
+    "-макчы",
+    "-ып",
+    "-са"
+   ],
+   "correct": 1,
+   "note": "бармакчыбыз — а-ряд",
+   "noteEn": "-макчы",
+   "noteTr": "-макчы"
+  },
+  {
+   "id": "m26_05",
+   "mod": "m26",
+   "sub": "lexgram",
+   "ky": "«-макчы» жана «-ыш керек» — айырмасы эмнеде?",
+   "options": [
+    "ниет / зарылчылык",
+    "өткөн / келер",
+    "суроо / жооп",
+    "чын / жалган"
+   ],
+   "correct": 0,
+   "note": "макчы — хочу и планирую; -ыш керек — надо (М24)",
+   "noteEn": "intention vs necessity",
+   "noteTr": "niyet / gereklilik"
+  },
+  {
+   "id": "m26_09",
+   "mod": "m26",
+   "sub": "lexgram",
+   "ky": "«-ар/-бас» кайсы учурда колдонулат?",
+   "options": [
+    "так эмес келечекте",
+    "өткөн чакта",
+    "буйрукта",
+    "тыюуда"
+   ],
+   "correct": 0,
+   "note": "болжолдуу келер — «наверное»",
+   "noteEn": "probable future",
+   "noteTr": "belirsiz gelecek"
+  },
+  {
+   "id": "m26_13",
+   "mod": "m26",
+   "sub": "lexgram",
+   "ky": "Үнөмдөөнүн эрежеси: эң … иштен башта.",
+   "options": [
+    "жеңил",
+    "кызыктуу",
+    "маанилүү",
+    "кыска"
+   ],
+   "correct": 2,
+   "note": "эң маанилүү иш — биринчи",
+   "noteEn": "маанилүү",
+   "noteTr": "маанилүү"
+  },
+  {
+   "id": "m27_01",
+   "mod": "m27",
+   "sub": "lexgram",
+   "ky": "«Эгер спорт менен машык…, ден соолугуңуз чың болот» (Сиз).",
+   "options": [
+    "-саңыз",
+    "-сам",
+    "-сак",
+    "-са"
+   ],
+   "correct": 0,
+   "note": "шарт: машыксаңыз — Сиз",
+   "noteEn": "-саңыз",
+   "noteTr": "-саңыз"
+  },
+  {
+   "id": "m27_07",
+   "mod": "m27",
+   "sub": "lexgram",
+   "ky": "«-са» жана «-са болот» (М24) — айырмасы?",
+   "options": [
+    "буйрук / өтүнүч",
+    "шарт / уруксат",
+    "өткөн / келер",
+    "суроо / жооп"
+   ],
+   "correct": 1,
+   "note": "-са — если; -са болот — можно",
+   "noteEn": "condition vs permission",
+   "noteTr": "koşul / izin"
+  },
+  {
+   "id": "m27_13",
+   "mod": "m27",
+   "sub": "lexgram",
+   "ky": "Жумшак кеңеш: «Таттууну азайт… оң».",
+   "options": [
+    "-сак",
+    "-ып",
+    "-макчы",
+    "-каныңыз"
+   ],
+   "correct": 3,
+   "note": "-ганыңыз оң — мягкий совет",
+   "noteEn": "-каныңыз",
+   "noteTr": "-каныңыз"
+  },
+  {
+   "id": "m28_01",
+   "mod": "m28",
+   "sub": "lexgram",
+   "ky": "«Тил үйрөн…, элди түшүнбөйсүң» (пока не выучишь).",
+   "options": [
+    "-мөйүнчө",
+    "-гөнчө",
+    "-сө",
+    "-мөкчү"
+   ],
+   "correct": 0,
+   "note": "-майынча: пока не; ү-ряд — -мөйүнчө",
+   "noteEn": "-мөйүнчө",
+   "noteTr": "-мөйүнчө"
+  },
+  {
+   "id": "m28_06",
+   "mod": "m28",
+   "sub": "lexgram",
+   "ky": "«Телевизор көр…, китеп окуганыңыз оң» (чем смотреть).",
+   "options": [
+    "-гөнчө",
+    "-мөйүнчө",
+    "-сө",
+    "-үп"
+   ],
+   "correct": 0,
+   "note": "-ганча: «чем делать X — лучше Y»",
+   "noteEn": "-гөнчө",
+   "noteTr": "-гөнчө"
+  },
+  {
+   "id": "m28_11",
+   "mod": "m28",
+   "sub": "lexgram",
+   "ky": "«Канча тил билсең, ошончо …».",
+   "options": [
+    "байсың",
+    "адамсың",
+    "жашсың",
+    "күчтүүсүң"
+   ],
+   "correct": 1,
+   "note": "накыл: ошончо адамсың",
+   "noteEn": "адамсың",
+   "noteTr": "адамсың"
+  },
+  {
+   "id": "m29_01",
+   "mod": "m29",
+   "sub": "lexgram",
+   "ky": "«Апам мага идиш жуу…» (поручила помыть).",
+   "options": [
+    "-дурду",
+    "-ду",
+    "-птур",
+    "-чу"
+   ],
+   "correct": 0,
+   "note": "аркылуу мамиле: жуу- + -дур",
+   "noteEn": "-дурду",
+   "noteTr": "-дурду"
+  },
+  {
+   "id": "m29_09",
+   "mod": "m29",
+   "sub": "lexgram",
+   "ky": "«-ганда» менен «-са» (М27) — айырмасы?",
+   "options": [
+    "качан / эгер",
+    "эгер / качан",
+    "экөө тең эгер",
+    "экөө тең качан"
+   ],
+   "correct": 0,
+   "note": "-ганда — когда (факт); -са — если (условие)",
+   "noteEn": "when vs if",
+   "noteTr": "-ınca / -sa"
+  }
+ ],
+ "ui": {
+  "ru": {
+   "title": "Пробный тест по кыргызскому языку B1 · learn.kg",
+   "desc": "Пробный тест по кыргызскому языку B1 от learn.kg: 20 заданий из упражнений курса, формулировки на кыргызском, 15 минут, проверка сразу и разбор.",
+   "h1": "Пробный тест по кыргызскому языку B1",
+   "lead": "Тренировочный тест learn.kg уровня B1: 20 заданий из упражнений курса B1, формулировки на кыргызском, четыре варианта ответа. На всё 15 минут, проверка сразу, без регистрации.",
+   "qLabel": "Задание {n} из {t}",
+   "startBtn": "Начать тест",
+   "restart": "Пройти заново",
+   "resultTitle": "Ваш результат",
+   "ctaDemo": "Попробовать демо-урок",
+   "ctaWa": "Спросить преподавателя",
+   "waMsg": "Здравствуйте! Прошёл(ла) пробный тест B1 на learn.kg: {s} из {t}. Хочу подготовиться к тестированию по кыргызскому языку на уровень B1.",
+   "verdicts": [
+    {
+     "max": 9,
+     "short": "рано для B1",
+     "h": "Пока рано для уровня B1",
+     "p": "Базовые конструкции B1 ещё не закрепились. Начните с курса A2 и переходите к B1, когда уверенно держите 8 из 10 в дриллах."
+    },
+    {
+     "max": 15,
+     "short": "основа B1 есть",
+     "h": "Основа есть — не хватает автоматизма",
+     "p": "Конструкции знакомы, но выбор пока требует времени. Курс B1 закрывает пробелы тема за темой: задания по-кыргызски, новые слова — через кыргызские определения."
+    },
+    {
+     "max": 20,
+     "short": "уровень B1 близко",
+     "h": "Уровень B1 близко",
+     "p": "Лексика и грамматика B1 держатся. Осталось потренировать скорость, письмо и устную речь — их в курсе B1 проверяет преподаватель."
+    }
+   ],
+   "faqTitle": "Частые вопросы",
+   "faq": [
+    {
+     "q": "Это задания официального тестирования?",
+     "a": "Нет. Задания составлены learn.kg по материалам нашего курса B1 и не связаны с заданиями государственного тестирования по кыргызскому языку. Формат, уровни и запись на тестирование — на официальном сайте, ссылка на него — под заданиями."
+    },
+    {
+     "q": "Как устроен тест learn.kg?",
+     "a": "20 заданий из упражнений курса B1: формулировка на кыргызском, четыре варианта, верный — один. На всё 15 минут, варианты перемешиваются при каждом прохождении, результат — доля верных ответов, а не балл тестирования."
+    },
+    {
+     "q": "Кому нужен уровень B1?",
+     "a": "B1 — самый массовый обязательный уровень: его требуют от государственных и муниципальных служащих, а также при приёме в гражданство."
+    },
+    {
+     "q": "Как подготовиться к государственному тестированию?",
+     "a": "Разбор подготовки по шагам — в статье ((как подготовиться к государственному тестированию|/blog/gostestirovanie-kak-podgotovitsya/ru)). Формат и правила тестирования уточняйте на официальном сайте."
+    },
+    {
+     "q": "Как готовиться к B1 в тренажёре?",
+     "a": "Курс B1 — 12 модулей: задания сформулированы по-кыргызски, новые слова вводятся кыргызскими определениями, в конце — повторение и экзаменационная неделя."
+    }
+   ],
+   "ctaLogin": "Войти в тренажёр",
+   "timeLeft": "Осталось: {t}",
+   "timeUp": "Время вышло.",
+   "askKy": "Туура жоопту белгилеңиз."
+  },
+  "en": {
+   "title": "Kyrgyz B1 practice test online · learn.kg",
+   "desc": "A learn.kg Kyrgyz practice test at level B1: 20 tasks from the course exercises, worded in Kyrgyz, 15 minutes, instant scoring and explanations.",
+   "h1": "Kyrgyz B1 practice test",
+   "lead": "A learn.kg practice test at level B1: 20 tasks from the B1 course exercises, worded in Kyrgyz, four options each. You get 15 minutes; scored instantly, no sign-up.",
+   "qLabel": "Task {n} of {t}",
+   "startBtn": "Start the test",
+   "restart": "Take it again",
+   "resultTitle": "Your result",
+   "ctaDemo": "Try the demo lesson",
+   "ctaWa": "Ask the teacher",
+   "waMsg": "Hello! I took the B1 practice test on learn.kg: {s} out of {t}. I would like to prepare for the state Kyrgyz language test at level B1.",
+   "verdicts": [
+    {
+     "max": 9,
+     "short": "too early for B1",
+     "h": "Too early for level B1",
+     "p": "The core B1 patterns are not yet automatic. Start with the A2 course and move to B1 once you hold 8 out of 10 in the drills."
+    },
+    {
+     "max": 15,
+     "short": "B1 basics in place",
+     "h": "The base is there — speed is missing",
+     "p": "You know the patterns, but choosing still takes time. The B1 course covers the gaps topic by topic: tasks in Kyrgyz, new words through Kyrgyz definitions."
+    },
+    {
+     "max": 20,
+     "short": "B1 within reach",
+     "h": "Level B1 is within reach",
+     "p": "B1 vocabulary and grammar hold. What is left is speed, writing and speaking — in the B1 course these are checked by the teacher."
+    }
+   ],
+   "faqTitle": "Frequently asked questions",
+   "faq": [
+    {
+     "q": "Are these tasks from the official test?",
+     "a": "No. The tasks are written by learn.kg from our B1 course materials and are not related to the tasks of the state Kyrgyz language test. Format, levels and registration — on the official testing website, linked below the tasks."
+    },
+    {
+     "q": "How does the learn.kg test work?",
+     "a": "20 tasks from the B1 course exercises: wording in Kyrgyz, four options, one correct. You get 15 minutes, the options are shuffled on every attempt, and the result is the share of correct answers, not a test score."
+    },
+    {
+     "q": "Who needs level B1?",
+     "a": "B1 is the most widely required level: it is expected from state and municipal employees and for citizenship applications."
+    },
+    {
+     "q": "How do I prepare for the state test?",
+     "a": "A step-by-step guide is in ((how to prepare for the state Kyrgyz language test|/blog/gostestirovanie-kak-podgotovitsya/en)). Check the format and rules of the test on the official website."
+    },
+    {
+     "q": "How do I prepare for B1 here?",
+     "a": "The B1 course has 12 modules: tasks are worded in Kyrgyz, new words are introduced through Kyrgyz definitions, and it ends with revision and an exam week."
+    }
+   ],
+   "ctaLogin": "Log in to the trainer",
+   "timeLeft": "Time left: {t}",
+   "timeUp": "Time is up.",
+   "askKy": "Туура жоопту белгилеңиз."
+  },
+  "tr": {
+   "title": "Kırgızca B1 deneme sınavı · learn.kg",
+   "desc": "learn.kg'nin Kırgızca B1 deneme sınavı: kurs alıştırmalarından 20 soru, Kırgızca ifadeler, 15 dakika, anında puan ve açıklama.",
+   "h1": "Kırgızca B1 deneme sınavı",
+   "lead": "learn.kg'nin B1 düzeyi alıştırma testi: B1 kursu alıştırmalarından 20 soru, Kırgızca ifadeler, her biri dört seçenekli. Süre 15 dakika; anında puan, kayıt yok.",
+   "qLabel": "Soru {n}/{t}",
+   "startBtn": "Sınavı başlat",
+   "restart": "Yeniden çöz",
+   "resultTitle": "Sonucunuz",
+   "ctaDemo": "Demo dersi dene",
+   "ctaWa": "Öğretmene sor",
+   "waMsg": "Merhaba! learn.kg’de B1 deneme sınavını çözdüm: {t} sorudan {s} doğru. Devlet Kırgızca dil sınavına B1 düzeyinde hazırlanmak istiyorum.",
+   "verdicts": [
+    {
+     "max": 9,
+     "short": "B1 için erken",
+     "h": "B1 düzeyi için henüz erken",
+     "p": "B1’in temel kalıpları oturmamış. A2 kursuyla başlayın, alıştırmalarda 10’da 8’i tutturunca B1’e geçin."
+    },
+    {
+     "max": 15,
+     "short": "temel var",
+     "h": "Temel var — hız eksik",
+     "p": "Kalıpları biliyorsunuz ama seçim hâlâ zaman alıyor. B1 kursu eksikleri konu konu kapatır: görevler Kırgızca, yeni kelimeler Kırgızca tanımlarla."
+    },
+    {
+     "max": 20,
+     "short": "B1'e yakın",
+     "h": "B1 düzeyine yakınsınız",
+     "p": "B1 sözcük ve dil bilgisi oturmuş. Geriye hız, yazma ve konuşma kalıyor — B1 kursunda bunları öğretmen değerlendirir."
+    }
+   ],
+   "faqTitle": "Sık sorulan sorular",
+   "faq": [
+    {
+     "q": "Bu görevler resmî sınavdan mı?",
+     "a": "Hayır. Görevler learn.kg tarafından B1 kursumuzun materyallerinden hazırlanmıştır ve devlet Kırgızca dil sınavının görevleriyle bağlantılı değildir. Biçim, seviyeler ve kayıt — resmî sınav sitesinde; bağlantısı görevlerin altında."
+    },
+    {
+     "q": "learn.kg testi nasıl işliyor?",
+     "a": "B1 kursu alıştırmalarından 20 soru: ifade Kırgızca, dört seçenek, biri doğru. Süre 15 dakika, seçenekler her denemede karışır, sonuç doğru cevapların oranıdır, sınav puanı değildir."
+    },
+    {
+     "q": "B1 kime gerekli?",
+     "a": "B1 en yaygın zorunlu seviyedir: devlet ve belediye çalışanlarından ve vatandaşlık başvurularında istenir."
+    },
+    {
+     "q": "Devlet sınavına nasıl hazırlanırım?",
+     "a": "Adım adım rehber ((devlet Kırgızca dil sınavına nasıl hazırlanılır|/blog/gostestirovanie-kak-podgotovitsya/tr)) yazısında. Sınavın biçimini ve kurallarını resmî sitede kontrol edin."
+    },
+    {
+     "q": "Burada B1’e nasıl hazırlanırım?",
+     "a": "B1 kursu 12 modüldür: sorular Kırgızca sorulur, yeni kelimeler Kırgızca tanımlarla verilir, sonunda tekrar ve sınav haftası vardır."
+    }
+   ],
+   "ctaLogin": "Uygulamaya giriş",
+   "timeLeft": "Kalan süre: {t}",
+   "timeUp": "Süre doldu.",
+   "askKy": "Туура жоопту белгилеңиз."
+  }
+ },
+ "limitSec": 900
+}

@@ -1,0 +1,22 @@
+
+function renderRefM46(m){
+  m.append(h("div",{class:"card"},h("h2",{},L("Грамматика B2 одним взглядом","B2 grammar at a glance","Tek bakışta B2 dil bilgisi")),
+    h("p",{class:"muted"},L("Десять модулей — десять инструментов официального стиля и оценки. Ниже — по одному опорному примеру на каждый; подробности — на грамм-странице своего модуля.","Ten modules — ten tools of the official style and evaluation. One anchor example for each below; details are on each module’s grammar page.","On modül — resmî üslubun ve değerlendirmenin on aracı. Aşağıda her biri için birer örnek; ayrıntılar ilgili modülün sayfasında.")),
+    harmonyTable([L("Модуль","Module","Modül"),L("Форма","Form","Biçim"),L("Опора","Anchor","Dayanak")],[
+      ["М36","-ыл/-ын, ылайык/боюнча",L("страдательный залог; официальные послелоги","passive voice; official postpositions","edilgen çatı; resmî edatlar")],
+      ["М37","-дан бери / -уучу",L("с каких пор; исполнитель действия","since when; the doer","-den beri; özne")],
+      ["М38","-са да / -гандыктан",L("уступка; причина","concession; cause","karşıtlık; neden")],
+      ["М39","-ууга укуктуу/милдеттүү",L("право; обязанность","right; duty","hak; yükümlülük")],
+      ["М40","сайын / -га караганда",L("чем…тем; сравнение","the more…the more; comparison","-dıkça; karşılaştırma")],
+      ["М41","деп аталат / болуп саналат",L("определение; классификация","definition; classification","tanım; sınıflandırma")],
+      ["М42","-ганына суктанам / -са экен",L("эмоциональная оценка; пожелание","emotional evaluation; wish","duygusal değerlendirme; dilek")],
+      ["М43","-ынын натыйжасында",L("причина и следствие","cause and effect","neden-sonuç")],
+      ["М44","-ганы жакшы/жаман / -ганын айтты",L("моральная оценка; оценка в косвенной речи","moral evaluation; reported evaluation","ahlaki değerlendirme; aktarılan değerlendirme")],
+      ["М45","-ууга тийиш / деп билдирди",L("обязанность; передача сообщения","obligation; reporting a statement","yükümlülük; bildirim")]])));
+  m.append(h("div",{class:"card"},h("h2",{},L("Устойчивые выражения и пословицы","Set phrases and proverbs","Kalıp ifadeler ve atasözleri")),
+    h("p",{class:"muted"},L("Тема B2 звучит убедительнее, если названа с причиной: «сый-урмат менен» (М36, официальное письмо) · «Иштебеген тиштебейт» (М40, труд) · «Суу – өмүр булагы» (М43, природа) · «Ынтымак бар жерде ырыс бар» (М44, единство) · «Кол кабыш кылуу» (М44, отзывчивость). Устойчивые выражения для аудирования — в этих же модулях.","A B2 topic sounds stronger with a reason behind it: сый-урмат менен (M36, an official letter) · Иштебеген тиштебейт (M40, labour) · Суу – өмүр булагы (M43, nature) · Ынтымак бар жерде ырыс бар (M44, unity) · Кол кабыш кылуу (M44, compassion). Set phrases for listening live in these same modules.","B2 konusu gerekçesiyle söylendiğinde daha güçlü olur: сый-урмат менен (M36, resmî mektup) · Иштебеген тиштебейт (M40, emek) · Суу – өмүр булагы (M43, doğa) · Ынтымак бар жерде ырыс бар (M44, birlik) · Кол кабыш кылуу (M44, şefkat). Dinleme için kalıp ifadeler de aynı modüllerde."))));
+  const dlg=[["А: — Кайсы форма кыйын болду?","А: — Какая форма оказалась трудной?","A: — Which form proved hard?","A: — Hangi biçim zor geldi?"],
+             ["Б: — Туюк мамиле: аткаруучу жашырылат экен — «арыз кабыл алынат». Расмий катта ушундай жазылат го.","Б: — Страдательный залог: исполнитель, оказывается, прячется — «арыз кабыл алынат». В официальном письме так и пишут.","B: — The passive voice: the doer hides, it turns out — «арыз кабыл алынат». That is how an official letter is written.","B: — Edilgen çatı: özne saklanıyormuş — «арыз кабыл алынат». Resmî mektupta böyle yazılır."]];
+  weekDialog(m,"Диалог: «B2 даярдык»","Dialogue: «B2 даярдык»",dlg,
+    "Задание: 1) прочитай диалог, меняясь ролями; 2) пройди сводный дрилл до ≥9/10; 3) выбери три темы модулей B2 и расскажи каждую на 10–14 предложений — с обоснованием (себебин аныктоо) и оценкой; 4) слабые формы повтори на грамм-странице их модуля.","Tasks: 1) read the dialogue swapping roles; 2) do the round-up drill to ≥9/10; 3) pick three B2 module topics and tell each in 10–14 sentences — with a stated reason and an evaluation; 4) revise weak forms on their module’s grammar page.","Diyalog: “B2 hazırlık”","Görev: 1) diyaloğu rolleri değiştirerek oku; 2) özet alıştırmasını ≥9/10’a kadar yap; 3) üç B2 modül konusu seçip her birini gerekçeli ve değerlendirmeli 10–14 cümleyle anlat; 4) zayıf biçimleri kendi modülünde tekrar et.");
+}

@@ -1,0 +1,12 @@
+{
+  "name": "kyrgyz-a1",
+  "version": "1.1.185",
+  "description": "learn.kg — тренажёр кыргызского языка",
+  "license": "MIT",
+  "author": "Vadim Berkovich <vadim.berkovich@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "node tests/repo-hygiene.test.js && node tests/logger.test.js && node tests/content.test.js && node tests/reuse.test.js && node tests/quiz.test.js && node tests/audio.test.js && node tests/gen-audio.test.js && node tests/pronunciation.test.js && node tests/marked.test.js && node tests/srs.test.js && node tests/trail.test.js && node tests/appshell.test.js && node tests/sw.test.js && node tests/sync.test.js && node tests/cardsq.test.js && node tests/lessons.test.js && node tests/decide.test.js && node tests/ui-generic.test.js && node tests/grammar-markup.test.js && node tests/i18n-tr.test.js && node tests/i18n-tr-content.test.js && node tests/alphabet.test.js && node tests/weekplan.test.js && node tests/stats.test.js && node tests/access.test.js && node tests/test-totals.test.js && node tests/overrides.test.js && node tests/answers.test.js && node tests/level-data.test.js && node tests/landing.test.js && node tests/seo-keywords.test.js && node tests/sitemap.test.js && node tests/razgovornik.test.js && node tests/inline-links.test.js && node tests/perevodchik.test.js && node tests/kurs.test.js && node tests/chrome.test.js && node tests/passwords.test.js && node tests/server.test.js && node tests/backup.test.js && node tests/per-user-shell.test.js && node tests/trials.test.js && node tests/video.test.js && node tests/stt.test.js && node tests/b1.test.js && node tests/b2.test.js && node tests/exam-b1.test.js && node tests/exam-a1.test.js && node tests/exam-b2.test.js && node tests/exam-work.test.js && node tests/events.test.js && node tests/me-trail.test.js && node tests/probny-b1.test.js && node tests/probny-a1.test.js && node tests/probny-b2.test.js && node tests/chat.test.js && node tests/skill-router.test.js && node tests/pre-deploy-cve.test.js && node tests/update.test.js && node tests/install.test.js",
+    "start": "node server/server.js"
+  }
+}

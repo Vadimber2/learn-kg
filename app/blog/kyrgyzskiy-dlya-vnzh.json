@@ -1,0 +1,724 @@
+{
+  "slug": "kyrgyzskiy-dlya-vnzh",
+  "published": "2026-09-04",
+  "updated": "2026-10-30",
+  "section": "exam",
+  "og": {"ru": "kyrgyzskiy-dlya-vnzh-ru.png", "en": "kyrgyzskiy-dlya-vnzh-en.png", "tr": "kyrgyzskiy-dlya-vnzh-tr.png"},
+  "figs": {
+    "1": "levels",
+    "4": "exam"
+  },
+  "related": [
+    "gostestirovanie-kak-podgotovitsya",
+    "kyrgyzskiy-dlya-gossluzhashchih",
+    "skolko-vremeni-uchit-kyrgyzskiy"
+  ],
+  "refs": [
+    {
+      "authors": "Жогорку Кенеш КР",
+      "year": 2000,
+      "title": "Закон КР от 17 июля 2000 года № 61 «О внешней миграции», ст. 16 и 34 (действующая редакция)",
+      "source": "Централизованный банк данных правовой информации Минюста КР",
+      "url": "https://cbd.minjust.gov.kg/350/edition/53537/ru"
+    },
+    {
+      "authors": "Жогорку Кенеш КР",
+      "year": 2025,
+      "title": "Закон КР от 9 августа 2025 года № 195 «О внесении изменений в некоторые законодательные акты КР по вопросам применения государственного языка», ст. 3 и 13",
+      "source": "ЦБД Минюста КР",
+      "url": "https://cbd.minjust.gov.kg/4-5614/edition/35677/ru"
+    },
+    {
+      "authors": "Кабинет Министров КР",
+      "year": 2024,
+      "title": "Положение о порядке оформления и выдачи вида на жительство (постановление от 31 июля 2024 года № 437), п. 24–25",
+      "source": "ЦБД Минюста КР",
+      "url": "https://cbd.minjust.gov.kg/230011559/edition/34002/ru"
+    },
+    {
+      "authors": "Kaktus.media",
+      "year": 2025,
+      "title": "Виз без кыргызского не будет? В нацкомиссии объяснили, кого это касается на самом деле (24.06.2025)",
+      "source": "kaktus.media",
+      "url": "https://kaktus.media/doc/526356_viz_bez_kyrgyzskogo_ne_bydet_v_nackomissii_obiasnili_kogo_eto_kasaetsia_na_samom_dele.html"
+    },
+    {
+      "authors": "24.kg",
+      "year": 2025,
+      "title": "Популизм или реальные меры? О новых требованиях к знанию государственного языка (22.05.2025)",
+      "source": "24.kg",
+      "url": "https://24.kg/vlast/330009_populizm_ili_realnyie_meryi_onovyih_trebovaniyah_kznaniyu_gosudarstvennogo_yazyika/"
+    },
+    {
+      "authors": "Институт Медиа Полиси",
+      "year": 2025,
+      "title": "Садыр Жапаров подписал пакет законов касательно вопросов применения кыргызского языка (11.08.2025)",
+      "source": "media.kg",
+      "url": "https://media.kg/news/sadyr-zhaparov-podpisal-paket-zakonov-kasatelno-voprosov-primeneniya-kyrgyzskogo-yazyka/"
+    },
+    {
+      "authors": "Жогорку Кенеш КР",
+      "year": 2007,
+      "title": "Закон КР от 21 мая 2007 года № 70 «О гражданстве Кыргызской Республики», ст. 13–14",
+      "source": "ЦБД Минюста КР",
+      "url": "https://cbd.minjust.gov.kg/4-3549/edition/29242/ru"
+    },
+    {
+      "authors": "Президент КР",
+      "year": 2013,
+      "title": "Положение о порядке рассмотрения вопросов гражданства КР (Указ от 10 августа 2013 года УП № 174, ред. 17.06.2026), п. 13, 15, 23",
+      "source": "ЦБД Минюста КР",
+      "url": "https://cbd.minjust.gov.kg/46-163/edition/55242/ru"
+    },
+    {
+      "authors": "Council of Europe / Europass",
+      "year": 2020,
+      "title": "Common European Framework of Reference for Languages: self-assessment grid",
+      "source": "European Commission",
+      "url": "https://europass.europa.eu/en/common-european-framework-reference-language-skills"
+    },
+    {
+      "authors": "LanguageCert",
+      "year": 2024,
+      "title": "Guided Learning Hours",
+      "source": "languagecert.org",
+      "url": "https://www.languagecert.org/en/guided-learning-hours"
+    },
+    {
+      "authors": "Кыргызская Республика",
+      "year": 2021,
+      "title": "Конституция Кыргызской Республики",
+      "source": "Централизованный банк данных правовой информации, Министерство юстиции КР",
+      "url": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru"
+    },
+    {
+      "authors": "Kaktus.media",
+      "year": 2025,
+      "title": "Учителя и медики к 2026 году должны подтвердить знание госязыка на уровне В1",
+      "source": "kaktus.media",
+      "url": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html"
+    }
+  ],
+  "faq": {
+    "ru": [
+      {
+        "q": "Нужен ли кыргызский язык для ВНЖ в Кыргызстане?",
+        "a": "Да. По закону «О внешней миграции» незнание государственного языка «в объёме, необходимом для постоянного проживания» — основание отказать в виде на жительство и в статусе иммигранта. С конца августа 2025 года (закон № 195) речь только о кыргызском: русский это требование больше не закрывает."
+      },
+      {
+        "q": "Принимают ли русский язык для вида на жительство?",
+        "a": "Для ВНЖ и статуса иммигранта — нет: слова «или официальным» из закона исключены с августа 2025 года. Для гражданства — да: закон о гражданстве по-прежнему принимает «государственный или официальный язык в объёме, достаточном для общения»."
+      },
+      {
+        "q": "Какой уровень кыргызского нужен для ВНЖ?",
+        "a": "Закон уровня не называет, порядок подтверждения определяет кабмин. Председатель Нацкомиссии по госязыку в июне 2025 года назвал A1 — уровень, на котором нужно уметь представиться и рассказать о себе. Текст постановления с этой цифрой публично не найден, поэтому перед подачей уточните требование в подразделении по миграции."
+      },
+      {
+        "q": "Нужен ли кыргызский для временного ВНЖ?",
+        "a": "По положению № 437 документ о владении языком входит в общий перечень для временных и постоянных ВНЖ (работа, учёба, инвестиции). Исключение — граждане России, Казахстана, Таджикистана, Армении, Беларуси, Грузии, Азербайджана и Молдовы, оформляющие временный ВНЖ более чем на 60 дней с частными целями: у них документа о языке в перечне нет."
+      },
+      {
+        "q": "Нужно ли подтверждать язык для гражданства Кыргызстана?",
+        "a": "Да, но правила мягче: подходит государственный или официальный язык, а владение подтверждается справкой государственного учреждения, которое проводит тестирование по языку. Освобождены те, у кого есть диплом или аттестат учебного заведения с изучением кыргызского или русского, а также этнические кыргызы и заявители по упрощённому порядку (родитель-гражданин, рождённые в Киргизской ССР, бывшие граждане СССР)."
+      },
+      {
+        "q": "Где узнать формат и записаться на тестирование?",
+        "a": "Формат, уровни и запись на тестирование — на официальном сайте: kyrgyztest.gov.kg. learn.kg к проведению тестирования и выдаче документов отношения не имеет: мы помогаем выучить язык."
+      },
+      {
+        "q": "Сколько времени нужно, чтобы подготовиться к A1?",
+        "a": "Международный ориентир по шкале CEFR — около 90–100 учебных часов. При 15–20 минутах в день это примерно год, с преподавателем и часом в день — три-четыре месяца. Бесплатный тест уровня на learn.kg/test/ru покажет стартовую точку за пять минут."
+      }
+    ],
+    "en": [
+      {
+        "q": "Do I need Kyrgyz for a residence permit in Kyrgyzstan?",
+        "a": "Yes. Under the Law on External Migration, not commanding the state language “to the extent needed for permanent residence” is a ground to refuse a residence permit or immigrant status. Since late August 2025 (Law No. 195) only Kyrgyz counts: Russian no longer satisfies the requirement."
+      },
+      {
+        "q": "Is Russian accepted for a residence permit?",
+        "a": "For a residence permit and immigrant status — no: the words “or the official language” were removed from the law in August 2025. For citizenship — yes: the citizenship law still accepts “the state or the official language to the extent sufficient for communication”."
+      },
+      {
+        "q": "Which Kyrgyz level is required for a residence permit?",
+        "a": "The law names no level; the confirmation procedure is set by the Cabinet. In June 2025 the chairman of the State Language Commission named A1 — the level at which you can introduce yourself and talk about yourself. The resolution with that figure has not been found in public databases, so check the requirement with your migration office before filing."
+      },
+      {
+        "q": "Is Kyrgyz required for a temporary residence permit?",
+        "a": "Under Regulation No. 437 the language document is on the common list for temporary and permanent permits (work, study, investment). The exception is citizens of Russia, Kazakhstan, Tajikistan, Armenia, Belarus, Georgia, Azerbaijan and Moldova applying for a temporary permit over 60 days for private purposes: their list has no language document."
+      },
+      {
+        "q": "Do I need to prove the language for Kyrgyz citizenship?",
+        "a": "Yes, but the rules are softer: the state or the official language is accepted, and command of it is confirmed by a certificate from the state institution that runs language testing. Exempt are holders of a diploma or school certificate from a programme with Kyrgyz or Russian, ethnic Kyrgyz, and applicants on the simplified track (a citizen parent, born in the Kirghiz SSR, former USSR citizens)."
+      },
+      {
+        "q": "Where do I find the format and register for the test?",
+        "a": "Format, levels and registration — on the official testing website: kyrgyztest.gov.kg. learn.kg has nothing to do with running the test or issuing documents: we help you learn the language."
+      },
+      {
+        "q": "How long does it take to prepare for A1?",
+        "a": "The international CEFR benchmark is about 90–100 guided learning hours. At 15–20 minutes a day that is roughly a year; with a teacher and an hour a day, three to four months. The free level test at learn.kg/test/en shows your starting point in five minutes."
+      }
+    ],
+    "tr": [
+      {
+        "q": "Kırgızistan'da oturma izni için Kırgızca gerekli mi?",
+        "a": "Evet. Dış Göç Yasası'na göre devlet diline «sürekli ikamet için gereken ölçüde» hâkim olmamak, oturma izni ve göçmen statüsünü reddetme gerekçesi. Ağustos 2025 sonundan beri (195 sayılı yasa) yalnızca Kırgızca sayılıyor; Rusça bu şartı artık karşılamıyor."
+      },
+      {
+        "q": "Oturma izni için Rusça kabul ediliyor mu?",
+        "a": "Oturma izni ve göçmen statüsü için hayır: «ya da resmî dil» sözcükleri Ağustos 2025'te yasadan çıkarıldı. Vatandaşlık için evet: vatandaşlık yasası hâlâ «devlet diline ya da resmî dile iletişim için yeterli ölçüde» hâkimiyeti kabul ediyor."
+      },
+      {
+        "q": "Oturma izni için hangi Kırgızca düzeyi gerekiyor?",
+        "a": "Yasa düzey belirtmiyor; doğrulama usulünü Bakanlar Kurulu belirliyor. Devlet Dili Komisyonu başkanı Haziran 2025'te A1'i — kendini tanıtıp kendinden söz edebildiğiniz düzeyi — söyledi. Bu rakamı içeren karar kamuya açık veri tabanlarında bulunamadı; bu yüzden başvurudan önce şartı göç idaresine sorun."
+      },
+      {
+        "q": "Geçici oturma izni için Kırgızca gerekli mi?",
+        "a": "437 sayılı yönetmeliğe göre dil belgesi geçici ve daimî izinlerin (çalışma, öğrenim, yatırım) ortak listesinde. İstisna: özel amaçlarla 60 günden uzun geçici izin alan Rusya, Kazakistan, Tacikistan, Ermenistan, Belarus, Gürcistan, Azerbaycan ve Moldova vatandaşları — onların listesinde dil belgesi yok."
+      },
+      {
+        "q": "Kırgızistan vatandaşlığı için dil belgesi gerekli mi?",
+        "a": "Evet, ama kurallar daha yumuşak: devlet dili ya da resmî dil kabul ediliyor, hâkimiyet de dil sınavını yapan devlet kurumunun belgesiyle kanıtlanıyor. Kırgızca ya da Rusça öğretimli bir okul diploması olanlar, etnik Kırgızlar ve basitleştirilmiş usulle başvuranlar (vatandaş ebeveyn, Kırgız SSC doğumlular, eski SSCB vatandaşları) muaf."
+      },
+      {
+        "q": "Sınavın biçimini nereden öğrenir, nasıl kayıt olurum?",
+        "a": "Biçim, seviyeler ve kayıt — resmî sınav sitesinde: kyrgyztest.gov.kg. learn.kg'nin sınavın yapılmasıyla ve belge verilmesiyle bir ilgisi yoktur: biz dili öğrenmenize yardım ediyoruz."
+      },
+      {
+        "q": "A1'e hazırlanmak ne kadar sürer?",
+        "a": "CEFR için uluslararası ölçüt yaklaşık 90–100 yönlendirilmiş ders saatidir. Günde 15–20 dakikayla kabaca bir yıl; öğretmenle ve günde bir saatle üç-dört ay. learn.kg/test/tr adresindeki ücretsiz düzey testi başlangıç noktanızı beş dakikada gösterir."
+      }
+    ]
+  },
+  "langs": {
+    "ru": {
+      "title": "ВНЖ в Кыргызстане: нужен ли кыргызский и как сдать A1",
+      "desc": "С августа 2025 года для ВНЖ в Кыргызстане нужен кыргызский, русский не принимается; исключения есть. Какой уровень называет Нацкомиссия и как сдать A1.",
+      "lead": "Переезжаете в Кыргызстан и оформляете вид на жительство? С конца августа 2025 года незнание кыргызского — законное основание отказать в ВНЖ и статусе иммигранта, а знание русского это требование больше не закрывает. Уровень закон не называет, но Нацкомиссия по госязыку говорит об A1 — самом первом уровне шкалы CEFR. Разбираем по тексту законов, кому и что нужно, и как пройти A1 без паники.",
+      "blocks": [
+        {
+          "h": "Что изменилось в 2025 году",
+          "p": [
+            "Требование знать язык для вида на жительство в Кыргызстане не новое: с 2016 года закон «О внешней миграции» позволял отказать в ВНЖ и в статусе иммигранта тому, кто «не владеет государственным или официальным языком в объёме, необходимом для постоянного проживания». Официальный язык — русский, поэтому на практике требование почти никого не касалось.",
+            "9 августа 2025 года президент подписал закон № 195, который убрал слова «или официальным» из обоих оснований для отказа (ст. 16 и 34 закона о внешней миграции). Закон вступил в силу через десять дней после публикации 12 августа — то есть с конца августа 2025 года основанием отказа в ВНЖ и статусе иммигранта стало незнание именно кыргызского. Русский для этих целей больше не засчитывается.",
+            "На визу требование не распространяется: в перечне оснований для отказа в визе языкового пункта нет, что отдельно подтвердила и Нацкомиссия по госязыку. Речь именно о тех, кто остаётся жить: временный и постоянный вид на жительство, статус иммигранта."
+          ],
+          "proof": [
+            {
+              "quote": "Вид на жительство не выдается иностранному гражданину или лицу без гражданства, если заявитель: … 13) не владеет государственным языком в объеме, необходимом для постоянного проживания на территории Кыргызской Республики. Порядок подтверждения уровня владения государственным или официальным языком определяется Кабинетом Министров Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/350/edition/53537/ru",
+              "label": "Закон КР «О внешней миграции» № 61, ст. 16 ч. 2 п. 13 (ЦБД Минюста)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Внести в Закон Кыргызской Республики «О внешней миграции» … следующие изменения: 1) в пункте 13 части второй статьи 16 слова «или официальным» исключить; 2) в пункте 13 части первой статьи 34 слова «или официальным» исключить.",
+              "src": "https://cbd.minjust.gov.kg/4-5614/edition/35677/ru",
+              "label": "Закон КР от 09.08.2025 № 195, ст. 3 (ЦБД Минюста)",
+              "lang": "ru"
+            },
+            {
+              "quote": "1. Кыргызский язык - государственный язык Кыргызской Республики. Порядок применения государственного языка определяется конституционным законом. 2. В Кыргызской Республике в качестве официального используется русский язык.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "Конституция КР, ст. 13 ч. 1–2, русский текст (ЦБД Минюста)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Какой уровень: что говорит закон и что — Нацкомиссия",
+          "p": [
+            "Сам закон уровня не называет — он отсылает к порядку подтверждения, который «определяется Кабинетом Министров». Конкретную цифру озвучил председатель Нацкомиссии по государственному языку Мелис Мураталиев на комитете Жогорку Кенеша 24 июня 2025 года: по его словам, кабмин принял постановление, где иностранцы и лица без гражданства, желающие получить вид на жительство, должны владеть языком на уровне A1 — «самом простом уровне, на котором человек должен уметь представить себя, назвать имя, фамилию».",
+            "Честная оговорка: текст этого постановления мы в базе Минюста не нашли, а единственное постановление 2025 года об уровнях (№ 211 от 17 апреля) касается госслужащих и прямо исключает не-граждан. Поэтому A1 — ориентир со слов профильного ведомства, а не цитата нормативного акта. Для планирования это всё равно рабочая планка: ниже A1 уровней на шкале CEFR нет, а если кабмин утвердит требование выше, мы обновим статью.",
+            "Как устроена вся лестница уровней и кому какой нужен по закону о госязыке — в ((разборе для госслужащих и учителей|/blog/kyrgyzskiy-dlya-gossluzhashchih/ru)); там речь о B1 и B2, для ВНЖ планка ниже."
+          ],
+          "proof": [
+            {
+              "quote": "В этой норме говорится, что требование касается только разрешения на постоянное проживание. В этом году кабинет министров принял постановление о требованиях к владению государственным языком, где указано, что иностранцы и лица без гражданства, желающие получить вид на жительство, должны владеть языком на уровне А1. Это самый простой уровень, на котором человек должен уметь представить себя, назвать имя, фамилию.",
+              "src": "https://kaktus.media/doc/526356_viz_bez_kyrgyzskogo_ne_bydet_v_nackomissii_obiasnili_kogo_eto_kasaetsia_na_samom_dele.html",
+              "label": "Мелис Мураталиев, Нацкомиссия по госязыку — Kaktus.media, 24.06.2025",
+              "lang": "ru"
+            },
+            {
+              "quote": "Согласно постановлению, подписанному председателем кабинета министров Адылбеком Касымалиевым, на основании Конституционного закона \"О государственном языке Кыргызской Республики\" государственные и муниципальные служащие должны владеть кыргызским языком на уровне не ниже В1 (средний) в 2025 году, к 2027 году - не ниже В2 (выше среднего). Сотрудники государственных компаний (кроме работающих в них иностранных граждан), педагогические и научные сотрудники, а также медики, работающие в учреждениях Министерства здравоохранения, должны подтвердить знание госязыка на уровне В1 и В2 в 2026 и 2028 годах соответственно.",
+              "src": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html",
+              "label": "Kaktus.media, 2025 — «Учителя и медики к 2026 году должны подтвердить знание госязыка на уровне В1»",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Временный или постоянный ВНЖ: кого касается",
+          "p": [
+            "Положение о выдаче вида на жительство (постановление кабмина № 437 от 31 июля 2024 года) в общем перечне документов «для оформления и выдачи временных и постоянных видов на жительство» называет «документ, подтверждающий владение лицом государственным или официальным языком в объёме, необходимом для постоянного проживания». Временный ВНЖ выдаётся для работы, учёбы и инвестиций, постоянный — после пяти лет законного проживания.",
+            "Исключение в том же положении: граждане России, Казахстана, Таджикистана, Армении, Беларуси, Грузии, Азербайджана и Молдовы, которые въезжают без визы и оформляют временный ВНЖ на срок больше 60 дней с частными целями, подают короткий перечень — заявление, квитанцию, паспорт, документы о жилье и доходе. Документа о языке там нет.",
+            "Есть и расхождение, о котором стоит знать: глава Нацкомиссии говорил, что требование «касается только разрешения на постоянное проживание», а положение № 437 всё ещё написано со словами «или официальным» и не приведено в соответствие с законом. Практика после августа 2025 года в открытых источниках не описана, поэтому перед подачей уточните в территориальном подразделении по миграции, какой именно документ о языке примут по вашему основанию."
+          ],
+          "t": {
+            "head": [
+              "Ситуация",
+              "Язык",
+              "Источник"
+            ],
+            "rows": [
+              [
+                "Временный ВНЖ: работа, учёба, инвестиции",
+                "документ о владении госязыком в перечне",
+                "Положение № 437, п. 25"
+              ],
+              [
+                "Временный ВНЖ > 60 дней с частными целями, граждане РФ, РК, РТ, РА, РБ, Грузии, Азербайджана, Молдовы",
+                "документа о языке нет",
+                "Положение № 437, п. 24"
+              ],
+              [
+                "Постоянный ВНЖ и статус иммигранта",
+                "только кыргызский; уровень определяет кабмин (по словам Нацкомиссии — A1)",
+                "Закон № 61, ст. 16 и 34; закон № 195"
+              ],
+              [
+                "Виза",
+                "требования нет",
+                "Закон № 61, ст. 16, ч. 1"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Перечень документов, представляемых в территориальное подразделение, необходимых для оформления и выдачи временных и постоянных видов на жительство: … 9) документ, подтверждающий владение лицом государственным или официальным языком в объеме, необходимом для постоянного проживания на территории Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/230011559/edition/34002/ru",
+              "label": "Положение о выдаче вида на жительство, пост. КМ № 437, п. 25 (ЦБД Минюста)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "ВНЖ и гражданство — разные правила",
+          "p": [
+            "Для гражданства требования мягче и старше. Закон «О гражданстве» требует владеть «государственным или официальным языком в объёме, достаточном для общения» — то есть русский здесь по-прежнему принимается. Подтверждается это справкой государственного учреждения, которое проводит тестирование по языку; исключение сделано для тех, у кого есть документ об окончании учебного заведения с изучением кыргызского или русского языка.",
+            "Языковое условие не применяется к этническим кыргызам и к тем, кто идёт по упрощённому порядку: у кого хотя бы один родитель — гражданин Кыргызстана, кто родился в Киргизской ССР или был гражданином СССР, кто восстанавливается в гражданстве. Для них закон оставляет только обязательство соблюдать Конституцию и наличие источника средств.",
+            "Порядок, который нужно держать в голове: сначала ВНЖ (с кыргызским), затем пять лет постоянного проживания, затем гражданство (с кыргызским или русским). Так что кыргызский, выученный ради ВНЖ, пригодится и дальше: для гражданства он тоже засчитывается."
+          ],
+          "t": {
+            "head": [
+              "",
+              "Вид на жительство",
+              "Гражданство"
+            ],
+            "rows": [
+              [
+                "Какой язык",
+                "только кыргызский (с августа 2025)",
+                "кыргызский или русский"
+              ],
+              [
+                "Уровень",
+                "определяет кабмин; Нацкомиссия называет A1",
+                "«достаточный для общения», цифры нет"
+              ],
+              [
+                "Чем подтверждать",
+                "документ о владении госязыком",
+                "справка о владении языком или диплом/аттестат с кыргызским или русским"
+              ],
+              [
+                "Кто освобождён",
+                "граждане 8 стран по временному ВНЖ с частными целями",
+                "этнические кыргызы; упрощённый порядок (родитель-гражданин, рождённые в Киргизской ССР, бывшие граждане СССР)"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "…имеют право обратиться с ходатайством о приеме в гражданство … в общем порядке, если они: … 2) владеют государственным или официальным языком в объеме, достаточном для общения.",
+              "src": "https://cbd.minjust.gov.kg/4-3549/edition/29242/ru",
+              "label": "Закон КР «О гражданстве» № 70, ст. 13 ч. 1 (ЦБД Минюста)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Объем владения государственным или официальным языком подтверждается справкой, выданной государственным учреждением …, за исключением лиц, имеющих документ об окончании учебного заведения с изучением кыргызского или русского языка.",
+              "src": "https://cbd.minjust.gov.kg/46-163/edition/55242/ru",
+              "label": "Положение о порядке рассмотрения вопросов гражданства, Указ № 174, п. 13 (ЦБД Минюста)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Что значит уровень A1",
+          "p": [
+            "A1 — первый уровень общеевропейской шкалы CEFR: понимать и использовать знакомые повседневные выражения и базовые фразы, представиться, рассказать о себе и семье, задать простые вопросы о месте и времени, понять медленную и чёткую речь. Глава Нацкомиссии сводит это к «представить себя, назвать имя, фамилию».",
+            "Формат, уровни и запись на тестирование — на официальном сайте: kyrgyztest.gov.kg. Мы их не пересказываем: правила меняются, и сверяться стоит только с первоисточником. Документы о владении языком выдаёт государственное тестирование; learn.kg к нему отношения не имеет — мы помогаем выучить язык.",
+            "Как выстроить подготовку — курс, карточки, интервальные повторения и пробные тесты — в ((статье о подготовке к тестированию|/blog/gostestirovanie-kak-podgotovitsya/ru)). Письмо и говорение стоит отрепетировать вживую с преподавателем: в одиночку их до конца не отработать."
+          ]
+        },
+        {
+          "h": "Как подготовиться к A1 за несколько месяцев",
+          "p": [
+            "Считайте честно: международный ориентир до A1 — около 90–100 учебных часов. По 15–20 минут в день это 8–10 часов в месяц, то есть около года; занятия с преподавателем и час в день сокращают путь до трёх-четырёх месяцев. Регулярность важнее длительности: язык до A1 не собирается за две недели зубрёжки, зато собирается из коротких ежедневных подходов — почему так, мы объясняли в ((статье о регулярности|/blog/pochemu-regulyarno/ru)).",
+            "((Курс A1 на learn.kg|/kurs-a1/ru)) ведёт к этому уровню: 12 модулей, 1073 живые фразы с озвучкой носителя, алфавит и постановка звуков ң, ө, ү, интервальные повторения и мини-тест в конце каждого модуля. Завершает курс итоговая неделя с пробным тестом learn.kg A1: задания на кыргызском, включая письмо и говорение. Задания составлены learn.kg по материалам курса. Они не являются заданиями официального тестирования по кыргызскому языку и не связаны с ними.",
+            "Стартовать можно сегодня без регистрации: ((бесплатный тест уровня|/test/ru)) за пять минут покажет, где вы сейчас, ((пробный тест learn.kg A1|/probny-test-a1/ru)) даст тренировочные задания на время по фразам курса, ((разговорник|/razgovornik/ru#salam)) даст первые фразы для миграционной службы и соседей, а ((демо-урок|/demo/ru)) покажет, как устроены занятия. Дальше — план по неделям до вашей даты подачи и отработка письма и говорения с преподавателем."
+          ]
+        },
+        {
+          "h": "Порядок действий: от закона до тестирования",
+          "p": [
+            "Первое — уточните в территориальном подразделении по миграции, какой документ о языке нужен по вашему основанию ВНЖ: это снимет расхождение между словами Нацкомиссии и текстом положения. Второе — оцените уровень бесплатным тестом и посчитайте недели до подачи. Третье — готовьтесь ежедневно и заранее запишитесь на тестирование: даты и запись — на официальном сайте kyrgyztest.gov.kg, а письмо и говорение стоит отрепетировать вживую.",
+            "Четвёртое — правила тестирования и результатов уточняйте только на официальном сайте: они меняются, и пересказ из вторых рук быстро устаревает. И пятое — язык, выученный ради ВНЖ, пригодится и при следующих шагах, а курсы A2 и B1 на learn.kg продолжают тот же путь, если захотите идти дальше."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyzstan residence permit: Kyrgyz language and A1",
+      "desc": "Since August 2025 a Kyrgyzstan residence permit requires Kyrgyz; Russian no longer counts, with exceptions. The level the Commission names and how to pass A1.",
+      "lead": "Moving to Kyrgyzstan and applying for a residence permit? Since late August 2025, not knowing Kyrgyz is a legal ground to refuse a residence permit or immigrant status, and knowing Russian no longer satisfies the requirement. The law does not name a level, but the State Language Commission speaks of A1 — the very first level of the CEFR scale. Here is what the laws actually say, who needs what, and how to get through A1 without panic.",
+      "blocks": [
+        {
+          "h": "What changed in 2025",
+          "p": [
+            "A language requirement for residence permits is not new: since 2016 the Law on External Migration has allowed authorities to refuse a residence permit or immigrant status to anyone who “does not command the state or the official language to the extent needed for permanent residence”. The official language is Russian, so in practice the rule affected almost nobody.",
+            "On 9 August 2025 the president signed Law No. 195, which removed the words “or the official” from both grounds for refusal (Articles 16 and 34 of the migration law). The law took effect ten days after publication on 12 August — so from late August 2025 the ground for refusing a residence permit or immigrant status is not knowing Kyrgyz specifically. Russian no longer counts for these purposes.",
+            "Visas are not affected: the list of grounds for refusing a visa has no language clause, which the State Language Commission confirmed separately. The rule is about people who stay: temporary and permanent residence permits and immigrant status."
+          ],
+          "proof": [
+            {
+              "quote": "Вид на жительство не выдается иностранному гражданину или лицу без гражданства, если заявитель: … 13) не владеет государственным языком в объеме, необходимом для постоянного проживания на территории Кыргызской Республики. Порядок подтверждения уровня владения государственным или официальным языком определяется Кабинетом Министров Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/350/edition/53537/ru",
+              "label": "Law of the KR on External Migration No. 61, Art. 16 part 2 item 13 (Ministry of Justice database, in Russian)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Внести в Закон Кыргызской Республики «О внешней миграции» … следующие изменения: 1) в пункте 13 части второй статьи 16 слова «или официальным» исключить; 2) в пункте 13 части первой статьи 34 слова «или официальным» исключить.",
+              "src": "https://cbd.minjust.gov.kg/4-5614/edition/35677/ru",
+              "label": "Law of the KR No. 195 of 9 Aug 2025, Art. 3 (Ministry of Justice database, in Russian)",
+              "lang": "ru"
+            },
+            {
+              "quote": "1. Кыргызский язык - государственный язык Кыргызской Республики. Порядок применения государственного языка определяется конституционным законом. 2. В Кыргызской Республике в качестве официального используется русский язык.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "Constitution of the KR, Art. 13 parts 1–2, Russian text (Ministry of Justice database)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Which level: what the law says and what the Commission says",
+          "p": [
+            "The law itself names no level — it refers to a confirmation procedure “determined by the Cabinet of Ministers”. The specific figure came from Melis Murataliev, chairman of the National Commission on the State Language, at a parliamentary committee on 24 June 2025: according to him, the Cabinet adopted a resolution under which foreigners and stateless persons seeking a residence permit must command the language at level A1 — “the simplest level, at which a person should be able to introduce themselves and give their first and last name”.",
+            "An honest caveat: we could not find the text of that resolution in the Ministry of Justice database, and the only 2025 resolution on levels (No. 211 of 17 April) concerns civil servants and explicitly excludes non-citizens. So A1 is a benchmark stated by the relevant agency, not a quote from a legal act. For planning it is still the working bar: the CEFR scale has no level below A1, and if the Cabinet sets a higher requirement we will update this article.",
+            "How the whole ladder of levels works and who needs which level under the state language law is in our ((guide for civil servants and teachers|/blog/kyrgyzskiy-dlya-gossluzhashchih/en)); that is about B1 and B2 — for a residence permit the bar is lower."
+          ],
+          "proof": [
+            {
+              "quote": "В этой норме говорится, что требование касается только разрешения на постоянное проживание. В этом году кабинет министров принял постановление о требованиях к владению государственным языком, где указано, что иностранцы и лица без гражданства, желающие получить вид на жительство, должны владеть языком на уровне А1. Это самый простой уровень, на котором человек должен уметь представить себя, назвать имя, фамилию.",
+              "src": "https://kaktus.media/doc/526356_viz_bez_kyrgyzskogo_ne_bydet_v_nackomissii_obiasnili_kogo_eto_kasaetsia_na_samom_dele.html",
+              "label": "Melis Murataliev, State Language Commission — Kaktus.media, 24 Jun 2025 (in Russian)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Согласно постановлению, подписанному председателем кабинета министров Адылбеком Касымалиевым, на основании Конституционного закона \"О государственном языке Кыргызской Республики\" государственные и муниципальные служащие должны владеть кыргызским языком на уровне не ниже В1 (средний) в 2025 году, к 2027 году - не ниже В2 (выше среднего). Сотрудники государственных компаний (кроме работающих в них иностранных граждан), педагогические и научные сотрудники, а также медики, работающие в учреждениях Министерства здравоохранения, должны подтвердить знание госязыка на уровне В1 и В2 в 2026 и 2028 годах соответственно.",
+              "src": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html",
+              "label": "Kaktus.media, 2025 — “Teachers and medics must confirm B1 in the state language by 2026”, in Russian",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Temporary or permanent permit: who is affected",
+          "p": [
+            "The Regulation on issuing residence permits (Cabinet Resolution No. 437 of 31 July 2024) lists, among the documents “for temporary and permanent residence permits”, “a document confirming the person’s command of the state or the official language to the extent needed for permanent residence”. Temporary permits are issued for work, study and investment; a permanent one after five years of lawful residence.",
+            "The same regulation has an exception: citizens of Russia, Kazakhstan, Tajikistan, Armenia, Belarus, Georgia, Azerbaijan and Moldova who enter visa-free and apply for a temporary permit for more than 60 days for private purposes submit a short list — application, fee receipt, passport, proof of housing and income. There is no language document on it.",
+            "There is also a discrepancy worth knowing: the Commission chairman said the requirement “concerns only permission for permanent residence”, while Regulation No. 437 still reads “or the official” language and has not been aligned with the new law. Practice since August 2025 is not described in open sources, so before applying, check with your local migration office which language document they accept for your ground of stay."
+          ],
+          "t": {
+            "head": [
+              "Situation",
+              "Language",
+              "Source"
+            ],
+            "rows": [
+              [
+                "Temporary permit: work, study, investment",
+                "state-language document on the list",
+                "Regulation No. 437, cl. 25"
+              ],
+              [
+                "Temporary permit over 60 days for private purposes, citizens of RU, KZ, TJ, AM, BY, GE, AZ, MD",
+                "no language document",
+                "Regulation No. 437, cl. 24"
+              ],
+              [
+                "Permanent permit and immigrant status",
+                "Kyrgyz only; level set by the Cabinet (A1 per the Commission)",
+                "Law No. 61, Art. 16 and 34; Law No. 195"
+              ],
+              [
+                "Visa",
+                "no requirement",
+                "Law No. 61, Art. 16, part 1"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Перечень документов, представляемых в территориальное подразделение, необходимых для оформления и выдачи временных и постоянных видов на жительство: … 9) документ, подтверждающий владение лицом государственным или официальным языком в объеме, необходимом для постоянного проживания на территории Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/230011559/edition/34002/ru",
+              "label": "Regulation on residence permits, Cabinet Resolution No. 437, cl. 25 (Ministry of Justice database, in Russian)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Residence permit and citizenship are different rules",
+          "p": [
+            "For citizenship the requirements are softer and older. The Law on Citizenship asks for command of “the state or the official language to the extent sufficient for communication” — so Russian is still accepted here. It is confirmed by a certificate from the state institution that runs language testing; those holding a diploma or school certificate from a programme with Kyrgyz or Russian are exempt.",
+            "The language condition does not apply to ethnic Kyrgyz or to those on the simplified track: applicants with at least one Kyrgyz-citizen parent, people born in the Kirghiz SSR or former citizens of the USSR, and those restoring citizenship. For them the law keeps only the pledge to observe the Constitution and proof of means.",
+            "The sequence to keep in mind: first a residence permit (with Kyrgyz), then five years of permanent residence, then citizenship (with Kyrgyz or Russian). So the Kyrgyz you learn for a residence permit keeps working later: it counts for citizenship too."
+          ],
+          "t": {
+            "head": [
+              "",
+              "Residence permit",
+              "Citizenship"
+            ],
+            "rows": [
+              [
+                "Which language",
+                "Kyrgyz only (since August 2025)",
+                "Kyrgyz or Russian"
+              ],
+              [
+                "Level",
+                "set by the Cabinet; the Commission names A1",
+                "“sufficient for communication”, no figure"
+              ],
+              [
+                "Proof",
+                "state-language document",
+                "language certificate or a diploma with Kyrgyz or Russian"
+              ],
+              [
+                "Exempt",
+                "citizens of 8 countries on a private-purpose temporary permit",
+                "ethnic Kyrgyz; simplified track (citizen parent, born in the Kirghiz SSR, former USSR citizens)"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "…имеют право обратиться с ходатайством о приеме в гражданство … в общем порядке, если они: … 2) владеют государственным или официальным языком в объеме, достаточном для общения.",
+              "src": "https://cbd.minjust.gov.kg/4-3549/edition/29242/ru",
+              "label": "Law of the KR on Citizenship No. 70, Art. 13 part 1 (Ministry of Justice database, in Russian)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Объем владения государственным или официальным языком подтверждается справкой, выданной государственным учреждением …, за исключением лиц, имеющих документ об окончании учебного заведения с изучением кыргызского или русского языка.",
+              "src": "https://cbd.minjust.gov.kg/46-163/edition/55242/ru",
+              "label": "Regulation on citizenship matters, Decree No. 174, cl. 13 (Ministry of Justice database, in Russian)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "What level A1 means",
+          "p": [
+            "A1 is the first level of the Common European Framework scale, CEFR: understanding and using familiar everyday expressions and basic phrases, introducing yourself, talking about yourself and your family, asking simple questions about place and time, following slow and clear speech. The Commission chairman sums it up as “introduce yourself, give your first and last name”.",
+            "Format, levels and registration — on the official testing website: kyrgyztest.gov.kg. We do not retell them here: the rules change, and the only reliable reference is the source itself. Language documents are issued by the state test; learn.kg has nothing to do with it — we help you learn the language.",
+            "How to build your preparation — the course, flashcards, spaced repetition and practice tests — is in ((our article on preparing for the test|/blog/gostestirovanie-kak-podgotovitsya/en)). Writing and speaking are worth rehearsing live with a teacher: they cannot be fully trained alone."
+          ]
+        },
+        {
+          "h": "How to prepare for A1 in a few months",
+          "p": [
+            "Count honestly: the international benchmark to A1 is about 90–100 guided learning hours. At 15–20 minutes a day that is 8–10 hours a month, roughly a year; lessons with a teacher and an hour a day cut it to three or four months. Regularity beats duration: A1 does not come together in two weeks of cramming, but it does come from short daily sessions — we explained why in ((the article on regular practice|/blog/pochemu-regulyarno/en)).",
+            "The ((A1 course on learn.kg|/kurs-a1/en)) leads to this level: 12 modules, 1,073 real phrases with native audio, the alphabet and the sounds ң, ө, ү, spaced repetition and a mini-test after every module. The course ends with a final week and the learn.kg A1 practice test: tasks in Kyrgyz, including writing and speaking. The tasks are written by learn.kg from the course materials. They are not tasks of the official Kyrgyz language test and are not related to them.",
+            "You can start today without signing up: the ((free level test|/test/en)) shows in five minutes where you stand, the ((learn.kg A1 practice test|/probny-test-a1/en)) gives timed practice tasks built from course phrases, the ((phrasebook|/razgovornik/en#salam)) gives first phrases for the migration office and your neighbours, and the ((demo lesson|/demo/en)) shows how lessons work. Then comes a week-by-week plan up to your filing date and practising writing and speaking with a teacher."
+          ]
+        },
+        {
+          "h": "Step by step: from the law to the test",
+          "p": [
+            "First, check with your local migration office which language document is required for your ground of stay — that resolves the gap between the Commission’s words and the regulation’s text. Second, measure your level with the free test and count the weeks to filing. Third, practise daily and book a test date early: dates and registration are on the official website kyrgyztest.gov.kg, and writing and speaking are worth rehearsing live.",
+            "Fourth, check the rules of the test and its results only on the official website: they change, and second-hand retellings go out of date fast. Fifth, the language you learn for a residence permit will serve at every later step, and the A2 and B1 courses on learn.kg continue the same path if you want to go further."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızistan oturma izni: Kırgızca şartı ve A1 sınavı",
+      "desc": "Ağustos 2025'ten beri Kırgızistan'da oturma izni için Kırgızca gerekli; Rusça sayılmıyor, istisnalar var. Komisyonun söylediği düzey ve A1 nasıl geçilir.",
+      "lead": "Kırgızistan'a taşınıyor ve oturma izni mi alıyorsunuz? Ağustos 2025 sonundan beri Kırgızca bilmemek, oturma izni ve göçmen statüsünü reddetmek için yasal bir gerekçe; Rusça bilmek bu şartı artık karşılamıyor. Yasa düzey söylemiyor, ama Devlet Dili Komisyonu A1'den — CEFR ölçeğinin ilk basamağından — söz ediyor. Yasaların metnine göre kime ne gerekiyor ve A1 panik olmadan nasıl geçilir, anlatıyoruz.",
+      "blocks": [
+        {
+          "h": "2025'te ne değişti",
+          "p": [
+            "Oturma izni için dil şartı yeni değil: 2016'dan beri Dış Göç Yasası, «sürekli ikamet için gereken ölçüde devlet diline ya da resmî dile hâkim olmayan» kişiye oturma izni ve göçmen statüsünü reddetmeye izin veriyordu. Resmî dil Rusça olduğundan kural pratikte neredeyse kimseyi etkilemiyordu.",
+            "9 Ağustos 2025'te cumhurbaşkanı 195 sayılı yasayı imzaladı; bu yasa her iki ret gerekçesinden (göç yasasının 16. ve 34. maddeleri) «ya da resmî» sözcüklerini çıkardı. Yasa 12 Ağustos'taki yayımından on gün sonra yürürlüğe girdi — yani Ağustos 2025 sonundan itibaren oturma izni ve göçmen statüsünü reddetme gerekçesi, özellikle Kırgızca bilmemek. Rusça bu amaçla artık sayılmıyor.",
+            "Vize etkilenmiyor: vize reddi gerekçeleri listesinde dil maddesi yok; Devlet Dili Komisyonu bunu ayrıca doğruladı. Kural kalıcı olarak yerleşenler için: geçici ve daimî oturma izni ile göçmen statüsü."
+          ],
+          "proof": [
+            {
+              "quote": "Вид на жительство не выдается иностранному гражданину или лицу без гражданства, если заявитель: … 13) не владеет государственным языком в объеме, необходимом для постоянного проживания на территории Кыргызской Республики. Порядок подтверждения уровня владения государственным или официальным языком определяется Кабинетом Министров Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/350/edition/53537/ru",
+              "label": "KC Dış Göç Yasası No. 61, md. 16 f. 2 b. 13 (Adalet Bakanlığı veri tabanı, Rusça)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Внести в Закон Кыргызской Республики «О внешней миграции» … следующие изменения: 1) в пункте 13 части второй статьи 16 слова «или официальным» исключить; 2) в пункте 13 части первой статьи 34 слова «или официальным» исключить.",
+              "src": "https://cbd.minjust.gov.kg/4-5614/edition/35677/ru",
+              "label": "KC 9 Ağustos 2025 tarihli 195 sayılı Yasa, md. 3 (Adalet Bakanlığı veri tabanı, Rusça)",
+              "lang": "ru"
+            },
+            {
+              "quote": "1. Кыргызский язык - государственный язык Кыргызской Республики. Порядок применения государственного языка определяется конституционным законом. 2. В Кыргызской Республике в качестве официального используется русский язык.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "KC Anayasası, md. 13 f. 1–2, Rusça metin (Adalet Bakanlığı veri tabanı)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Hangi düzey: yasa ne diyor, Komisyon ne diyor",
+          "p": [
+            "Yasanın kendisi düzey belirtmiyor; «Bakanlar Kurulu'nca belirlenen» bir doğrulama usulüne atıf yapıyor. Somut rakamı Ulusal Devlet Dili Komisyonu Başkanı Melis Murataliyev 24 Haziran 2025'te meclis komisyonunda dile getirdi: ona göre Bakanlar Kurulu, oturma izni almak isteyen yabancıların ve vatansızların dili A1 düzeyinde bilmesini öngören bir karar aldı — «insanın kendini tanıtabildiği, adını soyadını söyleyebildiği en basit düzey».",
+            "Dürüst bir uyarı: bu kararın metnini Adalet Bakanlığı veri tabanında bulamadık; 2025'in düzeylerle ilgili tek kararı (17 Nisan tarihli 211 sayılı) memurları kapsıyor ve vatandaş olmayanları açıkça dışarıda bırakıyor. Dolayısıyla A1, yetkili kurumun sözüyle verilen bir ölçüt, bir yasa metninden alıntı değil. Planlama için yine de çalışılacak çıta bu: CEFR ölçeğinde A1'in altında düzey yok; Bakanlar Kurulu daha yüksek bir şart koyarsa yazıyı güncelleyeceğiz.",
+            "Düzey merdiveninin tamamı ve devlet dili yasasına göre kime hangi düzeyin gerektiği ((memurlar ve öğretmenler için rehberimizde|/blog/kyrgyzskiy-dlya-gossluzhashchih/tr)); orada konu B1 ve B2 — oturma izni için çıta daha düşük."
+          ],
+          "proof": [
+            {
+              "quote": "В этой норме говорится, что требование касается только разрешения на постоянное проживание. В этом году кабинет министров принял постановление о требованиях к владению государственным языком, где указано, что иностранцы и лица без гражданства, желающие получить вид на жительство, должны владеть языком на уровне А1. Это самый простой уровень, на котором человек должен уметь представить себя, назвать имя, фамилию.",
+              "src": "https://kaktus.media/doc/526356_viz_bez_kyrgyzskogo_ne_bydet_v_nackomissii_obiasnili_kogo_eto_kasaetsia_na_samom_dele.html",
+              "label": "Melis Murataliyev, Devlet Dili Komisyonu — Kaktus.media, 24.06.2025 (Rusça)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Согласно постановлению, подписанному председателем кабинета министров Адылбеком Касымалиевым, на основании Конституционного закона \"О государственном языке Кыргызской Республики\" государственные и муниципальные служащие должны владеть кыргызским языком на уровне не ниже В1 (средний) в 2025 году, к 2027 году - не ниже В2 (выше среднего). Сотрудники государственных компаний (кроме работающих в них иностранных граждан), педагогические и научные сотрудники, а также медики, работающие в учреждениях Министерства здравоохранения, должны подтвердить знание госязыка на уровне В1 и В2 в 2026 и 2028 годах соответственно.",
+              "src": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html",
+              "label": "Kaktus.media, 2025 — «Öğretmenler ve sağlıkçılar 2026'ya kadar devlet dilini B1 düzeyinde belgelemeli», Rusça",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Geçici mi, daimî mi: kimi kapsıyor",
+          "p": [
+            "Oturma izni yönetmeliği (31 Temmuz 2024 tarihli 437 sayılı Bakanlar Kurulu kararı), «geçici ve daimî oturma izinleri» için ortak belge listesinde «kişinin devlet diline ya da resmî dile sürekli ikamet için gereken ölçüde hâkim olduğunu gösteren belge»yi sayıyor. Geçici izin çalışma, öğrenim ve yatırım için; daimî izin beş yıl yasal ikametten sonra veriliyor.",
+            "Aynı yönetmelikte bir istisna var: Rusya, Kazakistan, Tacikistan, Ermenistan, Belarus, Gürcistan, Azerbaycan ve Moldova vatandaşları, vizesiz giriş yapıp özel amaçlarla 60 günden uzun geçici izin alırken kısa bir liste sunuyor — başvuru, harç makbuzu, pasaport, konut ve gelir belgeleri. Dil belgesi bu listede yok.",
+            "Bilinmesi gereken bir tutarsızlık da var: Komisyon başkanı şartın «yalnızca sürekli ikamet iznini ilgilendirdiğini» söyledi; 437 sayılı yönetmelik ise hâlâ «ya da resmî dil» diye yazıyor ve yeni yasaya uyarlanmadı. Ağustos 2025 sonrası uygulama açık kaynaklarda anlatılmıyor; bu yüzden başvurudan önce bölge göç idaresine, sizin gerekçeniz için hangi dil belgesinin kabul edildiğini sorun."
+          ],
+          "t": {
+            "head": [
+              "Durum",
+              "Dil",
+              "Kaynak"
+            ],
+            "rows": [
+              [
+                "Geçici izin: çalışma, öğrenim, yatırım",
+                "listede devlet dili belgesi var",
+                "437 sayılı yönetmelik, md. 25"
+              ],
+              [
+                "Özel amaçlı 60 günden uzun geçici izin; RU, KZ, TJ, AM, BY, GE, AZ, MD vatandaşları",
+                "dil belgesi yok",
+                "437 sayılı yönetmelik, md. 24"
+              ],
+              [
+                "Daimî izin ve göçmen statüsü",
+                "yalnızca Kırgızca; düzeyi Bakanlar Kurulu belirler (Komisyona göre A1)",
+                "61 sayılı yasa, md. 16 ve 34; 195 sayılı yasa"
+              ],
+              [
+                "Vize",
+                "şart yok",
+                "61 sayılı yasa, md. 16, f. 1"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "Перечень документов, представляемых в территориальное подразделение, необходимых для оформления и выдачи временных и постоянных видов на жительство: … 9) документ, подтверждающий владение лицом государственным или официальным языком в объеме, необходимом для постоянного проживания на территории Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/230011559/edition/34002/ru",
+              "label": "Oturma izni yönetmeliği, 437 sayılı Bakanlar Kurulu kararı, md. 25 (Adalet Bakanlığı veri tabanı, Rusça)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Oturma izni ve vatandaşlık ayrı kurallar",
+          "p": [
+            "Vatandaşlık için şartlar daha yumuşak ve daha eski. Vatandaşlık Yasası «devlet diline ya da resmî dile iletişim için yeterli ölçüde» hâkimiyet istiyor — yani Rusça burada hâlâ kabul ediliyor. Bu, dil sınavını yapan devlet kurumunun belgesiyle kanıtlanıyor; Kırgızca ya da Rusça öğretim görülen bir okuldan diploma sahipleri muaf.",
+            "Dil şartı etnik Kırgızlara ve basitleştirilmiş usulle başvuranlara uygulanmıyor: en az bir ebeveyni Kırgızistan vatandaşı olanlar, Kırgız SSC'de doğanlar ya da eski SSCB vatandaşları, vatandaşlığa geri dönenler. Onlar için yasa yalnızca Anayasa'ya uyma taahhüdünü ve geçim kaynağını bırakıyor.",
+            "Akılda tutulacak sıra: önce oturma izni (Kırgızcayla), sonra beş yıl sürekli ikamet, sonra vatandaşlık (Kırgızca ya da Rusçayla). Yani oturma izni için öğrenilen Kırgızca sonra da işe yarar: vatandaşlıkta da sayılır."
+          ],
+          "t": {
+            "head": [
+              "",
+              "Oturma izni",
+              "Vatandaşlık"
+            ],
+            "rows": [
+              [
+                "Hangi dil",
+                "yalnızca Kırgızca (Ağustos 2025'ten beri)",
+                "Kırgızca ya da Rusça"
+              ],
+              [
+                "Düzey",
+                "Bakanlar Kurulu belirler; Komisyon A1 diyor",
+                "«iletişim için yeterli», rakam yok"
+              ],
+              [
+                "Kanıt",
+                "devlet dili belgesi",
+                "dil belgesi ya da Kırgızca/Rusça öğretimli diploma"
+              ],
+              [
+                "Muaf olanlar",
+                "özel amaçlı geçici izinde 8 ülkenin vatandaşları",
+                "etnik Kırgızlar; basitleştirilmiş usul (vatandaş ebeveyn, Kırgız SSC doğumlular, eski SSCB vatandaşları)"
+              ]
+            ]
+          },
+          "proof": [
+            {
+              "quote": "…имеют право обратиться с ходатайством о приеме в гражданство … в общем порядке, если они: … 2) владеют государственным или официальным языком в объеме, достаточном для общения.",
+              "src": "https://cbd.minjust.gov.kg/4-3549/edition/29242/ru",
+              "label": "KC Vatandaşlık Yasası No. 70, md. 13 f. 1 (Adalet Bakanlığı veri tabanı, Rusça)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Объем владения государственным или официальным языком подтверждается справкой, выданной государственным учреждением …, за исключением лиц, имеющих документ об окончании учебного заведения с изучением кыргызского или русского языка.",
+              "src": "https://cbd.minjust.gov.kg/46-163/edition/55242/ru",
+              "label": "Vatandaşlık işlemleri yönetmeliği, 174 sayılı Kararname, md. 13 (Adalet Bakanlığı veri tabanı, Rusça)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "A1 düzeyi ne anlama gelir",
+          "p": [
+            "A1, Avrupa ortak ölçeği CEFR'in ilk düzeyidir: bilinen günlük ifadeleri ve temel kalıpları anlayıp kullanmak, kendini tanıtmak, kendinden ve ailenden söz etmek, yer ve zamanla ilgili basit sorular sormak, yavaş ve net konuşmayı anlamak. Komisyon başkanı bunu «kendini tanıtmak, adını soyadını söylemek» diye özetliyor.",
+            "Biçim, seviyeler ve kayıt — resmî sınav sitesinde: kyrgyztest.gov.kg. Bunları burada aktarmıyoruz: kurallar değişir ve güvenilir tek kaynak resmî sitenin kendisidir. Dil belgelerini devlet sınavı verir; learn.kg'nin onunla bir ilgisi yoktur — biz dili öğrenmenize yardım ediyoruz.",
+            "Hazırlığın nasıl kurulacağı — kurs, kartlar, aralıklı tekrar ve deneme testleri — ((sınava hazırlık yazımızda|/blog/gostestirovanie-kak-podgotovitsya/tr)). Yazma ve konuşmayı öğretmenle canlı prova etmek gerekir: tek başına tam olarak çalışılamazlar."
+          ]
+        },
+        {
+          "h": "Birkaç ayda A1'e nasıl hazırlanılır",
+          "p": [
+            "Hesabı dürüst yapın: A1 için uluslararası ölçüt yaklaşık 90–100 yönlendirilmiş ders saatidir. Günde 15–20 dakikayla bu ayda 8–10 saat, yani yaklaşık bir yıl; öğretmenle ders ve günde bir saat yolu üç-dört aya indirir. Düzen süreden önemli: A1 iki haftalık ezberle toparlanmaz, ama kısa günlük tekrarlarla toparlanır — nedenini ((düzenli çalışma yazısında|/blog/pochemu-regulyarno/tr)) anlattık.",
+            "((learn.kg'deki A1 kursu|/kurs-a1/tr)) bu düzeye götürür: 12 modül, ana dili konuşurunun sesiyle 1073 gerçek ifade, alfabe ve ң, ө, ү seslerinin oturtulması, aralıklı tekrar ve her modül sonunda mini sınav. Kurs, learn.kg A1 deneme testli bir son haftayla bitiyor: yazma ve konuşma dâhil Kırgızca görevler. Görevler learn.kg tarafından kurs materyallerinden hazırlanmıştır. Resmî Kırgızca dil sınavının görevleri değildir ve onlarla bağlantılı değildir.",
+            "Bugün hemen başlayabilirsiniz, hesap gerekmez: ((ücretsiz düzey testi|/test/tr)) beş dakikada nerede olduğunuzu gösterir, ((learn.kg A1 deneme testi|/probny-test-a1/tr)) kurs kalıplarından süreli alıştırma görevleri verir, ((konuşma kılavuzu|/razgovornik/tr#salam)) göç idaresi ve komşular için ilk ifadeleri verir, ((demo ders|/demo/tr)) derslerin nasıl işlediğini gösterir. Sonrası başvuru tarihinize kadar haftalık plan ve yazma ile konuşmanın öğretmenle çalışılması."
+          ]
+        },
+        {
+          "h": "Adım adım: yasadan sınava",
+          "p": [
+            "Birincisi, bölge göç idaresine ikamet gerekçeniz için hangi dil belgesinin istendiğini sorun — Komisyonun sözleriyle yönetmelik metni arasındaki boşluğu bu kapatır. İkincisi, düzeyinizi ücretsiz testle ölçün ve başvuruya kalan haftaları sayın. Üçüncüsü, her gün çalışın ve sınav tarihini erken alın: tarihler ve kayıt resmî sınav sitesinde: kyrgyztest.gov.kg; yazma ve konuşmayı canlı prova etmek gerekir.",
+            "Dördüncüsü, sınavın ve sonuçlarının kurallarını yalnızca resmî siteden kontrol edin: kurallar değişir, ikinci elden aktarımlar çabuk eskir. Beşincisi, oturma izni için öğrenilen dil sonraki her adımda işe yarar; learn.kg'deki A2 ve B1 kursları ilerlemek isterseniz aynı yolu sürdürüyor."
+          ]
+        }
+      ]
+    }
+  }
+}

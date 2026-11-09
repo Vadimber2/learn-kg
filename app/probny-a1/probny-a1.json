@@ -1,0 +1,510 @@
+{
+ "updated": "2026-10-30",
+ "answersVerifiedByTeacher": false,
+ "level": "A1",
+ "questions": [
+  {
+   "id": "m1_19",
+   "mod": "m1",
+   "sub": "lexgram",
+   "ky": "Мен Бишкекте ____.",
+   "options": [
+    "жашайм",
+    "жашайсыз",
+    "жашайт",
+    "жашайбыз"
+   ],
+   "correct": 0,
+   "note": "Я живу в Бишкеке. (шаблон «Мен …де жашайм»)",
+   "noteEn": "I live in Bishkek (template)",
+   "noteTr": "Ben Bişkek'te yaşıyorum. (“Мен …де жашайм” kalıbı)"
+  },
+  {
+   "id": "m1_23",
+   "mod": "m1",
+   "sub": "lexgram",
+   "ky": "Мен дарыгер болуп ____.",
+   "options": [
+    "иштейсиз",
+    "иштейм",
+    "иштейт",
+    "иштейбиз"
+   ],
+   "correct": 1,
+   "note": "Я работаю врачом. (шаблон «… болуп иштейм»)",
+   "noteEn": "I work as a doctor (template)",
+   "noteTr": "Doktor olarak çalışıyorum. (“… болуп иштейм” kalıbı)"
+  },
+  {
+   "id": "m1_25",
+   "mod": "m1",
+   "sub": "lexgram",
+   "ky": "Мен Кыргызстандан ____.",
+   "options": [
+    "келдиңиз",
+    "келди",
+    "келдим",
+    "келдик"
+   ],
+   "correct": 2,
+   "note": "Я приехал(а) из Кыргызстана.",
+   "noteEn": "I came from Kyrgyzstan.",
+   "noteTr": "Kırgızistan'dan geldim."
+  },
+  {
+   "id": "m1_28",
+   "mod": "m1",
+   "sub": "lexgram",
+   "ky": "Мен ____ эмесмин.",
+   "options": [
+    "мугалиммин",
+    "мугалимдин",
+    "мугалимби",
+    "мугалим"
+   ],
+   "correct": 3,
+   "note": "Я не учитель. (отрицание «эмес» + личный аффикс)",
+   "noteEn": "I am not a teacher (“эмес” + personal affix)",
+   "noteTr": "Ben öğretmen değilim. (“эмес” olumsuzluğu + kişi eki)"
+  },
+  {
+   "id": "m1_29",
+   "mod": "m1",
+   "sub": "lexgram",
+   "ky": "Бул ____ досум Айбек.",
+   "options": [
+    "менин",
+    "сенин",
+    "сиздин",
+    "биздин"
+   ],
+   "correct": 0,
+   "note": "Это мой друг Айбек. (представить другого)",
+   "noteEn": "This is my friend Aibek.",
+   "noteTr": "Bu benim arkadaşım Aybek. (birini tanıtmak)"
+  },
+  {
+   "id": "m2_52",
+   "mod": "m2",
+   "sub": "lexgram",
+   "ky": "Атаңыз ким болуп ____?",
+   "options": [
+    "иштейсиз",
+    "иштейт",
+    "иштейм",
+    "иштейбиз"
+   ],
+   "correct": 1,
+   "note": "Кем работает Ваш отец?",
+   "noteEn": "What does your father do?",
+   "noteTr": "Babanız ne iş yapıyor?"
+  },
+  {
+   "id": "m2_56",
+   "mod": "m2",
+   "sub": "lexgram",
+   "ky": "Бул ____ үйү?",
+   "options": [
+    "кимде",
+    "кимден",
+    "кимдин",
+    "кимди"
+   ],
+   "correct": 2,
+   "note": "Чей это дом? (илик падеж)",
+   "noteEn": "Whose house is this?",
+   "noteTr": "Bu kimin evi? (ilik/genitif hâli)"
+  },
+  {
+   "id": "m2_59",
+   "mod": "m2",
+   "sub": "lexgram",
+   "ky": "Менин эки ____ бар.",
+   "options": [
+    "балдарым",
+    "баласы",
+    "балалар",
+    "балам"
+   ],
+   "correct": 3,
+   "note": "У меня двое детей. (после числительного — ед. число!)",
+   "noteEn": "I have two children (singular after a numeral!)",
+   "noteTr": "Benim iki çocuğum var. (sayıdan sonra tekil!)"
+  },
+  {
+   "id": "m3_111",
+   "mod": "m3",
+   "sub": "lexgram",
+   "ky": "Кайсы ____ окуйсуз?",
+   "options": [
+    "мектепте",
+    "мектеп",
+    "мектепке",
+    "мектептер"
+   ],
+   "correct": 0,
+   "note": "В какой школе Вы учитесь?",
+   "noteEn": "Which school do you study at?",
+   "noteTr": "Hangi okulda okuyorsunuz?"
+  },
+  {
+   "id": "m3_122",
+   "mod": "m3",
+   "sub": "lexgram",
+   "ky": "Мен эртең менен ____ барам.",
+   "options": [
+    "жумушта",
+    "жумушка",
+    "жумуштан",
+    "жумуш"
+   ],
+   "correct": 1,
+   "note": "Утром я иду на работу. (барыш падеж)",
+   "noteEn": "In the morning I go to work.",
+   "noteTr": "Sabahleyin işe gidiyorum. (yönelme hâli)"
+  },
+  {
+   "id": "m3_124",
+   "mod": "m3",
+   "sub": "lexgram",
+   "ky": "Биз сабакка бара ____.",
+   "options": [
+    "жатам",
+    "жатат",
+    "жатабыз",
+    "жатасыз"
+   ],
+   "correct": 2,
+   "note": "Мы идём на урок (сейчас).",
+   "noteEn": "We are going to the lesson (now).",
+   "noteTr": "Biz derse gidiyoruz (şu anda)."
+  },
+  {
+   "id": "m4_89",
+   "mod": "m4",
+   "sub": "lexgram",
+   "ky": "Батириңизде канча ____ бар?",
+   "options": [
+    "бөлмөлөр",
+    "бөлмөсү",
+    "бөлмөлар",
+    "бөлмө"
+   ],
+   "correct": 3,
+   "note": "Сколько комнат в Вашей квартире?",
+   "noteEn": "How many rooms are in your flat?",
+   "noteTr": "Dairenizde kaç oda var?"
+  },
+  {
+   "id": "m4_91",
+   "mod": "m4",
+   "sub": "lexgram",
+   "ky": "Сиз шаарда же айылда ____?",
+   "options": [
+    "жашайсызбы",
+    "жашайт",
+    "жашайбы",
+    "жашаймынбы"
+   ],
+   "correct": 0,
+   "note": "Вы живёте в городе или в селе?",
+   "noteEn": "Do you live in a city or in a village?",
+   "noteTr": "Şehirde mi köyde mi yaşıyorsunuz?"
+  },
+  {
+   "id": "m5_92",
+   "mod": "m5",
+   "sub": "lexgram",
+   "ky": "Мен саат жетиде ____.",
+   "options": [
+    "турат",
+    "турам",
+    "турасың",
+    "турабыз"
+   ],
+   "correct": 1,
+   "note": "Я встаю в семь часов.",
+   "noteEn": "I get up at seven.",
+   "noteTr": "Ben saat yedide kalkıyorum."
+  },
+  {
+   "id": "m6_79",
+   "mod": "m6",
+   "sub": "lexgram",
+   "ky": "Базарга кайсы автобус ____?",
+   "options": [
+    "барам",
+    "барабыз",
+    "барат",
+    "барасың"
+   ],
+   "correct": 2,
+   "note": "Какой автобус идёт на базар?",
+   "noteEn": "Which bus goes to the market?",
+   "noteTr": "Pazara hangi otobüs gidiyor?"
+  },
+  {
+   "id": "m6_86",
+   "mod": "m6",
+   "sub": "lexgram",
+   "ky": "Мен автобус ____ барам.",
+   "options": [
+    "менин",
+    "менде",
+    "менден",
+    "менен"
+   ],
+   "correct": 3,
+   "note": "Я поеду на автобусе.",
+   "noteEn": "I go by bus.",
+   "noteTr": "Ben otobüsle gideceğim."
+  },
+  {
+   "id": "m7_74",
+   "mod": "m7",
+   "sub": "lexgram",
+   "ky": "Мен бир бөлмө ____.",
+   "options": [
+    "брондомокчумун",
+    "брондомакчымын",
+    "брондомекчимин",
+    "брондомөкчүмүн"
+   ],
+   "correct": 0,
+   "note": "Я хочу забронировать номер.",
+   "noteEn": "I’d like to book a room.",
+   "noteTr": "Bir oda ayırtmak istiyorum."
+  },
+  {
+   "id": "m8_68",
+   "mod": "m8",
+   "sub": "lexgram",
+   "ky": "Өзүңүздү кандай сезип ____?",
+   "options": [
+    "жатам",
+    "жатасыз",
+    "жатат",
+    "жатабыз"
+   ],
+   "correct": 1,
+   "note": "Как Вы себя чувствуете?",
+   "noteEn": "How do you feel?",
+   "noteTr": "Kendinizi nasıl hissediyorsunuz?"
+  },
+  {
+   "id": "m9_61",
+   "mod": "m9",
+   "sub": "lexgram",
+   "ky": "____ Оштон чоң.",
+   "options": [
+    "Бишкекте",
+    "Бишкекке",
+    "Бишкек",
+    "Бишкекка"
+   ],
+   "correct": 2,
+   "note": "Бишкек больше Оша. (чыгыш = «чем»)",
+   "noteEn": "Bishkek is bigger than Osh.",
+   "noteTr": "Bişkek Oş'tan büyük. (çıkma hâli = “-den”)"
+  },
+  {
+   "id": "m9_76",
+   "mod": "m9",
+   "sub": "lexgram",
+   "ky": "Биз көлгө ____.",
+   "options": [
+    "бардым",
+    "бардың",
+    "барды",
+    "бардык"
+   ],
+   "correct": 3,
+   "note": "Мы ездили на озеро.",
+   "noteEn": "We went to the lake.",
+   "noteTr": "Biz göle gittik."
+  }
+ ],
+ "ui": {
+  "ru": {
+   "title": "Пробный тест по кыргызскому языку A1 · learn.kg",
+   "desc": "Пробный тест по кыргызскому языку A1 от learn.kg: 20 заданий на фразах курса, 15 минут, проверка сразу. Подготовка к тестированию для ВНЖ.",
+   "h1": "Пробный тест по кыргызскому языку A1",
+   "lead": "Тренировочный тест learn.kg уровня A1: 20 заданий с пропуском на фразах курса A1 — выберите слово, которое подходит в предложение. На всё 15 минут, проверка сразу, без регистрации.",
+   "qLabel": "Задание {n} из {t}",
+   "startBtn": "Начать тест",
+   "restart": "Пройти заново",
+   "resultTitle": "Ваш результат",
+   "ctaDemo": "Попробовать демо-урок",
+   "ctaWa": "Спросить преподавателя",
+   "ctaLogin": "Войти в тренажёр",
+   "waMsg": "Здравствуйте! Прошёл(ла) пробный тест A1 на learn.kg: {s} из {t}. Хочу подготовиться к тестированию по кыргызскому языку на уровень A1.",
+   "verdicts": [
+    {
+     "max": 9,
+     "short": "рано для A1",
+     "h": "Пока рано для уровня A1",
+     "p": "Базовые конструкции A1 — личные аффиксы, падежи места и времени — ещё не закрепились. Пройдите курс A1 с начала: 12 модулей и экзаменационная неделя в конце."
+    },
+    {
+     "max": 15,
+     "short": "основа A1 есть",
+     "h": "Основа есть — не хватает автоматизма",
+     "p": "Конструкции знакомы, но выбор пока требует времени. Курс A1 доводит их до автоматизма: интервальные повторения, мини-тест после каждого модуля и итоговая проверка в конце курса."
+    },
+    {
+     "max": 20,
+     "short": "уровень A1 близко",
+     "h": "Уровень A1 близко",
+     "p": "Грамматика A1 держится. Осталось потренировать скорость, письмо и устную речь — для них в курсе A1 есть отдельные упражнения и итоговая проверка курса."
+    }
+   ],
+   "faqTitle": "Частые вопросы",
+   "faq": [
+    {
+     "q": "Это задания официального тестирования?",
+     "a": "Нет. Задания составлены learn.kg по материалам нашего курса A1 и не связаны с заданиями государственного тестирования по кыргызскому языку. Формат, уровни и запись на тестирование — на официальном сайте, ссылка на него — под заданиями."
+    },
+    {
+     "q": "Как устроен тест learn.kg?",
+     "a": "20 заданий с пропуском: в предложении из курса A1 не хватает слова, нужно выбрать верную форму из четырёх. На всё 15 минут, варианты перемешиваются при каждом прохождении, результат — доля верных ответов, а не балл тестирования."
+    },
+    {
+     "q": "Кому нужен уровень A1?",
+     "a": "С августа 2025 года закон требует владения кыргызским для вида на жительство, и Нацкомиссия по госязыку называет уровень A1 (подробности — в статье про ВНЖ на learn.kg)."
+    },
+    {
+     "q": "Как подготовиться к государственному тестированию?",
+     "a": "Разбор подготовки по шагам — в статье ((как подготовиться к государственному тестированию|/blog/gostestirovanie-kak-podgotovitsya/ru)). Формат и правила тестирования уточняйте на официальном сайте."
+    },
+    {
+     "q": "Как готовиться к A1 в тренажёре?",
+     "a": "Курс A1 — 12 модулей с озвучкой носителя: карточки, дриллы, мини-тест после каждого модуля и экзаменационная неделя в конце — итоговая проверка курса с письмом и устной частью."
+    }
+   ],
+   "timeLeft": "Осталось: {t}",
+   "timeUp": "Время вышло.",
+   "askKy": "Туура жоопту белгилеңиз."
+  },
+  "en": {
+   "title": "Kyrgyz A1 practice test online · learn.kg",
+   "desc": "A learn.kg Kyrgyz practice test at level A1: 20 gap-fill tasks on course phrases, 15 minutes, instant scoring. Prep for the state Kyrgyz language test.",
+   "h1": "Kyrgyz A1 practice test",
+   "lead": "A learn.kg practice test at level A1: 20 gap-fill tasks built on A1 course phrases — pick the word that fits the sentence. You get 15 minutes; scored instantly, no sign-up.",
+   "qLabel": "Task {n} of {t}",
+   "startBtn": "Start the test",
+   "restart": "Take it again",
+   "resultTitle": "Your result",
+   "ctaDemo": "Try the demo lesson",
+   "ctaWa": "Ask the teacher",
+   "ctaLogin": "Log in to the trainer",
+   "waMsg": "Hello! I took the A1 practice test on learn.kg: {s} out of {t}. I would like to prepare for the state Kyrgyz language test at level A1.",
+   "verdicts": [
+    {
+     "max": 9,
+     "short": "too early for A1",
+     "h": "Too early for level A1",
+     "p": "The core A1 patterns — personal endings, place and time cases — are not automatic yet. Take the A1 course from the start: 12 modules and an exam week at the end."
+    },
+    {
+     "max": 15,
+     "short": "A1 basics in place",
+     "h": "The base is there — speed is missing",
+     "p": "You know the patterns, but choosing still takes time. The A1 course makes them automatic: spaced repetition, a mini-test after every module and a final course check at the end."
+    },
+    {
+     "max": 20,
+     "short": "A1 within reach",
+     "h": "Level A1 is within reach",
+     "p": "A1 grammar holds. What is left is speed, writing and speaking — the A1 course has separate exercises for them and a final course check."
+    }
+   ],
+   "faqTitle": "Frequently asked questions",
+   "faq": [
+    {
+     "q": "Are these tasks from the official test?",
+     "a": "No. The tasks are written by learn.kg from our A1 course materials and are not related to the tasks of the state Kyrgyz language test. Format, levels and registration — on the official testing website, linked below the tasks."
+    },
+    {
+     "q": "How does the learn.kg test work?",
+     "a": "20 gap-fill tasks: a sentence from the A1 course is missing a word, and you pick the right form out of four. You get 15 minutes, the options are shuffled on every attempt, and the result is the share of correct answers, not a test score."
+    },
+    {
+     "q": "Who needs level A1?",
+     "a": "Since August 2025 the law requires Kyrgyz for a residence permit, and the State Language Commission names A1 (details in our residence permit article on learn.kg)."
+    },
+    {
+     "q": "How do I prepare for the state test?",
+     "a": "A step-by-step guide is in ((how to prepare for the state Kyrgyz language test|/blog/gostestirovanie-kak-podgotovitsya/en)). Check the format and rules of the test on the official website."
+    },
+    {
+     "q": "How do I prepare for A1 here?",
+     "a": "The A1 course has 12 modules with native audio: flashcards, drills, a mini-test after every module and an exam week at the end — a final course check with writing and speaking."
+    }
+   ],
+   "timeLeft": "Time left: {t}",
+   "timeUp": "Time is up.",
+   "askKy": "Туура жоопту белгилеңиз."
+  },
+  "tr": {
+   "title": "Kırgızca A1 deneme sınavı · learn.kg",
+   "desc": "learn.kg'nin Kırgızca A1 deneme sınavı: kurs ifadeleri üzerine 20 boşluk doldurma görevi, 15 dakika, anında puan. Devlet dil sınavına hazırlık için.",
+   "h1": "Kırgızca A1 deneme sınavı",
+   "lead": "learn.kg'nin A1 düzeyi alıştırma testi: A1 kursu ifadeleri üzerine 20 boşluk doldurma görevi — cümleye uyan kelimeyi seçin. Süre 15 dakika; anında puan, kayıt yok.",
+   "qLabel": "Görev {n} / {t}",
+   "startBtn": "Teste başla",
+   "restart": "Yeniden çöz",
+   "resultTitle": "Sonucunuz",
+   "ctaDemo": "Demo dersi dene",
+   "ctaWa": "Öğretmene sor",
+   "ctaLogin": "Uygulamaya gir",
+   "waMsg": "Merhaba! learn.kg'de A1 deneme sınavını çözdüm: {t} üzerinden {s}. Devlet Kırgızca dil sınavına A1 düzeyinde hazırlanmak istiyorum.",
+   "verdicts": [
+    {
+     "max": 9,
+     "short": "A1 için erken",
+     "h": "A1 düzeyi için henüz erken",
+     "p": "Temel A1 yapıları — kişi ekleri, yer ve zaman durumları — henüz oturmamış. A1 kursunu baştan alın: 12 modül ve sonunda sınav haftası."
+    },
+    {
+     "max": 15,
+     "short": "A1 temeli var",
+     "h": "Temel var — otomatiklik eksik",
+     "p": "Kalıpları biliyorsunuz ama seçim hâlâ zaman alıyor. A1 kursu onları otomatik hâle getirir: aralıklı tekrar, her modülden sonra mini test ve kursun sonunda bitirme kontrolü."
+    },
+    {
+     "max": 20,
+     "short": "A1'e yakın",
+     "h": "A1 düzeyine yakınsınız",
+     "p": "A1 dil bilgisi oturmuş. Geriye hız, yazma ve konuşma kaldı — A1 kursunda bunlar için ayrı alıştırmalar ve bitirme kontrolü var."
+    }
+   ],
+   "faqTitle": "Sık sorulan sorular",
+   "faq": [
+    {
+     "q": "Bu görevler resmî sınavdan mı?",
+     "a": "Hayır. Görevler learn.kg tarafından A1 kursumuzun materyallerinden hazırlanmıştır ve devlet Kırgızca dil sınavının görevleriyle bağlantılı değildir. Biçim, seviyeler ve kayıt — resmî sınav sitesinde; bağlantısı görevlerin altında."
+    },
+    {
+     "q": "learn.kg testi nasıl işliyor?",
+     "a": "20 boşluk doldurma görevi: A1 kursundan bir cümlede bir kelime eksik, dört seçenekten doğru biçimi seçersiniz. Süre 15 dakika, seçenekler her denemede karışır, sonuç doğru cevapların oranıdır, sınav puanı değildir."
+    },
+    {
+     "q": "A1 düzeyi kime gerekli?",
+     "a": "Ağustos 2025'ten beri yasa oturma izni için Kırgızca istiyor ve Devlet Dili Komisyonu A1'i söylüyor (ayrıntılar learn.kg'deki oturma izni yazısında)."
+    },
+    {
+     "q": "Devlet sınavına nasıl hazırlanırım?",
+     "a": "Adım adım rehber ((devlet Kırgızca dil sınavına nasıl hazırlanılır|/blog/gostestirovanie-kak-podgotovitsya/tr)) yazısında. Sınavın biçimini ve kurallarını resmî sitede kontrol edin."
+    },
+    {
+     "q": "Burada A1'e nasıl hazırlanırım?",
+     "a": "A1 kursu: ana dili konuşurunun sesiyle 12 modül — kartlar, alıştırmalar, her modülden sonra mini test ve sonunda sınav haftası: yazma ve konuşma dâhil kursun bitirme kontrolü."
+    }
+   ],
+   "timeLeft": "Kalan: {t}",
+   "timeUp": "Süre doldu.",
+   "askKy": "Туура жоопту белгилеңиз."
+  }
+ },
+ "limitSec": 900
+}

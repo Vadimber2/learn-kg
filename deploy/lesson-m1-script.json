@@ -1,0 +1,526 @@
+{
+  "updated": "2026-08-20",
+  "note": "Аудиоурок модуля M1 «О себе, знакомство». Правила те же, что у урока произношения (см. pronunciation-script.json): каждый сегмент озвучивается своим запросом со своим language_code; кыргызские примеры — ДОСЛОВНО фразы словаря M1 (гейт tests/pronunciation.test.js), объяснения — только средствами языка дорожки. Каждое грамматическое утверждение подтверждено источником с дословной цитатой в refs (требование владельца 20.08.2026) и кросс-валидировано минимум двумя независимыми источниками. Аудио живёт в бакете m0 (ph_m1t*_NN) — как реплики диалогов всех модулей.",
+  "voiceRole": "female_adult",
+  "lesson": {
+    "mod": "m1",
+    "id": "self-intro",
+    "title": {
+      "ru": "Урок 2. О себе: сказать, кто вы, и спросить в ответ",
+      "en": "Lesson 2. About you: say who you are and ask back",
+      "tr": "Ders 2. Kendiniz hakkında: kim olduğunuzu söyleyin ve sorun"
+    },
+    "intro": {
+      "ru": "Шесть тем: местоимения, аффиксы сказуемости, вопрос «да/нет», отрицание «эмес», вопросы о себе и практика вслух. Объяснение на вашем языке, примеры — голосом носителя; каждая фраза — из словаря модуля.",
+      "en": "Six topics: pronouns, personal endings, yes-no questions, negation, questions about you and speaking practice. Explanations in your language, examples in a native voice; every phrase comes from this module's vocabulary.",
+      "tr": "Altı konu: zamirler, kişi ekleri, evet-hayır sorusu, olumsuzluk, kişisel sorular ve konuşma alıştırması. Açıklamalar sizin dilinizde, örnekler ana dili sesiyle; her cümle bu modülün söz varlığından."
+    }
+  },
+  "tracks": [
+    {
+      "id": "m1t1",
+      "title": {
+        "ru": "Местоимения: мен, сен, сиз…",
+        "en": "Pronouns: мен, сен, сиз…",
+        "tr": "Zamirler: мен, сен, сиз…"
+      },
+      "segments": [
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Второй урок — о себе: как сказать, кто вы, и спросить в ответ. Начнём с местоимений — их восемь. Одно «я», два «ты»: простое для друзей и вежливое для старших и незнакомых — как русские «ты» и «вы». Он, она и оно — одно общее слово. Слушайте: я, ты, Вы, он.",
+            "en": "This lesson is about you: saying who you are and asking back. Kyrgyz has eight personal pronouns. There is one word for I and two words for you: a casual one for friends and a polite one for elders and strangers. And one single word covers he, she and it. Listen: I, you, you polite, he or she.",
+            "tr": "Bu ders kendinizle ilgili: kim olduğunuzu söylemek ve karşınızdakine sormak. Kırgızcada sekiz kişi zamiri var ve düzen Türkçedekine çok yakın: sen ile siz ayrımı birebir aynı. O, hem erkek hem kadın için tek sözcük. Dinleyin: ben, sen, siz, o."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Мен. Сен. Сиз. Ал.",
+          "gloss": {
+            "ru": "я · ты · Вы · он/она",
+            "en": "I · you · you (polite) · he/she",
+            "tr": "ben · sen · siz · o"
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Теперь множественное число: «мы», два «вы» — простое и вежливое — и «они». Вежливые формы выросли из вежливого «Вы»: исторически оно и было множественным числом.",
+            "en": "Now the plurals: we, the two plural yous — casual and polite — and they. The polite forms grow from the polite singular, which historically was a plural itself.",
+            "tr": "Şimdi çoğullar: biz, iki türlü siz — samimi ve kibar — ve onlar. Kibar biçimler tekil kibar zamirden türer; o da tarihte zaten çoğuldu."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Биз. Силер. Сиздер. Алар.",
+          "gloss": {
+            "ru": "мы · вы (неформально) · Вы (вежливо) · они",
+            "en": "we · you (informal) · you (polite) · they",
+            "tr": "biz · siz (samimi) · siz (kibar) · onlar"
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Местоимение в живой фразе — представим друга.",
+            "en": "A pronoun inside a real phrase — introducing a friend.",
+            "tr": "Zamir gerçek bir cümlede — bir arkadaşı tanıtalım."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Бул менин досум Айбек.",
+          "gloss": {
+            "ru": "Это мой друг Айбек.",
+            "en": "This is my friend Aibek.",
+            "tr": "Bu benim arkadaşım Aybek."
+          },
+          "gap": true
+        }
+      ],
+      "refs": [
+        {
+          "claim": "У кыргызского восемь личных местоимений; у «ты» две формы — простая сен и вежливая сиз, каждая со своим множественным (силер/сиздер)",
+          "src": "en.wikipedia.org/wiki/Kyrgyz_language, раздел Pronouns + таблица Personal pronouns (проверено 20.08.2026)",
+          "quote": "Kyrgyz has eight personal pronouns:"
+        },
+        {
+          "claim": "Вежливое сиз исторически — форма множественного числа",
+          "src": "en.wikipedia.org/wiki/Kyrgyz_language, раздел Pronouns (проверено 20.08.2026)",
+          "quote": "Singular pronouns (with the exception of сиз, which used to be plural) exhibit irregularities, while plural pronouns don't."
+        },
+        {
+          "claim": "Ал не различает род: он, она и оно — одно слово (кросс-валидация вежливости сен/сиз — там же, таблица Personal pronouns)",
+          "src": "Peace Corps Kyrgyz Language Manual (1997), ERIC ED461284, урок Introduction/Personal pronouns (кириллица восстановлена из OCR; проверено 20.08.2026)",
+          "quote": "Depending on the context, the third person pronoun \"ал\" is translated as \"She/he/it\""
+        }
+      ]
+    },
+    {
+      "id": "m1t2",
+      "title": {
+        "ru": "«Я — врач»: аффиксы сказуемости",
+        "en": "Saying “I am…”: personal endings",
+        "tr": "«Ben doktorum»: kişi ekleri"
+      },
+      "segments": [
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Главная грамматика урока. По-русски мы говорим «я врач» — без глагола «быть». По-кыргызски то же самое делает окончание, которое приклеивается прямо к слову: у каждого лица оно своё, а гласный в нём подбирает гармония — вариантов четыре. Слушайте: я врач, ты студент.",
+            "en": "The key grammar of this lesson. Kyrgyz has no verb for am, is or are in the present: a personal ending attaches straight to the noun instead. Each person has its own ending, and vowel harmony picks its vowel out of four variants. Listen: I am a doctor, you are a student.",
+            "tr": "Dersin ana konusu size çok tanıdık: Türkçedeki gibi ad soylu yükleme kişi eki gelir. «Ben doktorum» dersiniz; Kırgızca da tıpkı böyle çalışır ve ekin ünlüsünü ünlü uyumu seçer — dört çeşidi var. Dinleyin: ben doktorum, sen öğrencisin."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Мен дарыгермин. Сен студентсиң.",
+          "gloss": {
+            "ru": "Я врач. · Ты студент.",
+            "en": "I am a doctor. · You are a student.",
+            "tr": "Ben doktorum. · Sen öğrencisin."
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Вежливое «Вы» и множественное число — у каждого своё окончание. Заметьте: множественность несёт само окончание, отдельное слово для «мы» после него не нужно.",
+            "en": "The polite you and the plurals each take their own ending. Note that the ending alone carries the plural meaning — nothing else is added.",
+            "tr": "Kibar siz ve çoğullar da kendi eklerini alır. Çoğul anlamını ekin kendisi taşır — başka bir şey eklenmez."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Сиз мугалимсиз. Биз кыргызбыз. Силер студентсиңер.",
+          "gloss": {
+            "ru": "Вы учитель. · Мы кыргызы. · Вы (мн.) студенты.",
+            "en": "You are a teacher (polite). · We are Kyrgyz. · You (pl.) are students.",
+            "tr": "Siz öğretmensiniz. · Biz Kırgız'ız. · Siz öğrencisiniz."
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "А в третьем лице окончания нет совсем: просто «он инженер» — два слова рядом.",
+            "en": "In the third person there is no ending at all: the pronoun and the noun simply stand side by side.",
+            "tr": "Üçüncü kişide ek yok: «o mühendis» — iki sözcük yan yana."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Ал инженер.",
+          "gloss": {
+            "ru": "Он/она инженер.",
+            "en": "He/she is an engineer.",
+            "tr": "O mühendis."
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "И готовый утвердительный ответ на вопрос о профессии:",
+            "en": "And a ready-made yes-answer about your job:",
+            "tr": "Ve mesleğinizle ilgili hazır bir olumlu cevap:"
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Ооба, мен мугалиммин.",
+          "gloss": {
+            "ru": "Да, я учитель.",
+            "en": "Yes, I am a teacher.",
+            "tr": "Evet, ben öğretmenim."
+          },
+          "gap": true
+        }
+      ],
+      "refs": [
+        {
+          "claim": "В настоящем времени глагол-связка не нужна: именное сказуемое образует предложение без «есть»",
+          "src": "en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Simple_Sentences, раздел Equational Sentences (проверено 20.08.2026)",
+          "quote": "In Kyrgyz (as in many other languages), we don't have to use a verb. Two nouns (both in the nominative) can form a complete sentence, without any word specifically translating the English \"is.\""
+        },
+        {
+          "claim": "Личные окончания есть только у 1-го и 2-го лица; 3-е лицо — без окончания («Ал мугалим»)",
+          "src": "en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Simple_Sentences (проверено 20.08.2026); кросс-валидация: en.wikipedia.org/wiki/Kyrgyz_language, таблица Morphemes indicating person — копула 3 л. ед. ч. помечена прочерком",
+          "quote": "However, Kyrgyz also uses a number of personal endings to reinforce the relationship of the second noun to the first. These endings appear in the first and second person."
+        },
+        {
+          "claim": "Образец 1-го лица: мугалим + -мин = «я учитель»; у каждого окончания четыре гласных варианта по гармонии (мен → -мын/-мин/-мун/-мүн)",
+          "src": "en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Simple_Sentences (проверено 20.08.2026); четыре варианта — Peace Corps Kyrgyz Language Manual (ERIC ED461284), таблица Personal pronouns/Endings",
+          "quote": "Мен мугалиммин: “I am a teacher.”"
+        },
+        {
+          "claim": "Множественность выражает само личное окончание — аффикс множественного числа не нужен",
+          "src": "en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Simple_Sentences (проверено 20.08.2026)",
+          "quote": "The plural sense is carried by the personal ending alone, so the suffix д←р is unnecessary."
+        }
+      ]
+    },
+    {
+      "id": "m1t3",
+      "title": {
+        "ru": "Вопрос «да/нет»: частица -бы/-би",
+        "en": "Yes-no questions: the -бы particle",
+        "tr": "Evet-hayır sorusu: -бы eki"
+      },
+      "segments": [
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Чтобы задать вопрос «да или нет», порядок слов не меняют — к сказуемому просто добавляют вопросительную частицу. Гласный в ней подбирает гармония, как у личных окончаний: вариантов четыре. Слушайте два вопроса.",
+            "en": "To ask a yes-or-no question you keep the word order and simply add a question particle to the predicate. Vowel harmony picks its vowel, just as with the personal endings: there are four variants. Listen to two questions.",
+            "tr": "Evet-hayır sorusu, Türkçedeki «mi» sorusunun yakın akrabası: söz dizilişi değişmez, yükleme bir soru eki eklenir. Ekin ünlüsünü, kişi eklerindeki gibi, ünlü uyumu seçer: dört çeşidi var. İki soruyu dinleyin."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Сиз дарыгерсизби? Ал мугалимби?",
+          "gloss": {
+            "ru": "Вы врач? · Он учитель?",
+            "en": "Are you a doctor? · Is he a teacher?",
+            "tr": "Siz doktor musunuz? · O öğretmen mi?"
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "После глухого согласного частица оглушается: «б» превращается в «п». Слушайте три вопроса из одного слова.",
+            "en": "After a voiceless consonant the particle devoices: its b turns into p. Listen to three one-word questions.",
+            "tr": "Tonsuz ünsüzden sonra ekin b'si p olur. Üç tek kelimelik soruyu dinleyin."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Кыргызбы? Оруспу? Студентпи?",
+          "gloss": {
+            "ru": "кыргыз? · русский? · студент?",
+            "en": "Kyrgyz? · Russian? · a student?",
+            "tr": "Kırgız mı? · Rus mu? · öğrenci mi?"
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Отвечают коротко: «да» или «нет» — а дальше повторяют сказуемое с нужным окончанием.",
+            "en": "Answers are short: yes or no, and then the predicate again with its ending.",
+            "tr": "Cevap kısa: evet ya da hayır, sonra yüklem kendi ekiyle tekrarlanır."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Жок, мен окуучумун.",
+          "gloss": {
+            "ru": "Нет, я ученик.",
+            "en": "No, I am a pupil.",
+            "tr": "Hayır, ben öğrenciyim."
+          },
+          "gap": true
+        }
+      ],
+      "refs": [
+        {
+          "claim": "Порядок слов в вопросе тот же, что в утверждении; вопрос без вопросительного слова образует частица -бы/-би/-бу/-бү, после глухих к, п, с, т, ш, ч — -пы/-пи/-пу/-пү",
+          "src": "Peace Corps Kyrgyz Language Manual (1997), ERIC ED461284, раздел Interrogative particle (кириллица частиц восстановлена из OCR; проверено 20.08.2026)",
+          "quote": "Kyrgyz use the same sentence structure for statements and questions."
+        },
+        {
+          "claim": "Оглушение «б» → «п» после глухого согласного — тот же механизм, что у личного окончания -быз (конокпуз)",
+          "src": "en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Simple_Sentences (проверено 20.08.2026; опечатка «is» вместо «its» — в оригинале)",
+          "quote": "The only personal ending that changes its first letter is б→з. If it is added to a noun that ends in a voiceless consonant, the б becomes is voiceless counterpart п."
+        },
+        {
+          "claim": "Формы кыргызбы, оруспу, студентпи — правильные ответы дриллов курса",
+          "src": "эмпирика курса learn.kg: DRILL_M1 (группа suroo, вычитано носителем) — «а/ы в слове → -бы», «у + глухой с → -пу: оруспу», «после глухого т → -пи: студентпи»"
+        }
+      ]
+    },
+    {
+      "id": "m1t4",
+      "title": {
+        "ru": "Отрицание: эмес",
+        "en": "Negation: эмес",
+        "tr": "Olumsuzluk: эмес"
+      },
+      "segments": [
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "«Не врач», «не студент» — при имени отрицание выражается отдельным словом. Оно ставится после сказуемого, и личное окончание переезжает на него.",
+            "en": "To say not a doctor or not a student, Kyrgyz uses a separate negation word. It follows the predicate noun, and the personal ending moves onto it.",
+            "tr": "Ad cümlesinin olumsuzu ayrı bir sözcükle yapılır — tıpkı Türkçedeki «değil» gibi: yüklemden sonra gelir ve kişi ekini o alır."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Эмес. Мен мугалим эмесмин.",
+          "gloss": {
+            "ru": "не (при имени) · Я не учитель.",
+            "en": "not (noun negation) · I am not a teacher.",
+            "tr": "değil · Ben öğretmen değilim."
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "В третьем лице — как всегда — окончания нет: отрицательное слово стоит в чистом виде.",
+            "en": "In the third person — as always — there is no ending: the bare negation word.",
+            "tr": "Üçüncü kişide — her zamanki gibi — ek yok: yalın olumsuzluk sözcüğü."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Ал мугалим эмес.",
+          "gloss": {
+            "ru": "Он не учитель.",
+            "en": "(S)he is not a teacher.",
+            "tr": "O öğretmen değil."
+          },
+          "gap": true
+        }
+      ],
+      "refs": [
+        {
+          "claim": "Именное предложение отрицается словом эмес, которое стоит после именного сказуемого",
+          "src": "en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Simple_Sentences, раздел Negation of Equational Sentences (проверено 20.08.2026)",
+          "quote": "These sentences are negated with the particle эмес, which follows the predicate noun. (that is, the second noun in the sentence.)"
+        },
+        {
+          "claim": "Личное окончание при отрицании принимает само эмес (эмесмин)",
+          "src": "en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Simple_Sentences (проверено 20.08.2026)",
+          "quote": "In these cases, the negative particle takes the personal ending."
+        },
+        {
+          "claim": "Пример «Ал мугалим эмес» — дословно из источника (в словаре M1 этой фразы нет, есть «Мен мугалим эмесмин»)",
+          "src": "en.wikibooks.org/wiki/A_Handbook_of_Kyrgyz_Grammar/Simple_Sentences (проверено 20.08.2026)",
+          "quote": "Ал мугалим эмес: “(S)he is not a teacher.”"
+        }
+      ]
+    },
+    {
+      "id": "m1t5",
+      "title": {
+        "ru": "Вопросы о себе и шаблоны ответов",
+        "en": "Questions about you and answer templates",
+        "tr": "Kişisel sorular ve cevap kalıpları"
+      },
+      "segments": [
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Теперь соберём разговор знакомства: вопросы, которые вам зададут, и шаблоны ответов. Слушайте пару «вопрос — ответ» и мысленно подставляйте своё: имя, возраст, город, профессию.",
+            "en": "Now the real conversation: the questions people will ask you, with answer templates. Listen to each question-and-answer pair and mentally slot in your own name, age, city and job.",
+            "tr": "Şimdi gerçek tanışma konuşması: size sorulacak sorular ve cevap kalıpları. Her soru-cevap çiftini dinleyin ve kendi adınızı, yaşınızı, şehrinizi, mesleğinizi yerine koyun."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Сиздин атыңыз ким?",
+          "gloss": {
+            "ru": "Как Ваше имя?",
+            "en": "What is your name? (polite)",
+            "tr": "Sizin adınız ne?"
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Канча жаштасыз? Мен жыйырма беш жаштамын.",
+          "gloss": {
+            "ru": "Сколько Вам лет? · Мне двадцать пять лет.",
+            "en": "How old are you? · I am twenty-five years old.",
+            "tr": "Kaç yaşındasınız? · Ben yirmi beş yaşındayım."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Кайда жашайсыз? Мен Бишкекте жашайм.",
+          "gloss": {
+            "ru": "Где Вы живёте? · Я живу в Бишкеке.",
+            "en": "Where do you live? · I live in Bishkek.",
+            "tr": "Nerede yaşıyorsunuz? · Ben Bişkek'te yaşıyorum."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Кайдансыз? Мен Кыргызстандан келдим.",
+          "gloss": {
+            "ru": "Откуда Вы? · Я приехал(а) из Кыргызстана.",
+            "en": "Where are you from? · I came from Kyrgyzstan.",
+            "tr": "Nerelisiniz? · Kırgızistan'dan geldim."
+          }
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "И профессия — вопрос и ответ с глаголом «работаю».",
+            "en": "And the job — the question, and the answer with the verb for work.",
+            "tr": "Ve meslek — soru ve «çalışıyorum» fiiliyle cevap."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Кесибиңиз ким? Мен дарыгер болуп иштейм.",
+          "gloss": {
+            "ru": "Кто Вы по профессии? · Я работаю врачом.",
+            "en": "What is your profession? · I work as a doctor.",
+            "tr": "Mesleğiniz nedir? · Doktor olarak çalışıyorum."
+          },
+          "gap": true
+        }
+      ],
+      "refs": [
+        {
+          "claim": "Все вопросы и ответы темы — дословно фразы словаря M1, вычитанного носителем (m1_105, m1_08, m1_18, m1_11, m1_19, m1_114, m1_25, m1_13, m1_23)",
+          "src": "эмпирика курса learn.kg: VOCAB_M1 (вычитан носителем); дословность стережёт tests/pronunciation.test.js"
+        },
+        {
+          "claim": "Пары «вопрос — шаблон ответа» — методика курса: ученик подставляет своё в готовый каркас (шаблоны «Мен … жаштамын», «Мен …де жашайм» помечены в словаре как шаблоны)",
+          "src": "эмпирика курса learn.kg: пометки «(шаблон …)» в VOCAB_M1 (m1_18, m1_19, m1_23)"
+        }
+      ]
+    },
+    {
+      "id": "m1t6",
+      "title": {
+        "ru": "Практика: представьтесь вслух",
+        "en": "Practice: introduce yourself aloud",
+        "tr": "Alıştırma: kendinizi sesli tanıtın"
+      },
+      "segments": [
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Финал — практика. После каждой фразы будет пауза: повторяйте вслух. Поздороваемся, представимся и закончим фразами-помощниками.",
+            "en": "Time to practise. After each phrase there is a pause: repeat it aloud. We greet, introduce ourselves, and finish with rescue phrases.",
+            "tr": "Alıştırma zamanı. Her cümleden sonra bir duraklama olacak: yüksek sesle tekrarlayın. Selamlayalım, kendimizi tanıtalım ve kurtarıcı cümlelerle bitirelim."
+          }
+        },
+        {
+          "kind": "example",
+          "ky": "Ассалому алейкум!",
+          "gloss": {
+            "ru": "Здравствуйте! (традиционное приветствие)",
+            "en": "Hello! (traditional greeting)",
+            "tr": "Esselamü aleyküm!"
+          },
+          "speed": 0.7,
+          "repeat": true
+        },
+        {
+          "kind": "example",
+          "ky": "Мен студентмин.",
+          "gloss": {
+            "ru": "Я студент(ка).",
+            "en": "I am a student.",
+            "tr": "Ben öğrenciyim."
+          },
+          "speed": 0.7,
+          "repeat": true
+        },
+        {
+          "kind": "example",
+          "ky": "Мен Бишкекте жашайм.",
+          "gloss": {
+            "ru": "Я живу в Бишкеке.",
+            "en": "I live in Bishkek.",
+            "tr": "Ben Bişkek'te yaşıyorum."
+          },
+          "speed": 0.7,
+          "repeat": true
+        },
+        {
+          "kind": "example",
+          "ky": "Тааныш болдук!",
+          "gloss": {
+            "ru": "Приятно познакомиться!",
+            "en": "Nice to meet you!",
+            "tr": "Tanıştığımıza memnun oldum!"
+          },
+          "speed": 0.7,
+          "repeat": true
+        },
+        {
+          "kind": "example",
+          "ky": "Жайыраак сүйлөңүзчү.",
+          "gloss": {
+            "ru": "Говорите помедленнее, пожалуйста.",
+            "en": "Please speak more slowly.",
+            "tr": "Biraz daha yavaş konuşur musunuz."
+          },
+          "speed": 0.7,
+          "repeat": true
+        },
+        {
+          "kind": "example",
+          "ky": "Бул кыргызча кандай болот?",
+          "gloss": {
+            "ru": "Как это будет по-кыргызски?",
+            "en": "How do you say this in Kyrgyz?",
+            "tr": "Bunun Kırgızcası nedir?"
+          },
+          "speed": 0.7,
+          "repeat": true
+        },
+        {
+          "kind": "explain",
+          "text": {
+            "ru": "Готово! Эти фразы ждут вас в карточках и дриллах модуля — там они станут вашими.",
+            "en": "Done! These phrases are waiting in the module's cards and drills — that is where they become yours.",
+            "tr": "Bitti! Bu cümleler modülün kartlarında ve alıştırmalarında sizi bekliyor — orada sizin olacaklar."
+          },
+          "gap": true
+        }
+      ],
+      "refs": [
+        {
+          "claim": "Повтор вслух после прослушивания (запись-пауза-повтор) — та же механика elicited imitation, на которой построен раздел аудирования курса",
+          "src": "эмпирика курса learn.kg: маркер ===STT=== в 15-boot.js с источниками методики; фразы практики — дословно VOCAB_M1 (m1_97, m1_27, m1_19, m1_104, m1_145, m1_146)"
+        },
+        {
+          "claim": "Каждая фраза практики — отдельный сегмент с паузой на повтор; темп замедлен",
+          "src": "эмпирика курса learn.kg: правила аудиоуроков (repeat-сегменты, урок произношения p8); гейт паузы 1,2–4 с — tests/lessons.test.js"
+        }
+      ]
+    }
+  ]
+}

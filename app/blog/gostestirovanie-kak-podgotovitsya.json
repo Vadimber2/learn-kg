@@ -1,0 +1,513 @@
+{
+  "slug": "gostestirovanie-kak-podgotovitsya",
+  "published": "2026-08-07",
+  "updated": "2026-10-30",
+  "section": "exam",
+  "figs": {
+    "0": "exam",
+    "5": "quiz"
+  },
+  "related": [
+    "kyrgyzskiy-dlya-gossluzhashchih",
+    "kyrgyzskiy-dlya-vnzh",
+    "skolko-vremeni-uchit-kyrgyzskiy"
+  ],
+  "langs": {
+    "ru": {
+      "title": "Как подготовиться к тестированию по кыргызскому языку",
+      "desc": "Как готовиться к государственному тестированию по кыргызскому языку: кому нужен уровень по закону, что значат A1–B2 и план подготовки на learn.kg.",
+      "lead": "Документ о владении кыргызским языком нужен всё большему числу людей — на госслужбе, в школах и больницах, при оформлении вида на жительство и гражданства. Разбираем, кому и к какому сроку нужен уровень по закону, что значат A1, B1 и B2 и как выстроить подготовку: курс, карточки, интервальные повторения и пробные тесты learn.kg.",
+      "blocks": [
+        {
+          "h": "Что такое государственное тестирование",
+          "p": [
+            "Государственное тестирование по кыргызскому языку подтверждает уровень владения государственным языком. Документ о нём требуют всё чаще: на государственной и муниципальной службе, от педагогов и медиков, при оформлении вида на жительство и гражданства. Уровни принято описывать по общеевропейской шкале CEFR — A1, A2, B1, B2 и выше.",
+            "Формат, уровни и запись на тестирование — на официальном сайте: kyrgyztest.gov.kg. Мы их не пересказываем: правила меняются, и сверяться стоит только с первоисточником. learn.kg к проведению тестирования и выдаче документов отношения не имеет — мы помогаем выучить язык."
+          ]
+        },
+        {
+          "h": "Кому и к какому сроку нужен уровень по закону",
+          "p": [
+            "По конституционному закону о государственном языке и утверждённому кабмином графику государственные и муниципальные служащие должны владеть кыргызским на уровне не ниже B1 с 2025 года, а к 2027 году — не ниже B2. Для педагогов, научных сотрудников и медиков планка B1 наступает с 2026 года, B2 — к 2028-му. Подробно — в ((гиде для госслужащих и педагогов|/blog/kyrgyzskiy-dlya-gossluzhashchih/ru)).",
+            "С августа 2025 года незнание кыргызского — основание отказать в виде на жительство; уровень закон не называет, а Нацкомиссия по госязыку говорит об A1 — разбор в ((статье про ВНЖ|/blog/kyrgyzskiy-dlya-vnzh/ru)). Для гражданства по-прежнему подходит государственный или официальный язык."
+          ],
+          "t": {
+            "head": [
+              "Кому",
+              "Уровень",
+              "С какого срока"
+            ],
+            "rows": [
+              [
+                "Государственные и муниципальные служащие",
+                "не ниже B1",
+                "с 2025 года"
+              ],
+              [
+                "Государственные и муниципальные служащие",
+                "не ниже B2",
+                "к 2027 году"
+              ],
+              [
+                "Педагоги, научные сотрудники, медики",
+                "не ниже B1",
+                "с 2026 года"
+              ],
+              [
+                "Педагоги, научные сотрудники, медики",
+                "не ниже B2",
+                "к 2028 году"
+              ],
+              [
+                "Вид на жительство",
+                "кыргызский; ориентир Нацкомиссии — A1",
+                "с августа 2025 года"
+              ],
+              [
+                "Гражданство",
+                "государственный или официальный язык",
+                "при подаче документов"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "Что значат уровни A1, B1 и B2",
+          "p": [
+            "По дескрипторам CEFR уровень A1 — это способность понимать и использовать знакомые повседневные выражения и базовые фразы: представиться, рассказать о себе и семье, задать простые вопросы о месте и времени, понять медленную и чёткую речь.",
+            "B1 — понимать основное в речи на знакомые темы, объясняться в типичных ситуациях, описывать события и коротко обосновывать мнение. B2 — свободно обсуждать и сложные, в том числе профессиональные темы. Уровень — это не «знать грамматику», а уметь совершать конкретные речевые действия, поэтому живые фразы с озвучкой работают лучше заучивания правил."
+          ]
+        },
+        {
+          "h": "Сколько времени закладывать",
+          "p": [
+            "Международные ориентиры по шкале CEFR — около 90–100 учебных часов до A1 и 350–400 часов до B1. Путь идёт лестницей: B1 строится поверх A1 и A2, поэтому начинать за месяц до срока поздно, а за год — реалистично. Подробный расчёт — в статье ((сколько времени учить кыргызский|/blog/skolko-vremeni-uchit-kyrgyzskiy/ru)).",
+            "При 15–20 минутах в день выходит 8–10 часов в месяц. Занятия с преподавателем добавляют темп, а короткая ежедневная практика держит словарь — лучше всего работает сочетание."
+          ]
+        },
+        {
+          "h": "Наша методика подготовки",
+          "p": [
+            "Курс learn.kg построен на живых фразах с озвучкой носителя языка: каждое слово и выражение звучит, а ученик повторяет вслух. Модули идут по темам повседневной жизни — знакомство, семья, работа, город, время — и по уровням шкалы CEFR.",
+            "Карточки возвращаются по интервальным повторениям: тренажёр сам решает, что повторить сегодня, чтобы фраза не забылась, — это один из самых надёжно подтверждённых приёмов запоминания. Дриллы отрабатывают грамматику на фразах курса, а мини-тест в конце модуля требует 16 правильных ответов из 20: попытка вспомнить сама по себе укрепляет память.",
+            "Рабочая схема: 15–20 минут в день на карточки и дриллы, мини-тест в конце каждой недели, раз в пару недель — повторение пройденных модулей. Слабые места тренажёр показывает сам — их и разбирайте с преподавателем."
+          ]
+        },
+        {
+          "h": "Пробные тесты learn.kg",
+          "p": [
+            "Проверить себя на время помогают тренировочные тесты: ((пробный тест learn.kg A1|/probny-test-a1/ru)), ((пробный тест B1|/probny-test-b1/ru)) и ((пробный тест B2|/probny-test-b2/ru)). Они открыты без регистрации, собраны из фраз курса и проверяются сразу — видно, какие темы уже держатся, а какие пора повторить.",
+            "Задания составлены learn.kg по материалам курса. Они не являются заданиями официального тестирования по кыргызскому языку и не связаны с ними. Результат пробного теста — оценка вашего прогресса в курсе, а не прогноз результата тестирования."
+          ]
+        },
+        {
+          "h": "Письмо и говорение — вживую",
+          "p": [
+            "Письменную и устную речь в одиночку до конца не отрепетировать: нужен человек, который прочитает ваш текст и выслушает ответ. Начинайте с коротких рассказов о себе, семье, работе и городе, а числа, даты и время тренируйте отдельно — на них чаще всего спотыкаются.",
+            "Преподаватель курса Алтынай разбирает письменные ответы и устную речь, поправляет произношение звуков ң, ө, ү и помогает выстроить план до вашего срока. В тренажёре есть и аудирование «слушай-повтори» с распознаванием речи — говорить вслух можно с первого дня."
+          ]
+        },
+        {
+          "h": "Типичные ошибки подготовки",
+          "p": [
+            "Первая — готовиться рывками: язык не собирается за две недели зубрёжки, а вот за несколько месяцев коротких ежедневных занятий — вполне. Вторая — готовиться молча: понимать на слух и говорить нужно учиться с первого дня, слушая и повторяя вслух.",
+            "Третья — учить «про язык» вместо языка: списки правил не заменяют способность понять вопрос и ответить. И четвёртая — откладывать самопроверку на конец: мини-тесты и пробные тесты нужны по ходу курса, чтобы вовремя увидеть пробелы."
+          ]
+        },
+        {
+          "h": "С чего начать сегодня",
+          "p": [
+            "Проверить стартовый уровень можно прямо сейчас: пройдите ((бесплатный онлайн-тест уровня|/test/ru)) — результат появится сразу и подскажет, с чего начинать. А в ((демо тренажёра|/demo/ru)) открыты фразы с озвучкой, дрилл и укороченный мини-тест.",
+            "Дальше — план: посчитайте недели до вашего срока, положите на них 15–20 минут в день и напишите Алтынай — она поможет выстроить подготовку. Дату, формат и запись на тестирование уточняйте на официальном сайте: kyrgyztest.gov.kg."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "How to prepare for the state Kyrgyz language test",
+      "desc": "How to prepare for the state Kyrgyz language test: who needs a level by law, what A1–B2 mean, and a study plan with the learn.kg course and practice tests.",
+      "lead": "More and more people need a document confirming their Kyrgyz — in the civil service, in schools and hospitals, for a residence permit or citizenship. Here is who needs which level by law and by when, what A1, B1 and B2 mean, and how to build your preparation: the course, flashcards, spaced repetition and the learn.kg practice tests.",
+      "blocks": [
+        {
+          "h": "What the state language test is",
+          "p": [
+            "The state Kyrgyz language test confirms your level in the state language. The document is required more and more often: in the civil and municipal service, from teachers and medical workers, and for a residence permit or citizenship. Levels are usually described on the Common European Framework scale, CEFR — A1, A2, B1, B2 and above.",
+            "Format, levels and registration — on the official testing website: kyrgyztest.gov.kg. We do not retell them here: the rules change, and the only reliable reference is the source itself. learn.kg has nothing to do with running the test or issuing documents — we help you learn the language."
+          ]
+        },
+        {
+          "h": "Who needs which level by law, and by when",
+          "p": [
+            "Under the constitutional law on the state language and the government-approved schedule, civil and municipal servants must know Kyrgyz at B1 or higher from 2025, and at B2 by 2027. For teachers, researchers and medical workers the B1 bar arrives in 2026, B2 by 2028. Details are in our ((guide for civil servants and teachers|/blog/kyrgyzskiy-dlya-gossluzhashchih/en)).",
+            "Since August 2025, not knowing Kyrgyz is a ground to refuse a residence permit; the law names no level, while the National Commission for the State Language speaks of A1 — see our ((residence permit article|/blog/kyrgyzskiy-dlya-vnzh/en)). For citizenship, the state or the official language is still accepted."
+          ],
+          "t": {
+            "head": [
+              "Who",
+              "Level",
+              "From when"
+            ],
+            "rows": [
+              [
+                "Civil and municipal servants",
+                "B1 or higher",
+                "from 2025"
+              ],
+              [
+                "Civil and municipal servants",
+                "B2 or higher",
+                "by 2027"
+              ],
+              [
+                "Teachers, researchers, medical workers",
+                "B1 or higher",
+                "from 2026"
+              ],
+              [
+                "Teachers, researchers, medical workers",
+                "B2 or higher",
+                "by 2028"
+              ],
+              [
+                "Residence permit",
+                "Kyrgyz; the National Commission points to A1",
+                "from August 2025"
+              ],
+              [
+                "Citizenship",
+                "the state or the official language",
+                "when applying"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "What levels A1, B1 and B2 mean",
+          "p": [
+            "By the CEFR descriptors, A1 means understanding and using familiar everyday expressions and basic phrases: introducing yourself, talking about yourself and your family, asking simple questions about place and time, understanding slow and clear speech.",
+            "B1 means following the main points of speech on familiar topics, getting by in typical situations, describing events and briefly giving reasons for an opinion. B2 means discussing complex topics freely, professional ones included. A level is not about “knowing grammar” but about performing concrete speech acts — which is why live phrases with audio work better than memorising rules."
+          ]
+        },
+        {
+          "h": "How much time to plan for",
+          "p": [
+            "International CEFR benchmarks are about 90–100 guided learning hours to A1 and 350–400 hours to B1. The path is a staircase: B1 is built on top of A1 and A2, so starting a month before your deadline is too late, while a year ahead is realistic. The full calculation is in ((how long it takes to learn Kyrgyz|/blog/skolko-vremeni-uchit-kyrgyzskiy/en)).",
+            "At 15–20 minutes a day you get 8–10 hours a month. Lessons with a teacher add pace, while short daily practice keeps your vocabulary alive — the combination works best."
+          ]
+        },
+        {
+          "h": "Our preparation method",
+          "p": [
+            "The learn.kg course is built on live phrases voiced by a native speaker: every word and expression is heard, and the learner repeats it aloud. Modules follow everyday topics — introductions, family, work, the city, time — and climb the CEFR levels.",
+            "Flashcards come back on a spaced repetition schedule: the trainer decides what to review today so a phrase is not forgotten — one of the best-supported memory techniques. Drills practise grammar on course phrases, and the quiz at the end of each module asks for 16 correct answers out of 20: the effort of recalling itself strengthens memory.",
+            "A working routine: 15–20 minutes a day on flashcards and drills, a quiz at the end of each week, and every couple of weeks a review of finished modules. The trainer shows your weak spots itself — take those to your teacher."
+          ]
+        },
+        {
+          "h": "learn.kg practice tests",
+          "p": [
+            "Timed practice tests help you check yourself: the ((learn.kg A1 practice test|/probny-test-a1/en)), the ((B1 practice test|/probny-test-b1/en)) and the ((B2 practice test|/probny-test-b2/en)). They are open without sign-up, built from course phrases and scored instantly — you see which topics already hold and which need review.",
+            "The tasks are written by learn.kg from the course materials. They are not tasks of the official Kyrgyz language test and are not related to them. A practice test result measures your progress in the course; it does not predict a result in the official test."
+          ]
+        },
+        {
+          "h": "Writing and speaking — with a live person",
+          "p": [
+            "Writing and speaking cannot be fully rehearsed alone: you need someone to read your text and listen to your answer. Start with short stories about yourself, your family, work and city, and practise numbers, dates and time separately — that is where people stumble most.",
+            "The course teacher, Altynai, reviews written answers and speech, corrects the sounds ң, ө and ү, and helps you plan up to your deadline. The trainer also has listen-and-repeat practice with speech recognition, so you can speak aloud from day one."
+          ]
+        },
+        {
+          "h": "Typical preparation mistakes",
+          "p": [
+            "First — preparing in bursts: a language does not come together in two weeks of cramming, but it does in a few months of short daily sessions. Second — preparing silently: listening and speaking have to be trained from day one, by listening and repeating aloud.",
+            "Third — learning “about the language” instead of the language: lists of rules do not replace the ability to understand a question and answer it. And fourth — leaving self-checks to the end: quizzes and practice tests belong throughout the course, so you see gaps in time."
+          ]
+        },
+        {
+          "h": "Where to start today",
+          "p": [
+            "You can check your starting level right now: take the ((free online level test|/test/en)) — the result appears instantly and shows where to start. The ((trainer demo|/demo/en)) also has phrases with audio, a drill and a shortened quiz.",
+            "Then the plan: count the weeks to your deadline, give them 15–20 minutes a day and write to Altynai — she will help you shape your preparation. Check dates, format and registration for the test on the official website: kyrgyztest.gov.kg."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Devlet Kırgızca dil sınavına nasıl hazırlanılır",
+      "desc": "Devlet Kırgızca dil sınavına hazırlık: yasaya göre kime hangi düzey gerekli, A1–B2 ne anlama gelir ve learn.kg kursu ile deneme testleriyle çalışma planı.",
+      "lead": "Kırgızca bilgisini gösteren bir belgeye ihtiyaç duyanların sayısı artıyor — kamu hizmetinde, okullarda ve hastanelerde, oturma izni ve vatandaşlık başvurusunda. Yasaya göre kime hangi düzeyin ne zamana kadar gerektiğini, A1, B1 ve B2'nin ne anlama geldiğini ve hazırlığın nasıl kurulacağını anlatıyoruz: kurs, kartlar, aralıklı tekrar ve learn.kg deneme testleri.",
+      "blocks": [
+        {
+          "h": "Devlet dil sınavı nedir",
+          "p": [
+            "Devlet Kırgızca dil sınavı, devlet dilini hangi düzeyde bildiğinizi belgeler. Bu belge giderek daha sık isteniyor: kamu ve belediye hizmetinde, öğretmen ve sağlık çalışanlarından, oturma izni ve vatandaşlık başvurusunda. Düzeyler genellikle Avrupa ortak ölçeği CEFR ile anlatılır — A1, A2, B1, B2 ve üstü.",
+            "Biçim, seviyeler ve kayıt — resmî sınav sitesinde: kyrgyztest.gov.kg. Bunları burada aktarmıyoruz: kurallar değişir ve güvenilir tek kaynak resmî sitenin kendisidir. learn.kg'nin sınavın yapılmasıyla ve belge verilmesiyle bir ilgisi yoktur — biz dili öğrenmenize yardım ediyoruz."
+          ]
+        },
+        {
+          "h": "Yasaya göre kime hangi düzey, ne zamana kadar",
+          "p": [
+            "Devlet dili anayasa yasası ve hükûmetin onayladığı takvime göre kamu ve belediye görevlileri 2025'ten itibaren en az B1, 2027'ye kadar en az B2 düzeyinde Kırgızca bilmek zorunda. Öğretmenler, araştırmacılar ve sağlık çalışanları için B1 çıtası 2026'da, B2 2028'de geliyor. Ayrıntılar ((memurlar ve öğretmenler için rehberimizde|/blog/kyrgyzskiy-dlya-gossluzhashchih/tr)).",
+            "Ağustos 2025'ten beri Kırgızca bilmemek oturma izninin reddi için bir gerekçe; yasa düzey belirtmiyor, Devlet Dili Ulusal Komisyonu ise A1'den söz ediyor — ayrıntılar ((oturma izni yazımızda|/blog/kyrgyzskiy-dlya-vnzh/tr)). Vatandaşlık için devlet dili ya da resmî dil hâlâ kabul ediliyor."
+          ],
+          "t": {
+            "head": [
+              "Kime",
+              "Düzey",
+              "Ne zamandan"
+            ],
+            "rows": [
+              [
+                "Kamu ve belediye görevlileri",
+                "en az B1",
+                "2025'ten itibaren"
+              ],
+              [
+                "Kamu ve belediye görevlileri",
+                "en az B2",
+                "2027'ye kadar"
+              ],
+              [
+                "Öğretmenler, araştırmacılar, sağlık çalışanları",
+                "en az B1",
+                "2026'dan itibaren"
+              ],
+              [
+                "Öğretmenler, araştırmacılar, sağlık çalışanları",
+                "en az B2",
+                "2028'e kadar"
+              ],
+              [
+                "Oturma izni",
+                "Kırgızca; Ulusal Komisyonun ölçütü A1",
+                "Ağustos 2025'ten itibaren"
+              ],
+              [
+                "Vatandaşlık",
+                "devlet dili ya da resmî dil",
+                "başvuru sırasında"
+              ]
+            ]
+          }
+        },
+        {
+          "h": "A1, B1 ve B2 düzeyleri ne anlama gelir",
+          "p": [
+            "CEFR tanımlarına göre A1, bilinen günlük ifadeleri ve temel kalıpları anlayıp kullanabilmektir: kendini tanıtmak, kendinden ve ailenden söz etmek, yer ve zamanla ilgili basit sorular sormak, yavaş ve net konuşmayı anlamak.",
+            "B1, tanıdık konulardaki konuşmanın ana hatlarını anlamak, tipik durumlarda derdini anlatmak, olayları betimlemek ve görüşünü kısaca gerekçelendirmektir. B2 ise mesleki konular dâhil karmaşık konuları rahatça tartışabilmektir. Düzey “dil bilgisi bilmek” değil, somut konuşma eylemlerini yapabilmektir — bu yüzden sesli canlı kalıplar kural ezberinden daha iyi işler."
+          ]
+        },
+        {
+          "h": "Ne kadar zaman ayırmalı",
+          "p": [
+            "CEFR için uluslararası ölçütler A1'e yaklaşık 90–100, B1'e 350–400 yönlendirilmiş ders saatidir. Yol bir merdiven: B1, A1 ve A2'nin üzerine kurulur; bu yüzden son tarihten bir ay önce başlamak geç, bir yıl önce başlamak gerçekçidir. Ayrıntılı hesap ((Kırgızca öğrenmek ne kadar sürer|/blog/skolko-vremeni-uchit-kyrgyzskiy/tr)) yazısında.",
+            "Günde 15–20 dakika ayda 8–10 saat eder. Öğretmenle dersler hız katar, kısa günlük pratik ise kelime hazinesini canlı tutar — en iyi sonuç ikisinin birleşiminden gelir."
+          ]
+        },
+        {
+          "h": "Hazırlık yöntemimiz",
+          "p": [
+            "learn.kg kursu, ana dili konuşurunun seslendirdiği canlı kalıplara dayanır: her kelime ve ifade duyulur, öğrenen yüksek sesle tekrarlar. Modüller günlük hayatın konularını izler — tanışma, aile, iş, şehir, zaman — ve CEFR düzeylerinde ilerler.",
+            "Kartlar aralıklı tekrar takvimine göre geri gelir: sistem, bir kalıp unutulmasın diye bugün neyin tekrar edileceğine kendisi karar verir — bu, en sağlam kanıtlanmış ezber tekniklerinden biridir. Alıştırmalar dil bilgisini kurs kalıpları üzerinde çalıştırır; her modülün sonundaki mini sınav 20 sorudan 16 doğru ister: hatırlamaya çalışmak belleği kendi başına güçlendirir.",
+            "İşleyen bir düzen: günde 15–20 dakika kartlar ve alıştırmalar, her haftanın sonunda bir mini sınav, iki haftada bir de bitmiş modüllerin tekrarı. Zayıf noktalarınızı sistem kendisi gösterir — onları öğretmeninizle çalışın."
+          ]
+        },
+        {
+          "h": "learn.kg deneme testleri",
+          "p": [
+            "Süreli deneme testleri kendinizi ölçmenize yardım eder: ((learn.kg A1 deneme testi|/probny-test-a1/tr)), ((B1 deneme testi|/probny-test-b1/tr)) ve ((B2 deneme testi|/probny-test-b2/tr)). Kayıt gerektirmez, kurs kalıplarından oluşur ve anında puanlanır — hangi konuların oturduğu, hangilerinin tekrar istediği görülür.",
+            "Görevler learn.kg tarafından kurs materyallerinden hazırlanmıştır. Resmî Kırgızca dil sınavının görevleri değildir ve onlarla bağlantılı değildir. Deneme testinin sonucu kurstaki ilerlemenizi ölçer; resmî sınavın sonucunu öngörmez."
+          ]
+        },
+        {
+          "h": "Yazma ve konuşma — canlı bir insanla",
+          "p": [
+            "Yazma ve konuşma tek başına tam olarak prova edilemez: metninizi okuyacak ve cevabınızı dinleyecek biri gerekir. Kendiniz, aileniz, işiniz ve şehriniz hakkında kısa anlatımlarla başlayın; sayıları, tarihleri ve saatleri ayrıca çalışın — en çok orada tökezlenir.",
+            "Kursun öğretmeni Altınay yazılı cevapları ve konuşmayı değerlendirir, ң, ө ve ү seslerini düzeltir ve son tarihinize kadar plan kurmanıza yardım eder. Sistemde konuşma tanımalı dinle-tekrarla alıştırması da var — ilk günden yüksek sesle konuşabilirsiniz."
+          ]
+        },
+        {
+          "h": "Tipik hazırlık hataları",
+          "p": [
+            "Birincisi hamlelerle hazırlanmak: dil iki haftalık ezberle toplanmaz; birkaç aylık kısa günlük çalışmayla toplanır. İkincisi sessiz hazırlanmak: dinleyip anlamak ve konuşmak ilk günden, dinleyip yüksek sesle tekrarlayarak çalışılmalı.",
+            "Üçüncüsü dilin kendisi yerine “dil hakkında” öğrenmek: kural listeleri bir soruyu anlayıp cevap verme becerisinin yerini tutmaz. Dördüncüsü kendini sınamayı sona bırakmak: mini sınavlar ve deneme testleri kurs boyunca gerekir ki eksikler zamanında görülsün."
+          ]
+        },
+        {
+          "h": "Bugün nereden başlamalı",
+          "p": [
+            "Başlangıç düzeyinizi hemen ölçebilirsiniz: ((ücretsiz çevrim içi seviye testini|/test/tr)) çözün — sonuç anında görünür ve nereden başlayacağınızı gösterir. ((Sistemin demosunda|/demo/tr)) ayrıca sesli kalıplar, alıştırma ve kısaltılmış mini sınav var.",
+            "Sonrası plan: son tarihinize kalan haftaları sayın, onlara günde 15–20 dakika ayırın ve Altınay'a yazın — hazırlığınızı kurmanıza yardım eder. Sınavın tarihini, biçimini ve kaydını resmî sınav sitesinden kontrol edin: kyrgyztest.gov.kg."
+          ]
+        }
+      ]
+    }
+  },
+  "refs": [
+    {
+      "authors": "Жогорку Кенеш КР",
+      "year": 2023,
+      "title": "Конституционный закон КР от 17 июля 2023 года №140 «О государственном языке Кыргызской Республики»",
+      "source": "СоюзПравоИнформ (карточка документа, полный текст платный)",
+      "url": "https://base.spinform.ru/show_doc.fwx?rgn=152143"
+    },
+    {
+      "authors": "Inbusiness.kz",
+      "year": 2025,
+      "title": "Госслужащих Кыргызстана обязали подтвердить знание кыргызского языка",
+      "source": "inbusiness.kz",
+      "url": "https://inbusiness.kz/ru/last/gossluzhashih-kyrgyzstana-obyazali-podtverdit-znanie-kirgizskogo-yazyka"
+    },
+    {
+      "authors": "Kaktus.media",
+      "year": 2025,
+      "title": "Учителя и медики к 2026 году должны подтвердить знание госязыка на уровне В1",
+      "source": "kaktus.media",
+      "url": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html"
+    },
+    {
+      "authors": "Жогорку Кенеш КР",
+      "year": 2025,
+      "title": "Закон КР от 9 августа 2025 года № 195 «О внесении изменений в некоторые законодательные акты КР по вопросам применения государственного языка», ст. 3 и 13",
+      "source": "ЦБД Минюста КР",
+      "url": "https://cbd.minjust.gov.kg/4-5614/edition/35677/ru"
+    },
+    {
+      "authors": "Kaktus.media",
+      "year": 2025,
+      "title": "Виз без кыргызского не будет? В нацкомиссии объяснили, кого это касается на самом деле (24.06.2025)",
+      "source": "kaktus.media",
+      "url": "https://kaktus.media/doc/526356_viz_bez_kyrgyzskogo_ne_bydet_v_nackomissii_obiasnili_kogo_eto_kasaetsia_na_samom_dele.html"
+    },
+    {
+      "authors": "Жогорку Кенеш КР",
+      "year": 2007,
+      "title": "Закон КР от 21 мая 2007 года № 70 «О гражданстве Кыргызской Республики», ст. 13–14",
+      "source": "ЦБД Минюста КР",
+      "url": "https://cbd.minjust.gov.kg/4-3549/edition/29242/ru"
+    },
+    {
+      "authors": "Council of Europe / Europass",
+      "year": 2020,
+      "title": "Common European Framework of Reference for Languages: self-assessment grid",
+      "source": "European Commission",
+      "url": "https://europass.europa.eu/en/common-european-framework-reference-language-skills"
+    },
+    {
+      "authors": "LanguageCert",
+      "year": 2024,
+      "title": "Guided Learning Hours",
+      "source": "languagecert.org",
+      "url": "https://www.languagecert.org/en/guided-learning-hours"
+    },
+    {
+      "authors": "Cambridge English (Cambridge University Press & Assessment)",
+      "year": 2023,
+      "title": "Guided learning hours",
+      "source": "Cambridge English Support Site",
+      "url": "https://support.cambridgeenglish.org/hc/en-gb/articles/202838506-Guided-learning-hours"
+    },
+    {
+      "authors": "Cepeda N.J., Pashler H., Vul E., Wixted J.T., Rohrer D.",
+      "year": 2006,
+      "title": "Distributed practice in verbal recall tasks: A review and quantitative synthesis",
+      "source": "Psychological Bulletin 132(3), 354–380",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16719566/"
+    },
+    {
+      "authors": "Roediger H.L., Karpicke J.D.",
+      "year": 2006,
+      "title": "Test-enhanced learning: Taking memory tests improves long-term retention",
+      "source": "Psychological Science 17(3), 249–255",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/"
+    },
+    {
+      "authors": "Государственное тестирование по кыргызскому языку",
+      "year": 2026,
+      "title": "Официальный сайт: формат, уровни и запись на тестирование",
+      "source": "официальный сайт тестирования",
+      "url": "https://kyrgyztest.gov.kg"
+    }
+  ],
+  "faq": {
+    "ru": [
+      {
+        "q": "Где пройти пробный тест по кыргызскому языку?",
+        "a": "На learn.kg есть тренировочные тесты без регистрации: A1 — learn.kg/probny-test-a1/ru, B1 — learn.kg/probny-test-b1/ru, B2 — learn.kg/probny-test-b2/ru. Задания составлены learn.kg по материалам курса. Они не являются заданиями официального тестирования по кыргызскому языку и не связаны с ними."
+      },
+      {
+        "q": "Где узнать формат, уровни и как записаться на тестирование?",
+        "a": "Формат, уровни и запись на тестирование — на официальном сайте: kyrgyztest.gov.kg. learn.kg к проведению тестирования и выдаче документов отношения не имеет: мы помогаем выучить язык."
+      },
+      {
+        "q": "Кому нужен уровень кыргызского по закону?",
+        "a": "Государственным и муниципальным служащим — не ниже B1 с 2025 года и не ниже B2 к 2027 году; педагогам, научным сотрудникам и медикам — B1 с 2026 года и B2 к 2028-му. С августа 2025 года кыргызский нужен и для вида на жительство: Нацкомиссия по госязыку называет ориентиром A1."
+      },
+      {
+        "q": "Что значит уровень B1?",
+        "a": "По шкале CEFR B1 — это способность понимать основное содержание речи на знакомые темы, объясняться в типичных ситуациях, описывать события и обосновывать мнение. Его закон требует от государственных и муниципальных служащих с 2025 года, а от педагогов, научных сотрудников и медиков — с 2026 года."
+      },
+      {
+        "q": "Сколько времени нужно на подготовку к A1?",
+        "a": "Международный ориентир — около 90–100 учебных часов. При 15–20 минутах в день это примерно год, с преподавателем и часом в день — три-четыре месяца. Бесплатный тест уровня на learn.kg/test/ru покажет стартовую точку за пять минут."
+      },
+      {
+        "q": "Связаны ли задания learn.kg с официальным тестированием?",
+        "a": "Нет. Задания составлены learn.kg по материалам курса. Они не являются заданиями официального тестирования по кыргызскому языку и не связаны с ними."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where can I take a practice test in Kyrgyz?",
+        "a": "learn.kg has practice tests with no sign-up: A1 — learn.kg/probny-test-a1/en, B1 — learn.kg/probny-test-b1/en, B2 — learn.kg/probny-test-b2/en. The tasks are written by learn.kg from the course materials. They are not tasks of the official Kyrgyz language test and are not related to them."
+      },
+      {
+        "q": "Where do I find the format, levels and registration for the test?",
+        "a": "Format, levels and registration — on the official testing website: kyrgyztest.gov.kg. learn.kg has nothing to do with running the test or issuing documents: we help you learn the language."
+      },
+      {
+        "q": "Who needs a level of Kyrgyz by law?",
+        "a": "Civil and municipal servants — B1 or higher from 2025 and B2 or higher by 2027; teachers, researchers and medical workers — B1 from 2026 and B2 by 2028. Since August 2025 Kyrgyz is also needed for a residence permit: the National Commission for the State Language names A1 as the benchmark."
+      },
+      {
+        "q": "What does level B1 mean?",
+        "a": "On the CEFR scale, B1 means understanding the main points of speech on familiar topics, getting by in typical situations, describing events and giving reasons for an opinion. The law requires it from civil and municipal servants from 2025, and from teachers, researchers and medical workers from 2026."
+      },
+      {
+        "q": "How long does it take to prepare for A1?",
+        "a": "The international benchmark is about 90–100 guided learning hours. At 15–20 minutes a day that is roughly a year; with a teacher and an hour a day, three to four months. The free level test at learn.kg/test/en shows your starting point in five minutes."
+      },
+      {
+        "q": "Are learn.kg tasks related to the official test?",
+        "a": "No. The tasks are written by learn.kg from the course materials. They are not tasks of the official Kyrgyz language test and are not related to them."
+      }
+    ],
+    "tr": [
+      {
+        "q": "Kırgızca deneme testini nerede çözebilirim?",
+        "a": "learn.kg'de kayıt gerektirmeyen deneme testleri var: A1 — learn.kg/probny-test-a1/tr, B1 — learn.kg/probny-test-b1/tr, B2 — learn.kg/probny-test-b2/tr. Görevler learn.kg tarafından kurs materyallerinden hazırlanmıştır. Resmî Kırgızca dil sınavının görevleri değildir ve onlarla bağlantılı değildir."
+      },
+      {
+        "q": "Sınavın biçimini, düzeylerini ve kaydını nereden öğrenirim?",
+        "a": "Biçim, seviyeler ve kayıt — resmî sınav sitesinde: kyrgyztest.gov.kg. learn.kg'nin sınavın yapılmasıyla ve belge verilmesiyle bir ilgisi yoktur: biz dili öğrenmenize yardım ediyoruz."
+      },
+      {
+        "q": "Yasaya göre kimin Kırgızca düzeyi belgelemesi gerekiyor?",
+        "a": "Kamu ve belediye görevlilerinin 2025'ten itibaren en az B1, 2027'ye kadar en az B2; öğretmen, araştırmacı ve sağlık çalışanlarının 2026'dan itibaren B1, 2028'e kadar B2. Ağustos 2025'ten beri Kırgızca oturma izni için de gerekiyor: Devlet Dili Ulusal Komisyonu ölçüt olarak A1'i gösteriyor."
+      },
+      {
+        "q": "B1 düzeyi ne anlama gelir?",
+        "a": "CEFR ölçeğinde B1, tanıdık konulardaki konuşmanın ana içeriğini anlamak, tipik durumlarda derdini anlatmak, olayları betimlemek ve görüşünü gerekçelendirmektir. Yasa bunu kamu ve belediye görevlilerinden 2025'ten, öğretmen, araştırmacı ve sağlık çalışanlarından 2026'dan itibaren istiyor."
+      },
+      {
+        "q": "A1'e hazırlanmak ne kadar sürer?",
+        "a": "Uluslararası ölçüt yaklaşık 90–100 yönlendirilmiş ders saatidir. Günde 15–20 dakikayla bu kabaca bir yıl; öğretmenle ve günde bir saatle üç-dört ay. learn.kg/test/tr adresindeki ücretsiz seviye testi başlangıç noktanızı beş dakikada gösterir."
+      },
+      {
+        "q": "learn.kg görevlerinin resmî sınavla bağlantısı var mı?",
+        "a": "Hayır. Görevler learn.kg tarafından kurs materyallerinden hazırlanmıştır. Resmî Kırgızca dil sınavının görevleri değildir ve onlarla bağlantılı değildir."
+      }
+    ]
+  }
+}

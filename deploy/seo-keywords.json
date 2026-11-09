@@ -1,0 +1,1024 @@
+{
+  "_readme": "Связная схема SEO-ключей ru/en/tr. Единый источник при правке мета-текстов: меняешь тексты в source-файле — guard tests/seo-keywords.test.js проверяет, что ключ присутствует в собранной странице каждого языка; сдвигаешь ключ — правишь этот реестр в том же PR (осознанная подпись, как CONTENT_READY). key — человекочитаемый запрос с частотностью (документация: Wordstat показов/мес для ru, Google Suggest/Planner для en/tr), match — литеральная lowercase-подстрока, которую guard ищет в артефакте (стем решает морфологию: «озвучк» ловит «с озвучкой»). targets: title | meta_desc | h1 | body (body = весь текст страницы). mode inline-multilang — одностраничники с тремя языками внутри одной URL.",
+  "pages": {
+    "": {
+      "source": "app/landing.html → LANDING_I18N.<lang>.{title,meta_desc,hero_h1,faq_*} + разметка <title>/<h1>",
+      "primary": {
+        "ru": {
+          "key": "кыргызский язык онлайн (7809 + 182)",
+          "match": "кыргызский язык"
+        },
+        "en": {
+          "key": "learn kyrgyz online",
+          "match": "learn kyrgyz"
+        },
+        "tr": {
+          "key": "kırgızca öğren",
+          "match": "kırgızca öğren"
+        }
+      },
+      "clusters": [
+        {
+          "id": "from-scratch",
+          "intent": "informational",
+          "keys": {
+            "ru": [
+              "кыргызский с нуля (154)",
+              "кыргызский язык с нуля (129)"
+            ],
+            "en": [
+              "kyrgyz from scratch",
+              "kyrgyz for beginners"
+            ],
+            "tr": [
+              "sıfırdan kırgızca"
+            ]
+          },
+          "match": {
+            "ru": "с нуля",
+            "en": "from scratch",
+            "tr": "sıfırdan"
+          },
+          "targets": [
+            "title",
+            "h1"
+          ]
+        },
+        {
+          "id": "audio",
+          "intent": "differentiator",
+          "keys": {
+            "ru": [
+              "кыргызский с озвучкой",
+              "фразы с произношением"
+            ],
+            "en": [
+              "kyrgyz phrases with audio"
+            ],
+            "tr": [
+              "sesli kırgızca"
+            ]
+          },
+          "match": {
+            "ru": "озвучк",
+            "en": "audio",
+            "tr": "sesli"
+          },
+          "targets": [
+            "title",
+            "meta_desc"
+          ]
+        },
+        {
+          "id": "alphabet-faq",
+          "intent": "informational",
+          "keys": {
+            "ru": [
+              "сколько букв в кыргызском алфавите (25)",
+              "кыргызский алфавит (629)"
+            ],
+            "en": [
+              "kyrgyz alphabet"
+            ],
+            "tr": [
+              "kırgız alfabesi"
+            ]
+          },
+          "match": {
+            "ru": "алфавит",
+            "en": "alphabet",
+            "tr": "alfabe"
+          },
+          "targets": [
+            "meta_desc",
+            "body"
+          ]
+        },
+        {
+          "id": "gostest",
+          "intent": "transactional",
+          "keys": {
+            "ru": [
+              "экзамен по кыргызскому языку",
+              "тестирование по кыргызскому для ВНЖ"
+            ],
+            "en": [
+              "kyrgyz language exam"
+            ],
+            "tr": [
+              "kırgızca dil sınavı"
+            ]
+          },
+          "match": {
+            "ru": "тестированию по кыргызскому языку",
+            "en": "state kyrgyz language test",
+            "tr": "devlet kırgızca dil sınav"
+          },
+          "targets": [
+            "body"
+          ]
+        },
+        {
+          "id": "pronunciation-lessons",
+          "intent": "differentiator",
+          "keys": {
+            "ru": [
+              "уроки произношения кыргызского"
+            ],
+            "en": [
+              "kyrgyz pronunciation"
+            ],
+            "tr": [
+              "kırgızca telaffuz"
+            ]
+          },
+          "match": {
+            "ru": "произношени",
+            "en": "pronunciation",
+            "tr": "telaffuz"
+          },
+          "targets": [
+            "meta_desc",
+            "body"
+          ]
+        },
+        {
+          "id": "listening",
+          "intent": "differentiator",
+          "keys": {
+            "ru": [
+              "аудирование по кыргызскому"
+            ],
+            "en": [
+              "kyrgyz listening practice"
+            ],
+            "tr": [
+              "kırgızca dinleme"
+            ]
+          },
+          "match": {
+            "ru": "аудировани",
+            "en": "listening",
+            "tr": "dinleme"
+          },
+          "targets": [
+            "meta_desc",
+            "body"
+          ]
+        }
+      ],
+      "synonyms": {
+        "ru": [
+          {
+            "key": "киргизский язык (6175)",
+            "match": "киргизск",
+            "targets": [
+              "body"
+            ]
+          },
+          {
+            "key": "учить кыргызский язык (117 Wordstat; Яндекс поз. 1,9 по /ru)",
+            "match": "учить кыргызский язык",
+            "targets": [
+              "title",
+              "body"
+            ]
+          },
+          {
+            "key": "учить кыргызский (хвост кластера: с нуля 39, для начинающих 18)",
+            "match": "учить кыргызск",
+            "targets": [
+              "title",
+              "body"
+            ]
+          }
+        ],
+        "en": [
+          {
+            "key": "kirghiz (устар. транслитерация)",
+            "match": "kirghiz",
+            "targets": [
+              "meta_desc",
+              "body"
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "key": "kırgız türkçesi (академический термин)",
+            "match": "kırgız türkçesi",
+            "targets": [
+              "meta_desc",
+              "body"
+            ]
+          }
+        ]
+      }
+    },
+    "/demo": {
+      "source": "server/server.js → DEMO_SEO",
+      "primary": {
+        "ru": {
+          "key": "демо-урок кыргызского",
+          "match": "демо-урок кыргызского"
+        },
+        "en": {
+          "key": "kyrgyz demo lesson",
+          "match": "kyrgyz demo lesson"
+        },
+        "tr": {
+          "key": "kırgızca demo dersi",
+          "match": "kırgızca demo dersi"
+        }
+      },
+      "clusters": [
+        {
+          "id": "free-try",
+          "intent": "transactional",
+          "keys": {
+            "ru": [
+              "кыргызский язык бесплатно (9)"
+            ],
+            "en": [
+              "learn kyrgyz free"
+            ],
+            "tr": [
+              "ücretsiz kırgızca"
+            ]
+          },
+          "match": {
+            "ru": "бесплатн",
+            "en": "free",
+            "tr": "ücretsiz"
+          },
+          "targets": [
+            "title",
+            "meta_desc"
+          ]
+        }
+      ]
+    },
+    "/test": {
+      "source": "app/test/level-test.json → ui.<lang>.{title,desc,h1,faq}",
+      "primary": {
+        "ru": {
+          "key": "тест уровня кыргызского языка (59)",
+          "match": "тест уровня кыргызского"
+        },
+        "en": {
+          "key": "kyrgyz level test",
+          "match": "kyrgyz level test"
+        },
+        "tr": {
+          "key": "kırgızca seviye testi",
+          "match": "kırgızca seviye testi"
+        }
+      },
+      "synonyms": {
+        "ru": [
+          {
+            "key": "киргизский язык тест",
+            "match": "киргизск",
+            "targets": [
+              "meta_desc"
+            ]
+          }
+        ]
+      }
+    },
+    "/blog": {
+      "source": "server/server.js → BLOG_UI.<lang>.{idxTitle,idxDesc}",
+      "primary": {
+        "ru": {
+          "key": "блог о кыргызском языке",
+          "match": "блог"
+        },
+        "en": {
+          "key": "kyrgyz language blog",
+          "match": "blog"
+        },
+        "tr": {
+          "key": "kırgızca üzerine blog",
+          "match": "blog"
+        }
+      },
+      "clusters": [
+        {
+          "id": "about-language",
+          "intent": "informational",
+          "keys": {
+            "ru": [
+              "о кыргызском языке"
+            ],
+            "en": [
+              "about the kyrgyz language"
+            ],
+            "tr": [
+              "kırgızca üzerine"
+            ]
+          },
+          "match": {
+            "ru": "кыргызском язык",
+            "en": "kyrgyz language",
+            "tr": "kırgızca"
+          },
+          "targets": [
+            "meta_desc"
+          ]
+        }
+      ]
+    },
+    "/privacy": {
+      "source": "app/privacy.html (три языка в одной URL, внутренний переключатель)",
+      "mode": "inline-multilang",
+      "primary": {
+        "ru": {
+          "key": "политика конфиденциальности",
+          "match": "конфиденциальн"
+        },
+        "en": {
+          "key": "privacy policy",
+          "match": "privacy"
+        },
+        "tr": {
+          "key": "gizlilik politikası",
+          "match": "gizlilik"
+        }
+      }
+    },
+    "/terms": {
+      "source": "app/terms.html (три языка в одной URL)",
+      "mode": "inline-multilang",
+      "primary": {
+        "ru": {
+          "key": "условия использования",
+          "match": "условия"
+        },
+        "en": {
+          "key": "terms of use",
+          "match": "terms"
+        },
+        "tr": {
+          "key": "kullanım koşulları",
+          "match": "koşul"
+        }
+      }
+    },
+    "/install": {
+      "source": "app/install.html (три языка в одной URL)",
+      "mode": "inline-multilang",
+      "primary": {
+        "ru": {
+          "key": "установить как приложение",
+          "match": "установ"
+        },
+        "en": {
+          "key": "install as app",
+          "match": "install"
+        },
+        "tr": {
+          "key": "uygulama olarak yükle",
+          "match": "yükle"
+        }
+      }
+    },
+    "/razgovornik": {
+      "source": "app/razgovornik/razgovornik.json → ui.<lang>.{title,desc,h1,faq}",
+      "primary": {
+        "ru": {
+          "key": "русско-кыргызский разговорник (22) + киргизский разговорник (96)",
+          "match": "русско-кыргызский разговорник"
+        },
+        "en": {
+          "key": "kyrgyz phrasebook (suggest: kyrgyz phrasebook, basic kyrgyz phrases)",
+          "match": "kyrgyz phrasebook"
+        },
+        "tr": {
+          "key": "kırgızca konuşma kılavuzu (suggest: kırgızca günlük konuşmalar)",
+          "match": "konuşma kılavuzu"
+        }
+      },
+      "clusters": [
+        {
+          "id": "audio",
+          "intent": "differentiator",
+          "keys": {
+            "ru": [
+              "разговорник с озвучкой",
+              "с произношением (14)"
+            ],
+            "en": [
+              "kyrgyz phrases with audio"
+            ],
+            "tr": [
+              "sesli kırgızca"
+            ]
+          },
+          "match": {
+            "ru": "озвучк",
+            "en": "audio",
+            "tr": "sesli"
+          },
+          "targets": [
+            "title",
+            "meta_desc"
+          ]
+        },
+        {
+          "id": "phrases",
+          "intent": "informational",
+          "keys": {
+            "ru": [
+              "фразы на кыргызском (99)"
+            ],
+            "en": [
+              "basic kyrgyz phrases",
+              "common kyrgyz words"
+            ],
+            "tr": [
+              "kırgızca kelimeler",
+              "kırgızca günlük konuşmalar"
+            ]
+          },
+          "match": {
+            "ru": "фраз",
+            "en": "phrases",
+            "tr": "ifade"
+          },
+          "targets": [
+            "meta_desc",
+            "body"
+          ]
+        }
+      ],
+      "synonyms": {
+        "ru": [
+          {
+            "key": "киргизский разговорник (96)",
+            "match": "киргизск",
+            "targets": [
+              "meta_desc",
+              "body"
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "key": "kırgız türkçesi",
+            "match": "kırgız türkçesi",
+            "targets": [
+              "meta_desc",
+              "body"
+            ]
+          }
+        ]
+      }
+    },
+    "/slovo": {
+      "source": "app/words/hub.json → ui.<lang>.{title,desc,h1,lead}; карточки — app/words/words.json",
+      "primary": {
+        "ru": {
+          "key": "как будет по-кыргызски / слова по-кыргызски (кластер «X по-киргизски», Wordstat)",
+          "match": "по-кыргызски"
+        },
+        "en": {
+          "key": "kyrgyz words (suggest: kyrgyz words with audio, common kyrgyz words)",
+          "match": "kyrgyz words"
+        },
+        "tr": {
+          "key": "kırgızca kelimeler (suggest: kırgızca kelimeler ve anlamları)",
+          "match": "kırgızca kelimeler"
+        }
+      },
+      "clusters": [
+        {
+          "id": "audio",
+          "intent": "differentiator",
+          "keys": {
+            "ru": [
+              "с озвучкой",
+              "произношение (кластер /slovo/*)"
+            ],
+            "en": [
+              "kyrgyz words with audio"
+            ],
+            "tr": [
+              "sesli kırgızca kelimeler"
+            ]
+          },
+          "match": {
+            "ru": "озвучк",
+            "en": "audio",
+            "tr": "sesli"
+          },
+          "targets": [
+            "title",
+            "meta_desc"
+          ]
+        }
+      ]
+    },
+    "/perevodchik": {
+      "source": "app/perevodchik/perevodchik.json → ui.<lang>.{title,desc,h1,faq}",
+      "primary": {
+        "ru": {
+          "key": "русско-кыргызский переводчик онлайн (Google 906 показов / поз. 9,9; Яндекс 8–10,3 по 4 формулировкам, 04–05.09.2026)",
+          "match": "русско-кыргызский переводчик"
+        },
+        "en": {
+          "key": "kyrgyz translator online (suggest: english kyrgyz translator, kyrgyz dictionary)",
+          "match": "kyrgyz translator"
+        },
+        "tr": {
+          "key": "kırgızca çeviri (крупнейший TR-кластер: türkçe kırgızca çeviri, kırgızca sözlük)",
+          "match": "kırgızca çeviri"
+        }
+      },
+      "clusters": [
+        {
+          "id": "course-phrases",
+          "intent": "differentiator",
+          "keys": {
+            "ru": [
+              "перевод фраз курса",
+              "фразы с озвучкой"
+            ],
+            "en": [
+              "common kyrgyz phrases"
+            ],
+            "tr": [
+              "kırgızca günlük kelimeler"
+            ]
+          },
+          "match": {
+            "ru": "фраз",
+            "en": "phrase",
+            "tr": "ifade"
+          },
+          "targets": [
+            "meta_desc",
+            "body"
+          ]
+        }
+      ],
+      "synonyms": {
+        "ru": [
+          {
+            "key": "переводчик с русского на киргизский (2905)",
+            "match": "киргизск",
+            "targets": [
+              "meta_desc",
+              "body"
+            ]
+          },
+          {
+            "key": "русско кыргызский переводчик онлайн (Яндекс 8,0–10,3)",
+            "match": "переводчик онлайн",
+            "targets": [
+              "title",
+              "meta_desc"
+            ]
+          },
+          {
+            "key": "кыргызско русский переводчик (Яндекс, обратное направление поиска)",
+            "match": "кыргызско-русский",
+            "targets": [
+              "body"
+            ]
+          }
+        ],
+        "en": [
+          {
+            "key": "kirghiz",
+            "match": "kirghiz",
+            "targets": [
+              "body"
+            ]
+          },
+          {
+            "key": "kyrgyz translator online",
+            "match": "translator online",
+            "targets": [
+              "title",
+              "meta_desc"
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "key": "kırgız türkçesi",
+            "match": "kırgız türkçesi",
+            "targets": [
+              "body"
+            ]
+          },
+          {
+            "key": "sesli kırgızca çeviri",
+            "match": "sesli",
+            "targets": [
+              "title",
+              "meta_desc"
+            ]
+          }
+        ]
+      }
+    },
+    "/kurs-a1": {
+      "source": "app/kurs/kurs.json → courses.a1.ui.<lang>.{title,desc,h1} (+labels)",
+      "primary": {
+        "ru": {
+          "key": "курс кыргызского языка a1",
+          "match": "кыргызского языка a1"
+        },
+        "en": {
+          "key": "kyrgyz course a1",
+          "match": "kyrgyz course a1"
+        },
+        "tr": {
+          "key": "kırgızca a1 kursu",
+          "match": "kırgızca a1 kursu"
+        }
+      }
+    },
+    "/kurs-a2": {
+      "source": "app/kurs/kurs.json → courses.a2.ui.<lang>.{title,desc,h1} (+labels)",
+      "primary": {
+        "ru": {
+          "key": "курс кыргызского языка a2",
+          "match": "кыргызского языка a2"
+        },
+        "en": {
+          "key": "kyrgyz course a2",
+          "match": "kyrgyz course a2"
+        },
+        "tr": {
+          "key": "kırgızca a2 kursu",
+          "match": "kırgızca a2 kursu"
+        }
+      }
+    },
+    "/kurs-b1": {
+      "source": "app/kurs/kurs.json → courses.b1.ui.<lang>.{title,desc,h1} (+labels)",
+      "primary": {
+        "ru": {
+          "key": "курс кыргызского языка b1",
+          "match": "кыргызского языка b1"
+        },
+        "en": {
+          "key": "kyrgyz course b1",
+          "match": "kyrgyz course b1"
+        },
+        "tr": {
+          "key": "kırgızca b1 kursu",
+          "match": "kırgızca b1 kursu"
+        }
+      },
+      "clusters": [
+        {
+          "id": "kurs",
+          "intent": "курс уровня B1",
+          "keys": {
+            "ru": "курс кыргызского языка b1",
+            "en": "kyrgyz b1 course",
+            "tr": "kırgızca b1 kursu"
+          },
+          "match": {
+            "ru": "кыргызского языка b1",
+            "en": "b1",
+            "tr": "b1"
+          },
+          "targets": [
+            "h1",
+            "body"
+          ]
+        }
+      ]
+    },
+    "/kurs-b2": {
+      "source": "app/kurs/kurs.json → courses.b2.ui.<lang>.{title,desc,h1} (+labels)",
+      "primary": {
+        "ru": {
+          "key": "курс кыргызского языка b2",
+          "match": "кыргызского языка b2"
+        },
+        "en": {
+          "key": "kyrgyz course b2",
+          "match": "kyrgyz course b2"
+        },
+        "tr": {
+          "key": "kırgızca b2 kursu",
+          "match": "kırgızca b2 kursu"
+        }
+      },
+      "clusters": [
+        {
+          "id": "kurs",
+          "intent": "курс уровня B2",
+          "keys": {
+            "ru": "курс кыргызского языка b2",
+            "en": "kyrgyz b2 course",
+            "tr": "kırgızca b2 kursu"
+          },
+          "match": {
+            "ru": "кыргызского языка b2",
+            "en": "b2",
+            "tr": "b2"
+          },
+          "targets": [
+            "h1",
+            "body"
+          ]
+        }
+      ]
+    },
+    "/help": {
+      "source": "app/help/help.json → ui.<lang>.{title,desc,h1}",
+      "primary": {
+        "ru": {
+          "key": "помощь по learn.kg",
+          "match": "помощь"
+        },
+        "en": {
+          "key": "learn.kg help",
+          "match": "help"
+        },
+        "tr": {
+          "key": "learn.kg yardım",
+          "match": "yardım"
+        }
+      }
+    },
+    "/probny-test-b1": {
+      "source": "app/probny-b1/probny-b1.json → ui.<lang>.{title,desc,h1,lead,faq}",
+      "primary": {
+        "ru": {
+          "key": "пробный тест по кыргызскому языку b1 (тест по кыргызскому b1)",
+          "match": "пробный тест по кыргызскому языку b1"
+        },
+        "en": {
+          "key": "kyrgyz b1 practice test",
+          "match": "kyrgyz b1 practice test"
+        },
+        "tr": {
+          "key": "kırgızca b1 deneme sınavı",
+          "match": "kırgızca b1 deneme sınavı"
+        }
+      },
+      "clusters": [
+        {
+          "id": "b1",
+          "intent": "уровень B1",
+          "keys": {
+            "ru": "тест по кыргызскому b1",
+            "en": "kyrgyz b1 test",
+            "tr": "kırgızca b1 testi"
+          },
+          "match": {
+            "ru": "b1",
+            "en": "b1",
+            "tr": "b1"
+          },
+          "targets": [
+            "title",
+            "meta_desc",
+            "h1"
+          ]
+        },
+        {
+          "id": "gostest",
+          "intent": "экзамен по кыргызскому языку (без названия организатора)",
+          "keys": {
+            "ru": "экзамен по кыргызскому языку",
+            "en": "kyrgyz language test",
+            "tr": "kırgızca dil sınavı"
+          },
+          "match": {
+            "ru": "тестирования по кыргызскому языку",
+            "en": "kyrgyz language test",
+            "tr": "kırgızca dil sınav"
+          },
+          "targets": [
+            "body"
+          ]
+        }
+      ]
+    },
+    "/probny-test-b2": {
+      "source": "app/probny-b2/probny-b2.json → ui.<lang>.{title,desc,h1,lead,faq}",
+      "primary": {
+        "ru": {
+          "key": "пробный тест по кыргызскому языку b2 (тест по кыргызскому b2)",
+          "match": "пробный тест по кыргызскому языку b2"
+        },
+        "en": {
+          "key": "kyrgyz b2 practice test",
+          "match": "kyrgyz b2 practice test"
+        },
+        "tr": {
+          "key": "kırgızca b2 deneme sınavı",
+          "match": "kırgızca b2 deneme sınavı"
+        }
+      },
+      "clusters": [
+        {
+          "id": "b2",
+          "intent": "уровень B2",
+          "keys": {
+            "ru": "тест по кыргызскому b2",
+            "en": "kyrgyz b2 test",
+            "tr": "kırgızca b2 testi"
+          },
+          "match": {
+            "ru": "b2",
+            "en": "b2",
+            "tr": "b2"
+          },
+          "targets": [
+            "title",
+            "meta_desc",
+            "h1"
+          ]
+        },
+        {
+          "id": "gostest",
+          "intent": "экзамен по кыргызскому языку (без названия организатора)",
+          "keys": {
+            "ru": "экзамен по кыргызскому языку",
+            "en": "kyrgyz language test",
+            "tr": "kırgızca dil sınavı"
+          },
+          "match": {
+            "ru": "тестирования по кыргызскому языку",
+            "en": "kyrgyz language test",
+            "tr": "kırgızca dil sınav"
+          },
+          "targets": [
+            "body"
+          ]
+        }
+      ]
+    },
+    "/probny-test-a1": {
+      "source": "app/probny-a1/probny-a1.json → ui.<lang>.{title,desc,h1,lead,faq}",
+      "primary": {
+        "ru": {
+          "key": "пробный тест по кыргызскому языку a1 (тест по кыргызскому a1)",
+          "match": "пробный тест по кыргызскому языку a1"
+        },
+        "en": {
+          "key": "kyrgyz a1 practice test",
+          "match": "kyrgyz a1 practice test"
+        },
+        "tr": {
+          "key": "kırgızca a1 deneme sınavı",
+          "match": "kırgızca a1 deneme sınavı"
+        }
+      },
+      "clusters": [
+        {
+          "id": "a1",
+          "intent": "уровень A1",
+          "keys": {
+            "ru": "тест по кыргызскому a1",
+            "en": "kyrgyz a1 test",
+            "tr": "kırgızca a1 testi"
+          },
+          "match": {
+            "ru": "a1",
+            "en": "a1",
+            "tr": "a1"
+          },
+          "targets": [
+            "title",
+            "meta_desc",
+            "h1"
+          ]
+        },
+        {
+          "id": "vnzh",
+          "intent": "язык для вида на жительство",
+          "keys": {
+            "ru": "тестирование по кыргызскому для ВНЖ",
+            "en": "kyrgyzstan residence permit language",
+            "tr": "kırgızistan oturma izni dil"
+          },
+          "match": {
+            "ru": "вида на жительство",
+            "en": "residence permit",
+            "tr": "oturma izni"
+          },
+          "targets": [
+            "body"
+          ]
+        },
+        {
+          "id": "gostest",
+          "intent": "экзамен по кыргызскому языку (без названия организатора)",
+          "keys": {
+            "ru": "экзамен по кыргызскому языку",
+            "en": "kyrgyz language test",
+            "tr": "kırgızca dil sınavı"
+          },
+          "match": {
+            "ru": "тестирования по кыргызскому языку",
+            "en": "kyrgyz language test",
+            "tr": "kırgızca dil sınav"
+          },
+          "targets": [
+            "body"
+          ]
+        }
+      ]
+    }
+  },
+  "_research": {
+    "source": "google-suggest 2026-08-14 (client=firefox, hl/gl en-us и tr-tr), объёмы — после Keyword Planner/GSC",
+    "en": {
+      "learn": [
+        "learn kyrgyz",
+        "how to learn kyrgyz language",
+        "kyrgyz course",
+        "kyrgyz lessons",
+        "learn kyrgyz app",
+        "learn kyrgyz online free",
+        "can you learn kyrgyz on duolingo"
+      ],
+      "difficulty": [
+        "is kyrgyz hard to learn",
+        "how hard is kyrgyz to learn",
+        "is kyrgyz a difficult language",
+        "is kyrgyz language similar to russian",
+        "is kyrgyz language similar to turkish"
+      ],
+      "alphabet": [
+        "kyrgyz alphabet",
+        "kyrgyz alphabet cyrillic",
+        "kyrgyz alphabet pronunciation",
+        "kyrgyz alphabet how many letters",
+        "kyrgyz alphabet to english",
+        "kyrgyz alphabet latin"
+      ],
+      "phrases": [
+        "basic kyrgyz phrases",
+        "common kyrgyz phrases",
+        "kyrgyz basic words",
+        "common kyrgyz words",
+        "kyrgyz phrases for travel"
+      ],
+      "translate": [
+        "english kyrgyz dictionary",
+        "kyrgyz english dictionary pdf",
+        "kyrgyz translator"
+      ],
+      "compare": [
+        "kyrgyz and kazakh language",
+        "kyrgyz closest language",
+        "kyrgyz vs kazakh"
+      ]
+    },
+    "tr": {
+      "learn": [
+        "kırgızca öğren",
+        "kırgızca öğrenmek",
+        "kırgızca nasıl öğrenilir",
+        "kırgızca öğrenmek istiyorum",
+        "kırgızca kursu",
+        "kırgızca dil kursu",
+        "kırgızca dersleri",
+        "kırgızca öğrenme kitabı"
+      ],
+      "difficulty": [
+        "kırgızca öğrenmek zor mu"
+      ],
+      "academic": [
+        "kırgız türkçesi",
+        "kırgız türkçesi grameri",
+        "kırgız türkçesi sözlüğü",
+        "kırgız türkçesi ve türkiye türkçesi",
+        "kırgız türkçesi kelimeler",
+        "kırgız türkçesi sayılar"
+      ],
+      "alphabet": [
+        "kırgız alfabesi",
+        "kırgız alfabesi kaç harf",
+        "kırgız alfabesi okunuşu",
+        "kırgız kiril alfabesi",
+        "kırgız alfabesi türkçe karşılığı"
+      ],
+      "phrases": [
+        "kırgızca kelimeler",
+        "kırgızca günlük kelimeler",
+        "kırgızca temel kelimeler",
+        "kırgızca günlük konuşmalar",
+        "kırgızca türkçe benzer kelimeler",
+        "kırgızca türkçe ortak kelimeler"
+      ],
+      "translate": [
+        "kırgızca çeviri",
+        "kırgızca türkçe çeviri",
+        "türkçe kırgızca sözlük",
+        "rusça kırgızca çeviri"
+      ]
+    }
+  }
+}

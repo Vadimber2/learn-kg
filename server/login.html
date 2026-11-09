@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="ru" data-theme="auto">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230e7490'/%3E%3Ctext x='32' y='45' font-family='Arial,sans-serif' font-size='36' font-weight='bold' fill='white' text-anchor='middle'%3E%D3%A8%3C/text%3E%3C/svg%3E">
+<title>Вход — Кыргыз тили</title>
+<script>try{var _t=localStorage.getItem("kga1-theme");document.documentElement.dataset.theme=(_t==="light"||_t==="dark")?_t:"auto";}catch(e){}</script>
+<style>
+  :root{--bg:#f6f7f9;--card:#fff;--ink:#1c2430;--muted:#57616e;--accent:#0e7490;--accent-soft:#e0f2f7;--line:#dde2e8;--line-strong:#aeb8c4;--err:#b91c1c;--err-soft:#fee2e2;--accent-ink:#fff}
+  html[data-theme="dark"]{--bg:#10151c;--card:#1a212b;--ink:#e7ecf2;--muted:#8b98a7;--accent:#38bdf8;--accent-soft:#123542;--line:#2a3442;--line-strong:#4b586a;--err:#f87171;--err-soft:#3b1a1a;--accent-ink:#06131b}
+  @media (prefers-color-scheme: dark){
+    html[data-theme="auto"]{--bg:#10151c;--card:#1a212b;--ink:#e7ecf2;--muted:#8b98a7;--accent:#38bdf8;--accent-soft:#123542;--line:#2a3442;--line-strong:#4b586a;--err:#f87171;--err-soft:#3b1a1a;--accent-ink:#06131b}
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;color:var(--ink);
+       background:linear-gradient(160deg,var(--accent-soft),var(--bg) 55%);
+       min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:16px}
+  .wm{text-decoration:none;color:var(--ink);font-weight:700;font-size:1.05rem;text-align:center}
+  .wm small{display:block;font-weight:400;font-size:.72rem;color:var(--muted);letter-spacing:.04em}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:28px;width:100%;max-width:380px;
+        box-shadow:0 1px 2px rgba(16,24,40,.04),0 14px 30px -18px rgba(16,24,40,.35)}
+  h1{font-size:1.5rem;letter-spacing:-.02em;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:.85rem;margin-bottom:18px}
+  label{display:block;font-size:.82rem;color:var(--muted);margin:12px 0 4px}
+  input{width:100%;padding:11px 12px;font-size:1rem;border:1px solid var(--line-strong);border-radius:10px;background:var(--bg);color:var(--ink)}
+  input:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-color:var(--accent)}
+  button[type=submit]{width:100%;margin-top:18px;padding:12px;border-radius:10px;border:none;background:var(--accent);color:var(--accent-ink);font-size:1rem;font-weight:600;cursor:pointer;transition:filter .16s ease}
+  button[type=submit]:hover{filter:brightness(1.06)}
+  .err{display:none;margin-top:12px;padding:9px 12px;border-radius:9px;background:var(--err-soft);color:var(--err);font-size:.87rem}
+  .top{display:flex;align-items:center;gap:8px;margin-bottom:12px}
+  .back{color:var(--accent);text-decoration:none;font-size:.82rem;padding:6px 0}
+  .seg{margin-left:auto;display:flex;border:1px solid var(--line-strong);border-radius:10px}
+  .seg button{border:none;background:transparent;color:var(--muted);cursor:pointer;font-size:.78rem;font-weight:600;min-height:34px;padding:0 10px;border-radius:9px;font-family:inherit}
+  .seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+  :where(a,button):focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:8px}
+  .help{margin-top:14px;font-size:.8rem;color:var(--muted);text-align:center}
+  .help a{color:var(--accent)}
+  /* Шторка ожидания: после успешного входа сервер собирает персональную страницу
+     курса несколько секунд, и до появления тренажёра экран иначе стоит мёртвым */
+  .wait{position:fixed;inset:0;z-index:9;display:flex;align-items:center;justify-content:center;padding:20px;
+        background:linear-gradient(160deg,var(--accent-soft),var(--bg) 55%)}
+  .wait[hidden]{display:none}
+  .wait-box{text-align:center;max-width:320px}
+  .wait-spin{display:block;width:44px;height:44px;margin:0 auto 16px;border-radius:99px;
+             border:3px solid var(--line);border-top-color:var(--accent);animation:waitSpin .9s linear infinite}
+  .wait-lead{margin:0;font-weight:700;font-size:1.05rem}
+  .wait-sub{margin:6px 0 0;color:var(--muted);font-size:.9rem;line-height:1.5}
+  @keyframes waitSpin{to{transform:rotate(360deg)}}
+  @media (prefers-reduced-motion:reduce){.wait-spin{animation-duration:2.4s}}
+</style>
+</head>
+<body>
+<a class="wm" href="/"><span lang="ky">Кыргыз тили</span><small>learn.kg</small></a>
+<form class="card" id="f">
+  <div class="top">
+    <a class="back" href="/" id="i-back">← На главную</a>
+    <span class="seg" id="langs" role="group" aria-label="Язык интерфейса"></span>
+  </div>
+  <h1 lang="ky">Саламатсызбы!</h1>
+  <div class="sub" id="i-sub">Кыргыз тили · курсы кыргызского языка. Войдите, чтобы продолжить.</div>
+  <label for="l" id="i-login">Логин</label>
+  <input id="l" name="username" autocomplete="username" autocapitalize="off" required>
+  <label for="p" id="i-pass">Пароль</label>
+  <input id="p" name="password" type="password" autocomplete="current-password" required>
+  <button type="submit" id="i-btn">Кириңиз · Войти</button>
+  <div class="err" id="e"></div>
+  <div class="help"><span id="i-noacc">Нет доступа?</span> <a href="https://wa.me/996505854856" target="_blank" rel="noopener noreferrer" id="i-wa">Напишите Алтынай в WhatsApp</a></div>
+  <div class="help"><a href="/privacy" id="i-priv">Конфиденциальность</a> · <a href="/terms" id="i-terms">Условия</a></div>
+</form>
+<div class="wait" id="wait" hidden>
+  <div class="wait-box" role="status" aria-live="polite">
+    <span class="wait-spin" aria-hidden="true"></span>
+    <p class="wait-lead" id="i-wlead">Готовим ваше занятие…</p>
+    <p class="wait-sub" id="i-wsub">Собираем ваши карточки и повторения на сегодня.</p>
+  </div>
+</div>
+<script>
+"use strict";
+const LOGIN_I18N={
+  ru:{title:"Вход — Кыргыз тили",back:"← На главную",sub:"Кыргыз тили · курсы кыргызского языка. Войдите, чтобы продолжить.",login:"Логин",pass:"Пароль",btn:"Кириңиз · Войти",noacc:"Нет доступа?",wa:"Напишите Алтынай в WhatsApp",srv:"Сервер недоступен",err:"Ошибка входа",langs:"Язык интерфейса", priv:"Конфиденциальность", terms:"Условия", wlead:"Готовим ваше занятие…", wsub:"Собираем ваши карточки и повторения на сегодня."},
+  en:{title:"Sign in — Kyrgyz language",back:"← Home",sub:"Kyrgyz language · online courses. Sign in to continue.",login:"Username",pass:"Password",btn:"Кириңиз · Sign in",noacc:"No access yet?",wa:"Message Altynai on WhatsApp",srv:"Server unavailable",err:"Sign-in error",langs:"Interface language", priv:"Privacy", terms:"Terms", wlead:"Setting up your session…", wsub:"Collecting your cards and today's reviews."},
+  tr:{title:"Giriş — Kırgız dili",back:"← Ana sayfa",sub:"Kırgız dili · Kırgızca kursları. Devam etmek için giriş yapın.",login:"Kullanıcı adı",pass:"Şifre",btn:"Кириңиз · Giriş",noacc:"Erişiminiz yok mu?",wa:"Altınay'a WhatsApp'tan yazın",srv:"Sunucuya ulaşılamıyor",err:"Giriş hatası",langs:"Arayüz dili", priv:"Gizlilik", terms:"Koşullar", wlead:"Dersiniz hazırlanıyor…", wsub:"Kartlarınız ve bugünün tekrarları hazırlanıyor."}
+};
+// Дефолт — из настроек устройства (ru/tr — как есть, ky → ru: официальный язык, иначе английский); сохранённый выбор важнее
+function loginLang(){const n=String((navigator.language||"")).slice(0,2).toLowerCase();const auto=LOGIN_I18N[n]?n:n==="ky"?"ru":n?"en":"ru";try{const l=localStorage.getItem("kga1-lang");return LOGIN_I18N[l]?l:auto;}catch(e){return auto;}}
+function applyLoginLang(l){
+  if(!LOGIN_I18N[l])l="ru";
+  const d=LOGIN_I18N[l];
+  document.documentElement.lang=l;
+  document.title=d.title;
+  document.getElementById("i-back").textContent=d.back;
+  document.getElementById("i-sub").textContent=d.sub;
+  document.getElementById("i-login").textContent=d.login;
+  document.getElementById("i-pass").textContent=d.pass;
+  document.getElementById("i-btn").textContent=d.btn;
+  document.getElementById("i-noacc").textContent=d.noacc;
+  document.getElementById("i-wa").textContent=d.wa;
+  document.getElementById("i-priv").textContent=d.priv;
+  document.getElementById("i-terms").textContent=d.terms;
+  document.getElementById("i-wlead").textContent=d.wlead;
+  document.getElementById("i-wsub").textContent=d.wsub;
+  const seg=document.getElementById("langs");
+  seg.setAttribute("aria-label",d.langs);
+  seg.querySelectorAll("button").forEach(b=>{b.setAttribute("aria-pressed",String(b.dataset.lang===l));});
+  try{localStorage.setItem("kga1-lang",l);}catch(e){}
+  // и в куку: по ней сервер выбирает языковой вариант витрины при заходе на голый адрес
+  try{document.cookie="kga1-lang="+l+"; Path=/; Max-Age=31536000; SameSite=Lax";}catch(e){}
+}
+const langs=document.getElementById("langs");
+for(const l of Object.keys(LOGIN_I18N)){
+  const b=document.createElement("button");
+  b.type="button"; b.dataset.lang=l; b.textContent=l.toUpperCase();
+  b.addEventListener("click",()=>applyLoginLang(l));
+  langs.appendChild(b);
+}
+applyLoginLang(loginLang());
+/* ===LOGIN-SUBMIT=== вынесено в именованную функцию, чтобы тест исполнял её со
+   заглушками: шторка обязана подниматься на отправке и уходить на ошибке. */
+async function submitLogin(ev){
+  ev.preventDefault();
+  const e = document.getElementById("e");
+  const wait = document.getElementById("wait");
+  e.style.display = "none";
+  // Шторка поднимается сразу: сам вход быстрый, но следом сервер собирает персональную
+  // страницу курса — ожидание в несколько секунд без обратной связи читается как поломка.
+  wait.hidden = false;
+  try {
+    // Абсолютный путь: относительный "api/login" сломается на любом адресе со слешем в конце.
+    const r = await fetch("/api/login", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ login: document.getElementById("l").value.trim(), password: document.getElementById("p").value })
+    });
+    // Эта же форма отдаётся и на /metodika — deep-link должен вернуть туда, куда шли.
+    if (r.ok) { location.replace(location.pathname === "/login" ? "/" : location.pathname); return; }
+    const d = await r.json().catch(() => ({}));
+    wait.hidden = true;                        // неверный пароль — шторка обязана уйти
+    e.textContent = d.error || LOGIN_I18N[loginLang()].err;
+    e.style.display = "block";
+  } catch {
+    wait.hidden = true;
+    e.textContent = LOGIN_I18N[loginLang()].srv;
+    e.style.display = "block";
+  }
+}
+/* ===/LOGIN-SUBMIT=== */
+document.getElementById("f").addEventListener("submit", submitLogin);
+// возврат «назад» из кэша не должен показывать форму под поднятой шторкой
+window.addEventListener("pageshow", () => { document.getElementById("wait").hidden = true; });
+</script>
+</body>
+</html>

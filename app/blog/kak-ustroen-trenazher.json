@@ -1,0 +1,263 @@
+{
+  "slug": "kak-ustroen-trenazher",
+  "published": "2026-08-07",
+  "updated": "2026-10-05",
+  "section": "learn",
+  "og": {"ru": "kak-ustroen-trenazher-ru.png", "en": "kak-ustroen-trenazher-en.png", "tr": "kak-ustroen-trenazher-tr.png"},
+  "langs": {
+    "ru": {
+      "title": "Тренажёр кыргызского языка: как он устроен",
+      "desc": "Тренажёр кыргызского (киргизского) языка изнутри: 1073 фразы с озвучкой, интервалы повторения 1–3–7–16 дней, дриллы на сингармонизм и мини-тест с порогом 80%.",
+      "lead": "Тренажёр learn.kg — это не видеокурс и не учебник в PDF. Это программа, которая каждый день решает за вас, что именно повторить сегодня, чтобы фразы не забывались. Ниже — как она устроена внутри и почему сделана именно так.",
+      "blocks": [
+        {
+          "h": "Не уроки, а ежедневная работа с фразами",
+          "p": [
+            "Курс уровня A1 состоит из 12 модулей, и в них 1073 живые фразы — не отдельные слова из словаря, а то, что действительно говорят: приветствие, вопрос на базаре, разговор о семье, дорога до нужной улицы.",
+            "Каждый модуль устроен одинаково: обзор с текстом недели, справочник (алфавит или грамматика), карточки, грамматический дрилл (в первом модуле — на сингармонизм) и мини-тест. Такая повторяющаяся форма важнее разнообразия: вы перестаёте тратить силы на «как здесь всё работает» и тратите их на язык."
+          ]
+        },
+        {
+          "h": "Интервальные повторения: карточка возвращается вовремя",
+          "p": [
+            "Главная механика — интервальный повтор. Ответили верно — фраза уходит на паузу и возвращается через 1 день, потом через 3, потом через 7, потом через 16. Ошиблись — карточка тут же вернётся в повторение, а лестница интервалов откатится на ступень назад.",
+            "Смысл в том, чтобы встречать фразу в момент, когда вы вот-вот её забудете: именно такое усилие вспоминания и переводит слова в долговременную память. Поэтому в тренажёре нет кнопки «пройти весь модуль за вечер» — заучивание пачкой даёт красивый результат сегодня и пустоту через неделю."
+          ]
+        },
+        {
+          "h": "Озвучка к каждой фразе и замедленное воспроизведение",
+          "p": [
+            "У фраз есть озвучка, вычитанная преподавателем, и её можно включить на половинной скорости, не теряя высоты голоса. Это нужно для звуков, которых нет в русском: ң, ө, ү.",
+            "Приём простой: сначала слушаете на обычной скорости, потом на замедленной, потом повторяете вслух и слушаете снова. Три-четыре подхода к одной фразе дают больше, чем двадцать прочитанных глазами."
+          ]
+        },
+        {
+          "h": "Сингармонизм — навык, который решает всё остальное",
+          "p": [
+            "В кыргызском гласные внутри слова согласуются друг с другом, и от этого зависит, какой вариант аффикса выбрать: -да, -де, -до или -дө, а после глухих согласных д превращается в т (-та, -те, -то, -тө). Это не исключение и не тонкость для продвинутых — это база, без которой не построить ни одной фразы.",
+            "Поэтому под сингармонизм отведён отдельный тренажёр-дрилл: вы не заучиваете таблицу, а раз за разом выбираете нужный вариант, пока правило не станет автоматическим."
+          ]
+        },
+        {
+          "h": "Мини-тест: 20 заданий и порог в 80%",
+          "p": [
+            "Модуль считается сданным, когда вы набираете 16 правильных ответов из 20. Порог именно такой, чтобы случайное угадывание не проходило, а одна-две ошибки не отбрасывали назад.",
+            "Задания смешанные: выбор перевода, ввод слова и грамматический дрилл. В зачётный тест полного курса попадают только фразы, которые вычитал преподаватель, — сомнительный материал до теста не доходит.",
+            "Результат сохраняется вместе с историей попыток, поэтому видно не только «сдал», но и как менялся результат: две неудачные попытки подряд — сигнал преподавателю, что тему стоит разобрать вместе."
+          ]
+        },
+        {
+          "h": "Пятнадцать минут в день против трёх часов в воскресенье",
+          "p": [
+            "У каждого модуля есть недельный план: в первые дни вводятся новые темы, дальше идёт перемешанное повторение, к концу недели — ролевой диалог и разгрузочный день только с карточками.",
+            "Дневная норма — 15–20 минут. Это не занижение планки: при интервальных повторениях регулярность даёт больше, чем длительность, а пропущенная неделя стоит дороже, чем пропущенный час."
+          ]
+        },
+        {
+          "h": "Три языка интерфейса и работа без интернета",
+          "p": [
+            "Объяснения доступны на русском, английском и турецком — кыргызский вводится постепенно, готовыми фразами, а не через грамматические термины. Турецкий выбран не случайно: для говорящих по-турецки многие конструкции окажутся знакомыми.",
+            "Тренажёр можно установить на телефон как приложение: начатое занятие продолжается и без сети — карточки работают офлайн, а озвучке и загрузке модулей нужно подключение. Прогресс синхронизируется, когда связь вернётся."
+          ]
+        },
+        {
+          "h": "С чего начать",
+          "p": [
+            "Демо-версия открыта без регистрации: 37 фраз с озвучкой, дрилл на сингармонизм, алфавит и укороченный мини-тест — этого достаточно, чтобы понять, подходит ли вам такой формат.",
+            "Полный курс открывает преподаватель: он же вычитывает материал, видит ваш прогресс и разбирает сложные места. Условия занятий обсуждаются с ним напрямую."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz language trainer: how it works",
+      "desc": "Inside the learn.kg practice app: 1073 real phrases with audio, review intervals of 1–3–7–16 days, vowel-harmony drills and a mini-quiz with an 80% threshold.",
+      "lead": "The learn.kg trainer is not a video course and not a PDF textbook. It is a program that decides every day what exactly you should review, so the phrases you learned do not quietly disappear. Here is how it works inside, and why it is built this way.",
+      "blocks": [
+        {
+          "h": "Not lessons, but daily work with phrases",
+          "p": [
+            "The A1 course has 12 modules holding 1073 real-life phrases — not isolated dictionary words, but what people actually say: a greeting, a question at the bazaar, a conversation about family, directions to the street you need.",
+            "Every module has the same shape: an overview with the week's text, a reference section (the alphabet or grammar), flashcards, a grammar drill (vowel harmony in the first module) and a quiz. That repetition of form matters more than variety: you stop spending energy on “how does this screen work” and spend it on the language."
+          ]
+        },
+        {
+          "h": "Spaced repetition: the card comes back at the right moment",
+          "p": [
+            "The core mechanic is spaced repetition. Answer correctly and the phrase is paused, then returns after 1 day, then 3, then 7, then 16. Get it wrong and the card returns to review right away, while the ladder of intervals steps back one rung.",
+            "The point is to meet a phrase just as you are about to forget it: that effort of recall is what moves words into long-term memory. This is why there is no “finish the whole module tonight” button — cramming looks impressive today and leaves nothing a week later."
+          ]
+        },
+        {
+          "h": "Audio for every phrase, and half-speed playback",
+          "p": [
+            "Phrases carry audio proofread by the teacher, and you can play it at half speed without the voice changing pitch. That matters for the sounds Russian and English do not have: ң, ө, ү.",
+            "The routine is simple: listen at normal speed, then slowed down, then say it aloud and listen again. Three or four passes over one phrase do more than twenty phrases read with your eyes."
+          ]
+        },
+        {
+          "h": "Vowel harmony — the skill everything else rests on",
+          "p": [
+            "In Kyrgyz the vowels inside a word agree with each other, and that decides which affix variant you need: -да, -де, -до or -дө, and after voiceless consonants д turns into т (-та, -те, -то, -тө). This is not an advanced subtlety — it is the base, and without it you cannot build a single sentence.",
+            "That is why vowel harmony gets a drill of its own: instead of memorising a table you keep choosing the right variant until the rule becomes automatic."
+          ]
+        },
+        {
+          "h": "The quiz: 20 tasks and an 80% threshold",
+          "p": [
+            "A module counts as passed at 16 correct answers out of 20. The threshold is set so that random guessing does not pass, while one or two slips do not throw you back.",
+            "Tasks are mixed: choosing a translation, typing a word and a grammar drill. In the full course only phrases proofread by the teacher enter the graded quiz — unverified material never reaches it.",
+            "The result is stored together with the history of attempts, so you see not only “passed” but how the score moved. Two failed attempts in a row are a signal to the teacher that the topic is worth going through together."
+          ]
+        },
+        {
+          "h": "Fifteen minutes a day beats three hours on Sunday",
+          "p": [
+            "Every module has a weekly plan: new topics are introduced in the first days, then comes interleaved review, and the week ends with a role-play dialogue and a lighter day of flashcards only.",
+            "The daily norm is 15–20 minutes. That is not a low bar: with spaced repetition regularity does more than duration, and a missed week costs far more than a missed hour."
+          ]
+        },
+        {
+          "h": "Three interface languages, and it works offline",
+          "p": [
+            "Explanations are available in Russian, English and Turkish, and Kyrgyz is introduced gradually through ready-made phrases rather than grammatical terminology. Turkish is not a random choice: Turkish speakers will find many structures familiar.",
+            "The trainer can be installed on a phone as an app: a session you started keeps working offline — flashcards run without a connection, while audio and loading modules need one. Progress syncs once you are back online."
+          ]
+        },
+        {
+          "h": "Where to start",
+          "p": [
+            "The demo is open without sign-up: 37 phrases with audio, the vowel-harmony drill, the alphabet and a shortened mini-quiz — enough to tell whether this format suits you.",
+            "The full course is opened by the teacher, who also proofreads the material, sees your progress and works through the hard parts with you. Terms of study are arranged with them directly."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızca alıştırma sistemi nasıl çalışır?",
+      "desc": "learn.kg alıştırma sistemine içeriden bakış: sesli 1073 günlük ifade, 1–3–7–16 günlük tekrar aralıkları, ünlü uyumu alıştırmaları ve %80 eşikli mini sınav.",
+      "lead": "learn.kg alıştırma sistemi bir video kursu ya da PDF ders kitabı değil. Her gün, öğrendiğiniz ifadeler sessizce kaybolmasın diye tam olarak neyi tekrar etmeniz gerektiğine karar veren bir program. Aşağıda içeride nasıl çalıştığını ve neden böyle kurulduğunu anlatıyoruz.",
+      "blocks": [
+        {
+          "h": "Ders değil, ifadelerle günlük çalışma",
+          "p": [
+            "A1 kursu 12 modülden oluşuyor ve içinde 1073 günlük ifade var — sözlükten kopmuş tek tek kelimeler değil, insanların gerçekten söyledikleri: bir selamlama, pazarda bir soru, aile hakkında bir sohbet, aradığınız sokağın tarifi.",
+            "Her modülün biçimi aynı: haftanın metniyle genel bakış, başvuru bölümü (alfabe ya da dilbilgisi), kartlar, dilbilgisi alıştırması (ilk modülde ünlü uyumu) ve mini sınav. Bu tekrar eden biçim çeşitlilikten daha değerli: enerjinizi “bu ekran nasıl çalışıyor” sorusuna değil, dile harcarsınız."
+          ]
+        },
+        {
+          "h": "Aralıklı tekrar: kart tam zamanında geri gelir",
+          "p": [
+            "Temel mekanik aralıklı tekrardır. Doğru cevaplarsanız ifade beklemeye alınır ve 1 gün sonra, ardından 3, sonra 7, sonra 16 gün sonra geri döner. Yanlış cevaplarsanız kart hemen tekrara döner, aralık merdiveni ise bir basamak geri iner.",
+            "Amaç, ifadeyle tam unutmak üzereyken karşılaşmaktır: hatırlama çabası kelimeleri uzun süreli belleğe taşıyan şeydir. Bu yüzden “bütün modülü bu akşam bitir” diye bir düğme yok — bir gecede ezberlemek bugün etkileyici görünür, bir hafta sonra geriye hiçbir şey kalmaz."
+          ]
+        },
+        {
+          "h": "Her ifade için ses ve yarım hızda dinleme",
+          "p": [
+            "İfadelerin öğretmen tarafından düzeltiden geçirilmiş sesi var ve bunu, ses tonu bozulmadan yarım hızda dinleyebilirsiniz. Özellikle Türkçede karşılığı olmayan ң sesi için bu önemlidir.",
+            "Yöntem basit: önce normal hızda dinleyin, sonra yavaşlatılmış hâlde, ardından yüksek sesle tekrarlayıp yeniden dinleyin. Tek bir ifade üzerinde üç dört tur, gözle okunan yirmi ifadeden daha çok işe yarar."
+          ]
+        },
+        {
+          "h": "Ünlü uyumu — diğer her şeyin dayandığı beceri",
+          "p": [
+            "Kırgızcada kelime içindeki ünlüler birbiriyle uyumludur ve hangi ek biçiminin gerektiğini bu belirler: -да, -де, -до ya da -дө; tonsuz ünsüzlerden sonra д, т olur (-та, -те, -то, -тө). Bu ileri seviye bir incelik değil, temeldir; onsuz tek bir cümle kuramazsınız.",
+            "Bu yüzden ünlü uyumunun kendi alıştırması var: bir tabloyu ezberlemek yerine, kural kendiliğinden gelene kadar doğru biçimi seçmeye devam edersiniz."
+          ]
+        },
+        {
+          "h": "Mini sınav: 20 görev ve %80 eşiği",
+          "p": [
+            "Bir modül, 20 sorudan 16'sı doğru olduğunda geçilmiş sayılır. Eşik tam bu yüzden böyle seçildi: rastgele tahmin geçmesin, bir iki hata da sizi geri atmasın diye.",
+            "Görevler karışık: çeviri seçme, kelime yazma ve dilbilgisi alıştırması. Tam kursun puanlı sınavına yalnızca düzeltiden geçen ifadeler girer — doğrulanmamış malzeme oraya ulaşmaz.",
+            "Sonuç, denemelerin geçmişiyle birlikte saklanır; böylece yalnızca “geçti” değil, puanın nasıl değiştiği de görünür. Üst üste iki başarısız deneme, öğretmen için konuyu birlikte ele alma sinyalidir."
+          ]
+        },
+        {
+          "h": "Günde on beş dakika, pazar günü üç saatten iyidir",
+          "p": [
+            "Her modülün haftalık planı var: ilk günlerde yeni konular verilir, ardından karışık tekrar gelir, hafta rol yapma diyaloğu ve yalnızca kartlardan oluşan hafif bir günle biter.",
+            "Günlük ölçü 15–20 dakika. Bu, çıtayı düşürmek değil: aralıklı tekrarda düzenlilik süreden daha çok iş görür ve kaçırılan bir hafta, kaçırılan bir saatten çok daha pahalıya gelir."
+          ]
+        },
+        {
+          "h": "Üç arayüz dili ve internetsiz çalışma",
+          "p": [
+            "Açıklamalar Rusça, İngilizce ve Türkçe olarak var; Kırgızca dilbilgisi terimleriyle değil, hazır ifadelerle adım adım giriyor. Türkçenin seçilmesi rastlantı değil: Türkçe konuşanlar birçok yapıyı tanıdık bulacak.",
+            "Sistem telefona uygulama olarak kurulabilir: başladığınız çalışma bağlantısız da sürer — kartlar çevrimdışı çalışır, ses ve modül yükleme için bağlantı gerekir. Bağlantı geri geldiğinde ilerleme eşitlenir."
+          ]
+        },
+        {
+          "h": "Nereden başlamalı",
+          "p": [
+            "Demo kayıt olmadan açık: sesli 37 ifade, ünlü uyumu alıştırması, alfabe ve kısaltılmış mini sınav — bu biçimin size uyup uymadığını anlamak için yeterli.",
+            "Tam kursu öğretmen açar; malzemeyi de o okuyup düzeltir, ilerlemenizi görür ve zorlandığınız yerleri sizinle birlikte çalışır. Çalışma koşulları doğrudan onunla görüşülür."
+          ]
+        }
+      ]
+    }
+  },
+  "figs": {
+    "1": "intervals",
+    "2": "audio",
+    "3": "harmony",
+    "4": "quiz",
+    "5": "week"
+  },
+  "refs": [
+    {
+      "authors": "Murre J.M.J., Dros J.",
+      "year": 2015,
+      "title": "Replication and Analysis of Ebbinghaus' Forgetting Curve",
+      "source": "PLOS ONE 10(7)",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644"
+    },
+    {
+      "authors": "Cepeda N.J., Pashler H., Vul E., Wixted J.T., Rohrer D.",
+      "year": 2006,
+      "title": "Distributed practice in verbal recall tasks: A review and quantitative synthesis",
+      "source": "Psychological Bulletin 132(3), 354–380",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16719566/"
+    },
+    {
+      "authors": "Roediger H.L., Karpicke J.D.",
+      "year": 2006,
+      "title": "Test-enhanced learning: Taking memory tests improves long-term retention",
+      "source": "Psychological Science 17(3), 249–255",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/"
+    },
+    {
+      "authors": "Dunlosky J., Rawson K.A., Marsh E.J., Nathan M.J., Willingham D.T.",
+      "year": 2013,
+      "title": "Improving Students' Learning With Effective Learning Techniques",
+      "source": "Psychological Science in the Public Interest 14(1), 4–58",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26173288/"
+    },
+    {
+      "authors": "Washington J.N., Ipasov M., Tyers F.M.",
+      "year": 2012,
+      "title": "A finite-state morphological transducer for Kyrgyz",
+      "source": "Proceedings of LREC 2012, 934–940",
+      "url": "https://aclanthology.org/L12-1642/"
+    },
+    {
+      "authors": "Council of Europe / European Union (Europass)",
+      "year": 2001,
+      "title": "Common European Framework of Reference for Languages: self-assessment grid (A1)",
+      "source": "europass.europa.eu",
+      "url": "https://europass.europa.eu/en/common-european-framework-reference-language-skills"
+    },
+    {
+      "authors": "Anderson-Hsieh J., Dauer R.M.",
+      "year": 1997,
+      "title": "Slowed-Down Speech: A Teaching Tool for Listening/Pronunciation",
+      "source": "TESOL '97, ERIC ED413774",
+      "url": "https://files.eric.ed.gov/fulltext/ED413774.pdf"
+    }
+  ],
+  "related": [
+    "pochemu-regulyarno",
+    "kyrgyzskiy-alfavit"
+  ]
+}

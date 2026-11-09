@@ -1,0 +1,370 @@
+{
+ "slug": "kak-uchit-kyrgyzskiy",
+ "published": "2026-08-17",
+ "updated": "2026-10-30",
+ "section": "learn",
+ "og": {"ru": "kak-uchit-kyrgyzskiy-ru.png", "en": "kak-uchit-kyrgyzskiy-en.png", "tr": "kak-uchit-kyrgyzskiy-tr.png"},
+ "refs": [
+  {
+   "authors": "Center for Languages of the Central Asian Region (CeLCAR), Indiana University",
+   "year": 2024,
+   "title": "Kyrgyz: Language Portal",
+   "source": "Indiana University",
+   "url": "https://celcar.indiana.edu/materials/language-portal/kyrgyz.html"
+  },
+  {
+   "authors": "Peace Corps Kyrgyz Republic",
+   "year": 2015,
+   "title": "Kyrgyz language course and audio materials",
+   "source": "Peace Corps archive (Live Lingua Project)",
+   "url": "https://www.livelingua.com/project/peace-corps/Kyrgyz"
+  },
+  {
+   "authors": "Council of Europe / Europass",
+   "year": 2020,
+   "title": "Common European Framework of Reference for Languages: self-assessment grid",
+   "source": "European Commission",
+   "url": "https://europass.europa.eu/en/common-european-framework-reference-language-skills"
+  },
+  {
+   "authors": "Ager S.",
+   "year": 2025,
+   "title": "Kyrgyz language and alphabets",
+   "source": "Omniglot",
+   "url": "https://www.omniglot.com/writing/kirghiz.htm"
+  }
+ ],
+ "related": [
+  "pochemu-regulyarno",
+  "skolko-vremeni-uchit-kyrgyzskiy",
+  "kyrgyzskiy-alfavit"
+ ],
+ "faq": {
+  "ru": [
+   {
+    "q": "Можно ли выучить кыргызский самостоятельно?",
+    "a": "До уровня A1 — да: алфавит осваивается за вечер, а базовые фразы и грамматику можно взять из учебных материалов и карточек с озвучкой. Дальше самостоятельная работа упирается в говорение: ошибки в речи и звуках без внешней проверки закрепляются, поэтому к A2–B1 обычно добавляют занятия с преподавателем или регулярную практику с носителем."
+   },
+   {
+    "q": "Сколько времени нужно, чтобы выучить кыргызский?",
+    "a": "До A1 при 15–20 минутах в день — обычно несколько месяцев; международный ориентир для пути до B1 — 350–400 учебных часов. Решает не длина занятия, а его регулярность: ежедневные короткие подходы дают больше, чем редкие длинные."
+   },
+   {
+    "q": "Есть ли приложение для изучения кыргызского?",
+    "a": "Крупные массовые приложения кыргызский покрывают слабо — это малоресурсный язык. Работающая замена: карточки с озвучкой носителя и интервальным повторением плюс разговорник живых фраз; именно по этому принципу устроен тренажёр learn.kg."
+   },
+   {
+    "q": "Где взять бесплатные материалы по кыргызскому?",
+    "a": "Языковой портал CeLCAR Университета Индианы, архив курсов и аудио Корпуса мира, описание письменности на Omniglot, а также наш бесплатный разговорник с озвучкой, переводчик частых фраз и тест уровня. Ссылки на все источники — в конце статьи."
+   }
+  ],
+  "en": [
+   {
+    "q": "Can I learn Kyrgyz on my own?",
+    "a": "Up to A1, yes: the alphabet takes one evening, and basic phrases and grammar are available in course materials and flashcards with audio. Beyond that, self-study hits a wall at speaking — mistakes in speech and sounds get reinforced without correction, so learners usually add a teacher or regular practice with a native speaker on the way to A2–B1."
+   },
+   {
+    "q": "How long does it take to learn Kyrgyz?",
+    "a": "A1 usually takes a few months at 15–20 minutes a day; the common international benchmark for reaching B1 is 350–400 guided hours. Consistency matters more than session length: short daily sessions beat rare long ones."
+   },
+   {
+    "q": "Is there a good app for learning Kyrgyz?",
+    "a": "Mainstream apps barely cover Kyrgyz — it is a low-resource language. What works instead: flashcards with native audio and spaced repetition plus a phrasebook of real-life phrases. That is exactly how the learn.kg trainer is built."
+   },
+   {
+    "q": "Where can I find free Kyrgyz learning materials?",
+    "a": "The CeLCAR language portal at Indiana University, the Peace Corps course and audio archive, the Omniglot page on the writing system — plus our free phrasebook with native audio, phrase translator and level test. All sources are listed at the end of this article."
+   }
+  ],
+  "tr": [
+   {
+    "q": "Kırgızcayı kendi kendime öğrenebilir miyim?",
+    "a": "A1 düzeyine kadar evet: alfabe bir akşamda öğrenilir, temel kalıplar ve dilbilgisi ders malzemelerinden ve sesli kartlardan alınabilir. Sonrasında kendi kendine çalışma konuşmada tıkanır: düzeltilmeyen telaffuz ve dilbilgisi hataları yerleşir, bu yüzden A2–B1 yolunda genellikle öğretmen ya da ana dili konuşuruyla düzenli pratik eklenir."
+   },
+   {
+    "q": "Kırgızca öğrenmek ne kadar sürer?",
+    "a": "Günde 15–20 dakikayla A1 genellikle birkaç ay alır; B1'e giden yol için yaygın uluslararası ölçüt 350–400 ders saatidir. Belirleyici olan ders süresi değil, süreklilik: kısa ve her gün, seyrek ve uzundan iyidir."
+   },
+   {
+    "q": "Kırgızca için iyi bir uygulama var mı?",
+    "a": "Yaygın uygulamalar Kırgızcayı neredeyse kapsamıyor; Kırgızca az kaynaklı bir dil. İşe yarayan yol: ana dili sesiyle kartlar ve aralıklı tekrar, yanına gerçek hayattan kalıpların olduğu bir konuşma kılavuzu. learn.kg alıştırma programı tam bu mantıkla kurulu."
+   },
+   {
+    "q": "Ücretsiz Kırgızca materyalleri nerede bulabilirim?",
+    "a": "Indiana Üniversitesi CeLCAR dil portalı, Peace Corps ders ve ses arşivi, Omniglot'un yazı sistemi sayfası; ayrıca bizim ücretsiz sesli konuşma kılavuzumuz, kalıp çevirici ve düzey testi. Tüm kaynaklar yazının sonunda."
+   }
+  ]
+ },
+ "langs": {
+  "ru": {
+   "title": "Как учить кыргызский: все способы и что работает",
+   "desc": "Самоучитель, приложения, разговорник с озвучкой, занятия с преподавателем и погружение: что каждый способ даёт, чего не даёт и с чего начать первую неделю.",
+   "lead": "Кыргызский — малоресурсный язык: готовых курсов на каждом углу нет, и это одновременно проблема и подсказка. Проблема — материалы приходится собирать. Подсказка — работающих способов всего пять, и их легко сложить в один план. Разбираем каждый честно: что он даёт, чего не даёт и сколько времени просит.",
+   "blocks": [
+    {
+     "h": "Пять способов и один принцип, который важнее выбора",
+     "p": [
+      "Учить язык можно по учебнику, через приложения и карточки, по разговорнику с озвучкой, с преподавателем и погружением в среду. Ни один из них не «лучший»: они закрывают разные навыки, и сильный план обычно складывается из двух-трёх.",
+      "Принцип, который важнее выбора способа: регулярность. Пятнадцать минут каждый день дают больше, чем три часа раз в неделю, — память устроена так, что удерживает то, к чему вы возвращаетесь. Об этом у нас есть ((отдельный разбор с исследованиями|/blog/pochemu-regulyarno/ru))."
+     ]
+    },
+    {
+     "h": "Сравнение способов без иллюзий",
+     "p": [
+      "Таблица собрана по одному правилу: рядом с тем, что способ даёт, стоит то, чего он не даёт. Именно вторая колонка объясняет, почему один способ обычно не срабатывает."
+     ],
+     "t": {
+      "head": [
+       "Способ",
+       "Что даёт",
+       "Чего не даёт",
+       "Реалистичный срок до A1"
+      ],
+      "rows": [
+       [
+        "Самостоятельно по учебнику",
+        "грамматику и системность, дешёвый старт",
+        "произношение и живую речь — некому поправить",
+        "6–12 месяцев, если не бросить"
+       ],
+       [
+        "Приложения и карточки",
+        "регулярность, словарь, повторение по интервалам",
+        "связную речь и понимание на слух в диалоге",
+        "4–8 месяцев при ежедневных 15–20 минутах"
+       ],
+       [
+        "Разговорник с озвучкой носителя",
+        "правильные звуки и готовые фразы для жизни",
+        "грамматику и умение строить свои фразы",
+        "дополняет любой способ, не заменяет"
+       ],
+       [
+        "Занятия с преподавателем",
+        "исправление ошибок, говорение, план и дисциплину",
+        "чуда без домашней работы между занятиями",
+        "3–6 месяцев вместе с ежедневной практикой"
+       ],
+       [
+        "Погружение (жизнь среди носителей)",
+        "аудирование и спонтанную речь быстрее всего",
+        "чтение, письмо и системную грамматику",
+        "быстро для речи, неровно по остальным навыкам"
+       ]
+      ]
+     }
+    },
+    {
+     "h": "Первая неделя: конкретный план",
+     "p": [
+      "День первый — ((кыргызский алфавит|/blog/kyrgyzskiy-alfavit/ru)): 36 букв, из которых новые только три — ң, ө и ү. Вечер, и вы читаете любое слово.",
+      "Дни второй–четвёртый — тридцать живых фраз: приветствия, знакомство, вежливость. Берите их сразу с озвучкой носителя в ((разговорнике|/razgovornik/ru#salam)) и повторяйте вслух — на этом этапе важнее звук, чем правила.",
+      "Дни пятый–седьмой — первые правила: сингармонизм и порядок слов. К концу недели пройдите ((бесплатный тест уровня|/test/ru)), чтобы увидеть точку старта, а не догадываться о ней."
+     ]
+    },
+    {
+     "h": "Сколько времени это займёт по-честному",
+     "p": [
+      "До A1 при ежедневных 15–20 минутах обычно уходит несколько месяцев, а международный ориентир для пути до B1 — 350–400 учебных часов. Если вам нужен уровень к дате — например, по требованиям к госслужащим, — считайте недели назад от дедлайна: ((подробный расчёт сроков|/blog/skolko-vremeni-uchit-kyrgyzskiy/ru)) мы разобрали отдельно.",
+      "Уровень владения подтверждает государственное тестирование по кыргызскому языку. Формат, уровни и запись на тестирование — на официальном сайте: kyrgyztest.gov.kg; о подготовке — в ((статье о том, как готовиться к тестированию|/blog/gostestirovanie-kak-podgotovitsya/ru))."
+     ]
+    },
+    {
+     "h": "Где брать материалы, если их «нет»",
+     "p": [
+      "Материалы есть, просто они не на первой полке. Языковой портал CeLCAR Университета Индианы даёт академическое описание языка. Архив Корпуса мира — учебный курс с аудио, собранный для работы в Кыргызстане. Omniglot объясняет письменность.",
+      "Наша часть этого набора — бесплатная и без регистрации: ((разговорник с озвучкой носителя|/razgovornik/ru)), ((переводчик частых фраз|/perevodchik/ru)) и ((тест уровня|/test/ru)). Ссылки на все внешние источники — в конце статьи."
+     ]
+    },
+    {
+     "h": "Четыре ошибки, из-за которых бросают",
+     "p": [
+      "Первая — начинать с грамматики вместо звуков: язык, который вы не слышите, не запоминается. Вторая — учить молча: кыргызские ө, ү и ң ставятся только вслух, повторением за носителем. Проще всего ставить их, если учить ((кыргызский язык онлайн|/ru)) — в тренажёре каждая фраза озвучена носителем.",
+      "Третья — рывки: две недели по два часа, потом месяц тишины. Четвёртая — учить «про язык» вместо языка: коллекция правил не помогает понять вопрос и ответить на него. Проверить, как ощущается работающий формат, можно за десять минут в ((демо-уроке|/demo/ru)) — там живые фразы с озвучкой, дрилл и мини-тест.",
+      "Первые слова с озвучкой по одному: ((мама и папа|/slovo/mama-papa/ru)), ((брат и сестра|/slovo/brat-sestra/ru)), ((числа от 1 до 10|/slovo/chisla/ru)), ((доброе утро|/slovo/dobroe-utro/ru))."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "How to learn Kyrgyz: every method that works",
+   "desc": "Self-study, apps, an audio phrasebook, lessons with a teacher and immersion: what each method gives you, what it does not, and how to plan your first week.",
+   "lead": "Kyrgyz is a low-resource language: there is no course on every corner, and that is both the problem and the hint. The problem is that you have to assemble materials yourself. The hint is that there are only five methods that actually work, and they combine into one plan. Here is an honest look at each: what it gives you, what it does not, and how much time it asks for.",
+   "blocks": [
+    {
+     "h": "Five methods, and one principle that matters more",
+     "p": [
+      "You can learn from a textbook, through apps and flashcards, from a phrasebook with audio, with a teacher, or by immersion. None of them is “the best”: they cover different skills, and a strong plan usually combines two or three.",
+      "The principle that matters more than the choice is consistency. Fifteen minutes every day beat three hours once a week — memory keeps what you come back to. We covered the research behind that ((in a separate article|/blog/pochemu-regulyarno/en))."
+     ]
+    },
+    {
+     "h": "The methods compared, without illusions",
+     "p": [
+      "The table follows one rule: next to what a method gives you stands what it does not. That second column is why a single method rarely works on its own."
+     ],
+     "t": {
+      "head": [
+       "Method",
+       "What it gives you",
+       "What it does not",
+       "Realistic time to A1"
+      ],
+      "rows": [
+       [
+        "Self-study from a textbook",
+        "grammar and structure, a cheap start",
+        "pronunciation and live speech — nobody corrects you",
+        "6–12 months if you keep going"
+       ],
+       [
+        "Apps and flashcards",
+        "consistency, vocabulary, spaced repetition",
+        "connected speech and listening in real dialogue",
+        "4–8 months at 15–20 minutes a day"
+       ],
+       [
+        "Phrasebook with native audio",
+        "correct sounds and ready-made real-life phrases",
+        "grammar and the ability to build your own sentences",
+        "complements any method, replaces none"
+       ],
+       [
+        "Lessons with a teacher",
+        "error correction, speaking practice, a plan and discipline",
+        "no miracle without homework between lessons",
+        "3–6 months alongside daily practice"
+       ],
+       [
+        "Immersion (living among speakers)",
+        "listening and spontaneous speech fastest of all",
+        "reading, writing and systematic grammar",
+        "fast for speech, uneven across the other skills"
+       ]
+      ]
+     }
+    },
+    {
+     "h": "Your first week, concretely",
+     "p": [
+      "Day one — the ((Kyrgyz alphabet|/blog/kyrgyzskiy-alfavit/en)): 36 letters, of which only three are new — ң, ө and ү. One evening, and you can read any word.",
+      "Days two to four — thirty real phrases: greetings, introductions, politeness. Take them straight with native audio from the ((phrasebook|/razgovornik/en#salam)) and repeat out loud; at this stage sound matters more than rules.",
+      "Days five to seven — your first rules: vowel harmony and word order. End the week with the ((free level test|/test/en)) so you know your starting point instead of guessing it."
+     ]
+    },
+    {
+     "h": "How long it really takes",
+     "p": [
+      "A1 usually takes a few months at 15–20 minutes a day, and the common international benchmark for reaching B1 is 350–400 guided hours. If you need a level by a date, count the weeks backwards from your deadline — we worked through ((the arithmetic of timelines|/blog/skolko-vremeni-uchit-kyrgyzskiy/en)) separately.",
+      "Your level is certified by the state Kyrgyz language test. Format, levels and registration — on the official testing website: kyrgyztest.gov.kg; for preparation, see ((how to prepare for the test|/blog/gostestirovanie-kak-podgotovitsya/en))."
+     ]
+    },
+    {
+     "h": "Where to find materials when “there are none”",
+     "p": [
+      "The materials exist, they are just not on the first shelf. The CeLCAR language portal at Indiana University gives an academic description of the language. The Peace Corps archive holds a course with audio built for service in Kyrgyzstan. Omniglot explains the writing system.",
+      "Our part of that set is free and needs no sign-up: a ((phrasebook with native audio|/razgovornik/en)), a ((translator of common phrases|/perevodchik/en)) and a ((level test|/test/en)). All external sources are listed at the end of this article."
+     ]
+    },
+    {
+     "h": "Four mistakes that make people quit",
+     "p": [
+      "First, starting with grammar instead of sounds: a language you cannot hear does not stick. Second, studying silently — Kyrgyz ө, ү and ң are only mastered aloud, by repeating after a native speaker. The easiest way to practise them is to ((learn Kyrgyz online|/en)) — every phrase in the trainer is voiced by a native speaker.",
+      "Third, working in bursts: two weeks of two-hour sessions, then a month of silence. Fourth, learning *about* the language instead of the language: a collection of rules does not help you understand a question and answer it. To feel what a working format is like, spend ten minutes in the ((demo lesson|/demo/en)) — real phrases with audio, a drill and a mini-test.",
+      "First words with audio, one at a time: ((mum and dad|/slovo/mama-papa/en)), ((brother and sister|/slovo/brat-sestra/en)), ((numbers 1 to 10|/slovo/chisla/en)), ((good morning|/slovo/dobroe-utro/en))."
+     ]
+    }
+   ]
+  },
+  "tr": {
+   "title": "Kırgızca nasıl öğrenilir: işe yarayan yöntemler",
+   "desc": "Kendi kendine çalışma, uygulamalar, sesli konuşma kılavuzu, öğretmenle dersler ve daldırma: her yöntem ne verir, ne vermez ve ilk hafta nasıl planlanır.",
+   "lead": "Kırgızca az kaynaklı bir dil: her köşede hazır kurs yok; bu hem sorun hem ipucu. Sorun, malzemeleri kendiniz derlemek zorunda olmanız. İpucu ise gerçekten işe yarayan yöntemlerin yalnızca beş tane olması ve hepsinin tek bir plana oturması. Her birini dürüstçe ele alıyoruz: ne verir, ne vermez, ne kadar zaman ister.",
+   "blocks": [
+    {
+     "h": "Beş yöntem ve seçimden daha önemli olan ilke",
+     "p": [
+      "Kitapla, uygulama ve kartlarla, sesli konuşma kılavuzuyla, öğretmenle ya da dile daldırarak öğrenebilirsiniz. Hiçbiri tek başına “en iyisi” değil: farklı becerileri kapsarlar ve güçlü bir plan genellikle iki üç yöntemi birleştirir.",
+      "Seçimden önemli olan ilke: süreklilik. Her gün on beş dakika, haftada bir üç saatten iyidir; bellek, geri döndüğünüz şeyi tutar. Bunun arkasındaki araştırmaları ((ayrı bir yazıda|/blog/pochemu-regulyarno/tr)) ele aldık."
+     ]
+    },
+    {
+     "h": "Yöntemler yan yana, süslemesiz",
+     "p": [
+      "Tablo tek bir kurala göre kurulu: yöntemin verdiğinin yanında vermediği duruyor. Tek bir yöntemin neden çoğu zaman yetmediğini açıklayan da o ikinci sütun."
+     ],
+     "t": {
+      "head": [
+       "Yöntem",
+       "Ne kazandırır",
+       "Ne kazandırmaz",
+       "A1 için gerçekçi süre"
+      ],
+      "rows": [
+       [
+        "Kitapla kendi kendine",
+        "dilbilgisi ve düzen, ucuz bir başlangıç",
+        "telaffuz ve canlı konuşma — düzelten kimse yok",
+        "bırakmazsanız 6–12 ay"
+       ],
+       [
+        "Uygulamalar ve kartlar",
+        "süreklilik, kelime, aralıklı tekrar",
+        "akıcı konuşma ve diyalogda dinleme",
+        "günde 15–20 dakikayla 4–8 ay"
+       ],
+       [
+        "Ana dili sesli konuşma kılavuzu",
+        "doğru sesler ve hayatta işe yarayan kalıplar",
+        "dilbilgisi ve kendi cümlenizi kurma becerisi",
+        "her yöntemi tamamlar, hiçbirinin yerini almaz"
+       ],
+       [
+        "Öğretmenle dersler",
+        "hata düzeltme, konuşma pratiği, plan ve disiplin",
+        "dersler arası ödev olmadan mucize",
+        "günlük pratikle birlikte 3–6 ay"
+       ],
+       [
+        "Daldırma (konuşurlar arasında yaşamak)",
+        "dinleme ve doğaçlama konuşmayı en hızlı",
+        "okuma, yazma ve sistemli dilbilgisi",
+        "konuşmada hızlı, diğer becerilerde dengesiz"
+       ]
+      ]
+     }
+    },
+    {
+     "h": "İlk hafta, somut olarak",
+     "p": [
+      "Birinci gün — ((Kırgız alfabesi|/blog/kyrgyzskiy-alfavit/tr)): 36 harf, yalnızca üçü yeni — ң, ө ve ү. Bir akşam ve her kelimeyi okuyabilirsiniz.",
+      "İkinci–dördüncü günler — otuz gerçek kalıp: selamlaşma, tanışma, nezaket. Bunları doğrudan ((konuşma kılavuzundan|/razgovornik/tr#salam)) ana dili sesiyle alın ve yüksek sesle tekrarlayın; bu aşamada ses, kurallardan önemli.",
+      "Beşinci–yedinci günler — ilk kurallar: ünlü uyumu ve söz dizimi. Haftayı ((ücretsiz düzey testiyle|/test/tr)) kapatın, böylece başlangıç noktanızı tahmin etmek zorunda kalmazsınız."
+     ]
+    },
+    {
+     "h": "Gerçekte ne kadar sürer",
+     "p": [
+      "Günde 15–20 dakikayla A1 genellikle birkaç ay alır; B1'e giden yol için yaygın uluslararası ölçüt 350–400 ders saati. Belirli bir tarihe kadar bir düzey gerekiyorsa haftaları geriye doğru sayın — ((süre hesabını|/blog/skolko-vremeni-uchit-kyrgyzskiy/tr)) ayrıca ele aldık.",
+      "Düzeyi devlet Kırgızca dil sınavı belgeler. Biçim, seviyeler ve kayıt — resmî sınav sitesinde: kyrgyztest.gov.kg; hazırlık için ((sınava nasıl hazırlanılır yazımıza|/blog/gostestirovanie-kak-podgotovitsya/tr)) bakın."
+     ]
+    },
+    {
+     "h": "“Malzeme yok” denince malzeme nerede",
+     "p": [
+      "Malzeme var, sadece ilk rafta değil. Indiana Üniversitesi CeLCAR dil portalı dilin akademik betimlemesini veriyor. Peace Corps arşivinde Kırgızistan'daki görev için hazırlanmış sesli bir ders seti var. Omniglot yazı sistemini açıklıyor.",
+      "Bu setin bizim tarafımız ücretsiz ve kayıt istemiyor: ((ana dili sesiyle konuşma kılavuzu|/razgovornik/tr)), ((sık kullanılan kalıpların çeviricisi|/perevodchik/tr)) ve ((düzey testi|/test/tr)). Tüm dış kaynaklar yazının sonunda."
+     ]
+    },
+    {
+     "h": "İnsanları bıraktıran dört hata",
+     "p": [
+      "Birincisi, seslerle değil dilbilgisiyle başlamak: duymadığınız dil akılda kalmaz. İkincisi, sessiz çalışmak — Kırgızcanın ө, ү ve ң sesleri ancak yüksek sesle, ana dili konuşurunun ardından tekrarlanarak oturur. Bunları çalışmanın en kolay yolu ((çevrimiçi Kırgızca öğrenmek|/tr)) — sistemdeki her kalıp ana dili konuşuru tarafından seslendirilmiştir.",
+      "Üçüncüsü, ataklarla çalışmak: iki hafta ikişer saat, sonra bir ay sessizlik. Dördüncüsü, dilin kendisi yerine dil *hakkında* öğrenmek: kural koleksiyonu, bir soruyu anlayıp cevaplamanıza yardım etmez. İşleyen formatın nasıl olduğunu ((demo dersinde|/demo/tr)) on dakikada görebilirsiniz — sesli gerçek kalıplar, alıştırma ve mini test.",
+      "İlk kelimeler tek tek, sesli: ((anne ve baba|/slovo/mama-papa/tr)), ((abi ve kardeş|/slovo/brat-sestra/tr)), ((1'den 10'a sayılar|/slovo/chisla/tr)), ((günaydın|/slovo/dobroe-utro/tr))."
+     ]
+    }
+   ]
+  }
+ }
+}

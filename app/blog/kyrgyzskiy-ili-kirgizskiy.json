@@ -1,0 +1,297 @@
+{
+  "slug": "kyrgyzskiy-ili-kirgizskiy",
+  "published": "2026-08-15",
+  "updated": "2026-10-30",
+  "section": "lang",
+  "og": {"ru": "kyrgyzskiy-ili-kirgizskiy-ru.png", "en": "kyrgyzskiy-ili-kirgizskiy-en.png", "tr": "kyrgyzskiy-ili-kirgizskiy-tr.png"},
+  "figs": {
+    "0": "alphabet",
+    "5": "tree"
+  },
+  "related": [
+    "latinica-ili-kirillica",
+    "kyrgyzskiy-alfavit",
+    "den-kyrgyzskogo-yazyka",
+    "yazyk-v-kyrgyzstane"
+  ],
+  "refs": [
+    {
+      "authors": "Ager S.",
+      "year": 2025,
+      "title": "Kyrgyz language and alphabets",
+      "source": "Omniglot",
+      "url": "https://www.omniglot.com/writing/kirghiz.htm"
+    },
+    {
+      "authors": "Hammarström H., Forkel R., Haspelmath M., Bank S.",
+      "year": 2025,
+      "title": "Kirghiz (kirg1245)",
+      "source": "Glottolog",
+      "url": "https://glottolog.org/resource/languoid/id/kirg1245"
+    },
+    {
+      "authors": "Odagiri N.",
+      "year": 2013,
+      "title": "Debates Concerning Elements of Russian Origin in the Kyrgyz Language",
+      "source": "Slavic-Eurasian Research Center, Hokkaido University",
+      "url": "https://src-h.slav.hokudai.ac.jp/jcrees/2013Osaka/72NamiOdagiri.pdf"
+    },
+    {
+      "authors": "Кыргызская Республика",
+      "year": 2021,
+      "title": "Конституция Кыргызской Республики",
+      "source": "Централизованный банк данных правовой информации, Министерство юстиции КР",
+      "url": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru"
+    },
+    {
+      "authors": "Лопатин В. В., Иванова О. Е. (ред.)",
+      "year": 2026,
+      "title": "Русский орфографический словарь: «киргиз», «киргизка»",
+      "source": "Грамота.ру, метасловарь",
+      "url": "https://gramota.ru/meta/kirgizka"
+    },
+    {
+      "authors": "Национальный статистический комитет Кыргызской Республики",
+      "year": 2023,
+      "title": "Перепись населения и жилищного фонда Кыргызской Республики 2022 года. Книга II (часть первая): Население Кыргызстана, табл. 3.8 и 3.9",
+      "source": "stat.gov.kg",
+      "url": "https://www.stat.gov.kg/media/publicationarchive/0f717d2d-5078-4e18-8b56-fb2a530462a2.pdf"
+    }
+  ],
+  "langs": {
+    "ru": {
+      "title": "Кыргызский или киргизский: как правильно пишется",
+      "desc": "«Кыргызский» и «киргизский» — один язык. Откуда взялись два написания и почему правильно писать «кыргызский»: так язык называет сам Кыргызстан.",
+      "lead": "Короткий ответ: пишите «кыргызский». Это форма от самоназвания народа — «кыргыз тили», и именно так язык называют Конституция и официальные тексты Кыргызстана. «Киргизский» — старое русское написание, язык за ними один и тот же. Дальше — откуда взялась разница.",
+      "blocks": [
+        {
+          "h": "Один язык — два написания",
+          "p": [
+            "Речь идёт об одном и том же языке тюркской семьи. По переписи 2022 года он родной для 5,5 миллиона жителей Кыргызстана, ещё почти полмиллиона говорят на нём как на втором языке; кроме того, на кыргызском говорят в диаспорах России, Казахстана, Узбекистана и Китая. Никакой разницы между «кыргызским» и «киргизским» языком нет: одна грамматика, один алфавит, одни и те же слова.",
+            "Разница — только в том, по правилам какого языка записано прилагательное. Сам народ называет себя «кыргыз», а свой язык — «кыргыз тили». Русская литературная традиция ещё с дореволюционных и советских времён адаптировала это слово под привычную фонетику: «киргиз», «киргизский»."
+          ]
+        },
+        {
+          "h": "Откуда взялось «киргизский»",
+          "p": [
+            "Сочетания «кы-» и «гы-» нехарактерны для русской орфографии, и заимствованные слова традиционно «обкатывались» под привычное написание. Так «кыргыз» превратился в «киргиз», а страна на картах СССР писалась «Киргизия» и «Киргизская ССР».",
+            "Эта форма закрепилась в русских словарях и энциклопедиях — поэтому её до сих пор так много в российских текстах, старых учебниках и поисковых запросах."
+          ]
+        },
+        {
+          "h": "Почему в Кыргызстане пишут «кыргызский»",
+          "p": [
+            "После независимости страна закрепила самоназвание: государство называется Кыргызская Республика (Кыргызстан), а государственный язык — кыргызский. Это не «новое слово», а возвращение к оригинальному звучанию: кыргыз тили.",
+            "В русскоязычных текстах, издаваемых в Кыргызстане, — от законов до газет — используется написание «кыргызский». Оно же принято в официальных документах и учебниках. Поэтому на learn.kg мы пишем «кыргызский»: курс сделан в логике страны, где на этом языке живут."
+          ],
+          "proof": [
+            {
+              "quote": "Кыргызский язык - государственный язык Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "Конституция КР, ст. 13 ч. 1 (ЦБД Минюста)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Как писать",
+          "p": [
+            "Пишите «кыргызский»: так называет свой язык сама страна, и это уважение к самоназванию народа. Так пишем и мы на learn.kg.",
+            "«Киргизский» вы ещё встретите в старых словарях и учебниках, поэтому материалы полезно искать по обоим написаниям. Главное — не думать, что это разные языки: учебник «киргизского» и курс «кыргызского» учат одному и тому же."
+          ]
+        },
+        {
+          "h": "Кыргыз, кыргызы, кыргызка: как называть людей",
+          "p": [
+            "То же с названием народа: пишите «кыргыз», «кыргызы», «кыргызка». Формы «киргиз», «киргизы», «киргизка» — то же старое русское написание, которое держат словари, изданные в России.",
+            "Множественное число — «кыргызы»: так написано в русском тексте Конституции Кыргызской Республики. В кыргызском тексте той же статьи стоит «кыргыздар».",
+            "Женщина — «кыргызка», через «-зк-»: так пишут и официальные источники Кыргызстана, например государственное агентство «Кабар». В самом кыргызском языке отдельной женской формы нет — грамматического рода в нём нет вовсе, об этом в разборе ((сложно ли выучить кыргызский|/blog/slozhno-li-vyuchit-kyrgyzskiy/ru))."
+          ],
+          "proof": [
+            {
+              "quote": "Кыргызы, проживающие за пределами Кыргызской Республики, несмотря на наличие гражданства другого государства, вправе получить гражданство Кыргызской Республики в упрощенном порядке.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "Конституция КР, ст. 51 ч. 3, русский текст (ЦБД Минюста)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргыз Республикасынын чегинен тышкары жашаган кыргыздар башка мамлекеттин жараны болгондугуна карабастан, Кыргыз Республикасынын жарандыгын жөнөкөйлөтүлгөн тартипте алууга укуктуу.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/kg",
+              "label": "Конституция КР, ст. 51 ч. 3, кыргызский текст (ЦБД Минюста)",
+              "lang": "ky"
+            },
+            {
+              "quote": "По совместительству она работает диктором Кыргызского радио. Отметим, что она была первой кыргызкой-диктором.",
+              "src": "https://ru.archive.kabar.kg/news/k-prazdniku-8-marta-sakin-begmatova-zhizn-otdannaia-sluzheniiu-gosudarstvu/",
+              "label": "КНИА «Кабар», очерк о Сакен Бегматовой",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Кстати, о самом языке",
+          "p": [
+            "Кыргызский относится к кыпчакской ветви тюркских языков; из крупных языков ближе всего к нему казахский. Пишется кириллицей из 36 букв: все русские плюс три особые — ң, ө, ү. Читается как пишется, ударение почти всегда на последнем слоге, а гласные подчиняются закону сингармонизма.",
+            "Если вы только начинаете — посмотрите наш ((разбор алфавита|/blog/kyrgyzskiy-alfavit/ru)), попробуйте ((бесплатный разговорник с озвучкой|/razgovornik/ru)), найдите нужную фразу в ((переводчике|/perevodchik/ru)) или проверьте себя в ((тесте уровня|/test/ru))."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz or Kirghiz: which spelling is correct?",
+      "desc": "Kyrgyz, Kirghiz and Kirgiz all name the same Turkic language. Where the spellings come from, which one is official, and which you should use — a short history.",
+      "lead": "Short answer: write “Kyrgyz”. It follows the native name and is the official form; “Kirghiz” and “Kirgiz” are older transliterations that came into English via Russian. Here is where the difference comes from.",
+      "blocks": [
+        {
+          "h": "One language, several spellings",
+          "p": [
+            "We are talking about one and the same Turkic language. According to Kyrgyzstan's 2022 census, it is the native language of 5.5 million people in the country, and almost half a million more speak it as a second language; there are also sizeable communities in Russia, Kazakhstan, Uzbekistan and China. There is no linguistic difference behind the spellings: same grammar, same alphabet, same words.",
+            "The people call themselves “Kyrgyz” and their language “кыргыз тили” (kyrgyz tili). English texts of the 19th–20th centuries usually borrowed the name through Russian, which had adapted it to its own phonetics — hence “Kirghiz” and “Kirgiz” in older books, atlases and catalogues."
+          ]
+        },
+        {
+          "h": "Where “Kirghiz” comes from",
+          "p": [
+            "The letter combinations «кы-» and «гы-» are untypical of Russian spelling, so the borrowed word was smoothed into the more familiar “киргиз” (kirgiz), and the country appeared on Soviet maps as “Kirghizia”. English-language scholarship of that era simply copied the Russian-mediated form.",
+            "That is why library catalogues, older linguistic literature and even some databases still index the language under “Kirghiz” — you will meet this spelling in classic grammars and dictionaries, and it is worth knowing when you search for learning materials."
+          ]
+        },
+        {
+          "h": "Why “Kyrgyz” is the form to use today",
+          "p": [
+            "After independence the country fixed its self-designation: the state is the Kyrgyz Republic (Kyrgyzstan), and the state language is Kyrgyz. Modern style guides, news agencies and reference works overwhelmingly use “Kyrgyz” as the primary name (older classifications still list the language under “Kirghiz” — a trace of the same Russian-mediated tradition).",
+            "Modern media, textbooks and official documents in English overwhelmingly write “Kyrgyz”. Using it is both accurate and respectful of the native name; “Kirghiz” survives mainly as a historical or bibliographic variant."
+          ],
+          "proof": [
+            {
+              "quote": "Кыргызский язык - государственный язык Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "Constitution of the KR, Art. 13 part 1 (Ministry of Justice database, in Russian)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "So which should you write?",
+          "p": [
+            "Write “Kyrgyz”. Keep “Kirghiz”/“Kirgiz” in mind only as search keys: older dictionaries, grammars and corpora are catalogued under them, and a search that ignores the historical spellings misses good resources.",
+            "And do not let the spellings fool you into thinking these are different languages: a “Kirghiz grammar” from 1970 and a “Kyrgyz course” from today describe the same living language."
+          ]
+        },
+        {
+          "h": "The people in Russian: кыргыз, кыргызы, кыргызка",
+          "p": [
+            "If you live in Kyrgyzstan, you will meet the name of the people in Russian-language texts. The forms to use are «кыргыз» for a man, «кыргызка» for a woman and «кыргызы» for the people; «киргиз», «киргизка», «киргизы» are the old Russian spellings still kept by dictionaries published in Russia.",
+            "The Russian text of the Constitution of the Kyrgyz Republic uses «кыргызы»; the same article in the Kyrgyz text reads «кыргыздар».",
+            "«Кыргызка» is also how Kyrgyzstan's official sources write it, for example the state news agency Kabar. Kyrgyz itself has no separate feminine form — it has no grammatical gender at all; more on that in ((is Kyrgyz hard to learn|/blog/slozhno-li-vyuchit-kyrgyzskiy/en))."
+          ],
+          "proof": [
+            {
+              "quote": "Кыргызы, проживающие за пределами Кыргызской Республики, несмотря на наличие гражданства другого государства, вправе получить гражданство Кыргызской Республики в упрощенном порядке.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "Constitution of the KR, Art. 51 part 3, Russian text (Ministry of Justice database)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргыз Республикасынын чегинен тышкары жашаган кыргыздар башка мамлекеттин жараны болгондугуна карабастан, Кыргыз Республикасынын жарандыгын жөнөкөйлөтүлгөн тартипте алууга укуктуу.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/kg",
+              "label": "Constitution of the KR, Art. 51 part 3, Kyrgyz text (Ministry of Justice database)",
+              "lang": "ky"
+            },
+            {
+              "quote": "По совместительству она работает диктором Кыргызского радио. Отметим, что она была первой кыргызкой-диктором.",
+              "src": "https://ru.archive.kabar.kg/news/k-prazdniku-8-marta-sakin-begmatova-zhizn-otdannaia-sluzheniiu-gosudarstvu/",
+              "label": "Kabar state news agency, profile of Saken Begmatova (in Russian)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "About the language itself",
+          "p": [
+            "Kyrgyz belongs to the Kipchak branch of the Turkic family; of the major languages, its closest relative is Kazakh. It is written in a 36-letter Cyrillic alphabet — the Russian letters plus three special ones: ң, ө, ү. Spelling is phonetic, stress almost always falls on the last syllable, and vowels follow vowel harmony.",
+            "If you are just starting out, try our free ((English–Kyrgyz phrasebook with audio|/razgovornik/en)), look phrases up in the ((phrase translator|/perevodchik/en)) or take the ((level test|/test/en)) — it shows where to begin."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgızca mı, Kırgız Türkçesi mi? Adların hikâyesi",
+      "desc": "Kırgızca ve Kırgız Türkçesi aynı dilin iki adıdır. Adların nereden geldiğini, akademik gelenekte ve günlük dilde hangisinin kullanıldığını kısaca anlatıyoruz.",
+      "lead": "Kısa cevap: ikisi de doğru ve aynı dili adlandırır. Günlük dilde «Kırgızca» denir; Türkiye'deki akademik gelenekte ise «Kırgız Türkçesi» tercih edilir. Peki bu ayrım nereden geliyor ve siz hangisini kullanmalısınız?",
+      "blocks": [
+        {
+          "h": "Bir dil, iki ad",
+          "p": [
+            "Söz konusu olan tek bir Türk dilidir: Kırgızistan'ın 2022 nüfus sayımına göre ülkede 5,5 milyon kişinin ana dili, yarım milyona yakın kişinin de ikinci dilidir. «Kırgızca» ile «Kırgız Türkçesi» arasında dilbilgisel hiçbir fark yoktur: aynı gramer, aynı alfabe, aynı kelimeler.",
+            "Halk kendine «Kırgız», diline «кыргыз тили» (kırgız tili) der. Türkçedeki «Kırgızca» bu adın doğal karşılığıdır; «Kırgız Türkçesi» ise Türk dillerini tek bir ailenin kolları olarak adlandıran akademik gelenekten gelir."
+          ]
+        },
+        {
+          "h": "«Kırgız Türkçesi» nereden geliyor?",
+          "p": [
+            "Türkiye'deki Türkoloji geleneği, Türk dillerini «Türk lehçeleri» çerçevesinde adlandırır: Kazak Türkçesi, Özbek Türkçesi, Kırgız Türkçesi. Üniversite bölümleri, TDK yayınları ve gramerler bu adı kullanır — Hülya Kasapoğlu Çengel'in klasikleşmiş grameri de «Kırgız Türkçesi Grameri» adını taşır.",
+            "Bu yüzden akademik kaynak ararken «Kırgız Türkçesi», günlük kaynak ararken «Kırgızca» yazmak en verimli yoldur; ikisi de aynı dile çıkar."
+          ]
+        },
+        {
+          "h": "Rusçada iki yazım: кыргызский ve киргизский",
+          "p": [
+            "Rusça kaynaklarda dilin adı iki biçimde yazılır: «кыргызский» — halkın öz adına dayanan, Kırgızistan'da resmî olan biçim; «киргизский» — Sovyet döneminden kalan geleneksel Rusça yazım. İkisi de aynı dili adlandırır.",
+            "Kaynak ararken bunu bilmek işe yarar: eski sözlükler ve gramerler çoğunlukla «киргизский» başlığı altında, güncel Kırgızistan yayınları ise «кыргызский» başlığı altında bulunur."
+          ],
+          "proof": [
+            {
+              "quote": "Кыргызский язык - государственный язык Кыргызской Республики.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "KC Anayasası, md. 13 f. 1 (Adalet Bakanlığı veri tabanı, Rusça)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Siz hangisini kullanmalısınız?",
+          "p": [
+            "Günlük kullanımda ve öğrenme sürecinde «Kırgızca» yeterlidir; akademik metinlerde «Kırgız Türkçesi» daha yerindedir. Rusça yazarken ise «кыргызский» kullanın: Kırgızistan'daki resmî biçim budur; «киргизский» eski Rusça yazımdır ve daha çok eski kaynaklarda karşınıza çıkar.",
+            "Başlamak için hazır kaynaklarımız var: sesli ((Türkçe–Kırgızca konuşma kılavuzu|/razgovornik/tr)), ((ifade çevirisi|/perevodchik/tr)) ve ((seviye testi|/test/tr)) — nereden başlayacağınızı gösterir."
+          ]
+        },
+        {
+          "h": "Rusçada halkın adı: кыргыз, кыргызы, кыргызка",
+          "p": [
+            "Kırgızistan'da yaşıyorsanız halkın adını Rusça metinlerde de görürsünüz. Kullanılması gereken biçimler: erkek için «кыргыз», kadın için «кыргызка», halk için «кыргызы»; «киргиз», «киргизка», «киргизы» ise Rusya'da yayımlanan sözlüklerin hâlâ verdiği eski Rusça yazımdır.",
+            "Kırgız Cumhuriyeti Anayasası'nın Rusça metninde «кыргызы» geçer; aynı maddenin Kırgızca metninde ise «кыргыздар» yazar.",
+            "Kırgızistan'ın resmî kaynakları da «кыргызка» yazar; örneğin devlet haber ajansı Kabar. Kırgızcanın kendisinde ayrı bir dişil biçim yoktur — Türkçede olduğu gibi dilbilgisel cinsiyet hiç yoktur; ayrıntılar için: ((Kırgızca öğrenmek zor mu yazısı|/blog/slozhno-li-vyuchit-kyrgyzskiy/tr))."
+          ],
+          "proof": [
+            {
+              "quote": "Кыргызы, проживающие за пределами Кыргызской Республики, несмотря на наличие гражданства другого государства, вправе получить гражданство Кыргызской Республики в упрощенном порядке.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/ru",
+              "label": "KC Anayasası, md. 51 f. 3, Rusça metin (Adalet Bakanlığı veri tabanı)",
+              "lang": "ru"
+            },
+            {
+              "quote": "Кыргыз Республикасынын чегинен тышкары жашаган кыргыздар башка мамлекеттин жараны болгондугуна карабастан, Кыргыз Республикасынын жарандыгын жөнөкөйлөтүлгөн тартипте алууга укуктуу.",
+              "src": "https://cbd.minjust.gov.kg/112213/edition/1242843/kg",
+              "label": "KC Anayasası, md. 51 f. 3, Kırgızca metin (Adalet Bakanlığı veri tabanı)",
+              "lang": "ky"
+            },
+            {
+              "quote": "По совместительству она работает диктором Кыргызского радио. Отметим, что она была первой кыргызкой-диктором.",
+              "src": "https://ru.archive.kabar.kg/news/k-prazdniku-8-marta-sakin-begmatova-zhizn-otdannaia-sluzheniiu-gosudarstvu/",
+              "label": "Kabar devlet haber ajansı, Saken Begmatova portresi (Rusça)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Dilin kendisi",
+          "p": [
+            "Kırgızca, Türk dillerinin Kıpçak koluna aittir; büyük diller içinde ona en yakını Kazakçadır. Türkiye Türkçesi ise Oğuz kolundandır — bu yüzden Kırgızca kulağa tanıdık gelir ama «kendiliğinden» anlaşılmaz: ortak kelimeler çoktur, ses denklikleri düzenlidir, öğrenmesi Türkçe konuşanlar için görece hızlıdır.",
+            "Kırgızca 36 harfli Kiril alfabesiyle yazılır: Rus harflerine üç özel harf eklenir — ң, ө, ү. Yazıldığı gibi okunur, vurgu hemen her zaman son hecededir ve ünlüler ünlü uyumuna girer — Türkçe konuşanlara çok tanıdık bir düzen."
+          ]
+        }
+      ]
+    }
+  }
+}

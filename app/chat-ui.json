@@ -1,0 +1,53 @@
+{
+  "ru": {
+    "open": "Написать преподавателю",
+    "title": "Чат с преподавателем",
+    "intro": "Напишите вопрос здесь — преподаватель ответит в этом же окне. Мессенджер не нужен: ответ появится на сайте, когда вы вернётесь.",
+    "ph": "Ваш вопрос…",
+    "contactPh": "Email или телефон (необязательно)",
+    "send": "Отправить",
+    "sent": "Отправлено. Ответ появится здесь — загляните позже.",
+    "wa": "Написать в WhatsApp",
+    "empty": "Сообщений пока нет.",
+    "you": "Вы",
+    "teacher": "Преподаватель",
+    "close": "Закрыть",
+    "err": "Не удалось отправить. Попробуйте ещё раз.",
+    "unread": "Новый ответ",
+    "privacy": "Конфиденциальность"
+  },
+  "en": {
+    "open": "Message the teacher",
+    "title": "Chat with the teacher",
+    "intro": "Ask your question here — the teacher replies in this same window. No messenger needed: the answer appears on the site when you come back.",
+    "ph": "Your question…",
+    "contactPh": "Email or phone (optional)",
+    "send": "Send",
+    "sent": "Sent. The reply will appear here — check back later.",
+    "wa": "Write on WhatsApp",
+    "empty": "No messages yet.",
+    "you": "You",
+    "teacher": "Teacher",
+    "close": "Close",
+    "err": "Could not send. Please try again.",
+    "unread": "New reply",
+    "privacy": "Privacy"
+  },
+  "tr": {
+    "open": "Öğretmene yaz",
+    "title": "Öğretmenle sohbet",
+    "intro": "Sorunuzu buraya yazın — öğretmen aynı pencerede yanıtlar. Mesajlaşma uygulaması gerekmez: yanıt, siteye döndüğünüzde burada görünür.",
+    "ph": "Sorunuz…",
+    "contactPh": "E-posta veya telefon (isteğe bağlı)",
+    "send": "Gönder",
+    "sent": "Gönderildi. Yanıt burada görünecek — daha sonra tekrar bakın.",
+    "wa": "WhatsApp'tan yaz",
+    "empty": "Henüz mesaj yok.",
+    "you": "Siz",
+    "teacher": "Öğretmen",
+    "close": "Kapat",
+    "err": "Gönderilemedi. Lütfen tekrar deneyin.",
+    "unread": "Yeni yanıt",
+    "privacy": "Gizlilik"
+  }
+}

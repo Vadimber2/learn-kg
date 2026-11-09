@@ -1,0 +1,190 @@
+{
+  "slug": "chisla-na-kyrgyzskom",
+  "published": "2026-08-15",
+  "updated": "2026-09-05",
+  "section": "vocab",
+  "og": {"ru": "chisla-na-kyrgyzskom-ru.png", "en": "chisla-na-kyrgyzskom-en.png", "tr": "chisla-na-kyrgyzskom-tr.png"},
+  "figs": {
+    "0": "meter",
+    "2": "harmony"
+  },
+  "related": [
+    "frazy-dlya-poezdki",
+    "kyrgyzskiy-alfavit"
+  ],
+  "refs": [
+    {
+      "authors": "Ager S.",
+      "year": 2025,
+      "title": "Kyrgyz language and alphabets",
+      "source": "Omniglot",
+      "url": "https://www.omniglot.com/writing/kirghiz.htm"
+    },
+    {
+      "authors": "Stern N.Z., Washington J.N.",
+      "year": 2019,
+      "title": "A Phonetic Study of Length and Duration in Kyrgyz Vowels",
+      "source": "Proc. of the Workshop on Turkic and Languages in Contact with Turkic, 4, 119–131",
+      "url": "https://works.swarthmore.edu/fac-linguistics/256/"
+    },
+    {
+      "authors": "Center for Languages of the Central Asian Region",
+      "year": 2025,
+      "title": "Kyrgyz: Language Portal",
+      "source": "Indiana University Bloomington (CeLCAR)",
+      "url": "https://celcar.indiana.edu/materials/language-portal/kyrgyz.html"
+    }
+  ],
+  "langs": {
+    "ru": {
+      "title": "Числа на кыргызском от 1 до 1000 с произношением",
+      "desc": "Все кыргызские (киргизские) числа от бир до миң: единицы, десятки, сотни, составные числа вроде 47 и 385, где ставить ударение и как не путать үч и уч.",
+      "lead": "Кыргызская система счёта — одна из самых честных частей языка: выучив двадцать слов, вы умеете называть любое число до тысячи и дальше. Никаких «сорока» и «девяноста» с особыми формами — всё собирается как конструктор. Разбираем по порядку и учим произносить.",
+      "blocks": [
+        {
+          "h": "Единицы: от 1 до 10",
+          "p": [
+            "Вот они, первые десять: бир (1), эки (2), үч (3), төрт (4), беш (5), алты (6), жети (7), сегиз (8), тогуз (9), он (10). Ноль — нөл.",
+            "Обратите внимание на үч «три»: там особая гласная ү — «и» с округлёнными губами, как немецкое ü. Скажете «уч» с обычным у — вас, скорее всего, поймут по контексту, но именно такие мелочи отличают уверенную речь. Каждое из этих слов озвучено носителем в нашем ((разговорнике, раздел «Числа»|/razgovornik/ru#san))."
+          ]
+        },
+        {
+          "h": "От 11 до 19: просто складываем",
+          "p": [
+            "Дальше язык не выдумывает новых слов: 11 — он бир («десять один»), 12 — он эки, 15 — он беш, 19 — он тогуз. Порядок всегда от большего к меньшему, как в записи цифрами.",
+            "Сравните с русским, где «одиннадцать» и «двенадцать» приходится зубрить отдельно. В кыргызском зубрить нечего: если вы знаете единицы и слово он, вы уже умеете считать до девятнадцати."
+          ]
+        },
+        {
+          "h": "Десятки: единственное, что надо выучить",
+          "p": [
+            "Десятки — единственный список, который придётся запомнить как отдельные слова: жыйырма (20), отуз (30), кырк (40), элүү (50), алтымыш (60), жетимиш (70), сексен (80), токсон (90).",
+            "Заметьте, как работают гласные: в жетимиш и элүү — мягкие ряды, в токсон и отуз — твёрдые. Это сингармонизм — закон гармонии гласных, который пронизывает весь язык: гласные внутри слова держатся одного ряда, и со временем вы начнёте «слышать», какое окончание правильное, ещё до того, как вспомните правило."
+          ]
+        },
+        {
+          "h": "Составные числа, сотни и тысяча",
+          "p": [
+            "Дальше — чистая арифметика. 21 — жыйырма бир, 47 — кырк жети, 99 — токсон тогуз. Сто — жүз, двести — эки жүз, пятьсот — беш жүз. Тысяча — миң, две тысячи — эки миң.",
+            "Соберём длинное число: 385 — үч жүз сексен беш, буквально «три сто восемьдесят пять». 1999 — миң тогуз жүз токсон тогуз. Никаких склонений самих числительных при простом счёте — назвали и пошли дальше."
+          ]
+        },
+        {
+          "h": "Как произносить: три подсказки",
+          "p": [
+            "Первая: ударение почти всегда падает на последний слог — жыйырмА, алтымЫш, сегИз. Вторая: в элүү двойная үү — это долгий гласный, он действительно тянется, долгота в кыргызском различает слова. Третья: читайте как написано — редукции безударных гласных, как в русском «мОлОко», в кыргызском нет.",
+            "Лучший способ поставить произношение — слушать и повторять: в ((разговорнике|/razgovornik/ru#san)) числа озвучены носителем языка, а в тренажёре курса каждое число — карточка с интервальными повторениями, которая сама вернётся к вам вовремя."
+          ]
+        },
+        {
+          "h": "Где числа встретятся сразу",
+          "p": [
+            "Цены на базаре и в такси, номера телефонов, время, возраст — числа нужны в первый же день в Бишкеке. Спросите «канча?» («сколько?») — и ответ придёт числом, которое приятно понять без калькулятора в руках. А незнакомое слово рядом с числом можно тут же проверить в ((русско-кыргызском переводчике|/perevodchik/ru)).",
+            "Проверить, насколько вы уже готовы, можно за пять минут: пройдите ((бесплатный тест уровня|/test/ru)) — а если хотите, чтобы числа запомнились навсегда, начните с ((демо-урока|/demo/ru)).",
+            "Быстрая шпаргалка с озвучкой: ((числа по-кыргызски от 1 до 10|/slovo/chisla/ru)) — каждое слово можно послушать отдельно."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz numbers 1 to 1000 with pronunciation",
+      "desc": "All Kyrgyz numbers from bir to ming: units, tens, hundreds, compound numbers like 47 and 385, where the stress falls and how to say the tricky ү sound.",
+      "lead": "The Kyrgyz counting system is one of the most honest parts of the language: learn about twenty words and you can name any number up to a thousand and beyond. Everything stacks like building blocks, from the larger unit to the smaller. Here is the whole system, with pronunciation tips.",
+      "blocks": [
+        {
+          "h": "Units: 1 to 10",
+          "p": [
+            "Here are the first ten: бир bir (1), эки eki (2), үч üch (3), төрт tört (4), беш besh (5), алты alty (6), жети jeti (7), сегиз segiz (8), тогуз toguz (9), он on (10). Zero is нөл nöl.",
+            "Watch out for үч “three”: ү is an “ee” said with rounded lips, like German ü. Every one of these words is voiced by a native speaker in our ((phrasebook, Numbers section|/razgovornik/en#san))."
+          ]
+        },
+        {
+          "h": "11 to 19: just stack them",
+          "p": [
+            "No new words needed: 11 is он бир on bir (“ten one”), 12 — он эки, 15 — он беш, 19 — он тогуз. The order always runs from the bigger unit to the smaller, exactly like the digits on paper.",
+            "Compare that with English “eleven” and “twelve”, which you simply have to memorise. In Kyrgyz there is nothing to memorise here: know the units and the word for ten, and you can already count to nineteen."
+          ]
+        },
+        {
+          "h": "Tens: the only list to learn",
+          "p": [
+            "The tens are the one set you learn as separate words: жыйырма jyiyrma (20), отуз otuz (30), кырк kyrk (40), элүү elüü (50), алтымыш altymysh (60), жетимиш jetimish (70), сексен seksen (80), токсон tokson (90).",
+            "Notice the vowels: жетимиш and элүү are front-vowel words, токсон and отуз are back-vowel ones. That is vowel harmony — the law that runs through the whole language: vowels within a word stay in one series, and with practice you start hearing which ending is right before you recall the rule."
+          ]
+        },
+        {
+          "h": "Compound numbers, hundreds and a thousand",
+          "p": [
+            "From here it is pure arithmetic. 21 — жыйырма бир, 47 — кырк жети, 99 — токсон тогуз. A hundred is жүз jüz, two hundred — эки жүз, five hundred — беш жүз. A thousand is миң ming, two thousand — эки миң.",
+            "Let's build a long one: 385 is үч жүз сексен беш, literally “three hundred eighty five”. 1999 — миң тогуз жүз токсон тогуз. Numerals do not decline in plain counting — say it and move on."
+          ]
+        },
+        {
+          "h": "Pronunciation: three tips",
+          "p": [
+            "First: stress almost always falls on the last syllable — jyiyrmA, altymYsh, segIz. Second: the double үү in элүү is a long vowel and really is held longer — vowel length distinguishes words in Kyrgyz. Third: read as written — there is no vowel reduction of the Russian kind.",
+            "The fastest way to get the sounds right is to listen and repeat: numbers are voiced by a native speaker in the ((phrasebook|/razgovornik/en#san)), and in the course trainer every number is a flashcard that comes back for review at the right moment."
+          ]
+        },
+        {
+          "h": "Where you will need numbers first",
+          "p": [
+            "Bazaar and taxi prices, phone numbers, time, someone's age — numbers are day-one vocabulary in Bishkek. Ask «канча?» (“how much?”) and the answer will come as a number you will be glad to understand without reaching for a calculator. And an unfamiliar word next to the number is one lookup away in the ((English–Kyrgyz translator|/perevodchik/en)).",
+            "Check how ready you are in five minutes with the free ((level test|/test/en)) — and if you want the numbers to stick for good, start with the ((demo lesson|/demo/en)).",
+            "A quick cheat sheet with audio: ((numbers in Kyrgyz from 1 to 10|/slovo/chisla/en)) — every word can be played separately."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kırgız Türkçesinde sayılar: 1'den 1000'e telaffuzuyla",
+      "desc": "Bütün Kırgızca sayılar: birden ming'e. Birlikler, onluklar, yüzlükler; 47 ve 385 gibi bileşik sayıların kuruluşu, vurgu ve Türkçeyle şaşırtıcı benzerlikler.",
+      "lead": "Kırgızca saymayı öğrenmek Türkçe konuşana neredeyse bedava: yirmi kadar kelimeyle bine kadar her sayıyı söylersiniz ve kelimelerin çoğu kulağınıza zaten tanıdık gelir — bir, eki, üç, tört, beş... İşte bütün sistem, telaffuz ipuçlarıyla.",
+      "blocks": [
+        {
+          "h": "Birlikler: 1'den 10'a",
+          "p": [
+            "İlk on sayı: бир bir (1), эки eki (2), үч üç (3), төрт tört (4), беш beş (5), алты altı (6), жети ceti (7), сегиз segiz (8), тогуз toguz (9), он on (10). Sıfır — нөл nöl.",
+            "Benzerlik gözünüzden kaçmamıştır: bir, üç, tört, beş, altı, on — Türkçeyle hemen hemen aynı. En düzenli ses denkliği de burada: Türkçedeki y- başlangıcı Kırgızcada c- olur (yedi → жети, yüz → жүз). Hepsinin sesli hâli ((konuşma kılavuzunun Sayılar bölümünde|/razgovornik/tr#san))."
+          ]
+        },
+        {
+          "h": "11'den 19'a: aynen Türkçedeki gibi",
+          "p": [
+            "Sistem Türkçeyle birebir: 11 — он бир (on bir), 12 — он эки, 15 — он беш, 19 — он тогуз. Büyükten küçüğe doğru dizersiniz, rakamla yazıldığı gibi.",
+            "Yani burada öğrenilecek yeni bir şey yok: birlikleri ve «on»u bilen, on dokuza kadar saymayı da biliyor demektir."
+          ]
+        },
+        {
+          "h": "Onluklar: ezberlenecek tek liste",
+          "p": [
+            "Ayrı kelime olarak öğrenilecek tek küme onluklardır: жыйырма cıyırma (20), отуз otuz (30), кырк kırk (40), элүү elüü (50), алтымыш altımış (60), жетимиш cetimiş (70), сексен seksen (80), токсон tokson (90).",
+            "Otuz, kırk, seksen — Türkçeyle örtüşüyor; yirmi ise жыйырма biçiminde karşınıza çıkar. Ünlü uyumu Türkçedeki gibi işler: cetimiş, elüü ince sıradan; tokson, otuz kalın sıradan."
+          ]
+        },
+        {
+          "h": "Bileşik sayılar, yüzlükler ve bin",
+          "p": [
+            "Gerisi saf aritmetik: 21 — жыйырма бир, 47 — кырк жети, 99 — токсон тогуз. Yüz — жүз cüz, iki yüz — эки жүз, beş yüz — беш жүз. Bin — миң ming, iki bin — эки миң.",
+            "Uzun bir sayı kuralım: 385 — үч жүз сексен беш, kelimesi kelimesine «üç yüz seksen beş». 1999 — миң тогуз жүз токсон тогуз. Türkçe kurduğunuz gibi kurarsınız — sadece kelimeler Kırgızca."
+          ]
+        },
+        {
+          "h": "Telaffuz: üç ipucu",
+          "p": [
+            "Birincisi: vurgu hemen her zaman son hecededir — cıyırmA, altımIş, segİz. İkincisi: элүү sözcüğündeki çift үү uzun ünlüdür ve gerçekten uzun okunur; ünlü uzunluğu Kırgızcada anlam ayırt eder. Üçüncüsü: yazıldığı gibi okuyun — vurgusuz ünlüler Rusçadaki gibi zayıflamaz.",
+            "Sesleri oturtmanın en hızlı yolu dinleyip tekrarlamak: sayılar ((konuşma kılavuzunda|/razgovornik/tr#san)) ana dili konuşurunun sesiyle kayıtlı; kurs sisteminde ise her sayı, zamanı gelince kendiliğinden karşınıza çıkan bir tekrar kartıdır."
+          ]
+        },
+        {
+          "h": "Sayılar ilk nerede lazım olur?",
+          "p": [
+            "Pazar ve taksi fiyatları, telefon numaraları, saat, yaş — Bişkek'te sayılar ilk günün kelime dağarcığıdır. «Канча?» («kaça / ne kadar?») diye sorun; cevap, hesap makinesine uzanmadan anlayacağınız bir sayı olarak gelir. Sayının yanındaki bilinmeyen kelimeyi de ((Türkçe–Kırgızca çeviride|/perevodchik/tr)) anında bulursunuz.",
+            "Ne kadar hazır olduğunuzu beş dakikada görün: ücretsiz ((seviye testi|/test/tr)) — sayıların kalıcı olmasını istiyorsanız ((demo dersle|/demo/tr)) başlayın.",
+            "Sesli hızlı bir kopya kâğıdı: ((Kırgızca 1'den 10'a sayılar|/slovo/chisla/tr)) — her kelimeyi ayrı ayrı dinleyebilirsiniz."
+          ]
+        }
+      ]
+    }
+  }
+}

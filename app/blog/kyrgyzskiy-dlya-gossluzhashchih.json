@@ -1,0 +1,274 @@
+{
+  "slug": "kyrgyzskiy-dlya-gossluzhashchih",
+  "published": "2026-08-15",
+  "updated": "2026-10-30",
+  "section": "exam",
+  "og": {"ru": "kyrgyzskiy-dlya-gossluzhashchih-ru.png", "en": "kyrgyzskiy-dlya-gossluzhashchih-en.png", "tr": "kyrgyzskiy-dlya-gossluzhashchih-tr.png"},
+  "figs": {
+    "1": "levels",
+    "3": "week"
+  },
+  "related": [
+    "gostestirovanie-kak-podgotovitsya",
+    "skolko-vremeni-uchit-kyrgyzskiy",
+    "kyrgyzskiy-dlya-vnzh",
+    "den-kyrgyzskogo-yazyka"
+  ],
+  "refs": [
+    {
+      "authors": "Жогорку Кенеш КР",
+      "year": 2023,
+      "title": "Конституционный закон КР от 17 июля 2023 года №140 «О государственном языке Кыргызской Республики»",
+      "source": "СоюзПравоИнформ (карточка документа, полный текст платный)",
+      "url": "https://base.spinform.ru/show_doc.fwx?rgn=152143"
+    },
+    {
+      "authors": "Kaktus.media",
+      "year": 2023,
+      "title": "Садыр Жапаров подписал Конституционный закон «О государственном языке» (перечень статьи 32)",
+      "source": "kaktus.media",
+      "url": "https://kaktus.media/doc/483897_sadyr_japarov_podpisal_konstitycionnyy_zakon_o_gosydarstvennom_iazyke.html"
+    },
+    {
+      "authors": "Inbusiness.kz",
+      "year": 2025,
+      "title": "Госслужащих Кыргызстана обязали подтвердить знание кыргызского языка",
+      "source": "inbusiness.kz",
+      "url": "https://inbusiness.kz/ru/last/gossluzhashih-kyrgyzstana-obyazali-podtverdit-znanie-kirgizskogo-yazyka"
+    },
+    {
+      "authors": "Kaktus.media",
+      "year": 2025,
+      "title": "Учителя и медики к 2026 году должны подтвердить знание госязыка на уровне В1",
+      "source": "kaktus.media",
+      "url": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html"
+    },
+    {
+      "authors": "Kloop.kg",
+      "year": 2023,
+      "title": "Закон о госязыке: как Кыргызстан пытается усилить родной язык",
+      "source": "kloop.kg",
+      "url": "https://kloop.kg/blog/2023/12/25/zakon-o-gosyazyke-kak-kyrgyzstan-pytaetsya-usilit-rodnoj-yazyk-nesmotrya-na-davlenie-rossii/"
+    }
+  ],
+  "langs": {
+    "ru": {
+      "title": "Кыргызский для госслужащих, учителей и врачей",
+      "desc": "Кому и когда нужен уровень кыргызского по закону: госслужащим B1 с 2025 года, педагогам и медикам — с 2026-го, дальше B2. Цитаты и план подготовки.",
+      "lead": "С 2025 года владение кыргызским — не пожелание, а требование закона: госслужащие подтверждают уровень B1 на государственном тестировании по кыргызскому языку, а с 2026 года та же планка B1 стоит перед педагогами и медиками. Звучит тревожно, но в требованиях есть понятная лестница уровней и ясные сроки. Разбираем без паники и по цитатам первоисточников: кто, что и к какому сроку должен — и как реально успеть.",
+      "blocks": [
+        {
+          "h": "Что за закон и кого он касается",
+          "p": [
+            "Конституционный закон «О государственном языке» подписан 17 июля 2023 года. Главное новшество — обязательность владения кыргызским для тех, кто работает с государством и людьми. Перечень статьи 32 называет госслужащих и депутатов, руководителей и сотрудников учебных заведений всех форм собственности, педагогических и научных работников, медиков государственных и муниципальных учреждений здравоохранения. Для них знание языка теперь — квалификационное требование, как диплом. Отдельная история — иностранцы: с августа 2025 года кыргызский требуют и для вида на жительство, там планка ниже — ((разбор про ВНЖ и A1|/blog/kyrgyzskiy-dlya-vnzh/ru)).",
+            "Уровень подтверждается не собеседованием, а документом государственного тестирования по кыргызскому языку. Формат, уровни и запись на тестирование — на официальном сайте: kyrgyztest.gov.kg; как к нему готовиться — в ((отдельной статье о подготовке|/blog/gostestirovanie-kak-podgotovitsya/ru))."
+          ],
+          "proof": [
+            {
+              "quote": "Садыр Жапаров подписал Конституционный закон \"О государственном языке\" (17 июля 2023 года №140). … статьей 32 определен перечень лиц, которые обязаны владеть государственным языком и использовать его при исполнении служебных обязанностей. … государственные и муниципальные служащие, перечень которых установлен в Реестре государственных и муниципальных должностей КР; … руководители, сотрудники учебных заведений всех форм собственности; педагогические, научно-педагогические и научные работники… ; медицинские работники государственных и муниципальных учреждений здравоохранения;",
+              "src": "https://kaktus.media/doc/483897_sadyr_japarov_podpisal_konstitycionnyy_zakon_o_gosydarstvennom_iazyke.html",
+              "label": "Kaktus.media, 17.07.2023 — сообщение о подписании конституционного закона № 140 (перечень статьи 32)",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Лестница уровней: кто и к какому году",
+          "p": [
+            "Постановление кабинета министров (подписано весной 2025-го) задаёт точный график. Государственные и муниципальные служащие: B1 — с 2025 года, B2 — с 2027-го. Педагоги и медики: B1 — с 2026 года, B2 — с 2028-го. Для представителей этнических меньшинств лестница мягче: A2 с 2026-го и B1 с 2028-го — так пишет inbusiness.kz; в пересказе Kaktus.media для 2028 года стоит B2, источники расходятся, текст самого постановления в открытом доступе мы не нашли.",
+            "Есть и оговорка в обе стороны: переходный период действовал до конца 2025 года — тогда отсутствие сертификата не было основанием для увольнения или понижения; сейчас эта отсрочка истекла. При этом если должность связана с публичными выступлениями, управлением или официальными документами, работодатель вправе требовать уровень выше графика."
+          ],
+          "proof": [
+            {
+              "quote": "Согласно постановлению, подписанному председателем кабинета министров Адылбеком Касымалиевым, на основании Конституционного закона \"О государственном языке Кыргызской Республики\" государственные и муниципальные служащие должны владеть кыргызским языком на уровне не ниже В1 (средний) в 2025 году, к 2027 году - не ниже В2 (выше среднего). Сотрудники государственных компаний (кроме работающих в них иностранных граждан), педагогические и научные сотрудники, а также медики, работающие в учреждениях Министерства здравоохранения, должны подтвердить знание госязыка на уровне В1 и В2 в 2026 и 2028 годах соответственно.",
+              "src": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html",
+              "label": "Kaktus.media, 2025 — «Учителя и медики к 2026 году должны подтвердить знание госязыка на уровне В1»",
+              "lang": "ru"
+            },
+            {
+              "quote": "Для представителей этнических меньшинств, являющихся гражданами Кыргызстана и работающих на государственной службе, установлены более мягкие условия. Так, с 2026 года они обязаны подтвердить знание языка на уровне не ниже A2 (базовый), а с 2028 года — не ниже уровня B1. … В течение переходного периода, то есть до конца 2025 года, отсутствие сертификата не будет основанием для увольнения или понижения в должности.",
+              "src": "https://inbusiness.kz/ru/last/gossluzhashih-kyrgyzstana-obyazali-podtverdit-znanie-kirgizskogo-yazyka",
+              "label": "Inbusiness.kz, 2025 — «Госслужащих Кыргызстана обязали подтвердить знание кыргызского языка»",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Что такое B1 на самом деле",
+          "p": [
+            "B1 — это «самостоятельный» уровень: понимать основной смысл речи и текстов среднего объёма, объясняться устно и письменно в формальном и неформальном стиле, в том числе в образовательной и профессиональной сфере. По ориентирам CEFR до него — суммарно 350–400 учебных часов с нуля; подробный пересчёт часов в месяцы — в ((разборе сроков|/blog/skolko-vremeni-uchit-kyrgyzskiy/ru)).",
+            "Хорошая новость: до первой ступени, A1, — всего 90–100 часов, и это уже треть пути по объёму базовой лексики. Проверить себя можно прямо сейчас: ((пробный тест learn.kg B1|/probny-test-b1/ru)) собран из фраз курса и проверяется сразу, а ((тест уровня|/test/ru)) за пять минут покажет, на какой вы ступени и что учить дальше. Задания составлены learn.kg по материалам курса. Они не являются заданиями официального тестирования по кыргызскому языку и не связаны с ними."
+          ]
+        },
+        {
+          "h": "Как успеть: план без героизма",
+          "p": [
+            "Ключ — регулярность, а не марафоны: 15–20 минут в день дают больше, чем три часа в воскресенье, потому что язык закрепляется интервальными повторениями. Начните с ((разговорника|/razgovornik/ru#salam)) — 337 живых фраз с озвучкой носителя, разобранных по ситуациям, включая рабочие.",
+            "Дальше — системно: ((демо-урок|/demo/ru)) открыт без регистрации и показывает, как устроены занятия: карточки с озвучкой, дриллы и мини-тесты по уровневой шкале. Если готовитесь к сроку — считайте честно: 15–20 минут в день дают 8–10 часов в месяц, то есть примерно год до A1. До B1 ориентир 350–400 часов, и одними короткими подходами его быстро не закрыть — тренажёр держит регулярность и словарь, а темп добавляют занятия с преподавателем. Насколько далеко уровень B1, покажет ((пробный тест learn.kg B1|/probny-test-b1/ru)) с проверкой сразу.",
+            "Курс B1 на learn.kg уже открыт: 12 тематических модулей, задания сформулированы по-кыргызски, в конце — модуль повторения и итоговая проверка курса. Есть и аудирование «слушай-повтори» с распознаванием речи — понимание на слух многим даётся труднее всего. Доступ открывает преподаватель. Задания составлены learn.kg по материалам курса. Они не являются заданиями официального тестирования по кыргызскому языку и не связаны с ними."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Kyrgyz for civil servants, teachers and doctors",
+      "desc": "Who needs a level of Kyrgyz by law and when: B1 for civil servants from 2025, for teachers and medics from 2026, B2 next. Quotes and a study plan.",
+      "lead": "Since 2025, Kyrgyz is a legal requirement, not a wish: civil servants confirm level B1 in the state Kyrgyz language test, and from 2026 the same B1 bar applies to teachers and medical workers. It sounds alarming, but the requirements come with a clear ladder of levels and firm dates. Here is the calm breakdown, quoting the sources: who owes what by when — and how to actually make it.",
+      "blocks": [
+        {
+          "h": "What the law is and whom it covers",
+          "p": [
+            "The constitutional Law on the State Language was signed on 17 July 2023. Its core change: Kyrgyz proficiency became mandatory for those who work with the state and the public. The list in Article 32 names civil servants and members of parliament, heads and staff of educational institutions of all forms of ownership, teaching and research staff, and medical workers of state and municipal healthcare institutions. For them the language is now a job qualification, like a diploma. Foreigners are a separate story: since August 2025 Kyrgyz is also required for a residence permit, with a lower bar — see ((the residence permit and A1 guide|/blog/kyrgyzskiy-dlya-vnzh/en)).",
+            "Proficiency is confirmed not by an interview but by a document from the state Kyrgyz language test. Format, levels and registration — on the official testing website: kyrgyztest.gov.kg; how to prepare is covered in a ((separate preparation guide|/blog/gostestirovanie-kak-podgotovitsya/en))."
+          ],
+          "proof": [
+            {
+              "quote": "Садыр Жапаров подписал Конституционный закон \"О государственном языке\" (17 июля 2023 года №140). … статьей 32 определен перечень лиц, которые обязаны владеть государственным языком и использовать его при исполнении служебных обязанностей. … государственные и муниципальные служащие, перечень которых установлен в Реестре государственных и муниципальных должностей КР; … руководители, сотрудники учебных заведений всех форм собственности; педагогические, научно-педагогические и научные работники… ; медицинские работники государственных и муниципальных учреждений здравоохранения;",
+              "src": "https://kaktus.media/doc/483897_sadyr_japarov_podpisal_konstitycionnyy_zakon_o_gosydarstvennom_iazyke.html",
+              "label": "Kaktus.media, 17 July 2023 — the signing of constitutional law No. 140 (the list in Article 32), in Russian",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "The ladder: who needs what by which year",
+          "p": [
+            "A cabinet resolution signed in spring 2025 sets the exact schedule. State and municipal employees: B1 from 2025, B2 from 2027. Teachers and medical workers: B1 from 2026, B2 from 2028. For ethnic minorities the ladder is softer: A2 from 2026 and B1 from 2028 according to inbusiness.kz; Kaktus.media's summary gives B2 for 2028 — the two sources disagree, and we have not found the resolution's text in open access.",
+            "There were caveats in both directions: a transition period ran until the end of 2025 — while it lasted, missing a certificate was not grounds for dismissal or demotion; that grace period has now expired. Separately, if a position involves public speaking, management or official documents, the employer may require a level above the schedule."
+          ],
+          "proof": [
+            {
+              "quote": "Согласно постановлению, подписанному председателем кабинета министров Адылбеком Касымалиевым, на основании Конституционного закона \"О государственном языке Кыргызской Республики\" государственные и муниципальные служащие должны владеть кыргызским языком на уровне не ниже В1 (средний) в 2025 году, к 2027 году - не ниже В2 (выше среднего). Сотрудники государственных компаний (кроме работающих в них иностранных граждан), педагогические и научные сотрудники, а также медики, работающие в учреждениях Министерства здравоохранения, должны подтвердить знание госязыка на уровне В1 и В2 в 2026 и 2028 годах соответственно.",
+              "src": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html",
+              "label": "Kaktus.media, 2025 — “Teachers and medics must confirm B1 in the state language by 2026”, in Russian",
+              "lang": "ru"
+            },
+            {
+              "quote": "Для представителей этнических меньшинств, являющихся гражданами Кыргызстана и работающих на государственной службе, установлены более мягкие условия. Так, с 2026 года они обязаны подтвердить знание языка на уровне не ниже A2 (базовый), а с 2028 года — не ниже уровня B1. … В течение переходного периода, то есть до конца 2025 года, отсутствие сертификата не будет основанием для увольнения или понижения в должности.",
+              "src": "https://inbusiness.kz/ru/last/gossluzhashih-kyrgyzstana-obyazali-podtverdit-znanie-kirgizskogo-yazyka",
+              "label": "Inbusiness.kz, 2025 — “Kyrgyzstan's civil servants required to confirm their Kyrgyz”, in Russian",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "What B1 actually means",
+          "p": [
+            "B1 is the “independent user” level: grasping the main meaning of speech and medium-length texts, and expressing yourself orally and in writing in both formal and informal registers, including in educational and professional settings. By CEFR benchmarks it takes about 350–400 guided learning hours from zero; the full hours-to-months maths is in our ((timeline breakdown|/blog/skolko-vremeni-uchit-kyrgyzskiy/en)).",
+            "The good news: the first step, A1, takes only 90–100 hours. You can check yourself right now: the ((learn.kg B1 practice test|/probny-test-b1/en)) is built from course phrases and scored instantly, and the ((level test|/test/en)) shows your step and what to learn next in five minutes. The tasks are written by learn.kg from the course materials. They are not tasks of the official Kyrgyz language test and are not related to them."
+          ]
+        },
+        {
+          "h": "Making it in time, without heroics",
+          "p": [
+            "The key is regularity, not marathons: 15–20 minutes a day beat three hours on Sunday, because language sticks through spaced repetition. Start with the ((phrasebook|/razgovornik/en#salam)) — 337 real phrases with native audio, organised by situation, including work ones.",
+            "Then go systematic: the ((demo lesson|/demo/en)) is open without sign-up and shows how lessons work — audio flashcards, drills and mini-quizzes on the level scale. If you are preparing for a deadline, do the honest maths: 15–20 minutes a day is 8–10 hours a month — about a year to A1. B1 is a 350–400 hour benchmark, and short daily sessions alone will not close it fast: the trainer keeps your regularity and vocabulary, while lessons with a teacher add pace. How far B1 still is shows up in the ((learn.kg B1 practice test|/probny-test-b1/en)) with instant scoring.",
+            "The B1 course on learn.kg is now open: 12 topic modules with tasks worded in Kyrgyz, plus a revision module and a final course check at the end. There is also listen-and-repeat practice with speech recognition — listening comprehension is what many find hardest. Access is opened by the teacher. The tasks are written by learn.kg from the course materials. They are not tasks of the official Kyrgyz language test and are not related to them."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "title": "Memurlar, öğretmenler ve doktorlar için Kırgızca",
+      "desc": "Yasaya göre Kırgızca düzeyi kime, ne zaman gerekli: memurlara 2025'ten B1, öğretmen ve sağlıkçılara 2026'dan; sırada B2. Alıntılar ve hazırlık planı.",
+      "lead": "2025'ten beri Kırgızca bilmek bir temenni değil, yasal bir şart: memurlar B1 düzeyini devlet Kırgızca dil sınavında belgeliyor, 2026'dan itibaren aynı B1 çıtası öğretmenlerin ve sağlık çalışanlarının önünde. Kulağa sert geliyor, ama gereklilikler net bir seviye merdiveni ve kesin tarihlerle geliyor. İşte panik olmadan, kaynaklardan alıntılarla tablo: kim, neyi, ne zamana kadar — ve yetişmenin gerçekçi yolu.",
+      "blocks": [
+        {
+          "h": "Yasa ne diyor, kimi kapsıyor?",
+          "p": [
+            "Anayasal «Devlet Dili Yasası» 17 Temmuz 2023'te imzalandı. Ana yenilik: devletle ve insanlarla çalışanlar için Kırgızca artık zorunlu. 32. maddedeki liste memurları ve milletvekillerini, her türlü mülkiyet biçimindeki eğitim kurumlarının yöneticileri ile çalışanlarını, öğretim ve bilim çalışanlarını, devlet ve belediye sağlık kurumlarının sağlıkçılarını sayıyor. Onlar için dil bilgisi artık diploma gibi bir yeterlilik şartı. Yabancılar ayrı bir konu: Ağustos 2025'ten beri Kırgızca oturma izni için de isteniyor, çıta daha düşük — ((oturma izni ve A1 rehberi|/blog/kyrgyzskiy-dlya-vnzh/tr)).",
+            "Düzey mülakatla değil, devlet Kırgızca dil sınavının belgesiyle kanıtlanıyor. Biçim, seviyeler ve kayıt — resmî sınav sitesinde: kyrgyztest.gov.kg; nasıl hazırlanılacağını ((ayrı hazırlık yazımızda|/blog/gostestirovanie-kak-podgotovitsya/tr)) anlattık."
+          ],
+          "proof": [
+            {
+              "quote": "Садыр Жапаров подписал Конституционный закон \"О государственном языке\" (17 июля 2023 года №140). … статьей 32 определен перечень лиц, которые обязаны владеть государственным языком и использовать его при исполнении служебных обязанностей. … государственные и муниципальные служащие, перечень которых установлен в Реестре государственных и муниципальных должностей КР; … руководители, сотрудники учебных заведений всех форм собственности; педагогические, научно-педагогические и научные работники… ; медицинские работники государственных и муниципальных учреждений здравоохранения;",
+              "src": "https://kaktus.media/doc/483897_sadyr_japarov_podpisal_konstitycionnyy_zakon_o_gosydarstvennom_iazyke.html",
+              "label": "Kaktus.media, 17.07.2023 — 140 sayılı anayasal yasanın imzalanması (32. maddedeki liste), Rusça",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "Seviye merdiveni: kime hangi yıl?",
+          "p": [
+            "2025 baharında imzalanan kabine kararı takvimi netleştirdi. Devlet ve belediye çalışanları: 2025'ten itibaren B1, 2027'den itibaren B2. Öğretmenler ve sağlıkçılar: 2026'dan itibaren B1, 2028'den itibaren B2. Etnik azınlıklar için merdiven daha yumuşak: inbusiness.kz'ye göre 2026'da A2, 2028'de B1; Kaktus.media'nın özeti 2028 için B2 yazıyor — iki kaynak ayrışıyor, kararın metnini açık erişimde bulamadık.",
+            "İki yönde de kayıt vardı: geçiş dönemi 2025 sonuna kadar sürdü — o süre boyunca sertifikanın olmaması işten çıkarma ya da rütbe indirme gerekçesi değildi; bu erteleme artık doldu. Ayrıca görev topluluk önünde konuşma, yöneticilik ya da resmî yazışma içeriyorsa işveren takvimden yüksek düzey isteyebilir."
+          ],
+          "proof": [
+            {
+              "quote": "Согласно постановлению, подписанному председателем кабинета министров Адылбеком Касымалиевым, на основании Конституционного закона \"О государственном языке Кыргызской Республики\" государственные и муниципальные служащие должны владеть кыргызским языком на уровне не ниже В1 (средний) в 2025 году, к 2027 году - не ниже В2 (выше среднего). Сотрудники государственных компаний (кроме работающих в них иностранных граждан), педагогические и научные сотрудники, а также медики, работающие в учреждениях Министерства здравоохранения, должны подтвердить знание госязыка на уровне В1 и В2 в 2026 и 2028 годах соответственно.",
+              "src": "https://kaktus.media/doc/522115_ychitelia_i_mediki_k_2026_gody_doljny_podtverdit_znanie_gosiazyka_na_yrovne_v1.html",
+              "label": "Kaktus.media, 2025 — «Öğretmenler ve sağlıkçılar 2026'ya kadar devlet dilini B1 düzeyinde belgelemeli», Rusça",
+              "lang": "ru"
+            },
+            {
+              "quote": "Для представителей этнических меньшинств, являющихся гражданами Кыргызстана и работающих на государственной службе, установлены более мягкие условия. Так, с 2026 года они обязаны подтвердить знание языка на уровне не ниже A2 (базовый), а с 2028 года — не ниже уровня B1. … В течение переходного периода, то есть до конца 2025 года, отсутствие сертификата не будет основанием для увольнения или понижения в должности.",
+              "src": "https://inbusiness.kz/ru/last/gossluzhashih-kyrgyzstana-obyazali-podtverdit-znanie-kirgizskogo-yazyka",
+              "label": "Inbusiness.kz, 2025 — «Kırgızistan'da memurlar Kırgızca bilgisini belgelemek zorunda», Rusça",
+              "lang": "ru"
+            }
+          ]
+        },
+        {
+          "h": "B1 gerçekte ne demek?",
+          "p": [
+            "B1 «bağımsız kullanıcı» düzeyi: konuşmanın ve orta uzunlukta metinlerin ana anlamını kavramak, resmî ve gündelik üslupta sözlü ve yazılı derdini anlatmak — eğitim ve meslek alanları dâhil. CEFR ölçütlerine göre sıfırdan toplam 350–400 rehberli öğrenme saati ister; saatlerin aylara dökümü ((süre analizimizde|/blog/skolko-vremeni-uchit-kyrgyzskiy/tr)).",
+            "İyi haber: ilk basamak A1 yalnızca 90–100 saat. Kendinizi hemen sınayabilirsiniz: ((learn.kg B1 deneme testi|/probny-test-b1/tr)) kurs kalıplarından oluşur ve anında puanlanır; ((seviye testi|/test/tr)) ise beş dakikada basamağınızı ve sıradaki adımı gösterir. Görevler learn.kg tarafından kurs materyallerinden hazırlanmıştır. Resmî Kırgızca dil sınavının görevleri değildir ve onlarla bağlantılı değildir."
+          ]
+        },
+        {
+          "h": "Kahramanlık gerekmeden yetişmek",
+          "p": [
+            "Anahtar maraton değil, düzen: günde 15–20 dakika, pazar günkü üç saatten fazlasını yapar; dil aralıklı tekrarla oturur. ((Konuşma kılavuzuyla|/razgovornik/tr#salam)) başlayın — durumlara göre dizilmiş, ana dili konuşurunun sesiyle 337 gerçek ifade.",
+            "Sonrası sistem işi: ((demo ders|/demo/tr)) kayıtsız açık — sesli kartlar, alıştırmalar ve seviye ölçeğine göre mini sınavlar. Bir tarihe hazırlanıyorsanız hesabı dürüst yapın: günde 15–20 dakika ayda 8–10 saat eder — A1'e yaklaşık bir yıl. B1 ise 350–400 saatlik bir ölçüt; kısa günlük tekrarlar tek başına bunu hızlı kapatmaz: uygulama düzeninizi ve kelimenizi tutar, hızı ise öğretmenle dersler ekler. B1'e ne kadar kaldığını anında puanlanan ((learn.kg B1 deneme testi|/probny-test-b1/tr)) gösterir.",
+            "learn.kg'deki B1 kursu artık açık: 12 konu modülü, görevler Kırgızca yazılmış; sonunda tekrar modülü ve kursun son kontrolü var. Ayrıca konuşma tanımalı dinle-tekrarla alıştırması da mevcut — çoğu kişiye en zor gelen dinleyip anlamaktır. Erişimi öğretmen açar. Görevler learn.kg tarafından kurs materyallerinden hazırlanmıştır. Resmî Kırgızca dil sınavının görevleri değildir ve onlarla bağlantılı değildir."
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "ru": [
+      {
+        "q": "Нужен ли учителю сертификат B1 в 2026 году?",
+        "a": "Да. По постановлению кабмина педагогические и научные сотрудники, а также медики, работающие в учреждениях Министерства здравоохранения, подтверждают знание госязыка на уровне В1 в 2026 году, на уровне В2 — в 2028-м. Подтверждается это документом государственного тестирования по кыргызскому языку."
+      },
+      {
+        "q": "Касается ли это частных клиник и школ?",
+        "a": "По учебным заведениям закон говорит прямо: в перечне статьи 32 названы «руководители, сотрудники учебных заведений всех форм собственности» — то есть частные школы тоже. В здравоохранении перечень называет «медицинских работников государственных и муниципальных учреждений здравоохранения»; о частных клиниках в доступных источниках ничего не сказано."
+      },
+      {
+        "q": "Что будет без сертификата?",
+        "a": "Переходный период, в течение которого «отсутствие сертификата не будет основанием для увольнения или понижения в должности», действовал до конца 2025 года и истёк. Что именно наступает после него, в доступных сообщениях о постановлении не описано: там названы только сроки и уровни, а сам закон делает владение госязыком обязанностью перечисленных в статье 32."
+      }
+    ],
+    "en": [
+      {
+        "q": "Does a teacher need a B1 certificate in 2026?",
+        "a": "Yes. Under the cabinet resolution, teaching and research staff, as well as medics working in institutions of the Ministry of Health, confirm the state language at level B1 in 2026 and at level B2 in 2028. It is confirmed by a document from the state Kyrgyz language test."
+      },
+      {
+        "q": "Does this apply to private clinics and schools?",
+        "a": "For education the law is explicit: the list in Article 32 names “heads and staff of educational institutions of all forms of ownership” — private schools included. In healthcare the list names “medical workers of state and municipal healthcare institutions”; the available sources say nothing about private clinics."
+      },
+      {
+        "q": "What happens without a certificate?",
+        "a": "The transition period, during which “the absence of a certificate will not be grounds for dismissal or demotion”, ran until the end of 2025 and has expired. What follows it is not described in the available reports on the resolution: they name only the deadlines and levels, while the law itself makes command of the state language an obligation for those listed in Article 32."
+      }
+    ],
+    "tr": [
+      {
+        "q": "Öğretmenin 2026'da B1 sertifikası gerekli mi?",
+        "a": "Evet. Kabine kararına göre öğretim ve bilim çalışanları ile Sağlık Bakanlığı kurumlarında çalışan sağlıkçılar devlet dili bilgisini 2026'da B1, 2028'de B2 düzeyinde belgeliyor. Belge, devlet Kırgızca dil sınavının belgesidir."
+      },
+      {
+        "q": "Bu, özel klinikleri ve okulları kapsıyor mu?",
+        "a": "Eğitim tarafında yasa açık: 32. maddedeki listede «her türlü mülkiyet biçimindeki eğitim kurumlarının yöneticileri ve çalışanları» yazıyor — özel okullar dâhil. Sağlıkta ise liste «devlet ve belediye sağlık kurumlarının sağlık çalışanları» diyor; özel klinikler hakkında ulaşılabilir kaynaklarda bir şey söylenmiyor."
+      },
+      {
+        "q": "Sertifika olmazsa ne olur?",
+        "a": "«Sertifikanın olmaması işten çıkarma ya da rütbe indirme gerekçesi olmayacak» denen geçiş dönemi 2025 sonuna kadar sürdü ve doldu. Sonrasında tam olarak ne olacağı, karara ilişkin ulaşılabilir haberlerde anlatılmıyor: orada yalnızca tarihler ve düzeyler var; yasanın kendisi ise devlet dilini bilmeyi 32. maddede sayılanlar için bir yükümlülük hâline getiriyor."
+      }
+    ]
+  }
+}

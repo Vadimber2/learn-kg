@@ -1,0 +1,116 @@
+{
+  "updated": "2026-10-30",
+  "ui": {
+    "ru": {
+      "title": "Помощь — как устроен learn.kg и с чего начать",
+      "desc": "Помощь по learn.kg: как получить доступ и войти, курсы кыргызского A1–B2, разговорник и переводчик без входа, тест уровня, установка приложения, контакты.",
+      "h1": "Помощь",
+      "lead": "Всё про learn.kg на одной странице: с чего начать, где какие разделы, как получить доступ и куда писать с вопросами.",
+      "sections": [
+        { "h": "С чего начать", "items": [
+          ["/demo/{lang}", "Демо-урок", "Карточки с озвучкой, урок произношения, дриллы и мини-тест — попробуйте тренажёр без регистрации."],
+          ["/test/{lang}", "Тест уровня", "15 вопросов — узнаете свою ступень и с чего начинать."],
+          ["https://wa.me/996505854856", "Написать Алтынай в WhatsApp", "Доступ открывает преподаватель: логин и пароль — обычно в тот же день. Регистрации на сайте нет."]
+        ] },
+        { "h": "Курсы", "items": [
+          ["/kurs-a1/{lang}", "Курс A1 — с нуля", "Алфавит, фонетика, 1073 фразы с озвучкой носителя."],
+          ["/kurs-a2/{lang}", "Курс A2 — продолжение", "Грамматика системно: времена, падежи, 873 фразы, живые темы."],
+          ["/kurs-b1/{lang}", "Курс B1 — средний уровень", "Тематические модули, задания на кыргызском, повторение и итоговая неделя."],
+          ["/kurs-b2/{lang}", "Курс B2 — выше среднего", "Официальное письмо, аргументы и оценка, статья и публичная речь."]
+        ] },
+        { "h": "Бесплатные материалы", "items": [
+          ["/razgovornik/{lang}", "Разговорник", "337 фраз по ситуациям, каждая с озвучкой носителя."],
+          ["/slovo/{lang}", "Слова по-кыргызски", "Ответы на «как будет по-кыргызски»: слово, варианты, что отвечают, озвучка."],
+          ["/perevodchik/{lang}", "Переводчик частых фраз", "Мгновенный поиск по 3726 фразам курса."],
+          ["/blog/{lang}", "Блог", "Статьи об алфавите, произношении, подготовке к тестированию и методике."]
+        ] },
+        { "h": "Приложение и вход", "items": [
+          ["/install", "Установить как приложение", "Тренажёр ставится на телефон и компьютер: своя иконка, полный экран, работает офлайн."],
+          ["/login", "Войти в тренажёр", "Логин работает на любом устройстве, прогресс общий и хранится на сервере."]
+        ] }
+      ],
+      "faq": [
+        { "q": "Как получить доступ к курсам?", "a": "Напишите Алтынай в WhatsApp (+996 505 854 856) — она создаст вам логин и пароль, обычно в тот же день. Регистрации на сайте нет." },
+        { "q": "Я забыл пароль. Что делать?", "a": "Напишите Алтынай в WhatsApp — она задаст новый пароль. Сменить пароль самостоятельно можно в настройках тренажёра, когда вы вошли." },
+        { "q": "Прогресс сохранится, если сменить устройство?", "a": "Да: прогресс привязан к логину и живёт на сервере. Телефон в дороге, ноутбук дома — очередь повторений одна и та же." },
+        { "q": "Что доступно без входа?", "a": "Разговорник с озвучкой, переводчик частых фраз, тест уровня, демо-урок с уроком произношения и все статьи блога." },
+        { "q": "Куда писать про ошибки и предложения?", "a": "В WhatsApp Алтынай или в Instagram @learnkg_edu — мы читаем всё и правим быстро: исправления попадают ко всем ученикам сразу." }
+      ],
+      "contactsTitle": "Контакты"
+    },
+    "en": {
+      "title": "Help — how learn.kg works and where to start",
+      "desc": "learn.kg help: how to get access and sign in, Kyrgyz courses A1–B2, the phrasebook, phrase translator and level test with no sign-in, app install, contacts.",
+      "h1": "Help",
+      "lead": "Everything about learn.kg on one page: where to start, what lives where, how to get access and whom to ask.",
+      "sections": [
+        { "h": "Where to start", "items": [
+          ["/demo/{lang}", "Demo lesson", "Flashcards with audio, a pronunciation lesson, drills and a mini-quiz — try the trainer without signing up."],
+          ["/test/{lang}", "Level test", "15 questions — find your level and where to begin."],
+          ["https://wa.me/996505854856", "Message Altynai on WhatsApp", "The teacher opens access: login and password usually the same day. There is no sign-up form."]
+        ] },
+        { "h": "Courses", "items": [
+          ["/kurs-a1/{lang}", "Course A1 — from scratch", "Alphabet, phonetics, 1073 phrases with native audio."],
+          ["/kurs-a2/{lang}", "Course A2 — the next step", "Systematic grammar: tenses, cases, 873 phrases, real topics."],
+          ["/kurs-b1/{lang}", "Course B1 — intermediate", "Topic modules, tasks in Kyrgyz, revision and a final week."],
+          ["/kurs-b2/{lang}", "Course B2 — upper intermediate", "Formal letters, argument and evaluation, articles and public speaking."]
+        ] },
+        { "h": "Free materials", "items": [
+          ["/razgovornik/{lang}", "Phrasebook", "337 situational phrases, each with native-speaker audio."],
+          ["/slovo/{lang}", "Kyrgyz words", "Answers to “how do you say it in Kyrgyz”: the word, its variants, replies and audio."],
+          ["/perevodchik/{lang}", "Phrase translator", "Instant search across the course's 3726 phrases."],
+          ["/blog/{lang}", "Blog", "Articles on the alphabet, pronunciation, test preparation and study method."]
+        ] },
+        { "h": "App and signing in", "items": [
+          ["/install", "Install as an app", "The trainer installs on phone and computer: its own icon, full screen, works offline."],
+          ["/login", "Enter the trainer", "Your login works on any device; progress is shared and stored on the server."]
+        ] }
+      ],
+      "faq": [
+        { "q": "How do I get access to the courses?", "a": "Message Altynai on WhatsApp (+996 505 854 856) — she will create your login and password, usually the same day. There is no sign-up form." },
+        { "q": "I forgot my password. What now?", "a": "Message Altynai on WhatsApp — she will set a new one. Once signed in, you can change your password in the trainer settings." },
+        { "q": "Will my progress survive a device change?", "a": "Yes: progress is tied to your login and lives on the server. Phone on the road, laptop at home — the same review queue." },
+        { "q": "What is available without signing in?", "a": "The phrasebook with audio, the phrase translator, the level test, the demo lesson with a pronunciation lesson, and all blog articles." },
+        { "q": "Where do I report bugs and ideas?", "a": "WhatsApp Altynai or Instagram @learnkg_edu — we read everything and fix quickly: corrections reach all students at once." }
+      ],
+      "contactsTitle": "Contacts"
+    },
+    "tr": {
+      "title": "Yardım — learn.kg nasıl çalışır, nereden başlanır",
+      "desc": "learn.kg yardım: erişim ve giriş, A1–B2 Kırgızca kursları, girişsiz konuşma kılavuzu, ifade çevirisi ve seviye testi, uygulama kurulumu, iletişim.",
+      "h1": "Yardım",
+      "lead": "learn.kg hakkında her şey tek sayfada: nereden başlanır, hangi bölüm nerede, erişim nasıl alınır ve sorular kime sorulur.",
+      "sections": [
+        { "h": "Nereden başlamalı", "items": [
+          ["/demo/{lang}", "Demo ders", "Sesli kartlar, telaffuz dersi, alıştırmalar ve mini test — kayıt olmadan deneyin."],
+          ["/test/{lang}", "Seviye testi", "15 soru — seviyenizi ve nereden başlayacağınızı öğrenin."],
+          ["https://wa.me/996505854856", "Altınay'a WhatsApp'tan yazın", "Erişimi öğretmen açar: giriş bilgileri genellikle aynı gün. Sitede kayıt formu yoktur."]
+        ] },
+        { "h": "Kurslar", "items": [
+          ["/kurs-a1/{lang}", "A1 kursu — sıfırdan", "Alfabe, fonetik, ana dili sesiyle 1073 ifade."],
+          ["/kurs-a2/{lang}", "A2 kursu — devam", "Sistemli dil bilgisi: zamanlar, hâl ekleri, 873 ifade."],
+          ["/kurs-b1/{lang}", "B1 kursu — orta düzey", "Konu modülleri, Kırgızca görevler, tekrar ve son hafta."],
+          ["/kurs-b2/{lang}", "B2 kursu — orta üstü düzey", "Resmî mektup, argüman ve değerlendirme, makale ve topluluk önünde konuşma."]
+        ] },
+        { "h": "Ücretsiz materyaller", "items": [
+          ["/razgovornik/{lang}", "Konuşma kılavuzu", "Durumlara göre 337 ifade, her biri ana dili konuşurunun sesiyle."],
+          ["/slovo/{lang}", "Kırgızca kelimeler", "“Kırgızca nasıl denir” sorularının cevabı: kelime, çeşitleri, verilen cevaplar ve ses."],
+          ["/perevodchik/{lang}", "İfade çevirisi", "Kursun 3726 ifadesinde anında arama."],
+          ["/blog/{lang}", "Blog", "Alfabe, telaffuz, sınava hazırlık ve çalışma yöntemi üzerine yazılar."]
+        ] },
+        { "h": "Uygulama ve giriş", "items": [
+          ["/install", "Uygulama olarak kurun", "Sistem telefona ve bilgisayara kurulur: kendi simgesi, tam ekran, çevrimdışı çalışır."],
+          ["/login", "Sisteme girin", "Girişiniz her cihazda çalışır; ilerleme ortaktır ve sunucuda saklanır."]
+        ] }
+      ],
+      "faq": [
+        { "q": "Kurslara erişimi nasıl alırım?", "a": "Altınay'a WhatsApp'tan yazın (+996 505 854 856) — giriş bilgilerinizi genellikle aynı gün oluşturur. Sitede kayıt formu yoktur." },
+        { "q": "Şifremi unuttum. Ne yapmalıyım?", "a": "Altınay'a WhatsApp'tan yazın — yeni şifre belirler. Giriş yaptıktan sonra şifrenizi sistem ayarlarından kendiniz de değiştirebilirsiniz." },
+        { "q": "Cihaz değiştirirsem ilerlemem korunur mu?", "a": "Evet: ilerleme girişinize bağlıdır ve sunucuda yaşar. Yolda telefon, evde dizüstü — tekrar sırası aynıdır." },
+        { "q": "Giriş yapmadan neler kullanılabilir?", "a": "Sesli konuşma kılavuzu, ifade çevirisi, seviye testi, telaffuz dersli demo ders ve tüm blog yazıları." },
+        { "q": "Hata ve önerileri nereye yazayım?", "a": "Altınay'ın WhatsApp'ına veya Instagram @learnkg_edu'ya — hepsini okuyor ve hızla düzeltiyoruz: düzeltmeler tüm öğrencilere anında ulaşır." }
+      ],
+      "contactsTitle": "İletişim"
+    }
+  }
+}
